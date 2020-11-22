@@ -799,6 +799,347 @@ malloc(sizeof(int)*(i+1));
 #### amedeo 
 
 - Matteo Groilino
-  - ICN
-  - SDN
-  - 
+	- ICN
+	- SDN
+	- SDN
+	- MPLS
+	- Micro e Macromobilità
+	- Tipologia di attacchi informatici attivi e passivi
+	- Tecniche di cifratura simmetriche e asimmetriche 
+	- IPSEC
+	- Differenza tra IntServ e DiffServ
+	- IPv4 e IPv6
+
+
+### Analisi 1 
+
+#### Riey e Solferino 
+
+- Giovanni 
+	- Condizione necessaria di convergenza 
+	- Funzione inversa 
+	- Criterio del rapporto
+	- Criterio della radice 
+	- Teorema fondamentale del calcolo integrale 
+
+#### Sciunzi Berardino
+
+- Giovanni 
+	- Teorema del calcolo integrale
+	- Derivata e^sin
+	- Fermat
+- Anonimi 
+	- Fare la derivata di un logaritmo composto con il cosenz
+	- Teorema di Lagrange con dimostrazione
+	- Teorema della sviluppabilità in serie di Taylod con dimostrazione 
+	- Teorema della permanenza del segno con dimostrazi
+
+### Programmazione Orientata ad Oggetti 
+
+#### Nigro Libero
+
+- Giovanni 
+	- stack
+	- stack astratto
+	- stack concatenato
+	- dimostrazione merge sort 
+	- backtracking 
+
+### Reti di calcolatori
+
+#### Trunfio Paolo
+
+- Anonimi 
+	- Go back
+	- Selective repeat
+		- differenze tra i due 
+		- chi utilizza i buffer in ricezione e perché 
+		- cosa implementa tcp 
+		- similitudini con gbn e sr 
+
+### Reti logiche calcolatori
+
+#### Angiulli Fabrizio
+
+- Al031
+	- interruzione 
+	- segnali beta
+	- reti sequenziali 
+	- flip flop
+	- principio dualità
+	- demux
+	- livello dei circuiti 
+	- mux
+	- ram
+	- macchina a regisri ( registro lr a 64bit con fetch )
+	- MBR 
+	- Mappa di karnaugh
+	- Meccanismo interruzione 
+	- schema circuitale
+	- implicante e proprietà
+	- funzioni f
+	- decoder
+	- mintermine e maxtermine 
+	- MAR
+	- ROM
+	- Parte Operativa (Struttura e indirizzi )
+	- Reti combinatorie
+	- Reti sincrone e asincrone 
+	- parte di controllo e disegno 
+	- Tavola rom esercizio RTL
+	- funzione irridondante 
+	- implicanti e implicanti primi
+	- transcoder
+	- codice operativo 
+	- organizzazione 3 tipi 
+	- bus 
+	- ritardi 
+	- full adder 
+	- ritardo full adder 
+	- livelli full adder 
+	- alu +  struttura 
+	- somma binaria con riporto 
+	- overflow 
+	- rapport clock ritardo
+	- algoritmo minimizzazione automa
+
+### Ingegneria del software 
+
+#### Argento  
+
+- Anonimi 
+	- Decorator
+	- Strategy
+	- Separazione degli interessi
+	- Assocaizione aggregazione e composizione 
+	- Design by contract
+
+### Argento e Furfaro Angelo 
+
+- Ciccio
+	- Quali sono le parti riutilizzabili del patter buuilder e vantaggi rispetto ad altri patter (vs Director )
+	- Scrum con disegno 
+	- cos'è un attore 
+	- use case diagram a cosa serve rispetto a use case e cos'è un caso d'uso 
+	- design by contract 
+	- inheritance
+	- metodologia agile 
+	- diagrammi di stato 
+	- rational unified process 
+	- pattern proxy 
+	- Pattern decorator
+	- modello a spirale 
+	- cos'è un componente 
+	- diagramma della struttura dei componenti 
+	- diagramma del deplyment
+	- testing waitbox 
+	- pattern abstract factory 
+	- ciclo di vita del software
+		- la fase che costa di più (manutenzione )
+			- tipi di manutenzione ( correttiva perfettiva e adattativa )
+			- minimizzare i costi 
+	- invarianza 
+	- principio di sostituibilità ( relazioni con design by contract )  
+	- pattern strategy
+	- logica booleana applicata al design by contract 
+	- pattern template 
+	- pattern visitator
+	- pattern template 
+	- pattern visitor e accept 
+	- pattern bridge ed esempio 
+	- pattern builder 
+	- pattern observe 
+	- pattern template 
+	- pattern command 
+	- component diagram 
+	- patern interpreter 
+
+### Fondamenti di informatica 
+
+#### Scarcello Francesco 
+
+- Davide
+	- Fondamenti informatica con Scarcello
+	- HashMap
+	- Hashcode
+	- Record di ativazione 
+	- complessità spaziale 
+	- algoritmi di ordinamento e complessità relative
+	- complessità temporale 
+	- compilatore (Cos'è)
+	- differenze tra java e pytho n
+	- definizione di O(n)
+	- RIcerca binaria 
+	- complessità asintotica 
+
+### Algoritmi e strutture dati 
+
+#### Flesca Sergio 
+
+- Giovanni 
+	- grafi ( prim etc...)
+		- pseudo codici 
+		- dimostrazioni 
+		- edit distance 
+	- metodo `boolean èDiRicerca(Albero a);`
+	- Kruskal
+	- grafo a ciclico 
+	- su domande vero o falso: spiegazioni e altre domande 
+
+#### Mandaglio
+
+- Giovanni 
+	- code di priorità 
+	- heap 
+	- funzionamento di prim 
+	- counting sort 
+	- floyd 
+
+## 2018/2019
+
+### Algoritmi e strutture dati 
+
+#### Mandaglio 
+
+- Arbrane97 
+	- Scrivere algoritmo ricorsivo che verifica che l'albero passato sia un ABR 
+	- Algoritmo di Floyd
+	- Counting sort 
+- Davide 
+	- esercizio di backtracking 
+	- dimostrazione distanza tra stringhe 
+
+### Sistemi operativi 
+
+#### Talia 
+
+- Giovanni Giordano 
+	- semafori 
+	- process Control Block 
+	- File Control Block 
+	- Gestione di un caso semplice di deadlock 
+	- risoluzione di deadlock 
+	- stato sicuro di un sistema 
+	- algoritmo di Lamport 
+	- Round RObin 
+	- matrice di accesso
+	- dischi raid
+	- algoritmi di scheduling 
+	- allocazione contigua e indicizzata 
+- Mitch
+	- Macchine virtuali 
+	- dispatcher 
+	- scheduler a lungo termine e breve termine 
+	- segmentazione
+	- matrice d'accesso 
+- Anonimi
+	- cpu burst 
+	- anomalia di belady
+	- paginazione
+	- tabelle delle pagine
+		- anche invertita 
+- Alessio 
+	- scheduling di windows 
+	- system call e passaggio dei loro parametri 
+	- modalità kernel e modalità utente 
+	- fat 
+	- ottimizzazione scheduling cpu 
+	- scheduling in windows unix e solaris
+	- swap in generale e unix
+	- stato sicuro 
+	- algoritmo del fornaio
+	- esempi di scheduling con prelazione e senza
+	- quale dispositivo hardware segnala che non esiste memoria ram allocata a una pagina virtual MMU 
+	- tabella pagina invertite e come funziona in quel caso l'indirizzament o
+	- algoritmo di peterson per la sezione critica 
+	- dischi raid e spiegazione di tutti i livelli 
+	- algoritmo seconda chance 
+	- stati dei processi 
+	- interrupt 
+	- thread e processi differenze e kernel e user thread 
+	- Memoria virtuale e paginazione degenere 
+	- File System in generale e Linux 
+	- Priorità in generale e in linux 
+	- Diagramma di stato dei processi 
+	- stati in cui può trovarsi un processo
+	- quando un processo può passare da un running a ready ?
+	- cos'è la prelazione e dove si può usare 
+	- quale scheduling usa il quanto di tempo? 
+	- parlare della directory e delle loro strutture ( livello singolo doppio albero e grafo )
+	- File System 
+	- Se collego una tastiera nuova ad un pc vecchio come fa a riconoscerlo (sottosistema di IO )
+	- Ready queue e code multiple 
+	- paginazione su richiesta come avviena 
+	- sistemi real-time in generale
+	- scheduling EDF dei sistemi realtime 
+	- Disegno dell'architettura della paginazione 
+	- differenza tra frammentazione interna e esterna
+	- che tipo di frammentazione può verificarsi con la segmentazione 
+	- indicizzazione dei file 
+	- Come si stila la lunghezza del prossimo CPU burst nell'algoritmo di scheduling SJF
+	- Macchine virtuali 
+	- dispatcher
+	- differenza tra scheduler a lungo termine e breve termine 
+	- matrice d'accesso 
+-Arbrane97 
+	- fat
+	- allocazione indicizzata
+	- paginazione a due livelli e clone in linux 
+- Batman 
+	- Context switch 
+		- come funziona su linux 
+	- PCB
+	- DEADLOCK
+	- paginazione su richiesta  
+- Davide 
+	- caratteristiche di ottimizzazione dello scheduling 
+	- clone unix 
+	- fork linux 
+	- stati dei processi
+	- file system
+	- paginazione su richiesta 
+	- protezione in generale 
+	- protezione di IO
+	- SystemCall e passaggio dei parametri 
+
+#### Marozzo
+-Arbrane97 
+	- lettori e scrittori in lock
+	 
+- Giovanni 
+	- implementare esercizio produttori e consumatori 
+	- lettori-scrittori
+	- diagramma dei thread di java
+- Davide 
+	- esercizio ABABBABBBABBBBA
+- Anonimi
+	- esercizio sui semafori con sequenza A e B
+	- legge di Moore 
+- Alessio 
+	- Stampare tramite thread la stringa ABBA (esercizi sulle slide )
+	- Problema Produttore -Consumatore 
+	- 5 filosofi con semafori 
+	- 5 filosofi con lock and condition 
+	- a partire da un esercizio svolto: cosa succede alla politica di Hansen e cosa con la politica di Hoare
+	- implementazione dei lock a lettore/consumatore 
+	- metodi `prendiBacchette` e `rilasciaBacchette` dei 5 filosofi con lock 
+	- come si fa una wait a basso livello 
+	- monitor di hansen e hoare
+	- dati tre thread **a** **b** e **c** fermi su delle istruzioni dire comportamento secondo Hansen, Hoare e in java
+	- Cosa fa la yield e perché non va usata 
+	- cosa fa la set priority e perchè non va usata 
+	- legge di Amdhal
+	- Legge di Moore
+	- Barbiere addormentato 
+	- cosa succede quando si chiama un await
+	- csa succede quando si chiama una signal
+	- come garantire ordine FIFO nei thread 
+	- spiegazione del problema dei lettori-scrittori
+	- metodi synchronized teoria e produttore-consumatore 
+	- modifica di una lista in parallelo problemi e `ConcurrentModificationExcption`
+	- Prouttore-Consumatore usando una lista (con lock )
+	- Interleaving (con esempio)
+	- Cosa succede a basso livello quando si incrementa una variabile 
+	- diagramma di stato nei thread di java 
+
+( continuare da pagina 57 pdf )
