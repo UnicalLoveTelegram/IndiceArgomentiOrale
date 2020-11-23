@@ -1081,7 +1081,7 @@ malloc(sizeof(int)*(i+1));
 	- dispatcher
 	- differenza tra scheduler a lungo termine e breve termine 
 	- matrice d'accesso 
--Arbrane97 
+- Arbrane97 
 	- fat
 	- allocazione indicizzata
 	- paginazione a due livelli e clone in linux 
@@ -1103,7 +1103,7 @@ malloc(sizeof(int)*(i+1));
 	- SystemCall e passaggio dei parametri 
 
 #### Marozzo
--Arbrane97 
+- Arbrane97 
 	- lettori e scrittori in lock
 	 
 - Giovanni 
@@ -1142,4 +1142,94 @@ malloc(sizeof(int)*(i+1));
 	- Cosa succede a basso livello quando si incrementa una variabile 
 	- diagramma di stato nei thread di java 
 
-( continuare da pagina 57 pdf )
+### Fondamenti di Automatica
+
+#### Famularo Domenico
+
+- Giovanni Giordano
+	- Esercizio 
+        - `y+2y'=u`
+        - risposta al gradino con condizione iniziale `y(0)` a transitorio nullo
+    - luoghi a modulo costante
+    - pulsazione naturale 
+    - smorzamento
+    - Criterio di Bode
+    - Routh con un dato K variabile 
+        - situazioni patologiche (termine=0)
+    - esercizio sulla stabilità interna
+    - ascisse di convergenza 
+- Anonimi
+    - Scomposizione della risposta in un sistema in risposta libera e forzata
+    - Teorema del valore iniziale e finale con dimostrazione
+    - Modi di evoluzione libera 
+    - Da una fdt calcola i modi di evoluzione libera
+    - Criterio di routh
+    - Bibo stabilità con dimostrazione necessaria e sufficiente 
+    - Teorema della risposta armonica 
+    - Forma di Bode 
+    - Margine di Fase e di ampiezza
+    - Interconnessioni elementari 
+    - Banda passante (passa basso, passa alto e passa banda )
+    - Diagramma di Nyquist 
+    - Criterio di Bode 
+    - Stabilità in retroazione
+    - Stabilità interna
+    - Precisione statica 
+    - T(jw) data la f di anello
+    - Sistemi del primo e del secondo ordine 
+    - Grafici con poli e zeri dominanti 
+    - Tempo di assestamento 
+    - tempo di salita e massima sovraelongazione
+    - sovraelongazione in generale 
+    - Punti di flesso nei sistemi del secondo ordine 
+    - Legame di pulsazione di banda passante e tempo di salita
+    - Rete attenuatrice 
+    - Ascissa di convergenza 
+    - Luogo dei punti a modulo costante 
+    - Come disegnare diagramma di Bode
+- Luigi
+    - tempo di sovraelongazione
+    - tempo di assestamento 
+    - tempo di salita sulla risposta al gradino 
+    - esercizio data **una risposta in t** 
+        - Ascissa di convergenza
+        
+### Ingegneria del software
+
+### Furfaro Angelo
+
+- Emanu
+    - Abstract Factory 
+        - pattern
+        - diagramma di classe
+        - esempio
+        - conseguenze
+    - Design by contract
+        - dove va verificato l'invariante
+    - Frame di interazione
+- FrancescoLux
+    - Pattern builder con sequence diagram, posso usare stesso director e builder diverso? posso utilizzare questo pattern per la riusabilità? esempio fatto a lezione (document)
+    - differenza tra class diagram e sequence diagram
+    - tabella di verità implicazione logica
+    - weaker vs stronger precondizione e post condizione
+    - Dato P(superclasse) be P'(sottoclasse) P implica P' o viceversa?
+    - quale dei due posso rendere più restrittivo/meno restrittivo?
+- Giovanni 
+    - Builder con il sequence Diagram 
+    - UseCase 
+    - RMI (con pattern correlato )
+- Anonimi
+    - vari esempi pratici di pattern in java
+    - prototype con esempio java
+    - abstract factory con esempio java
+    - strategy
+    - decorator con sequence Diagram
+    - bridge 
+    - tabella implicazione
+    - design by contract 
+    - rmi con parte implementazione java
+    - Liskov: un esempio che non rispetta il principio 
+    
+(continuare da pagina 62/63)
+    
+    
