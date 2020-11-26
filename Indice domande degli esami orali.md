@@ -652,7 +652,7 @@ malloc(sizeof(int)*(i+1));
 	- proprietà equazioni logaritmiche esponenziali
 
 
-### metodi probabilistci 
+### Metodi Probabilistici 
 
 #### Legato Pasquale 
 
@@ -1196,7 +1196,7 @@ malloc(sizeof(int)*(i+1));
         
 ### Ingegneria del software
 
-### Furfaro Angelo
+#### Furfaro Angelo
 
 - Emanu
     - Abstract Factory 
@@ -1230,6 +1230,46 @@ malloc(sizeof(int)*(i+1));
     - rmi con parte implementazione java
     - Liskov: un esempio che non rispetta il principio 
     
-(continuare da pagina 62/63)
+### Metodi Probabilistici
+
+#### Pasquale Legato
+
+- FrancescoLux
+    - Prove di bernoulli (ipotesi)
+    - Retta di regressione ( come ci si arriva)
     
+#### Mary Mazza
+
+- Anonimi
+    - Esercizio ( preso da prova scritta 2012 ) 
+        - 3 server di 2 componenti in serie, calcolare:
+        - affidabilita 
+        - probabilita 
+        - successo
+        - guasto del 3 server con la geometrica 
+        - coefficente di pearson 
+    - modello PC e considerazioni sul tempo di giacenza e tempo di soggiorno
+        - perché il tempo di giacenza è più influente? 
+        - calcoli su excel 
+    - modello di erlang e considerazioni sui grafici della erlang modulata
+    - dimostrazione coefficenti della retta di regressioe
+    - valore atteso e distribuzione esponenziale
+    - diapositiva regressione 
+    - esercizio su erlang con bernoulli 
+    - definizioni di distribuzioni 
+    - curva di regressione 
+    - statistiche di ordinamento
+    - esercizio su m out of n e commutazione
+    - foglio excel della correlazione produttore consumatore
+    - dimostrazione coefficenti della retta di regressione
+    - funzioni di v.a. 
+    - statistiche min e Max con funzione di distribuzione
+    - modello di erlang 
+    - commutazione perfetta e non 
+    - test sulla forma con foglio excel
+    - test di ipotesi e test della differenza tra due media
+    - dimostrazione della distribuzione totale
+    - distribuzione della somma di v.a.
+
+(Ricomincia da pagina 64)
     
