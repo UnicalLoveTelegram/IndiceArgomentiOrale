@@ -1271,5 +1271,48 @@ malloc(sizeof(int)*(i+1));
     - dimostrazione della distribuzione totale
     - distribuzione della somma di v.a.
 
-(Ricomincia da pagina 64)
+### Robotica
+
+#### Muraca 
+
+- Fabio 
+    - pianificazione della traiettoria nel caso di una circonferenza ( nel progetto avevo un quadrato) 
+    - semi circonferenza descritta in R3 con matrice di rototraslazione per la trasformazione 
+    - cinematica differenziale
+    - matrice jacobiana nel caso delle velocità lineari e non quelle angolari
+        - quando presenta singolarità ? 
+        
+### Basi di dati
+
+#### Filippo Furfaro 
+
+- Batman 
+    - condizione per essere serializzabile
+    - schedule cascadeless e recoverable
+- Anonimi
+    - chiede due domende tra le tre essenziali :
+        - dipendenza funzionale 
+        - chiave primaria 
+        - chiave candidat 
+    - differenza tra bree e bplus tree 
+- Giovanni Giordano 
+    - quando due schedule sono serializzabili 
+    - quando due transizioni sono in conflitto 
+- Anonimi
+    - Filippo Furfaro 
+    - agglomerazione primaria  
     
+#### Amelio 
+
+- Batman 
+    - definizione di dipendenza funzionale 
+    - metodo di inserimento nel btree
+    - hashing lineare 
+- Giovanni 
+    - btree e b+tree 
+        - differenze 
+        - dove sono i puntatori 
+        - dov'è il contenuto informativo
+    - chiave esterna 
+
+( riprendere da pagina 66)
