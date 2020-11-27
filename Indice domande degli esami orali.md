@@ -1300,7 +1300,7 @@ malloc(sizeof(int)*(i+1));
     - quando due transizioni sono in conflitto 
 - Anonimi
     - Filippo Furfaro 
-    - agglomerazione primaria  
+    - agglomerazione primaria
     
 #### Amelio 
 
@@ -1315,4 +1315,99 @@ malloc(sizeof(int)*(i+1));
         - dov'è il contenuto informativo
     - chiave esterna 
 
-( riprendere da pagina 66)
+### Reti di Calcolatori
+
+#### Trunfio Paolo
+
+- Anonimi 
+    - controllo di flusso TCP 
+    - Autenticazione con chiave simmetrica 
+    - perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
+    - Smurfing 
+    - Multiplexing demultiplexing TCP e UDP
+    - WebServices 
+    - Nat 
+    - Chord 
+    - email sicure 
+- Alfredo 
+    - Chiave simmetrica e asimmetrica
+    - Protocollo ap4.0 
+        - se il nonce rimane invariato che succede ?
+        
+### Ricerca Operativa 
+
+#### Maria Flavia Monaco e Sammarra 
+
+- Anonimi 
+    - Teorema fondamentale 
+    - Teoremi di dualità (3+2 corollari ) 
+    - Teorema di Ford and Fulkerson  ( 3 enunciati )
+    - Corrispondenza base-alberi 
+    - TUM
+    - Proprietà regione ammissibile 
+    - problema PL 
+    - problema PLI 
+    - teorema fondamentale della PL e formulazione geometrica
+    - Regione ammissibile di un generico problema di PL 
+    - Problema della PLI e relazione con PL associato (rilassato lineare )
+    - Quando esiste una soluzione ottima non di base? mostrarlo graficamente 
+        - un esempio di unica soluzione ottima 
+        - infinite soluzioni ottime ( la soluzione sta tra due vertici, i punti son di base e ciò che sta in mezzo non di base ) 
+        - fare di entrambi la funzione obiettivo 
+    - cosa sono i coefficenti ridotti e come ricavarli 
+    - definizione di soluzione di base 
+    - quando è più facile risolvere il PLI rispetto a PL
+    - disegnare regione ammissibile PLI
+    - quando PLI è inammissibile
+    - la regione ammissibile del PLI è convessa ? (no ) 
+    - la regione ammissibile del PLI è chiusa ? ( no) 
+        - regione PLI è un insieme di punti senza proprietà matematica 
+    - che relazione c'è tra z*(pl) e z*(pli)
+    - dimostrare che le matrici d'incidenza di un grafo siano TUM 
+    - teorema delle relazioni di complementarietà 
+    - coppia primale/duale simmetrica, forma e proprietà
+    - formulazione problema di flusso di costo minimo e il suo duale 
+    - se il primale è degenere il duale ammette infinite soluzioni ottime 
+    - caratterizzazioni delle basi del problem di flusso di costo minimo 
+    - la soluzione ottima del max flusso è di base ? 
+- Angelo 
+    - criteri di bound per Branch&Bound
+    - intervallo `[L,U]` a che serve
+    - c'è un caso in cui l'algoritmo di b&B si ferma su nodo radice ? 
+        - risposta si: se tutti gli estremi del poliero sono interi
+        - A è tum
+    - matrici tum 
+    - teorema fondamentale PL 
+    - ipotesi della PL 
+    - &#91;&#949;1,&#949;2&#93; una delle due può essere finita, dal punto di vista geometrico qual'è il significato 
+        - riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi) 
+    - teorema debole e forte
+    - formula del duale
+    - simplesso esponenziale 
+    - teorema ford and Fulkerson 
+    - perché il duale del massimo flusso ha variabili appartenenti a {0,1}
+    - dal continuo si passa a variabili {0,1} come mai ?  (stessa domanda di sopra)
+        - grazie alla matrice TUM
+
+### Reti di telecomunicazioni
+
+#### Floriano De Rango 
+
+- Giovanni Giordano 
+    - Slow Start 
+    - Congestion Avoidance 
+    - TCP
+    - congestione 
+    - media
+    - varianza
+    - jacomson
+    - karn
+    - SRTT
+- Anonimi
+    - fast retrasmitt
+    - fast recovery 
+    
+#### Tropea Raimondo o SantaMaria
+- partono dalla tesina e esplorano i protocolli usati 
+
+(pagina 72)
