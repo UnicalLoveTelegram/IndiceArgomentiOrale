@@ -1410,4 +1410,330 @@ malloc(sizeof(int)*(i+1));
 #### Tropea Raimondo o SantaMaria
 - partono dalla tesina e esplorano i protocolli usati 
 
-(pagina 72)
+### Ambienti di programmazione per il sw di base
+
+#### Folino
+
+- Anonimi
+    - Samba
+    - Storia di linux
+    - NFS
+    - Comandi Bash
+    - Amministrazione linux
+    - mount
+- Arbrane97
+    - cosa è una sistem call
+    - repository
+    - fstab
+    
+#### Ianni 
+
+- Anonimi 
+    - Esercizi C 
+    - Esercizi bash
+    - Esercizi errati nel compito 
+    - string.h
+    - spiegazione di cosa fanno vari esercizi
+    - comandi linux (reindirizzamento stdin stdout)
+- Arbrane97 
+    - struct
+    - Union
+    - cron
+    - typedef
+
+## 2019/2020
+
+### Programmazione Orientata ad Oggetti
+
+#### Nigro Libero
+
+- Andrea 
+    - Operazioni di Visite sugli alberi 
+    - Calcolo determinante utilizzando il metodo di LaPlace
+    - Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente 
+    - Lettura file interi con modifica in loco 
+    - Metodi add/remove su LinkedList Ricorsiva
+    - Metodi add/remove/iterator su Heap
+
+### Ingegneria del software
+
+#### Furfaro Angelo
+
+- Anonimi
+    - Flyweight 
+    - Design By Contract 
+        - precondizioni
+        - post condeizioni 
+        - invarianti
+        - sequence digram su vari pattern
+        
+#### Sacco
+- Anonimi 
+    - differenza tra composizione
+    
+### Ambienti di programmazione per il sw di base 
+
+#### Folino 
+
+- Viviana 
+    - configurazione NFS lato server 
+    - Descrizione dei puntatori dinamici in C
+    - problema del segmentation fault
+
+### Basi di Dati 
+
+#### Furfaro Filippo
+
+- Viviana 
+    - Scedule serializzabile
+    - schedule seriale 
+    - Phantom read
+    - dimostrazione 2pl implica confict equivalence 
+ 
+
+#### Alessia Amelio 
+
+- Viviana 
+    - definizione di chiave primaria
+    - differenza tra btree e b+tree
+
+# Ingegneria Elettronica 
+
+## Non classificato
+
+# Ingegneria Informatica LM 
+
+## Non classificato 
+
+## 2016/2017
+
+### Architetture e programmazione di sistemi di elaborazione 
+
+#### Fabrizio Angiulli 
+
+- Roberto 
+    - cache completamente associativa
+    - open MP 
+    - schema monociclo e segnali di controllo +1
+    - cache a k vie 
+    - multithreading 
+    - grana fine
+    - grana grossa
+    - vantaggi multithreading simultaneo  (ogni thread a i suoi registri e PC ) 
+    - differenza multithreading sw e multithread hw
+    - dimensionamento clock multicolore
+    - conflitti sul controllo 
+    - statistica a 2 bit automa 
+    - nano programmazione 
+    - emissione fuori ordine 
+    - tabella segnali alpha monociclo 
+    - conflitti sui dati pipeline 
+    - conflitti superscalari 
+    - ottimizzazione unità di controllo (control store ) 
+    - completamente fuori ordine e ritiro in ordine 
+    - CPU vs GPU 
+    - una numa
+    - macchina multiciclo 
+    - macchina monociclo
+    - dimensionamento del clock della multi ciclo 
+    - ottimizzazione della parte di controllo microprogrammata 
+    - legge di moore e barriera dell'energia 
+    - speculazione nell'hardware 
+    - speculazione hw (epr) 
+    - buffer di ordinamento macchina super scalare
+    - completamento fuori ordine 
+    - emissione fuori ordine
+    - numero di posizioni 
+    - ottimizzazione del controllo microprogrammato 
+    - predizione dei salti schema
+    - politiche sostituzione della cache 
+    - disegno 
+    - speculazione hardware macchina super scalare
+    - differenza uma e numa 
+    - macchina hasswell 
+    - differenze cics e risc 
+    - principi di progettazione risc 
+    - riduzione parallela 
+    - rsr
+
+
+### Crittografia e analisi reti sociali 
+
+#### Molinaro
+
+- Tassone 
+    - Cifrario a flusso 
+    - OTP 
+    - PRG
+    - Shannon
+    - Cifrari a blocchi 
+    - Sicurezza semantica
+    - PRP
+    - ECP
+    - CBC
+    - CBC+nonce
+    - CTR
+    - CTR+nonce
+    - MAC (funzionamento sicurezza e challange)
+    - NMac
+    - PMAC
+    - HMAC
+    - ECBC MAC
+    - PAYLOAD
+    - HASH (funzionamento sicurezza e challange)
+    - PAradosso compleanno + attacco hash (collissioni) 
+    - Merkle damgard
+    - Autenticazione cifrata (funzionamento sicurezza e challange) 
+    - tre tipologie costruzione autenticazione cifrata (e than m, e and m, m then e) più differenze e sicurezza 
+    - differenza chiave simmetrica e asimmetrica
+    - principi chiave asimmetrica 
+    - RSA 
+    - Complessità attacco RSA per scoprire chaive segreta 
+    - complessita attacco RSA per un messaggio cifrato (differenza con sopra )
+    - Merkle puzzle 
+    - autorità di certificazione e firma digitale (molto in generale più schema) 
+- Riccardo 
+    - generazione rsa per calcolo chiavi 
+        - come si cifra
+        - come si decifra 
+    - rabin come si generano le chiavi 
+        - collegarsi alla fattorizzazione 
+        - output di 4 messaggi
+        - cattiva proprietà del sistema
+    - ElGamal su cosa è basato 
+        - come si calcolano le chiavi
+    - tutti i possibili attacchi di chiave che si muovono contro RSA
+        - brute force 
+        - euclide 
+        - vari problemi
+    - puzzle di merkle 
+    - introduzione key managment e scneari utilizzo rsa 
+    
+### Linguaggi Formali 
+
+#### Domenico Sacca 
+
+- PsykeDady
+    - COmpilazione della tipizzazione dinamica dei linguaggi
+    - tipizzazione dinamica che tipo di linguaggio è (risp: 2) 
+    - cos'è un automa a pila
+- Marco Domenicano
+    - Tautologia 
+    - conraddizione
+    - memorizzazione di un json in calculista 
+    - esercizio del minimo locale in calculist e prolog
+- Anonimi
+    - come vengono memorizzati i json in memoria nella calculist 
+
+
+#### Rullo
+
+- Marco Domenicano 
+    - scrivere un programma in prolog che riceve una lista L, T, T1 e restituisce una lista di copia in output L1 così composta: se elemento di L corrisponde a T inserisci T1 altrimenti L 
+
+### Informatica teorica 
+
+#### Scarcello Francesco
+
+- PsykeDady 
+    - Teorema di Cook
+    - Definizione di NP complete 
+- Riccardo
+    - Partendo dal fatto che un problema è np-hard se qualsiasi problema np si riduce ad esso in tempo polinomiale
+        - domanda: come cambia la classe np-complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali invece che polinomiali?
+        - risposta: Poiché np-complete è l'intersezione di np-hard ed np, i problemi di tale classe rappresentano il sottoinsieme dei problemi più difficili tra quelli appartenenti ad np (risolvibili in p-time da una NTM). Se si cambia la definizione di hardness considerando trasformazioni esponenziali però si estende la classe a problemi exp-time, in quanto si altera il rapporto di complessità durante la riduzione che supporta la hardness: intuitivamente, una trasformazione esponenziale trasferirebbe parte della complessità nella riduzione, permettendo poi di risolvere il problema risultante in tempo polinomiale, dunque tali problemi ricadrebbero in questa versione modificata di np-complete.
+
+- Anonimi 
+    - Teorema di Cook 
+    - Definizioni di problema Np, Np-hard, Np-complete
+    - Dimostrazione di appartenenza di Hamiltonian Cycle a Np-Complete 
+    - Dimostrazione di non appartenenza di Ld a RE
+    - Dimostrazione di appartenenza di Lu a RE 
+    - Definizione di riduzione 
+    - Teorema di Rice 
+    
+### Ottimizzazione 
+
+#### Maria Flavia Monaco 
+
+- PsykeDady 
+    - Argomento a piacere : Rilassato LaGrangiano 
+    - Definizione di problema Rilassato 
+    - Duale LaGrangiano (perché farlo? obiettivi)
+    - Vehicle Routing Problem formulazione
+- Anonimi 
+    - che ho a disposizione se voglio risolvere un problema piccolo con un algoritmo esatto ? (B&Bound) 
+    - Cosa si intende per "cut" e quindi un algoritmo di `branch and cut`
+    - Gomory, tutto il procedimento
+    - Perché posso usare la funzione obiettivo in gomory per indurre un taglio? 
+    - come si valuta un euristica? Lagrangiano 
+    - Definire duale di Lagrangiano 
+    - Commesso viaggiatore 
+        - come calcolo un lowerbound ?
+        - perché non si usa Lagrangiano? 
+        - perché ha un numero esponenziale di cicli e molto probabilmente avrà sempre sottocicli 
+    - Problema del commesso viaggiatore non orientato
+        - taglio con Branch and Cut
+        - oracolo di Separazione
+    - Formulazioni commesso viaggiatore sia orientato che non 
+    - Quando una formulazione è ottimale? (matrice TUM) 
+    - Per quale problema ho una formulazione ottimale anche se non è TUM? problema del matching 
+    - Set covering definizione 
+    - Commesso viaggiatore
+        - perché è intrinsecamente combinatorio
+        - complessità 
+    - come risolvo il set-covering (max saving) 
+    - chvatal 
+    - Vehicle routing 
+    - Algoritmo clarke wright (massimo risparmio) 
+    - Epsilon approssimativo 
+        - definizione 
+        - TSP 
+        - algoritmo dell'albero 
+    - Differenza Hamilton - eulero, con confronto tra i due
+    - Teorema di minkowsky
+    
+### Valutazione delle prestazioni 
+
+#### Legato Pasquale 
+
+- PsykeDady 
+    - problema del professore in ritardo (su excel)
+    - produttore consumatore (excel) 
+    - modello di markov (slide) 
+    
+# 2017/2018
+
+## Intelligenza Artificiale 
+
+### Palopoli Luigi
+
+- PsykeDady 
+    - Estensione di Reiter
+    - Anomalia di Sussman
+    - breadth first (vantaggi rispetto a depth first) 
+    - strips 
+        - frame problem 
+        - quantification problem 
+        - representation problem
+    - deep learning 
+        - definizione 
+        - reti neurali 
+        - struttura neurone 
+        - altri approcci 
+        - deep learning 
+        - features extracton 
+        - hill climbing + simulated annealing 
+        - pac learning 
+    - Anonime 
+        - IDA* perchè c'è min nella funzione 
+        - Frame assension
+        - strips
+            - risoluzioni 
+            - problemi del non essere linguaggio logico 
+        - estensione di reithers
+        - come calcolarla
+            - che succede se togliamo TH da IN(pigreco) 
+        - nucleolo
+        
+( ricominciare da PAgina 90) 
