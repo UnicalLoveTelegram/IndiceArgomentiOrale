@@ -1736,4 +1736,179 @@ malloc(sizeof(int)*(i+1));
             - che succede se togliamo TH da IN(pigreco) 
         - nucleolo
         
-( ricominciare da PAgina 90) 
+### Informatica Teorica
+
+#### Scarcello Francesco 
+
+- Marco 
+    - Linguaggio Empty
+    - dimostrazione NP complete
+    - dimostrazione indipendent Set
+
+### Sistemi informativi 
+
+#### Cassavia 
+
+- Gianpaolo 
+    - Parte PENTAHO:
+    - OLAP
+    - modellazione concettuale data warehouse
+    - realizzare in saiku roll up e roll down
+    - document datastore
+    - column family
+- Luca
+    - Creare in saiku l'operazione slice e selezione
+    - modellazione logica dei data ware house
+        - 4 fasi della modellazione 
+    - imputation mismatching
+    - schema di HBase 
+        - disegnare 
+        - nome delle componenti 
+        - modi per interfacciarlo con il client 
+    - teorema CAP
+
+    
+## 2018/2019
+
+### Informatica Teorica 
+
+#### Francesco Scarcello 
+
+- Matteo Grollino
+    - Teorema Rice
+    - Teorema Cook
+    - Knapsack Intero e Frazionario
+    - subset sum 
+    - approssimabilità knapsack 
+        - Algoritmo pseudo-polinomiale
+        - FPTAS
+    - Definizione NP 
+    - Definizione NP Hard
+    - Definizione NP Complete
+    - Dimostrazioen indecidibilità Lu e non appartenenza a RE di Ld
+    - Importanza riduzione polinomiale tra problemi decisionali
+    - Perché NP è incluso in PSpace con dimostrazione 
+    - complessità parametrizzata con definizione di XP e FP
+    - Algoritmo FPT del vertex Cover
+- Gianpaolo 
+    - Teorema 4.14.1 : un problema NP ha come definizione NP = {L|E R polinomialmente decidibile e bilanciata che caratterizza L } con Pl1 R=L (dimostrazione )
+    
+### ISSTRA Ingegneria del software per sistemi real-time ed agenti 
+
+#### Libero Nigro 
+
+- Anonimi 
+    - tempo di blocco FPS 
+    - conversione processo sporadico/periodico
+    - Ping Pong in Jade
+    - Grafo degli stati UPPAAL
+    - Query In Uppaal
+    - Scrivere un parcheggio in reti di petri 
+    - template tTransaction pTransaction delle ptpn
+    - clock di uppaall
+    - come si rappresenta uno stato nel model state graph di uppaal 
+    - JSemaphore
+    - Parametro Lambda delle simulazioni ad attori
+
+### Sistemi distribuiti e cloud computing 
+
+#### Talia Domenico 
+
+- Aloeasy
+    - Java Card
+    - Replicazione 
+    - NFS 
+    - COnsistenza 
+
+#### Belcastro 
+- Aloeasy 
+    - Distribuited garbage collector 
+    - Storage di Azure 
+    - Fabric Controller di Azure 
+    - come si passano i parametri in JAva RMI 
+    
+## 2019/2020 
+
+### Basi di dati evolute 
+
+#### Sergio Greco 
+
+- Rak 
+    - calcolo relazionale e definizione di linguaggio indipendente dal dominio di valutazione 
+    - lock su database distribuiti 
+        - tecniche di assegnazione 
+        - deadlock
+            - risposta: che se due transazioni richiedono il lock in scrittura sulla stessa risorsa e ci sono dei ritardi nella rete, nessuna delle due transazioni ottiene il lock e quindi si va in deadlock
+ 
+### Sistemi Informativi 
+
+#### Cassavia
+
+- PsykeDady
+    - presentazione progetto
+    - eseguire su pentaho:
+        - drill up 
+        - roll down
+        - selection slice 
+    - fasi di progettazione Data Warehouse
+    - Schemi di fatto a stella e snowflake
+    - Proprietà sistemi nosql 
+    - utilizzo di hbase 
+
+### Architetture e programmazione di sistemi di elaborazione
+
+#### Angiulli Fabrizio
+
+- Anonimi 
+    - Legge di Moore e barriera energia 
+    - Macchina multiciclo 
+    - ottimizzazione unità di controllo (control store programmato ) 
+    - Nano programmazione 
+    - dimensionamento del clock nella multi ciclo microprogrammata 
+    - differenze macchine cisc e risc 
+    - principi di progettazione macchina risc 
+    - schema monociclo e tabella segnali alpha 
+    - conflitti sui dati pipeline 
+    - emissione fuori ordine 
+    - Rsr
+    - completamente ofuori ordine 
+    - ritiro in ordine 
+    - confliti sul controllo 
+    - predizione dei salti a schema - branch prediction unità
+    - statistica a due bit con automa 
+    - conflitti sulle super scalari 
+    - buffer di ordinamento  macchina super scalare 
+    - speculazione hardware (epr) 
+    - completamento fuori ordine macchina super scalare 
+    - Macchina di Haswell
+    - cache completamente associativa
+    - cache a k vie
+    - politiche di sostituzione nella cache disegno 
+    - differenza uma e numa 
+    - multithreading hw : grana fine e grana grossa
+    - vantaggi multithreading simultaneo 
+    - differenza multi threading hw e sw 
+    - cpu vs gpu 
+    - riduzione parallela 
+    - open mp 
+- Giovanni giordano 
+    - cache a k vie 
+    - cache a mappatura diretta 
+    - tipi di threading 
+    - conflitti pipeline 
+    
+### Intelligenza Artificiale e rappresentazione della conoscenza 
+
+#### Palopoli Luigi
+
+- Anonimi 
+    - Iterative Broadening (ordine di visita degli alberi ) 
+    - Iterative Dipening
+    - processi closed e successful
+    - shapley value 
+    - wsat e gsat 
+    - estensioni di reiter 
+    - frame problem e perché strips non soffre del problema del frame 
+    - approssimazione lower bound-upperbound con calcolo greatest lower bound 
+
+(continua da pagina 99)
