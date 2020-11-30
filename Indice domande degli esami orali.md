@@ -1911,4 +1911,50 @@ malloc(sizeof(int)*(i+1));
     - frame problem e perché strips non soffre del problema del frame 
     - approssimazione lower bound-upperbound con calcolo greatest lower bound 
 
-(continua da pagina 99)
+### Informatica Teorica
+
+#### Scarcello Francesco 
+
+- Angelo
+	- definizione di problema np-completo
+	- cos' é una trasformazione polinomiale?
+	- dimostrazione del teorema di Rice 
+	- fixed parameter trattability
+	- cos' é uno schema di approssimazione polinomiale ?
+	- dimostrare che nap-sack é np-hard
+	- perché usiamo trasformazioni polinomiali e non esponenziali?
+	- dimostrare che ld  é ricorsivamente enumerabile 
+	- definizione di np-hard
+	- dimostrare che Hamiltonian cycle é np-hard
+- Giovanni Giordano 
+	- Dimostrazione linguaggio NTM==DTM
+	- caratterizzazione NP dimostrato 
+	- Indipendent Set dimostrato
+- Anonimi 
+	- cook 
+	- NP dentro PSpace (dimostrazione) 
+		- **Risposta**: Perchè la definizione di NP dice che NP appartiene a Ptime, poichè Ptime è un sottoinsieme di Pspace allora anche NP è un sottoinsieme di Pspace
+	- teorema di Rice
+	- np completo (definizione) e vantaggi nellúso 
+	- Teorema di Cook 
+	- Definizione di problema NP-complete 
+	- Domanda: `come cambia la clas shortcut multicursorsse np complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali`
+		- **Risposta**: poiché np-complete é l'intersezione di np-hard ed np, i problemi di tale classe rappresentano il sottoinsieme dei problemi più difficili tra quelli appartenenti ad np (risolvibili in p-time da una NTM). Se si cambia la definizione di hardness considerando trasformazioni esponenziali però si estende la classe a problemi exp-time, in quanto si altera il rapporto di complessità durante la riduzione che supporta la hardness: intuitivamente una trasformazione esponenziale trasferirebbe parte della complessità nella riduzione, permettendo poi di risolvere il problema risultante in tempo polinomiale, dunque tali problemi ricadrebbero in questa versione modificata di np-complete.
+	- Dimostrazione di appartenenza di Hamiltonian Cycle a np-complete
+	- dimostrazione di non appartenenza di Ld a RE 
+	- Dimostrazione di appartenenza di Lu a RE 
+	- definizione di riduzione 
+	- Linguaggio Empty dimostrazione NP complete 
+	- mostrazione Indipendent SET 
+	- Knapsack intero e frazionario 
+	- subset sum 
+	- Approssimabilità knpasack (algoritmo pseudo polinomiale e FPTAS)  
+	- importanza della riduzione polinomiale tra problemi decisionali  
+	- complessità parametrizzata con definizione di xp e di ffpt 
+	- problema np ha come definizione NP = `{L| E R polinomialmente decidibile e bilanciata che caratterizza L}` con PI1 R=L (dimostrazione)
+	- FPTAS con costi
+	- FPT con VC e con knapsack
+	- knapsack con programmazione dinamica
+	
+( riprendere da pagina 102)
+	
