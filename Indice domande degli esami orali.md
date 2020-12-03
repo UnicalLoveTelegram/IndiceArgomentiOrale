@@ -1956,5 +1956,57 @@ malloc(sizeof(int)*(i+1));
 	- FPT con VC e con knapsack
 	- knapsack con programmazione dinamica
 	
-( riprendere da pagina 102)
+### Linguaggi Formali
+
+#### Sacca Domenico 
+
+- Alfredo
+	- json 
+	- linguaggi di primo, secondo e terzo tipo  
+		- java di che tipo è
+		- html di che tipo è
+		- xml di che tipo è
+- Giovanni Giordano   
+	- calculist esercizio `Unione(L1,L2,L3)`
+		- costruire L3 **unendo L1 e L2**
+- Angelo 
+	- Scrivere automa a stati finiti deterministico che riconosce il linguaggio `(a+b+)+b*c`
+		- fare esempio di una stringa che non appartiene al linguaggio 
+		- fare esempio di stringa che appartiene al linguaggio
+- Anonimi 
+	- Calculist esercizio `Intersezione(L1,L2,L3)`
+		- costruire L3 come **intersezione di L1 e L2**
+	- cos'è un modello logico
+	- quando un modello è minimo  
+	- Calculist lista ordinata L
+	- Calculist High Order Function espressione con lambda function
+	- complessità del problema di stabilire se un programma logico ammette un unico modello (sol. *PSPACE*)
+	- Verificare se due Liste L1 e L2 hanno gli stessi elementi
+
+#### Rullo 
+
+- Alfredo 
+	- 2 esercizi prolog 
+- Giovanni Giordano 
+	- esercizio prolog su traccia `P(L1,L2,L3,L4)`, soddisfare:
+		1. `L3 come L1 intersecato L2`
+		2. `L4 come L1 - L2` 
+	- esercizio prolog su traccia su traccia `P(T,T1,L,L1)`, soddisfare
+		- `se L[i]!=T verificare L[i]==L1[i] altrimenti L1[i]==T1`
+- Angelo 
+	- scrivere un metodo int(L1,L2,L3) che restituisce vero se:
+		1. L1 sotto insieme improprio di L3
+		2. L2 sotto insieme improprio di L3
+		3. L3 non contiene duplicati 
+		4. L1,L2,L3 sono ordinati in modo crescente
+- Anonimi 
+	- scrivere un programma prolog che: `dati due termini T e T1 e una lista L`
+		- produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione `subst(T,T1,L,L1)` dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con T1 lasciando gli altri elementi invariati
+		- `p(L1,L2)`  che restituisce true se L1 ed L2 contengono gli stessi elementi 
+	- lanciare la computazione in calculist  
+		- descrivere stato memoria
+		- dare risultato
+	- Teorema di Rice (accenno) 
+	- quanti sono i modelli di un programma positivo
+	- cos'è l'unificazione di due termini?
 	
