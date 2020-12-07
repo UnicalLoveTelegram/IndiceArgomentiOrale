@@ -1105,7 +1105,7 @@ malloc(sizeof(int)*(i+1));
 #### Marozzo
 - Arbrane97 
 	- lettori e scrittori in lock
-	 
+	
 - Giovanni 
 	- implementare esercizio produttori e consumatori 
 	- lettori-scrittori
@@ -1489,7 +1489,7 @@ malloc(sizeof(int)*(i+1));
     - schedule seriale 
     - Phantom read
     - dimostrazione 2pl implica confict equivalence 
- 
+
 
 #### Alessia Amelio 
 
@@ -1839,7 +1839,7 @@ malloc(sizeof(int)*(i+1));
         - tecniche di assegnazione 
         - deadlock
             - risposta: che se due transazioni richiedono il lock in scrittura sulla stessa risorsa e ci sono dei ritardi nella rete, nessuna delle due transazioni ottiene il lock e quindi si va in deadlock
- 
+
 ### Sistemi Informativi 
 
 #### Cassavia
@@ -1986,6 +1986,7 @@ malloc(sizeof(int)*(i+1));
 #### Rullo 
 
 - Alfredo 
+	
 	- 2 esercizi prolog 
 - Giovanni Giordano 
 	- esercizio prolog su traccia `P(L1,L2,L3,L4)`, soddisfare:
@@ -2009,4 +2010,145 @@ malloc(sizeof(int)*(i+1));
 	- Teorema di Rice (accenno) 
 	- quanti sono i modelli di un programma positivo
 	- cos'è l'unificazione di due termini?
-	
+	- data:
+        - `g(x/2)/1: lambda z: x(y,z+y);`
+        - eseguire: `g(molt,3)(4);` risultato?
+	- Quanti modelli minimali ci sono in questo programma logico?
+```pseudocode
+u(1).
+u(2).
+u(3).
+p(1).
+p(2).
+r(X): 
+u(X), not(p(X)).
+rc(X):- u(X), not(r(X)).
+g(x/2,y)/1: lambda z: x(y,z+y);
+pp(x,y): x+2*y;
+^g(pp,3)(4);
+```
+-	- 	- risultato=17
+    - quanti sono i modelli minimali (stesso modello)?
+        - `u(1).`
+        - `u(2).`
+        - `p(1).`
+        - `r(X):- u(X), not(p(X)).`
+        - `rc(X):- u(X), not(r(X)).`
+    - cos'è un universo 
+        - tutti i termini ground, nel caso di prima i primi due
+    - funziona calculist che dato `x` calcola `fibonacci(x)`
+    - dato:
+```pseudocode
+u(1).
+u(2).
+p(1).
+r(X):- u(X), not(p(X)).
+rc(X):- u(X), not(r(X)).
+```
+-   -   - quanti sono i modelli minimali
+		- **Legenda**: u sono gli umani, p sono i poveri, r è una persona ricca, rc è il reddito di cittadinanza (i significati hanno poca rilevanza).
+		- **Risposta**: quando si ha la negazione di solito si hanno piu modelli minimali
+		- **modello migliore**: `rc(X)=true` solo in un caso (reddito di cittadinanza solo ad un elemento)
+    - scrivere un metodo che riceve in ingresso 4 liste `q(L1, L2, L3, L4)` che restituisce `true` se **L3** è l'itersezione di **L1+L2** ed **L4=L1-L2** (sottrazione insieimistica), le liste vanno intese come insiemi.
+    - scrivere un metodo `q(A,B,L1,L2)` che restituisce true `L1=L2` con i caratteri **A sostituiti con B in L2**
+    - scrivere un `q(X,L,Y)` che restituisce vero se **Y** è l'elemento successivo a **X** nella **L**
+    - scrivere un `q(X,L,Y)` che restituisce vero solo se **Y** è nella posizione **X** di **L**
+
+### Calcolo Numerico 
+
+#### Yaroslav Sergeyev
+
+- Anonimi
+    - equazioni differenziali metodi conosciuti impliciti ed esplici
+    - esistenza polinomio di interpolazione e tecniche con vantaggi e svantaggi ( LaGrange e Newton )
+    - metodo romberg
+    - metodi Runge Kutta 
+    - metodi di interpolazione conosciuti (LaGrange ecc)
+    - punto fisso condizioni convergenza
+    - grafici di convergenza
+    - metodi di derivazione numerica 
+
+#### Marat Mukhametzhanov
+
+- Giovanni Giordano 
+    - errore assoluto e relativo 
+    - estrapolazione di Richardson
+- Anonimi
+    - fenomeno Runge
+    - cancellazione numerica
+    - decomposizione triangolare con Teoremi
+
+### Algoritmi di Crittografia
+
+#### Christian Molinaro
+
+- Giovanni Giordano
+    - CBC
+    - funzioni hash 
+- Anonimi
+    - merkel puzzle 
+        - obiettivo 
+        - problemi 
+        - algoritmo 
+    - One Time Pad 
+        - decifatura e cifratura deterministica 
+        - decifatura e cifratura randomizzata 
+        - sicurezza per mandare messaggi
+        - problemi
+    - sicurezza Semantica
+    - probab adv dice 1 quando EXP1
+    - modi operativi many time Key
+    - PRG e definizioni sicurezza
+    - firma digitale e CA
+
+### Sistemi Distribuiti e Cloud Computing
+
+#### Talia Domenico 
+
+- Giovanni Giordano 
+    - Weak Consistency
+    - release consistency
+    - differenze EC2, S3 e DNS
+- Anonimi 
+    - eukaliptus 
+    - Naming in generale 
+    - HT Condor 
+
+#### Professore Loris Belcastro
+
+- Testimonianze by Giovanni Giordano
+- distribuited garbage collector
+- riferimenti Java RMI 
+- tabelle Azure
+- Combiner 
+
+# Ingegneria Elettronica LM 
+
+# Ingegneria Automazione LM
+
+## 2018/2019
+
+### Teoria dei sistemi
+
+#### Casavola 
+
+- Carmen 
+    - Linearizzazione 
+    - Taratura modelli ARMA
+    - Analisi in frequenza 
+    - Risposta Libera 
+    - Esponenziale di matrice 
+    - Sylvester
+    - Raggiungibilità 
+    - Osservabilità
+    - Partizione alla Kalman
+    - Trasferimento Energia minima 
+    - retroazione
+    - retroazione dead beat
+
+# Ingegneria delle Telecomunicazioni LM 
+
+
+
+
+    
