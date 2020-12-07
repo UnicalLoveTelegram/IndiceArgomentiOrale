@@ -1,6 +1,6 @@
 # Indice domande degli esami orali
 
-`Ver: 0.1`
+`Ver: 0.2`
 
 Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram:heart:Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
 
@@ -2151,4 +2151,4 @@ rc(X):- u(X), not(r(X)).
 
 
 
-    
+​    
