@@ -1,6 +1,6 @@
 # Indice domande degli esami orali
 
-`Ver: 0.2`
+`Ver: 0.3`
 
 Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram:heart:Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
 
@@ -1831,7 +1831,7 @@ malloc(sizeof(int)*(i+1));
 
 ### Basi di dati evolute 
 
-#### Sergio Greco 
+#### Molinaro Cristian
 
 - Rak 
     - calcolo relazionale e definizione di linguaggio indipendente dal dominio di valutazione 
