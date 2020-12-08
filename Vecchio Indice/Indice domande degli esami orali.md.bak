@@ -1,5 +1,3 @@
-
-
 # Indice domande degli esami orali
 
 `Ver: 0.3`
@@ -104,6 +102,13 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 
 
 ## Anno non classificato
+
+### Algoritmi e strutture dati
+
+#### Sergio Flesca
+
+- Dario
+	-  A me ha chiesto il counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
 
 ### Elettrotecnica
 
@@ -254,6 +259,14 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- permessi degli utenti e quote assegnate
 	- visualizzare processi e albero processi
 	- gentoo
+
+### Algoritmi e strutture dati 
+
+#### Flesca
+
+- Salvatore Riga 
+	- come srotolare una ricorsione 
+	- teorema delle ricorrenze per il calcolo della complessita
 
 ### Chimica 
 
@@ -958,6 +971,43 @@ malloc(sizeof(int)*(i+1));
 	- definizione di O(n)
 	- RIcerca binaria 
 	- complessità asintotica 
+
+### Algoritmi e strutture dati 
+
+#### Flesca Sergio 
+
+- Giovanni 
+	- grafi ( prim etc...)
+		- pseudo codici 
+		- dimostrazioni 
+		- edit distance 
+	- metodo `boolean èDiRicerca(Albero a);`
+	- Kruskal
+	- grafo a ciclico 
+	- su domande vero o falso: spiegazioni e altre domande 
+
+#### Mandaglio
+
+- Giovanni 
+	- code di priorità 
+	- heap 
+	- funzionamento di prim 
+	- counting sort 
+	- floyd 
+
+## 2018/2019
+
+### Algoritmi e strutture dati 
+
+#### Mandaglio 
+
+- Arbrane97 
+	- Scrivere algoritmo ricorsivo che verifica che l'albero passato sia un ABR 
+	- Algoritmo di Floyd
+	- Counting sort 
+- Davide 
+	- esercizio di backtracking 
+	- dimostrazione distanza tra stringhe 
 
 ### Sistemi operativi 
 
