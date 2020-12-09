@@ -96,229 +96,6 @@ Esiste un indice dei contenuti automaticamente aggiornato subito dopo questo cap
 
 Potete cmq effettuare banali ricerche con il vostro reader.
 
-# Tabella dei Contenuti
-
-- [Ingegneria Informatica LT](#ingegneria-informatica-lt)
-  * [Anno non classificato](#anno-non-classificato)
-    + [Elettrotecnica](#elettrotecnica)
-      - [Felice Crupi](#felice-crupi)
-    + [Metodi matematici per l'ingegneria dell'informazione](#metodi-matematici-per-l-ingegneria-dell-informazione)
-      - [Sciunzi Berardino](#sciunzi-berardino)
-    + [Fondamenti di Automatica](#fondamenti-di-automatica)
-      - [Famularo Domenico](#famularo-domenico)
-    + [Sistemi Operativi](#sistemi-operativi)
-      - [Domenico Talia](#domenico-talia)
-      - [Marrozzo](#marrozzo)
-    + [Fondamenti di informatica](#fondamenti-di-informatica)
-      - [Francesco Scarcello e Lupia](#francesco-scarcello-e-lupia)
-  * [2012/2013](#2012-2013)
-    + [Fondamenti di Automatica](#fondamenti-di-automatica-1)
-      - [Famularo Domenico](#famularo-domenico-1)
-  * [2013/2014](#2013-2014)
-    + [Basi Dati](#basi-dati)
-      - [Filippo Furfaro](#filippo-furfaro)
-    + [Fondamenti di automatica](#fondamenti-di-automatica)
-      - [Famularo Domenico](#famularo-domenico-2)
-  * [2014/2015](#2014-2015)
-    + [Calcolatori Elettronici](#calcolatori-elettronici)
-      - [Palopoli Luigi](#palopoli-luigi)
-      - [Fassetti Fabio](#fassetti-fabio)
-    + [Sistemi Operativi](#sistemi-operativi-1)
-      - [Domenico Talia](#domenico-talia-1)
-  * [2015/2016](#2015-2016)
-    + [Ambienti di programmazione per il sw di base](#ambienti-di-programmazione-per-il-sw-di-base)
-      - [Folino](#folino)
-    + [Chimica](#chimica)
-      - [Bruno de Cindio](#bruno-de-cindio)
-    + [Fondamenti di automatica](#fondamenti-di-automatica-1)
-      - [Famularo Domenico](#famularo-domenico-3)
-    + [Ingegneria del software](#ingegneria-del-software)
-      - [Angelo Furfaro](#angelo-furfaro)
-    + [Reti di calcolatori](#reti-di-calcolatori)
-      - [Paolo Trunfio](#paolo-trunfio)
-    + [Metodi probabilistici della ricerca operativa](#metodi-probabilistici-della-ricerca-operativa)
-      - [Pasquale Legato](#pasquale-legato)
-    + [Propagazione e Trasmissione](#propagazione-e-trasmissione)
-      - [Costanzo Sandra](#costanzo-sandra)
-    + [Elettronica](#elettronica)
-      - [Felice Crupi](#felice-crupi-1)
-    + [Ricerca Operativa](#ricerca-operativa)
-      - [Maria Flavia Monaco e Sammarra](#maria-flavia-monaco-e-sammarra)
-    + [Reti Logiche e Calcolatori](#reti-logiche-e-calcolatori)
-      - [Fabio Fassetti](#fabio-fassetti)
-  * [2016/2017](#2016-2017)
-    + [ambienti di programmazione per il sw di base](#ambienti-di-programmazione-per-il-sw-di-base)
-      - [Folino](#folino-1)
-    + [Analisi matematica 2](#analisi-matematica-2)
-      - [Sciunzi Berardino](#sciunzi-berardino-1)
-    + [Sistemi operativi](#sistemi-operativi)
-      - [Domenico Talia](#domenico-talia-2)
-      - [Marrozzo](#marrozzo-1)
-    + [Programmazione Orientata ad oggetti](#programmazione-orientata-ad-oggetti)
-      - [Libero Nigro](#libero-nigro)
-    + [Fondamenti di automatica](#fondamenti-di-automatica-2)
-      - [Famularo Domenico](#famularo-domenico-4)
-    + [Reti logiche e calcolatori](#reti-logiche-e-calcolatori)
-      - [Angiulli Fabrizio e Fassetti Fabio](#angiulli-fabrizio-e-fassetti-fabio)
-    + [Fondamenti di informatica](#fondamenti-di-informatica-1)
-      - [Scarcello Francesco](#scarcello-francesco)
-    + [Matematica Computazionale](#matematica-computazionale)
-      - [Astorino](#astorino)
-    + [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
-      - [Dimitri](#dimitri)
-    + [Basi di dati](#basi-di-dati)
-      - [Amelio](#amelio)
-    + [Ricerca Operativa](#ricerca-operativa-1)
-      - [Monaco Flavia](#monaco-flavia)
-  * [2017/2018](#2017-2018)
-    + [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
-      - [crossetti](#crossetti)
-      - [Mazzulla](#mazzulla)
-    + [Ambienti di sviluppo per il sw di base](#ambienti-di-sviluppo-per-il-sw-di-base)
-      - [Folino](#folino-2)
-      - [Ianni](#ianni)
-      - [Folino e Ianni](#folino-e-ianni)
-    + [Basi di dati](#basi-di-dati-1)
-      - [Furfaro Filippo](#furfaro-filippo)
-      - [Amelio](#amelio-1)
-    + [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta-1)
-      - [Sergeyev](#sergeyev)
-    + [Matematica computazionale](#matematica-computazionale)
-      - [Astorino](#astorino-1)
-    + [Metodi Probabilistici](#metodi-probabilistici)
-      - [Legato Pasquale](#legato-pasquale)
-    + [Analisi 2](#analisi-2)
-      - [Sciunzi](#sciunzi)
-      - [Colao](#colao)
-      - [De Luca](#de-luca)
-    + [Ricerca Operativa](#ricerca-operativa-2)
-      - [Maria Flavia Monaco](#maria-flavia-monaco)
-    + [elettromagnetismo](#elettromagnetismo)
-      - [Esercitatore](#esercitatore)
-    + [Reti di telecomunicazioni](#reti-di-telecomunicazioni)
-      - [De Rango](#de-rango)
-    + [Fondamenti di automatica](#fondamenti-di-automatica-3)
-      - [Famularo Domenico](#famularo-domenico-5)
-    + [Fondamenti di telecomunicazioni](#fondamenti-di-telecomunicazioni)
-      - [Aloi](#aloi)
-    + [Propagazione e trasmissione](#propagazione-e-trasmissione)
-      - [Costanzo Sandra](#costanzo-sandra-1)
-    + [Laboratorio di automatica](#laboratorio-di-automatica)
-      - [Domenico Famularo](#domenico-famularo)
-    + [Qualita del servizio](#qualita-del-servizio)
-      - [amedeo](#amedeo)
-    + [Analisi 1](#analisi-1)
-      - [Riey e Solferino](#riey-e-solferino)
-      - [Sciunzi Berardino](#sciunzi-berardino-2)
-    + [Programmazione Orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
-      - [Nigro Libero](#nigro-libero)
-    + [Reti di calcolatori](#reti-di-calcolatori-1)
-      - [Trunfio Paolo](#trunfio-paolo)
-    + [Reti logiche calcolatori](#reti-logiche-calcolatori)
-      - [Angiulli Fabrizio](#angiulli-fabrizio)
-    + [Ingegneria del software](#ingegneria-del-software-1)
-      - [Argento](#argento)
-    + [Argento e Furfaro Angelo](#argento-e-furfaro-angelo)
-    + [Fondamenti di informatica](#fondamenti-di-informatica-2)
-      - [Scarcello Francesco](#scarcello-francesco-1)
-    + [Sistemi operativi](#sistemi-operativi-1)
-      - [Talia](#talia)
-      - [Marozzo](#marozzo)
-    + [Fondamenti di Automatica](#fondamenti-di-automatica-2)
-      - [Famularo Domenico](#famularo-domenico-6)
-    + [Ingegneria del software](#ingegneria-del-software-2)
-      - [Furfaro Angelo](#furfaro-angelo)
-    + [Metodi Probabilistici](#metodi-probabilistici-1)
-      - [Pasquale Legato](#pasquale-legato-1)
-      - [Mary Mazza](#mary-mazza)
-    + [Robotica](#robotica)
-      - [Muraca](#muraca)
-    + [Basi di dati](#basi-di-dati-2)
-      - [Filippo Furfaro](#filippo-furfaro-1)
-      - [Amelio](#amelio-2)
-    + [Reti di Calcolatori](#reti-di-calcolatori)
-      - [Trunfio Paolo](#trunfio-paolo-1)
-    + [Ricerca Operativa](#ricerca-operativa-3)
-      - [Maria Flavia Monaco e Sammarra](#maria-flavia-monaco-e-sammarra-1)
-    + [Reti di telecomunicazioni](#reti-di-telecomunicazioni-1)
-      - [Floriano De Rango](#floriano-de-rango)
-      - [Tropea Raimondo o SantaMaria](#tropea-raimondo-o-santamaria)
-    + [Ambienti di programmazione per il sw di base](#ambienti-di-programmazione-per-il-sw-di-base-1)
-      - [Folino](#folino-3)
-      - [Ianni](#ianni-1)
-  * [2019/2020](#2019-2020)
-    + [Programmazione Orientata ad Oggetti](#programmazione-orientata-ad-oggetti-1)
-      - [Nigro Libero](#nigro-libero-1)
-    + [Ingegneria del software](#ingegneria-del-software-3)
-      - [Furfaro Angelo](#furfaro-angelo-1)
-      - [Sacco](#sacco)
-    + [Ambienti di programmazione per il sw di base](#ambienti-di-programmazione-per-il-sw-di-base-2)
-      - [Folino](#folino-4)
-    + [Basi di Dati](#basi-di-dati)
-      - [Furfaro Filippo](#furfaro-filippo-1)
-      - [Alessia Amelio](#alessia-amelio)
-- [Ingegneria Elettronica](#ingegneria-elettronica)
-  * [Non classificato](#non-classificato)
-- [Ingegneria Informatica LM](#ingegneria-informatica-lm)
-  * [Non classificato](#non-classificato-1)
-  * [2016/2017](#2016-2017-1)
-    + [Architetture e programmazione di sistemi di elaborazione](#architetture-e-programmazione-di-sistemi-di-elaborazione)
-      - [Fabrizio Angiulli](#fabrizio-angiulli)
-    + [Crittografia e analisi reti sociali](#crittografia-e-analisi-reti-sociali)
-      - [Molinaro](#molinaro)
-    + [Linguaggi Formali](#linguaggi-formali)
-      - [Domenico Sacca](#domenico-sacca)
-      - [Rullo](#rullo)
-    + [Informatica teorica](#informatica-teorica)
-      - [Scarcello Francesco](#scarcello-francesco-2)
-    + [Ottimizzazione](#ottimizzazione)
-      - [Maria Flavia Monaco](#maria-flavia-monaco-1)
-    + [Valutazione delle prestazioni](#valutazione-delle-prestazioni)
-      - [Legato Pasquale](#legato-pasquale-1)
-- [2017/2018](#2017-2018-1)
-  * [Intelligenza Artificiale](#intelligenza-artificiale)
-    + [Palopoli Luigi](#palopoli-luigi-1)
-    + [Informatica Teorica](#informatica-teorica)
-      - [Scarcello Francesco](#scarcello-francesco-3)
-    + [Sistemi informativi](#sistemi-informativi)
-      - [Cassavia](#cassavia)
-  * [2018/2019](#2018-2019)
-    + [Informatica Teorica](#informatica-teorica-1)
-      - [Francesco Scarcello](#francesco-scarcello)
-    + [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
-      - [Libero Nigro](#libero-nigro-1)
-    + [Sistemi distribuiti e cloud computing](#sistemi-distribuiti-e-cloud-computing)
-      - [Talia Domenico](#talia-domenico)
-      - [Belcastro](#belcastro)
-  * [2019/2020](#2019-2020-1)
-    + [Basi di dati evolute](#basi-di-dati-evolute)
-      - [Molinaro Cristian](#molinaro-cristian)
-    + [Sistemi Informativi](#sistemi-informativi)
-      - [Cassavia](#cassavia-1)
-    + [Architetture e programmazione di sistemi di elaborazione](#architetture-e-programmazione-di-sistemi-di-elaborazione-1)
-      - [Angiulli Fabrizio](#angiulli-fabrizio-1)
-    + [Intelligenza Artificiale e rappresentazione della conoscenza](#intelligenza-artificiale-e-rappresentazione-della-conoscenza)
-      - [Palopoli Luigi](#palopoli-luigi-2)
-    + [Informatica Teorica](#informatica-teorica-2)
-      - [Scarcello Francesco](#scarcello-francesco-4)
-    + [Linguaggi Formali](#linguaggi-formali-1)
-      - [Sacca Domenico](#sacca-domenico)
-      - [Rullo](#rullo-1)
-    + [Calcolo Numerico](#calcolo-numerico)
-      - [Yaroslav Sergeyev](#yaroslav-sergeyev)
-      - [Marat Mukhametzhanov](#marat-mukhametzhanov)
-    + [Algoritmi di Crittografia](#algoritmi-di-crittografia)
-      - [Christian Molinaro](#christian-molinaro)
-    + [Sistemi Distribuiti e Cloud Computing](#sistemi-distribuiti-e-cloud-computing)
-      - [Talia Domenico](#talia-domenico-1)
-      - [Professore Loris Belcastro](#professore-loris-belcastro)
-- [Ingegneria Elettronica LM](#ingegneria-elettronica-lm)
-- [Ingegneria Automazione LM](#ingegneria-automazione-lm)
-  * [2018/2019](#2018-2019-1)
-    + [Teoria dei sistemi](#teoria-dei-sistemi)
-      - [Casavola](#casavola)
-- [Ingegneria delle Telecomunicazioni LM](#ingegneria-delle-telecomunicazioni-lm)
-
 
 
 
@@ -328,47 +105,8 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 
 ## Anno non classificato
 
-### Elettrotecnica
 
-#### Felice Crupi
 
-- Federica Branca
-	- Per quello che ho potuto constatare io si concentra molto sulla seconda parte cioè dai condensatori-induttori in poi ...a me ha   chiesto la risposta forza di un circuito rl e la potenza media 
-
-### Metodi matematici per l'ingegneria dell'informazione 
-
-#### Sciunzi Berardino
-- Luigi De Marco: 
- 	 - Teorema di Dini
- 	 - serie di Laurent, con dimostrazione
-
-### Fondamenti di Automatica 
-
-#### Famularo Domenico
-- Anthony 
-	- margine di fase 
-	- margine di ampiezza 
-	- filtri ( passa basso, banda, alto ) 
-	- grafici sui sistemi con poli e zeri dominati
-	- reti correttrici
-- Gianma
-	- Legame pulsazione di banda passante e tempo di salita
-	- scomposizione della risposta di un sistema in risposta libera e forzata
-	- precisione statica 
-	- interconnessioni elementari
-	- fase
-	- ampiezza
-	- laplace
-	- teorema valore iniziale
-	- teorema valore finale
-	- teorema risposta armonica
-	- costruire t(jw) data la funzione anello
-	- banda passante (definizione)
-	- bibo stabilita
-	- stabilita interna
-- Luigi De Marco
-	- scrivere una fdt in forma di bode
-	- definizioni di filtro ( passa alto, passa alto, passa banda )
 
 ### Sistemi Operativi
 
@@ -395,18 +133,7 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- mostrare homework ( se non fuziona la versione inviata )
 	- dimostrare merge sort
 
-## 2012/2013
 
-### Fondamenti di Automatica
-
-#### Famularo Domenico
-
-- PsykeDady
-	- Tutto su bibo stabilità da scrivere su un foglio
-	- esercizio in retroazione
-	- modifiche sul progetto assegnato: 
-		- cambiare risposta al gradino con rampa
-		- come cambia gradino + amplificatore
 
 ## 2013/2014
 
@@ -419,20 +146,7 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- metodi di Hashing lineare ( indicizzazione su Disco ) 
 	- Hashing estendibile ( indicizzazione su Disco )
 
-### Fondamenti di automatica 
 
-#### Famularo Domenico
-
-- Ivonne:
-	- modifiche sul progetto ( matlab ) :
-		- risposta al gradino invece di rampa
-		- risposta al gradino pi&ugrave; amplificatore
-	- esercizio su risposta al gradino 
-	- teorema valore finale 
-	- modi di evoluzione di un sistema
-	- criterio di bode
-	- diagramma di nyquist in generale 
-	- margine di fase
 
 ## 2014/2015
 
@@ -487,18 +201,6 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 		- Arrenius
 		- Bronsted e Lawry
 		- Lewis
-
-### Fondamenti di automatica
-
-#### Famularo Domenico
-
-- Cataldo
-	- margine di fase
-	- margine di ampiezza (nello specifico sul diagramma di Bode )
-	- Precisione statica con diagrammi 
-	- Esersizi su sistemi del secondo ordine
-		- determinare funzione di trasferimento
-		- grafico del sistema (approssimativo)
 
 ### Ingegneria del software
 
@@ -651,15 +353,7 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- svolgere esercizi del compito
 	- utilizzare backtracking
 
-### Fondamenti di automatica 
-
-#### Famularo Domenico
-
-- Enri
-	- Sistemi del I e del II ordine 
-	- Legame tra tempo di salita e banda passante. 
-	- Esercizio su carateristiche dei diagrammi di Bode
-	- disegno approsimativo di un sistema del primo ordine a fase non minima
+- - 
 
 ### Reti logiche e calcolatori 
 
@@ -943,15 +637,6 @@ malloc(sizeof(int)*(i+1));
 	- Cosa succede ad RTT in caso di reti lente rispetto a veloci 
 
 
-### Fondamenti di automatica
-
-####  Famularo Domenico
-
-- Simone 
-	- definizione scala logaritmica
-	- definizione di decibel
-	- definizione formale di L trasformabile 
-	- Esercizio regione di convergenza
 
 ### Fondamenti di telecomunicazioni
 
@@ -1315,58 +1000,6 @@ malloc(sizeof(int)*(i+1));
 	- Cosa succede a basso livello quando si incrementa una variabile 
 	- diagramma di stato nei thread di java 
 
-### Fondamenti di Automatica
-
-#### Famularo Domenico
-
-- Giovanni Giordano
-	- Esercizio 
-        - `y+2y'=u`
-        - risposta al gradino con condizione iniziale `y(0)` a transitorio nullo
-    - luoghi a modulo costante
-    - pulsazione naturale 
-    - smorzamento
-    - Criterio di Bode
-    - Routh con un dato K variabile 
-        - situazioni patologiche (termine=0)
-    - esercizio sulla stabilità interna
-    - ascisse di convergenza 
-- Anonimi
-    - Scomposizione della risposta in un sistema in risposta libera e forzata
-    - Teorema del valore iniziale e finale con dimostrazione
-    - Modi di evoluzione libera 
-    - Da una fdt calcola i modi di evoluzione libera
-    - Criterio di routh
-    - Bibo stabilità con dimostrazione necessaria e sufficiente 
-    - Teorema della risposta armonica 
-    - Forma di Bode 
-    - Margine di Fase e di ampiezza
-    - Interconnessioni elementari 
-    - Banda passante (passa basso, passa alto e passa banda )
-    - Diagramma di Nyquist 
-    - Criterio di Bode 
-    - Stabilità in retroazione
-    - Stabilità interna
-    - Precisione statica 
-    - T(jw) data la f di anello
-    - Sistemi del primo e del secondo ordine 
-    - Grafici con poli e zeri dominanti 
-    - Tempo di assestamento 
-    - tempo di salita e massima sovraelongazione
-    - sovraelongazione in generale 
-    - Punti di flesso nei sistemi del secondo ordine 
-    - Legame di pulsazione di banda passante e tempo di salita
-    - Rete attenuatrice 
-    - Ascissa di convergenza 
-    - Luogo dei punti a modulo costante 
-    - Come disegnare diagramma di Bode
-- Luigi
-    - tempo di sovraelongazione
-    - tempo di assestamento 
-    - tempo di salita sulla risposta al gradino 
-    - esercizio data **una risposta in t** 
-        - Ascissa di convergenza
-        
 ### Ingegneria del software
 
 #### Furfaro Angelo
