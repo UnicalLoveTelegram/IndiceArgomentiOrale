@@ -198,6 +198,277 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - esercizio data **una risposta in t** 
     - Ascissa di convergenza
   
+# Sistemi Operativi 
+
+## Domenico Talia 
+
+### Anno non classificato 
+
+- Luigi De Marco
+	- Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD 
+
+### 2014 2015 
+
+- Cataldo 
+	- frammentazione della memoria e metodi per evitarla
+	- kernel modulare 
+	- micro kernel
+	- produttore-consumatore in java
+	- esercizi sulla precedenza dei processi con i semafori
+
+### 2016 2017
+
+- Anonimi
+	- Lettori scrittori
+	- File System: allocazione concatenata
+	- Struttura Raid e bit di parità
+	- Sistem Call
+
+### 2017 2018
+
+- Giovanni Giordano 
+	- semafori 
+	- process Control Block 
+	- File Control Block 
+	- Gestione di un caso semplice di deadlock 
+	- risoluzione di deadlock 
+	- stato sicuro di un sistema 
+	- algoritmo di Lamport 
+	- Round RObin 
+	- matrice di accesso
+	- dischi raid
+	- algoritmi di scheduling 
+	- allocazione contigua e indicizzata 
+- Mitch
+	- Macchine virtuali 
+	- dispatcher 
+	- scheduler a lungo termine e breve termine 
+	- segmentazione
+	- matrice d'accesso 
+- Anonimi
+	- cpu burst 
+	- anomalia di belady
+	- paginazione
+	- tabelle delle pagine
+		- anche invertita 
+- Alessio 
+	- scheduling di windows 
+	- system call e passaggio dei loro parametri 
+	- modalità kernel e modalità utente 
+	- fat 
+	- ottimizzazione scheduling cpu 
+	- scheduling in windows unix e solaris
+	- swap in generale e unix
+	- stato sicuro 
+	- algoritmo del fornaio
+	- esempi di scheduling con prelazione e senza
+	- quale dispositivo hardware segnala che non esiste memoria ram allocata a una pagina virtual MMU 
+	- tabella pagina invertite e come funziona in quel caso l'indirizzament o
+	- algoritmo di peterson per la sezione critica 
+	- dischi raid e spiegazione di tutti i livelli 
+	- algoritmo seconda chance 
+	- stati dei processi 
+	- interrupt 
+	- thread e processi differenze e kernel e user thread 
+	- Memoria virtuale e paginazione degenere 
+	- File System in generale e Linux 
+	- Priorità in generale e in linux 
+	- Diagramma di stato dei processi 
+	- stati in cui può trovarsi un processo
+	- quando un processo può passare da un running a ready ?
+	- cos'è la prelazione e dove si può usare 
+	- quale scheduling usa il quanto di tempo? 
+	- parlare della directory e delle loro strutture ( livello singolo doppio albero e grafo )
+	- File System 
+	- Se collego una tastiera nuova ad un pc vecchio come fa a riconoscerlo (sottosistema di IO )
+	- Ready queue e code multiple 
+	- paginazione su richiesta come avviena 
+	- sistemi real-time in generale
+	- scheduling EDF dei sistemi realtime 
+	- Disegno dell'architettura della paginazione 
+	- differenza tra frammentazione interna e esterna
+	- che tipo di frammentazione può verificarsi con la segmentazione 
+	- indicizzazione dei file 
+	- Come si stila la lunghezza del prossimo CPU burst nell'algoritmo di scheduling SJF
+	- Macchine virtuali 
+	- dispatcher
+	- differenza tra scheduler a lungo termine e breve termine 
+	- matrice d'accesso 
+- Arbrane97 
+	- fat
+	- allocazione indicizzata
+	- paginazione a due livelli e clone in linux 
+- Batman 
+	- Context switch 
+		- come funziona su linux 
+	- PCB
+	- DEADLOCK
+	- paginazione su richiesta  
+- Davide 
+	- caratteristiche di ottimizzazione dello scheduling 
+	- clone unix 
+	- fork linux 
+	- stati dei processi
+	- file system
+	- paginazione su richiesta 
+	- protezione in generale 
+	- protezione di IO
+	- SystemCall e passaggio dei parametri 
 
 
-( continua da Anno non classificato->Sistemi Operativi->Talia)
+## Marrozzo
+
+### Anno non classificato 
+- Luigi De Marco 
+	- Esercizio sui semafori
+
+### 2016 2017
+- Anonimi
+	- Due Thread tipo A e tipo B che stampano AB AAB AAAB AAAAB
+	- race condition
+	- problemi interleaving
+	- collezioni non sincronizzate
+
+### 2017 2018
+- Arbrane97 
+	- lettori e scrittori in lock
+	
+- Giovanni 
+	- implementare esercizio produttori e consumatori 
+	- lettori-scrittori
+	- diagramma dei thread di java
+- Davide 
+	- esercizio ABABBABBBABBBBA
+- Anonimi
+	- esercizio sui semafori con sequenza A e B
+	- legge di Moore 
+- Alessio 
+	- Stampare tramite thread la stringa ABBA (esercizi sulle slide )
+	- Problema Produttore -Consumatore 
+	- 5 filosofi con semafori 
+	- 5 filosofi con lock and condition 
+	- a partire da un esercizio svolto: cosa succede alla politica di Hansen e cosa con la politica di Hoare
+	- implementazione dei lock a lettore/consumatore 
+	- metodi `prendiBacchette` e `rilasciaBacchette` dei 5 filosofi con lock 
+	- come si fa una wait a basso livello 
+	- monitor di hansen e hoare
+	- dati tre thread **a** **b** e **c** fermi su delle istruzioni dire comportamento secondo Hansen, Hoare e in java
+	- Cosa fa la yield e perché non va usata 
+	- cosa fa la set priority e perchè non va usata 
+	- legge di Amdhal
+	- Legge di Moore
+	- Barbiere addormentato 
+	- cosa succede quando si chiama un await
+	- csa succede quando si chiama una signal
+	- come garantire ordine FIFO nei thread 
+	- spiegazione del problema dei lettori-scrittori
+	- metodi synchronized teoria e produttore-consumatore 
+	- modifica di una lista in parallelo problemi e `ConcurrentModificationExcption`
+	- Prouttore-Consumatore usando una lista (con lock )
+	- Interleaving (con esempio)
+	- Cosa succede a basso livello quando si incrementa una variabile 
+	- diagramma di stato nei thread di java 
+
+# Fondamenti di informatica
+
+## Francesco Scarcello 
+
+### 2017 2018
+
+- Davide
+	- HashMap
+	- Hashcode
+	- Record di ativazione 
+	- complessità spaziale 
+	- algoritmi di ordinamento e complessità relative
+	- complessità temporale 
+	- compilatore (Cos'è)
+	- differenze tra java e pytho n
+	- definizione di O(n)
+	- RIcerca binaria 
+	- complessità asintotica 
+	
+## Francesco Scarcello e Francesco Lupia 
+
+### Anno non classificato 
+
+- Giovanni
+	- Record d'attivazione
+	- Costo computazionale (O Grande, theta, Omega)
+	- Algoritmi di ordinamento in dettaglio
+	- ricerca binaria
+	- saper svolgere esercizi tipo esame
+	- mostrare homework ( se non fuziona la versione inviata )
+	- dimostrare merge sort
+
+# Fisica 12CFU e 9CFU
+
+## crossetti 
+
+### 2017 2018
+
+- Giovanni Giordano 
+	- Meccanica e Termodinamica 
+	- Isoterme
+	- Ricavare la gittata
+- Anonimi
+	- dimostrare lavoro dell'adiabatica
+	- forza elastica
+	- moto armonico 
+	- moto accelerato 
+	- esercizi sbagliati su compito 
+
+## Mazzulla 
+
+### 2017 2018
+
+- FrancescoLux
+	- Gauss su cilindro
+	- definizione di lavoro 
+	- esercizi errati del compito 
+	- come ricavare modulo direzione e verso di un campo magnetico generato da corrente in un punto p distante r 
+	- momento angolare con disegno 
+	- carica all'interno di un condensatore nel quale è presente un CE. 
+		- ricavare accelerazione carica, stato di moto ecc...
+	- forze conservative e non 
+	- gauss su guscio 
+	- carica in un campo magnetico 
+	- forza centripeta
+- GiovanniN
+	- Attrito volvente
+	- Rotazione con formule velocità spostamento e accelerazione
+	- Teorema di Gauss
+	- Gauss su campo magnetico (applicabilità)
+	- Errori nel compito 
+- Martina 
+	- Velocità 
+	- accelerazione 
+	- piano inclinato
+	- urti 
+	- moto parabolico 
+	- corpo rigido
+	- termodinamica (tutta)
+	- teoria cinetica
+
+# Basi di Dati
+
+## Filippo Furfaro 
+
+### 2013 2014
+
+- PsykeDady
+	- Chiave esterna, definizione formale
+	- metodi di Hashing lineare ( indicizzazione su Disco ) 
+	- Hashing estendibile ( indicizzazione su Disco )
+
+## Amelio 
+
+### 
+
+- Carmen 
+	- btre
+	- definizione chiave esterna
+
+
+
+( continua da Anno non classficato -> )
