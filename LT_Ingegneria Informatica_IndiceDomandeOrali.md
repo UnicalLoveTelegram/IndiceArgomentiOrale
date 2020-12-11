@@ -150,6 +150,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- definizione di decibel
 	- definizione formale di L trasformabile 
 	- Esercizio regione di convergenza
+
+### 2018 2019 
+
 - Giovanni Giordano
 	- Esercizio 
 		- `y+2y'=u`
@@ -441,6 +444,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- dimostrazione 2PL => CS
 	- phantom read
 	- read commited
+
+### 2018 2019
+
 - Batman 
 	- condizione per essere serializzabile
 	- schedule cascadeless e recoverable
@@ -480,6 +486,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi:
 	- Definizione formale di dipendenza funzionale
 	- Procedura di inserimento in un B-Tree
+
+### 2018 2019
+
 - Batman 
 	- definizione di dipendenza funzionale 
 	- metodo di inserimento nel btree
@@ -519,7 +528,348 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- karnaught e implicante 
 	- esercizio di assembly, operazione su numeri a 64 bit usando registri per numero 
 
-( continua da 2015/16->Ambienti di programmazione->Folino)
+
+# Ambienti di programmazione per il software di base
+
+## Folino Gianluigi 
+
+### 2015 2016
+
+- Cataldo 
+	- NFS mount ed export
+	- permessi degli utenti e quote assegnate
+	- visualizzare processi e albero processi
+	- gentoo
+
+### 2016 2017
+
+- Marco 
+	- Il meccanismo dei puntatori in C
+		- differenze con java 
+		- esercizio in C
+	- system call di linux
+	- python
+		- Differenza tra dizionari e set in python
+		- esercizio 
+
+### 2017 2018
+
+- Alberto 
+	- quote e comandi correlati
+	- nfs
+
+### 2018 2019
+
+- Anonimi
+	- Samba
+	- Storia di linux
+	- NFS
+	- Comandi Bash
+	- Amministrazione linux
+	- mount
+- Arbrane97
+	- cosa è una sistem call
+	- repository
+	- fstab
+
+### 2019 2020
+
+- Viviana 
+    - configurazione NFS lato server 
+    - Descrizione dei puntatori dinamici in C
+    - problema del segmentation fault
+
+
+## Ianni 
+
+### 2017 2018 
+
+- Demoni
+- problemi in un esercizio 
+- esercizi
+
+### 2018 2019
+
+- Anonimi 
+	- Esercizi C 
+	- Esercizi bash
+	- Esercizi errati nel compito 
+	- string.h
+	- spiegazione di cosa fanno vari esercizi
+	- comandi linux (reindirizzamento stdin stdout)
+- Arbrane97 
+	- struct
+	- Union
+	- cron
+	- typedef
+
+## Folino e Ianni 
+
+### 2017 2018
+
+- Anonime 
+	- Gestioni permessi
+	- Software libero e licenze
+	- ouput di un prgramma C
+	- errore in questo programma
+```c
+int* x; 
+int i; 
+scanf("%d", &i ); 
+x = (int*)
+malloc(sizeof(int)*(i+1));
+```
+- 	- Gestione delle quote
+
+# Chimica 
+
+## Bruno De Cindio
+
+### 2015 2016 
+
+
+- Cataldo 
+	- definizione di acido e base
+		- Arrenius
+		- Bronsted e Lawry
+		- Lewis
+
+# Ingegneria del software
+
+## Angelo Furfaro
+
+### 2015 2016
+
+- Anonimi 
+	- Builder patern
+	- Agile Development
+	- Scrum
+	- Principio di sostituibilit&agrave; di Liskov
+- PsykeDady
+	- Diagramma UML delle classi e degli eventi del pattern Decorator
+	- Modello di vita a spirale
+	- Pattern Observer, scopi utilizzi ed esempi in java
+- Gianpaolo Cascardo
+	- Pattern Decorator
+	- Pattern Abstract Factory 
+	- Design By Contract 
+	- Proprietà di un software
+
+### 2018 2019 
+
+- Emanu
+    - Abstract Factory 
+        - pattern
+        - diagramma di classe
+        - esempio
+        - conseguenze
+    - Design by contract
+        - dove va verificato l'invariante
+    - Frame di interazione
+- FrancescoLux
+    - Pattern builder con sequence diagram, posso usare stesso director e builder diverso? posso utilizzare questo pattern per la riusabilità? esempio fatto a lezione (document)
+    - differenza tra class diagram e sequence diagram
+    - tabella di verità implicazione logica
+    - weaker vs stronger precondizione e post condizione
+    - Dato P(superclasse) be P'(sottoclasse) P implica P' o viceversa?
+    - quale dei due posso rendere più restrittivo/meno restrittivo?
+- Giovanni 
+    - Builder con il sequence Diagram 
+    - UseCase 
+    - RMI (con pattern correlato )
+- Anonimi
+    - vari esempi pratici di pattern in java
+    - prototype con esempio java
+    - abstract factory con esempio java
+    - strategy
+    - decorator con sequence Diagram
+    - bridge 
+    - tabella implicazione
+    - design by contract 
+    - rmi con parte implementazione java
+    - Liskov: un esempio che non rispetta il principio 
+
+### 2019 2020
+
+- Anonimi
+	- Flyweight 
+	- Design By Contract 
+		- precondizioni
+		- post condeizioni 
+		- invarianti
+		- sequence digram su vari pattern
+
+
+
+## Argento Luciano
+
+### 2017 2018
+
+- Anonimi 
+	- Decorator
+	- Strategy
+	- Separazione degli interessi
+	- Assocaizione aggregazione e composizione 
+	- Design by contract
+
+## Angelo Furfaro e Argento Luciano
+
+### 2017 2018
+
+- Ciccio
+	- Quali sono le parti riutilizzabili del patter buuilder e vantaggi rispetto ad altri patter (vs Director )
+	- Scrum con disegno 
+	- cos'è un attore 
+	- use case diagram a cosa serve rispetto a use case e cos'è un caso d'uso 
+	- design by contract 
+	- inheritance
+	- metodologia agile 
+	- diagrammi di stato 
+	- rational unified process 
+	- pattern proxy 
+	- Pattern decorator
+	- modello a spirale 
+	- cos'è un componente 
+	- diagramma della struttura dei componenti 
+	- diagramma del deplyment
+	- testing waitbox 
+	- pattern abstract factory 
+	- ciclo di vita del software
+		- la fase che costa di più (manutenzione )
+			- tipi di manutenzione ( correttiva perfettiva e adattativa )
+			- minimizzare i costi 
+	- invarianza 
+	- principio di sostituibilità ( relazioni con design by contract )  
+	- pattern strategy
+	- logica booleana applicata al design by contract 
+	- pattern template 
+	- pattern visitator
+	- pattern template 
+	- pattern visitor e accept 
+	- pattern bridge ed esempio 
+	- pattern builder 
+	- pattern observe 
+	- pattern template 
+	- pattern command 
+	- component diagram 
+	- patern interpreter 
+
+## Sacco Ludovica 
+
+- Anonimi 
+	- differenza tra composizione
+
+
+# Reti di Calcolatori
+
+## Paolo Trunfio 
+
+### 2015 2016 
+
+- Cataldo
+	- Bittorrent
+	- Peer to Peer 
+	- firewall
+	- chiave pubblica e privata
+		- teoria
+		- esempio
+
+### 2017 2018
+
+- Anonimi 
+	- Go back
+	- Selective repeat
+		- differenze tra i due 
+		- chi utilizza i buffer in ricezione e perché 
+		- cosa implementa tcp 
+		- similitudini con gbn e sr 
+
+### 2018 2019
+
+- Anonimi 
+    - controllo di flusso TCP 
+    - Autenticazione con chiave simmetrica 
+    - perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
+    - Smurfing 
+    - Multiplexing demultiplexing TCP e UDP
+    - WebServices 
+    - Nat 
+    - Chord 
+    - email sicure 
+- Alfredo 
+    - Chiave simmetrica e asimmetrica
+    - Protocollo ap4.0 
+        - se il nonce rimane invariato che succede ?
+
+# Metodi probabilistici della ricerca operativa 
+
+## Pasquale Legato 
+
+### 2015 2016
+
+- Cataldo 
+	- statistiche ordinamento 
+	- covarianza 
+	- prove di bernoulli
+	- modelli di bernoulli
+	- modello di erlang per sistemi m out of n
+
+### 2017 2018
+
+- Giovanni
+	- Staistica ordinamento
+	- metodo montecarlo  
+- Anonimi
+	- correlazione 
+	- problema del ritardo a lezione
+	- montecarlo 
+	- modello pc 
+	- intervallo di confidenza 
+
+### 2018 2019 
+
+- FrancescoLux
+    - Prove di bernoulli (ipotesi)
+    - Retta di regressione ( come ci si arriva)
+
+##  Rina Mary Mazza
+
+### 2018 2019
+
+- Anonimi
+    - Esercizio ( preso da prova scritta 2012 ) 
+        - 3 server di 2 componenti in serie, calcolare:
+        - affidabilita 
+        - probabilita 
+        - successo
+        - guasto del 3 server con la geometrica 
+        - coefficente di pearson 
+    - modello PC e considerazioni sul tempo di giacenza e tempo di soggiorno
+        - perché il tempo di giacenza è più influente? 
+        - calcoli su excel 
+    - modello di erlang e considerazioni sui grafici della erlang modulata
+    - dimostrazione coefficenti della retta di regressioe
+    - valore atteso e distribuzione esponenziale
+    - diapositiva regressione 
+    - esercizio su erlang con bernoulli 
+    - definizioni di distribuzioni 
+    - curva di regressione 
+    - statistiche di ordinamento
+    - esercizio su m out of n e commutazione
+    - foglio excel della correlazione produttore consumatore
+    - dimostrazione coefficenti della retta di regressione
+    - funzioni di v.a. 
+    - statistiche min e Max con funzione di distribuzione
+    - modello di erlang 
+    - commutazione perfetta e non 
+    - test sulla forma con foglio excel
+    - test di ipotesi e test della differenza tra due media
+    - dimostrazione della distribuzione totale
+    - distribuzione della somma di v.a.
+
+
+
+( continua da 2015/16->Propagazione e Trasmissione->Costanzo)
 
 
 
