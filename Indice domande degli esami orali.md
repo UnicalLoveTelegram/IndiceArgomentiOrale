@@ -102,39 +102,6 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 # Ingegneria Informatica LT
 
 
-
-## Anno non classificato
-
-
-
-
-### Sistemi Operativi
-
-#### Domenico Talia
-
-- Luigi De Marco
-	- Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD 
-
-#### Marrozzo
-
-- Luigi De Marco 
-	- Esercizio sui semafori
-
-### Fondamenti di informatica
-
-#### Francesco Scarcello e Lupia
-
-- Giovanni
-	- Record d'attivazione
-	- Costo computazionale (O Grande, theta, Omega)
-	- Algoritmi di ordinamento in dettaglio
-	- ricerca binaria
-	- saper svolgere esercizi tipo esame
-	- mostrare homework ( se non fuziona la versione inviata )
-	- dimostrare merge sort
-
-
-
 ## 2013/2014
 
 ### Basi Dati 
@@ -169,16 +136,6 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- esercizio di assembly, operazione su numeri a 64 bit usando registri per numero 
 
 
-### Sistemi Operativi
-
-#### Domenico Talia 
-
-- Cataldo 
-	- frammentazione della memoria e metodi per evitarla
-	- kernel modulare 
-	- micro kernel
-	- produttore-consumatore in java
-	- esercizi sulla precedenza dei processi con i semafori
 
 ## 2015/2016
 
@@ -324,23 +281,7 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- come si ricavano le condizioni di cauchy Riemann
 	- integrale di superfice
 
-### Sistemi operativi 
 
-#### Domenico Talia 
-
-- Anonimi
-	- Lettori scrittori
-	- File System: allocazione concatenata
-	- Struttura Raid e bit di parità
-	- Sistem Call
-
-#### Marrozzo
-
-- Anonimi
-	- Due Thread tipo A e tipo B che stampano AB AAB AAAB AAAAB
-	- race condition
-	- problemi interleaving
-	- collezioni non sincronizzate
 
 ### Programmazione Orientata ad oggetti
 
@@ -365,15 +306,7 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- addizionatore a n bit 
 	- parte di controllo cablata e micro programmata
 
-### Fondamenti di informatica 
 
-#### Scarcello Francesco  
-
- - Giovanni : 
-	- Bubble sort 
-	- Ricerca Binaria
-	- esercizio compito modificato 
-	- esercizio con matrici 
 
 ### Matematica Computazionale 
 
@@ -849,192 +782,7 @@ malloc(sizeof(int)*(i+1));
 	- component diagram 
 	- patern interpreter 
 
-### Fondamenti di informatica 
 
-#### Scarcello Francesco 
-
-- Davide
-	- Fondamenti informatica con Scarcello
-	- HashMap
-	- Hashcode
-	- Record di ativazione 
-	- complessità spaziale 
-	- algoritmi di ordinamento e complessità relative
-	- complessità temporale 
-	- compilatore (Cos'è)
-	- differenze tra java e pytho n
-	- definizione di O(n)
-	- RIcerca binaria 
-	- complessità asintotica 
-
-### Sistemi operativi 
-
-#### Talia 
-
-- Giovanni Giordano 
-	- semafori 
-	- process Control Block 
-	- File Control Block 
-	- Gestione di un caso semplice di deadlock 
-	- risoluzione di deadlock 
-	- stato sicuro di un sistema 
-	- algoritmo di Lamport 
-	- Round RObin 
-	- matrice di accesso
-	- dischi raid
-	- algoritmi di scheduling 
-	- allocazione contigua e indicizzata 
-- Mitch
-	- Macchine virtuali 
-	- dispatcher 
-	- scheduler a lungo termine e breve termine 
-	- segmentazione
-	- matrice d'accesso 
-- Anonimi
-	- cpu burst 
-	- anomalia di belady
-	- paginazione
-	- tabelle delle pagine
-		- anche invertita 
-- Alessio 
-	- scheduling di windows 
-	- system call e passaggio dei loro parametri 
-	- modalità kernel e modalità utente 
-	- fat 
-	- ottimizzazione scheduling cpu 
-	- scheduling in windows unix e solaris
-	- swap in generale e unix
-	- stato sicuro 
-	- algoritmo del fornaio
-	- esempi di scheduling con prelazione e senza
-	- quale dispositivo hardware segnala che non esiste memoria ram allocata a una pagina virtual MMU 
-	- tabella pagina invertite e come funziona in quel caso l'indirizzament o
-	- algoritmo di peterson per la sezione critica 
-	- dischi raid e spiegazione di tutti i livelli 
-	- algoritmo seconda chance 
-	- stati dei processi 
-	- interrupt 
-	- thread e processi differenze e kernel e user thread 
-	- Memoria virtuale e paginazione degenere 
-	- File System in generale e Linux 
-	- Priorità in generale e in linux 
-	- Diagramma di stato dei processi 
-	- stati in cui può trovarsi un processo
-	- quando un processo può passare da un running a ready ?
-	- cos'è la prelazione e dove si può usare 
-	- quale scheduling usa il quanto di tempo? 
-	- parlare della directory e delle loro strutture ( livello singolo doppio albero e grafo )
-	- File System 
-	- Se collego una tastiera nuova ad un pc vecchio come fa a riconoscerlo (sottosistema di IO )
-	- Ready queue e code multiple 
-	- paginazione su richiesta come avviena 
-	- sistemi real-time in generale
-	- scheduling EDF dei sistemi realtime 
-	- Disegno dell'architettura della paginazione 
-	- differenza tra frammentazione interna e esterna
-	- che tipo di frammentazione può verificarsi con la segmentazione 
-	- indicizzazione dei file 
-	- Come si stila la lunghezza del prossimo CPU burst nell'algoritmo di scheduling SJF
-	- Macchine virtuali 
-	- dispatcher
-	- differenza tra scheduler a lungo termine e breve termine 
-	- matrice d'accesso 
-- Arbrane97 
-	- fat
-	- allocazione indicizzata
-	- paginazione a due livelli e clone in linux 
-- Batman 
-	- Context switch 
-		- come funziona su linux 
-	- PCB
-	- DEADLOCK
-	- paginazione su richiesta  
-- Davide 
-	- caratteristiche di ottimizzazione dello scheduling 
-	- clone unix 
-	- fork linux 
-	- stati dei processi
-	- file system
-	- paginazione su richiesta 
-	- protezione in generale 
-	- protezione di IO
-	- SystemCall e passaggio dei parametri 
-
-#### Marozzo
-- Arbrane97 
-	- lettori e scrittori in lock
-	
-- Giovanni 
-	- implementare esercizio produttori e consumatori 
-	- lettori-scrittori
-	- diagramma dei thread di java
-- Davide 
-	- esercizio ABABBABBBABBBBA
-- Anonimi
-	- esercizio sui semafori con sequenza A e B
-	- legge di Moore 
-- Alessio 
-	- Stampare tramite thread la stringa ABBA (esercizi sulle slide )
-	- Problema Produttore -Consumatore 
-	- 5 filosofi con semafori 
-	- 5 filosofi con lock and condition 
-	- a partire da un esercizio svolto: cosa succede alla politica di Hansen e cosa con la politica di Hoare
-	- implementazione dei lock a lettore/consumatore 
-	- metodi `prendiBacchette` e `rilasciaBacchette` dei 5 filosofi con lock 
-	- come si fa una wait a basso livello 
-	- monitor di hansen e hoare
-	- dati tre thread **a** **b** e **c** fermi su delle istruzioni dire comportamento secondo Hansen, Hoare e in java
-	- Cosa fa la yield e perché non va usata 
-	- cosa fa la set priority e perchè non va usata 
-	- legge di Amdhal
-	- Legge di Moore
-	- Barbiere addormentato 
-	- cosa succede quando si chiama un await
-	- csa succede quando si chiama una signal
-	- come garantire ordine FIFO nei thread 
-	- spiegazione del problema dei lettori-scrittori
-	- metodi synchronized teoria e produttore-consumatore 
-	- modifica di una lista in parallelo problemi e `ConcurrentModificationExcption`
-	- Prouttore-Consumatore usando una lista (con lock )
-	- Interleaving (con esempio)
-	- Cosa succede a basso livello quando si incrementa una variabile 
-	- diagramma di stato nei thread di java 
-
-### Ingegneria del software
-
-#### Furfaro Angelo
-
-- Emanu
-    - Abstract Factory 
-        - pattern
-        - diagramma di classe
-        - esempio
-        - conseguenze
-    - Design by contract
-        - dove va verificato l'invariante
-    - Frame di interazione
-- FrancescoLux
-    - Pattern builder con sequence diagram, posso usare stesso director e builder diverso? posso utilizzare questo pattern per la riusabilità? esempio fatto a lezione (document)
-    - differenza tra class diagram e sequence diagram
-    - tabella di verità implicazione logica
-    - weaker vs stronger precondizione e post condizione
-    - Dato P(superclasse) be P'(sottoclasse) P implica P' o viceversa?
-    - quale dei due posso rendere più restrittivo/meno restrittivo?
-- Giovanni 
-    - Builder con il sequence Diagram 
-    - UseCase 
-    - RMI (con pattern correlato )
-- Anonimi
-    - vari esempi pratici di pattern in java
-    - prototype con esempio java
-    - abstract factory con esempio java
-    - strategy
-    - decorator con sequence Diagram
-    - bridge 
-    - tabella implicazione
-    - design by contract 
-    - rmi con parte implementazione java
-    - Liskov: un esempio che non rispetta il principio 
     
 ### Metodi Probabilistici
 
