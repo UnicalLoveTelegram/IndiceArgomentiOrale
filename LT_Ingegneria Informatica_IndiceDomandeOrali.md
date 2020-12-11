@@ -416,4 +416,110 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 # Basi di Dati
 
-( continua da 2013/14->Basi Di Dati->Filippo)
+## Filippo Furfaro 
+
+### 2013 2014
+
+- PsykeDady
+	- Chiave esterna, definizione formale
+	- metodi di Hashing lineare ( indicizzazione su Disco ) 
+	- Hashing estendibile ( indicizzazione su Disco )
+
+### 2017 2018
+
+- Alberto 
+	- definizione di dipendenza funzionale 
+	- hashing estendibile
+	- definizione di schedule serializzabile
+	- schedule con proprietà recoverable e cascadeless 
+- Simone
+	-  tecnica di hashing statico e indirizzamento aperto
+	-  Esempio di schedule view serializzable ma non confict serializzable
+- Anonime
+	- Definizione di Schedule Serializzable 
+	- Esempio di schedule non vs ma serializzable
+	- dimostrazione 2PL => CS
+	- phantom read
+	- read commited
+- Batman 
+	- condizione per essere serializzabile
+	- schedule cascadeless e recoverable
+- Anonimi
+	- chiede due domende tra le tre essenziali :
+		 - dipendenza funzionale 
+		 - chiave primaria 
+		 - chiave candidat 
+	- differenza tra bree e bplus tree 
+- Giovanni Giordano 
+	- quando due schedule sono serializzabili 
+	- quando due transizioni sono in conflitto 
+- Anonimi
+	- Filippo Furfaro 
+	- agglomerazione primaria
+- Viviana 
+	- Scedule serializzabile
+	- schedule seriale 
+	- Phantom read
+	- dimostrazione 2pl implica confict equivalence 
+
+## Amelio Alessia
+ 
+### 2016 2017 
+
+- Carmen 
+	- btre
+	- definizione chiave esterna
+
+### 2017 2018
+
+- FrancescoLux
+	- B-tree 
+	- procedura inserimento 
+	- come è formato un nodo all'interno del b-tree
+	- definizione di chiave primaria
+- Anonimi:
+	- Definizione formale di dipendenza funzionale
+	- Procedura di inserimento in un B-Tree
+- Batman 
+	- definizione di dipendenza funzionale 
+	- metodo di inserimento nel btree
+	- hashing lineare 
+- Giovanni 
+	- btree e b+tree 
+		- differenze 
+		- dove sono i puntatori 
+		- dov'è il contenuto informativo
+	- chiave esterna 
+
+### 2019 2020
+
+- Viviana 
+	- definizione di chiave primaria
+	- differenza tra btree e b+tree
+
+# Calcolatori Elettronici
+
+## Palopoli Luigi
+
+### 2014 2015
+
+- Cataldo:
+	- Busy waiting con codice
+	 - definizione di cache e metodi di uso:
+		- LRU
+		- MRU
+		- RRU
+
+## Fassetti Fabio
+
+### 2014 2015
+
+- Cataldo : 
+	- definizione di coder/encoder 
+	- karnaught e implicante 
+	- esercizio di assembly, operazione su numeri a 64 bit usando registri per numero 
+
+( continua da 2015/16->Ambienti di programmazione->Folino)
+
+
+

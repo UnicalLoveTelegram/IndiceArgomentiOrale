@@ -102,39 +102,6 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 # Ingegneria Informatica LT
 
 
-## 2013/2014
-
-### Basi Dati 
-
-#### Filippo Furfaro
-
-- PsykeDady
-	- Chiave esterna, definizione formale
-	- metodi di Hashing lineare ( indicizzazione su Disco ) 
-	- Hashing estendibile ( indicizzazione su Disco )
-
-
-
-## 2014/2015
-
-### Calcolatori Elettronici
-
-#### Palopoli Luigi
-
-- Cataldo:
-	- Busy waiting con codice
-	 - definizione di cache e metodi di uso:
-		- LRU
-		- MRU
-		- RRU
-
-#### Fassetti Fabio
-
-- Cataldo : 
-	- definizione di coder/encoder 
-	- karnaught e implicante 
-	- esercizio di assembly, operazione su numeri a 64 bit usando registri per numero 
-
 
 
 ## 2015/2016
@@ -326,12 +293,6 @@ Potete cmq effettuare banali ricerche con il vostro reader.
 	- esercizio su determinante di una matrice 
 	- dimostrazione delle leggi di demorgan (insiemi)
 
-### Basi di dati 
-
-#### Amelio 
-- Carmen 
-	- btre
-	- definizione chiave esterna
 
 ### Ricerca Operativa 
 
@@ -427,37 +388,6 @@ malloc(sizeof(int)*(i+1));
 
 - *riprende da Anonime*
 	- Gestione delle quote
-
-### Basi di dati
-
-
-
-#### Furfaro Filippo
-
-- Alberto 
-	- definizione di dipendenza funzionale 
-	- hashing estendibile
-	- definizione di schedule serializzabile
-	- schedule con proprietà recoverable e cascadeless 
-- Simone
-	-  tecnica di hashing statico e indirizzamento aperto
-	-  Esempio di schedule view serializzable ma non confict serializzable
-- Anonime
-	- Definizione di Schedule Serializzable 
-	- Esempio di schedule non vs ma serializzable
-	- dimostrazione 2PL => CS
-	- phantom read
-	- read commited
-
-#### Amelio
-- FrancescoLux
-	- B-tree 
-	- procedura inserimento 
-	- come è formato un nodo all'interno del b-tree
-	- definizione di chiave primaria
-- Anonimi:
-	- Definizione formale di dipendenza funzionale
-	- Procedura di inserimento in un B-Tree
 
 ### Algebra lineare e matematica discreta 
 
@@ -835,39 +765,8 @@ malloc(sizeof(int)*(i+1));
     - cinematica differenziale
     - matrice jacobiana nel caso delle velocità lineari e non quelle angolari
         - quando presenta singolarità ? 
-        
-### Basi di dati
 
-#### Filippo Furfaro 
 
-- Batman 
-    - condizione per essere serializzabile
-    - schedule cascadeless e recoverable
-- Anonimi
-    - chiede due domende tra le tre essenziali :
-        - dipendenza funzionale 
-        - chiave primaria 
-        - chiave candidat 
-    - differenza tra bree e bplus tree 
-- Giovanni Giordano 
-    - quando due schedule sono serializzabili 
-    - quando due transizioni sono in conflitto 
-- Anonimi
-    - Filippo Furfaro 
-    - agglomerazione primaria
-    
-#### Amelio 
-
-- Batman 
-    - definizione di dipendenza funzionale 
-    - metodo di inserimento nel btree
-    - hashing lineare 
-- Giovanni 
-    - btree e b+tree 
-        - differenze 
-        - dove sono i puntatori 
-        - dov'è il contenuto informativo
-    - chiave esterna 
 
 ### Reti di Calcolatori
 
@@ -1034,22 +933,9 @@ malloc(sizeof(int)*(i+1));
     - Descrizione dei puntatori dinamici in C
     - problema del segmentation fault
 
-### Basi di Dati 
-
-#### Furfaro Filippo
-
-- Viviana 
-    - Scedule serializzabile
-    - schedule seriale 
-    - Phantom read
-    - dimostrazione 2pl implica confict equivalence 
 
 
-#### Alessia Amelio 
 
-- Viviana 
-    - definizione di chiave primaria
-    - differenza tra btree e b+tree
 
 # Ingegneria Elettronica 
 
@@ -1256,11 +1142,11 @@ malloc(sizeof(int)*(i+1));
     - produttore consumatore (excel) 
     - modello di markov (slide) 
     
-# 2017/2018
+## 2017/2018
 
-## Intelligenza Artificiale 
+### Intelligenza Artificiale 
 
-### Palopoli Luigi
+#### Palopoli Luigi
 
 - PsykeDady 
     - Estensione di Reiter
