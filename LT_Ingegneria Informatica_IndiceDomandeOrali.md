@@ -10,16 +10,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Sergio Flesca 
 
-### Anno non classificato 
+**<u>Anno non classificato</u>**
 - Dario
 	-  A me ha chiesto il counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
 	
-### 2015 2016
+**<u>2015 2016</u>**
 - Salvatore Riga 
 	- come srotolare una ricorsione 
 	- teorema delle ricorrenze per il calcolo della complessita
 
-### 2017 2018
+**<u>2017 2018</u>**
 - Giovanni 
 	- grafi ( prim etc...)
 		- pseudo codici 
@@ -33,7 +33,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 ## Mandaglio 
 
 
-### 2017 2018
+**<u>2017 2018</u>**
 - Giovanni 
 	- code di priorità 
 	- heap 
@@ -41,7 +41,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- counting sort 
 	- floyd 
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Arbrane97 
 	- Scrivere algoritmo ricorsivo che verifica che l'albero passato sia un ABR 
@@ -56,7 +56,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Felice Crupi 
 
-### Anno non classificato 
+**<u>Anno non classificato</u>**
 
 - Federica Branca
 	- Per quello che ho potuto constatare io si concentra molto sulla seconda parte cioè dai condensatori-induttori in poi ...a me ha   chiesto la risposta forza di un circuito rl e la potenza media 
@@ -66,7 +66,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Sciunzi Berardino 
 
-### Anno non classificato 
+**<u>Anno non classificato</u>**
 
 - Luigi De Marco: 
 	- Teorema di Dini
@@ -77,7 +77,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Famularo Domenico 
 
-### Anno non classificato
+**<u>Anno non classificato</u>**
 - Anthony 
 	- margine di fase 
 	- margine di ampiezza 
@@ -103,7 +103,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- scrivere una fdt in forma di bode
 	- definizioni di filtro ( passa alto, passa alto, passa banda )
 	
-### 2012 2013
+**<u>2012 2013</u>**
 
 - PsykeDady
 	- Tutto su bibo stabilità da scrivere su un foglio
@@ -112,7 +112,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- cambiare risposta al gradino con rampa
 		- come cambia gradino + amplificatore
 
-### 2013 2014 
+**<u>2013 2014</u>**
 
 - Ivonne:
 	- modifiche sul progetto ( matlab ) :
@@ -125,7 +125,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- diagramma di nyquist in generale 
 	- margine di fase
 	
-### 2015 2016
+**<u>2015 2016</u>**
 
 - Cataldo
 	- margine di fase
@@ -135,7 +135,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- determinare funzione di trasferimento
 		- grafico del sistema (approssimativo)
 
-### 2016 2017
+**<u>2016 2017</u>**
 
 - Enri
 	- Sistemi del I e del II ordine 
@@ -143,7 +143,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Esercizio su carateristiche dei diagrammi di Bode
 	- disegno approsimativo di un sistema del primo ordine a fase non minima
 
-### 2017 2018 
+**<u>2017 2018</u>**
 
 - Simone 
 	- definizione scala logaritmica
@@ -151,7 +151,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- definizione formale di L trasformabile 
 	- Esercizio regione di convergenza
 
-### 2018 2019 
+**<u>2018 2019</u>**
 
 - Giovanni Giordano
 	- Esercizio 
@@ -205,13 +205,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Domenico Talia
 
-### Anno non classificato 
+**<u>Anno non classificato</u>**
 
 - Luigi De Marco
 
 	- Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD 
 
-### 2014 2015
+**<u>2014 2015</u>**
 
 - Cataldo 
 	- frammentazione della memoria e metodi per evitarla
@@ -220,7 +220,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- produttore-consumatore in java
 	- esercizi sulla precedenza dei processi con i semafori
 
-### 2016 2017 
+**<u>2016 2017</u>**
 
 - Anonimi
 	- Lettori scrittori
@@ -228,7 +228,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Struttura Raid e bit di parità
 	- Sistem Call
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Giovanni Giordano 
 	- semafori 
@@ -323,19 +323,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Marrozzo
 
-### Anno non classificato 
+**<u>Anno non classificato</u>**
 
 - Luigi De Marco 
 	- Esercizio sui semafori
 
-### 2016 2017 
+**<u>2016 2017</u>**
 - Anonimi
 	- Due Thread tipo A e tipo B che stampano AB AAB AAAB AAAAB
 	- race condition
 	- problemi interleaving
 	- collezioni non sincronizzate
 
-### 2017 2018
+**<u>2017 2018</u>**
 - Arbrane97 
 	- lettori e scrittori in lock
 	
@@ -380,7 +380,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Francesco Scarcello e Francesco Lupia 
 
-### Anno non classificato
+**<u>Anno non classificato</u>**
 
 - Giovanni
 	- Record d'attivazione
@@ -393,7 +393,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Francesco Scarcello
 
-### 2015 2016 
+**<u>2015 2016</u>**
 
  - Giovanni : 
 	- Bubble sort 
@@ -401,7 +401,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- esercizio compito modificato 
 	- esercizio con matrici 
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Davide
 	- Fondamenti informatica con Scarcello
@@ -421,14 +421,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Filippo Furfaro 
 
-### 2013 2014
+**<u>2013 2014</u>**
 
 - PsykeDady
 	- Chiave esterna, definizione formale
 	- metodi di Hashing lineare ( indicizzazione su Disco ) 
 	- Hashing estendibile ( indicizzazione su Disco )
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Alberto 
 	- definizione di dipendenza funzionale 
@@ -445,7 +445,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- phantom read
 	- read commited
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Batman 
 	- condizione per essere serializzabile
@@ -470,13 +470,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Amelio Alessia
  
-### 2016 2017 
+**<u>2016 2017</u>**
 
 - Carmen 
 	- btre
 	- definizione chiave esterna
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - FrancescoLux
 	- B-tree 
@@ -487,7 +487,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Definizione formale di dipendenza funzionale
 	- Procedura di inserimento in un B-Tree
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Batman 
 	- definizione di dipendenza funzionale 
@@ -500,7 +500,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- dov'è il contenuto informativo
 	- chiave esterna 
 
-### 2019 2020
+**<u>2019 2020</u>**
 
 - Viviana 
 	- definizione di chiave primaria
@@ -510,7 +510,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Palopoli Luigi
 
-### 2014 2015
+**<u>2014 2015</u>**
 
 - Cataldo:
 	- Busy waiting con codice
@@ -521,7 +521,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Fassetti Fabio
 
-### 2014 2015
+**<u>2014 2015</u>**
 
 - Cataldo : 
 	- definizione di coder/encoder 
@@ -533,7 +533,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Folino Gianluigi 
 
-### 2015 2016
+**<u>2015 2016</u>**
 
 - Cataldo 
 	- NFS mount ed export
@@ -541,7 +541,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- visualizzare processi e albero processi
 	- gentoo
 
-### 2016 2017
+**<u>2016 2017</u>**
 
 - Marco 
 	- Il meccanismo dei puntatori in C
@@ -552,13 +552,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- Differenza tra dizionari e set in python
 		- esercizio 
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Alberto 
 	- quote e comandi correlati
 	- nfs
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Anonimi
 	- Samba
@@ -572,7 +572,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- repository
 	- fstab
 
-### 2019 2020
+**<u>2019 2020</u>**
 
 - Viviana 
     - configurazione NFS lato server 
@@ -582,13 +582,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Ianni 
 
-### 2017 2018 
+**<u>2017 2018</u>**
 
 - Demoni
 - problemi in un esercizio 
 - esercizi
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Anonimi 
 	- Esercizi C 
@@ -605,7 +605,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Folino e Ianni 
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Anonime 
 	- Gestioni permessi
@@ -625,7 +625,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Bruno De Cindio
 
-### 2015 2016 
+**<u>2015 2016</u>**
 
 
 - Cataldo 
@@ -638,7 +638,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Angelo Furfaro
 
-### 2015 2016
+**<u>2015 2016</u>**
 
 - Anonimi 
 	- Builder patern
@@ -655,7 +655,7 @@ malloc(sizeof(int)*(i+1));
 	- Design By Contract 
 	- Proprietà di un software
 
-### 2018 2019 
+**<u>2018 2019</u>**
 
 - Emanu
     - Abstract Factory 
@@ -689,7 +689,7 @@ malloc(sizeof(int)*(i+1));
     - rmi con parte implementazione java
     - Liskov: un esempio che non rispetta il principio 
 
-### 2019 2020
+**<u>2019 2020</u>**
 
 - Anonimi
 	- Flyweight 
@@ -703,7 +703,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Argento Luciano
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Anonimi 
 	- Decorator
@@ -714,7 +714,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Angelo Furfaro e Argento Luciano
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Ciccio
 	- Quali sono le parti riutilizzabili del patter buuilder e vantaggi rispetto ad altri patter (vs Director )
@@ -764,7 +764,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Paolo Trunfio 
 
-### 2015 2016 
+**<u>2015 2016</u>**
 
 - Cataldo
 	- Bittorrent
@@ -774,7 +774,7 @@ malloc(sizeof(int)*(i+1));
 		- teoria
 		- esempio
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Anonimi 
 	- Go back
@@ -784,7 +784,7 @@ malloc(sizeof(int)*(i+1));
 		- cosa implementa tcp 
 		- similitudini con gbn e sr 
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Anonimi 
     - controllo di flusso TCP 
@@ -805,7 +805,7 @@ malloc(sizeof(int)*(i+1));
 
 ## Pasquale Legato 
 
-### 2015 2016
+**<u>2015 2016</u>**
 
 - Cataldo 
 	- statistiche ordinamento 
@@ -814,7 +814,7 @@ malloc(sizeof(int)*(i+1));
 	- modelli di bernoulli
 	- modello di erlang per sistemi m out of n
 
-### 2017 2018
+**<u>2017 2018</u>**
 
 - Giovanni
 	- Staistica ordinamento
@@ -826,7 +826,7 @@ malloc(sizeof(int)*(i+1));
 	- modello pc 
 	- intervallo di confidenza 
 
-### 2018 2019 
+**<u>2018 2019</u>**
 
 - FrancescoLux
     - Prove di bernoulli (ipotesi)
@@ -834,7 +834,7 @@ malloc(sizeof(int)*(i+1));
 
 ##  Rina Mary Mazza
 
-### 2018 2019
+**<u>2018 2019</u>**
 
 - Anonimi
     - Esercizio ( preso da prova scritta 2012 ) 
@@ -867,9 +867,538 @@ malloc(sizeof(int)*(i+1));
     - dimostrazione della distribuzione totale
     - distribuzione della somma di v.a.
 
+# Propagazione e Trasmissione 
+
+## Costanzo Sandra
+
+**<u>2015 2016</u>**
+
+- Cataldo 
+	- fibra ottica 
+	- leggi di snell
+	- linee di trasmissione con fasori 
+	- equazione telegrafisti
+
+**<u>2017 2018</u>**
+- FrancescoLux
+	- Corrente di conduzione e spostamento
+	- modellazione perdite in un cavo coassiale
+	- relazioni costitutive
+	- J nel caso di perdite
+	- annullamento riflessione incidenza normale
+	- cosa è un mezzo non magnetico
+	- avere indice rifrazione < 1
+	- profondità di penetrazione
+	- leggi di snell
+	- soluzioni viaggianti e soluzioni stazionarie
+	- intervallo di variazione
+	- polarizzazione di un onda 
+	- linea adattata comportamenti di tensione e corrente
+	- mezzi con perdite 
+	- derivata teporale della prima equazione di maxwell e dimostrazione legge di Faraday 
+	- tipi di adattamento come si collega lo stub 
+	- circuitazione 
+
+# Elettronica 
+
+## Felice Crupi 
+
+**<u>2015 2016</u>**
+
+- Anonimi
+	- Potenza complessa di un resistore in serie con un condensatore in funzione di C e R 
+- FrangescO 
+	- dimostrazione Energia immaganazzinata nel condensatore 
+	- formula capacità per condensatore facce piane parallele
+	- potenza reattiva
+
+# Ricerca Operativa 
+
+## Maria Flavia Monaco
+
+**<u>2016 2017</u>**
+
+- Anna Ricca
+	- Dualità forte 
+	- fualità forte nel simplesso su rete 
+	- (per calcolare i costi ridotti senza usare tableau come fare nell algoritmo del simplesso su rete-->pag7 simplesso su rete) 
+	- Matrici TUM
+	- Formulare problema flusso minimo 
+	- simplesso su rete
+	- sab in un problema di flusso su rete 
+		- albero ricoprente
+	- trasformazioni da Base ad albero e viceversa
+	- Definizione costi ridotti
+	- Algoritmo di Ford&F. con dimostrazione
+
+**<u>2017 2018</u>**
+
+- Anonimi
+	- condizioni di arresto simplesso
+	- Calcolo costi ridotti 
+	- matrici TUM
+		- importanza
+	- Problema del commesso viaggiatore
+	- Teorema fondamentale PL 
+	- Perché l'insieme delle soluzioni ottime ha cardinalità 1 o inf se non vuoto
+	- `s.a.b. <=> vertice per omega(P)`
+	- dimostrazione del lemma : albero ricoprente &rarr; triangolare superiore
+	- base per flusso di rete 
+  
+**<u>2018 2019</u>**
+
+- Anonimi 
+    - Teorema fondamentale 
+    - Teoremi di dualità (3+2 corollari ) 
+    - Teorema di Ford and Fulkerson  ( 3 enunciati )
+    - Corrispondenza base-alberi 
+    - TUM
+    - Proprietà regione ammissibile 
+    - problema PL 
+    - problema PLI 
+    - teorema fondamentale della PL e formulazione geometrica
+    - Regione ammissibile di un generico problema di PL 
+    - Problema della PLI e relazione con PL associato (rilassato lineare )
+    - Quando esiste una soluzione ottima non di base? mostrarlo graficamente 
+        - un esempio di unica soluzione ottima 
+        - infinite soluzioni ottime ( la soluzione sta tra due vertici, i punti son di base e ciò che sta in mezzo non di base ) 
+        - fare di entrambi la funzione obiettivo 
+    - cosa sono i coefficenti ridotti e come ricavarli 
+    - definizione di soluzione di base 
+    - quando è più facile risolvere il PLI rispetto a PL
+    - disegnare regione ammissibile PLI
+    - quando PLI è inammissibile
+    - la regione ammissibile del PLI è convessa ? (no ) 
+    - la regione ammissibile del PLI è chiusa ? ( no) 
+        - regione PLI è un insieme di punti senza proprietà matematica 
+    - che relazione c'è tra z*(pl) e z*(pli)
+    - dimostrare che le matrici d'incidenza di un grafo siano TUM 
+    - teorema delle relazioni di complementarietà 
+    - coppia primale/duale simmetrica, forma e proprietà
+    - formulazione problema di flusso di costo minimo e il suo duale 
+    - se il primale è degenere il duale ammette infinite soluzioni ottime 
+    - caratterizzazioni delle basi del problem di flusso di costo minimo 
+    - la soluzione ottima del max flusso è di base ? 
+- Angelo 
+    - criteri di bound per Branch&Bound
+    - intervallo `[L,U]` a che serve
+    - c'è un caso in cui l'algoritmo di b&B si ferma su nodo radice ? 
+        - risposta si: se tutti gli estremi del poliero sono interi
+        - A è tum
+    - matrici tum 
+    - teorema fondamentale PL 
+    - ipotesi della PL 
+    - &#91;&#949;1,&#949;2&#93; una delle due può essere finita, dal punto di vista geometrico qual'è il significato 
+        - riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi) 
+    - teorema debole e forte
+    - formula del duale
+    - simplesso esponenziale 
+    - teorema ford and Fulkerson 
+    - perché il duale del massimo flusso ha variabili appartenenti a {0,1}
+    - dal continuo si passa a variabili {0,1} come mai ?  (stessa domanda di sopra)
+        - grazie alla matrice TUM
+
+## Maria Flavia Monaco e Marcello Sammarra
+
+**<u>2015 2016</u>**
+
+ - Cataldo 
+	- dualità forte
+
+# Reti Logiche e Calcolatori
+
+## Fabio Fassetti 
+
+**<u>2015 2016</u>**
+
+- Utenti Anonimi e testimonianze
+	- Demux, schema interno
+	- Ram definizione e schema di una cella
+	- come si usano i flag assembly 
+	- principio di dualità 
+	- definizione di implicante primo
+	- operatori funzionamente completi
+	- differenza tra mul e imul
+	- sistema controllo cablato
+	- esercizio: quadword in due registri
+
+## Angiulli Fabrizio
+
+**<u>2017 2018</u>**
+
+- Al031
+	- interruzione 
+	- segnali beta
+	- reti sequenziali 
+	- flip flop
+	- principio dualità
+	- demux
+	- livello dei circuiti 
+	- mux
+	- ram
+	- macchina a regisri ( registro lr a 64bit con fetch )
+	- MBR 
+	- Mappa di karnaugh
+	- Meccanismo interruzione 
+	- schema circuitale
+	- implicante e proprietà
+	- funzioni f
+	- decoder
+	- mintermine e maxtermine 
+	- MAR
+	- ROM
+	- Parte Operativa (Struttura e indirizzi )
+	- Reti combinatorie
+	- Reti sincrone e asincrone 
+	- parte di controllo e disegno 
+	- Tavola rom esercizio RTL
+	- funzione irridondante 
+	- implicanti e implicanti primi
+	- transcoder
+	- codice operativo 
+	- organizzazione 3 tipi 
+	- bus 
+	- ritardi 
+	- full adder 
+	- ritardo full adder 
+	- livelli full adder 
+	- alu +  struttura 
+	- somma binaria con riporto 
+	- overflow 
+	- rapport clock ritardo
+	- algoritmo minimizzazione automa
 
 
-( continua da 2015/16->Propagazione e Trasmissione->Costanzo)
+## Angiulli Fabrizio e Fassetti Fabio
+
+**<u>2016 2017</u>**
+
+- Giovanni 
+	- Multiplexer 
+	- ritardi Tau nelle reti
+	- addizionatore a n bit 
+	- parte di controllo cablata e micro programmata
+
+# Analisi 1 
+
+## Riey e Solferino 
+
+**<u>2017 2018</u>**
+
+- Giovanni 
+	- Condizione necessaria di convergenza 
+	- Funzione inversa 
+	- Criterio del rapporto
+	- Criterio della radice 
+	- Teorema fondamentale del calcolo integrale 
+
+## Sciunzi Berardino
+
+**<u>2017 2018</u>**
+
+- Giovanni 
+	- Teorema del calcolo integrale
+	- Derivata e^sin
+	- Fermat
+- Anonimi 
+	- Fare la derivata di un logaritmo composto con il cosenz
+	- Teorema di Lagrange con dimostrazione
+	- Teorema della sviluppabilità in serie di Taylod con dimostrazione 
+	- Teorema della permanenza del segno con dimostrazione
+
+# Analisi Matematica 2
+
+## Sciuzi Berardino
+
+**<u>2016 2017</u>**
+
+- Anonimi
+	- Teorema moltiplicatori di lagrange
+	- Max modulo
+	- spazio in R2
+	- prodotto scalare e norma
+	- come si ricava la sviluppabilità in serie di Laurent
+	- teorema dei residui
+	- passaggio dalla serie alla trasformata di fourier
+	- convergenza puntuale uniforme
+	- Liuoville
+	- base della serie di fourier 
+	- teorema di dini 
+	- teorema di cauchy 
+	- teorema di unicità 
+	- come si ricavano le condizioni di cauchy Riemann
+	- integrale di superfice
+
+**<u>2017 2018</u>**
+
+- FrancescoLux 
+	- teorema moltiplicatori di lagrange
+	- teorema di liouville
+- Giovanni Giordano 
+	- teorema moltiplicatori lagrange
+	- teorema dei residui 
+- Anonime:
+	- liouville
+	- teorema residui 
+	- integrali curvilinei complessi 
+	- dini 
+	- c1 implica differenziabilita 
+	- serie di fourier 
+
+##  Colao 
+
+**<u>2017 2018</u>**
+
+- Anonimi 
+	- argomento a piacere
+	- teorema di Morera
+	- dimostrazione che di funzione `Analitica->olomorfa` e viceversa 
+
+## De Luca 
+
+**<u>2017 2018</u>**
+
+- Anonimi
+	- calcolo del lavoro in un campo vetoriale data una curva qualsiasi e due punti 
+	- irrotazionalità e campo conservativo
+	- definizione di rotore e uso 
+	- data un equazione differenziale che la soluzione in un punto dato
+	- verificare data un eq differenziale che la soluzione in un punto dato è unica  (verifica della lipchitzianità)
 
 
+# Programmazione orientata ad Oggetti
+
+## Libero Nigro
+
+**<u>2016 2017</u>**
+
+- Anonime 
+	- Reverse (invertire l'ordine ) di una linked list con puntatore singolo e testa ricorsiva 
+	- Equals di albero binario ricorsivo
+	- Dimostrazione merge sort
+	- svolgere esercizi del compito
+	- utilizzare backtracking
+
+**<u>2017 2018</u>**
+
+- Giovanni 
+	- stack
+	- stack astratto
+	- stack concatenato
+	- dimostrazione merge sort 
+	- backtracking 
+
+**<u>2019 2020</u>**
+
+- Andrea 
+    - Operazioni di Visite sugli alberi 
+    - Calcolo determinante utilizzando il metodo di LaPlace
+    - Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente 
+    - Lettura file interi con modifica in loco 
+    - Metodi add/remove su LinkedList Ricorsiva
+    - Metodi add/remove/iterator su Heap
+
+# Matematica Computazionale
+
+## Astorino Annabella
+
+**<u>2016 2017</u>**
+
+- Giovanni 
+	- proprietà dei logaritmi 
+	- ellisse
+	- dimostrazione 
+	- formule chiuse e aperte
+
+**<u>2017 2018</u>**
+
+- Davide 
+	- dimostrazione di calcolo proposizionale 
+	- definizioni di logica del primo ordine 
+	- proprietà trigonometriche 
+	- dimostrazioni trigonometriche
+	- proprietà equazioni logaritmiche esponenziali
+
+# Algebra lineare e matematica discreta
+
+## Dmitry Kvasov 
+
+**<u>2016 2017</u>**
+
+- Giovanni 
+	- esercizio su determinante di una matrice 
+	- dimostrazione delle leggi di demorgan (insiemi)
+
+## Yaroslav Sergeyev
+
+**<u>2017 2018</u>**
+
+- Davide
+	- basi, applicazioni e spazi vettoriali
+	- esercizi di calcolo combinatorio 
+	- esercizi di insiemistica 
+	- dimostrazioni per assurdo e/o contrapposizione
+	- dimostrazione del teorema delle dimensioni 
+- Francesco
+	- serializzabilita
+	- esempio schedule view serializzable ma non conflict serializzable
+	- 2PL cosa implica
+	- cascadeless con esempio 
+	- hashing lineare
+	- livelli di isolamento 
+
+# Fisica 12CFU e 9CFU
+
+## Crossetti Nanni
+
+**<u>2017 2018</u>**
+
+- Giovanni Giordano 
+	- Meccanica e Termodinamica 
+	- Isoterme
+	- Ricavare la gittata
+- Anonimi
+	- dimostrare lavoro dell'adiabatica
+	- forza elastica
+	- moto armonico 
+	- moto accelerato 
+	- esercizi sbagliati su compito 
+
+
+## Mazzulla 
+
+**<u>2017 2018</u>**
+
+- FrancescoLux
+	- Gauss su cilindro
+	- definizione di lavoro 
+	- esercizi errati del compito 
+	- come ricavare modulo direzione e verso di un campo magnetico generato da corrente in un punto p distante r 
+	- momento angolare con disegno 
+	- carica all'interno di un condensatore nel quale è presente un CE. 
+		- ricavare accelerazione carica, stato di moto ecc...
+	- forze conservative e non 
+	- gauss su guscio 
+	- carica in un campo magnetico 
+	- forza centripeta
+- GiovanniN
+	- Attrito volvente
+	- Rotazione con formule velocità spostamento e accelerazione
+	- Teorema di Gauss
+	- Gauss su campo magnetico (applicabilità)
+	- Errori nel compito 
+- Martina 
+	- Velocità 
+	- accelerazione 
+	- piano inclinato
+	- urti 
+	- moto parabolico 
+	- corpo rigido
+	- termodinamica (tutta)
+	- teoria cinetica
+
+
+# Robotica
+
+## Muraca 
+
+**<u>2018 2019</u>**
+
+- Fabio 
+    - pianificazione della traiettoria nel caso di una circonferenza ( nel progetto avevo un quadrato) 
+    - semi circonferenza descritta in R3 con matrice di rototraslazione per la trasformazione 
+    - cinematica differenziale
+    - matrice jacobiana nel caso delle velocità lineari e non quelle angolari
+        - quando presenta singolarità ? 
+
+# Elettromagnetismo
+
+## Arnone e Sandra Costanzo
+
+**<u>2017 2018</u>**
+
+- Giovanni 
+	- Equazioni di maxwell e potenziale elettrostatico
+	- Contenuto dei suoi appunti
+
+# Reti di Telecomunicazione
+
+## De Rango
+
+**<u>2017 2018</u>**
+
+- Anonimi 
+	- fast retrasmitt e fast recovery
+	- perché nel calcolo RTT si tiene conto della deviazione media
+	- Cosa succede ad RTT in caso di reti lente rispetto a veloci 
+
+**<u>2018 2019</u>**
+
+- Giovanni Giordano 
+    - Slow Start 
+    - Congestion Avoidance 
+    - TCP
+    - congestione 
+    - media
+    - varianza
+    - jacomson
+    - karn
+    - SRTT
+- Anonimi
+    - fast retrasmitt
+    - fast recovery 
+
+## Tropea, Santamaria o Raimondo
+
+**<u>2018 2019</u>**
+
+- Anonimi
+  - partono dalla tesina e esplorano i protocolli usati
+
+# Fondamenti di telecomunicazioni
+
+## Aloi 
+
+**<u>2017 2018</u>**
+
+- Martorello96
+	- Teo di parseval
+	- shannon
+	- algoritmo di gram shmit
+	- interferenze
+	- intersimbolo con criterio di nyquist
+	- criteri di decisione 
+	- struttura ricevitore 
+	- matched filter 
+	- convoluzione
+	- correlazione
+
+# Laboratorio di automatica
+
+## Domenico Famularo
+
+**<u>2017 2018</u>**
+
+- Fabio 
+    - PID 
+    - DFT
+    - Filtri
+
+# Qualità del servizio 
+
+## Amedeo 
+
+**<u>2017 2018</u>**
+
+- Matteo Groilino
+	- ICN
+	- SDN
+	- SDN
+	- MPLS
+	- Micro e Macromobilità
+	- Tipologia di attacchi informatici attivi e passivi
+	- Tecniche di cifratura simmetriche e asimmetriche 
+	- IPSEC
+	- Differenza tra IntServ e DiffServ
+	- IPv4 e IPv6
 
