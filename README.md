@@ -61,6 +61,7 @@ segue un esempio:
 - lista
 - con i punti
 	- innescati
+	- basta un tab prima del trattino
 
 1. lista
 2. numerata
