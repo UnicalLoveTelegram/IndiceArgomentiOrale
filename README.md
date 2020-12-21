@@ -41,6 +41,9 @@ Ogni file è scritto con sintassi **Markdown**
 
 ### Markdown: partecipare in scrittura
 
+Più che scaricare il progetto, farne una fork o altro, sarebbe gradito che apriste una ISSUE rispettando il template donatovi.
+Tuttavia, potreste anche voler fare una fork e operare in markdown... ecco a voi un piccolo tutorial:
+
 per partecipare in scrittura dovete tenere conto che il file è scritto in **Markdown** con sintassi <u>mista a HTML</u>
 
 segue un esempio:
@@ -77,7 +80,7 @@ codice a blocco anonimo
 ​```java
 public class Java { 
 	codice a blocco con sintassi di java 
-	( dei buoni renderer  di markfown evidenzieranno la sintassi)
+	( dei buoni renderer  di markdown evidenzieranno la sintassi)
 }
 ​```
 
@@ -99,7 +102,7 @@ Per la stilatura di markdown, consiglio il software [Typora
 
 Ma esistono comunque altri software validi.  
 
-Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code **e *genereremo il pdf con Typora* per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
+Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e *genereremo il pdf con Typora* per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
 
 #### Alcuni consigli di buona scrittura 
 
