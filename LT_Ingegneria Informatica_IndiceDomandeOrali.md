@@ -17,7 +17,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Sistemi Operativi](#sistemi-operativi)
 	- [Domenico Talia](#domenico-talia)
 	- [Marrozzo](#marrozzo)
-- [Fondamenti di informativa](#fondamenti-di-informativa)
+- [Fondamenti di informatica](#fondamenti-di-informatica)
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
 - [Basi di Dati](#basi-di-dati)
@@ -454,7 +454,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- diagramma di stato nei thread di java 
 
 
-# Fondamenti di informativa
+# Fondamenti di informatica
 
 ## Francesco Scarcello e Francesco Lupia 
 
