@@ -29,6 +29,7 @@ L'intera struttura è basata su più file, uno a corso di laurea:
 - [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Telecomunicazioni_IndiceDomandeOrali.md)
 - [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Automazione_IndiceDomandeOrali.md)
 
+I file sono perfettamente visionabili su github stesso, ma verrà comunque generato un pdf e messo nella directory pdf del progetto per ogni modifica
 
 Ogni file poi è strutturato a livelli:
 
@@ -96,7 +97,9 @@ u accentata = &ugrave;
 Per la stilatura di markdown, consiglio il software [Typora
 ](https://typora.io) Oppure l'estesione `AllInOneMarkdown` per [Visual Studio Code](https://code.visualstudio.com/)
 
-Ma esistono comunque altri software validi
+Ma esistono comunque altri software validi.  
+
+Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code **e *genereremo il pdf con Typora* per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
 
 #### Alcuni consigli di buona scrittura 
 
