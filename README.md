@@ -16,26 +16,25 @@ Se vuoi partecipare, <u>invia le domande al founder del gruppo su Telegram</u> o
 Ricorda che comunque ogni aiuto è gradito dalla community e da chi dopo di te studierà quegli argomenti. Ti ringraziamo per la partecipazione e speriamo di poterti aiutare! 
 Ricorda sempre di indicare il professore o l’esercitatore con il quale hai affrontato l’esame!
 
-
 ## partecipare o sfogliare il file
 
 L'intera struttura è basata su più file, uno a corso di laurea:
 
-- [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Informatica_IndiceDomandeOrali.md)
-- [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
-- [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Alimentare_IndiceDomandeOrali.md)
-- [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Informatica_IndiceDomandeOrali.md)
-- [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
-- [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Telecomunicazioni_IndiceDomandeOrali.md)
-- [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Automazione_IndiceDomandeOrali.md)
+-   [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Informatica_IndiceDomandeOrali.md)
+-   [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
+-   [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Alimentare_IndiceDomandeOrali.md)
+-   [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Informatica_IndiceDomandeOrali.md)
+-   [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
+-   [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Telecomunicazioni_IndiceDomandeOrali.md)
+-   [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Automazione_IndiceDomandeOrali.md)
 
 I file sono perfettamente visionabili su github stesso, ma verrà comunque generato un pdf e messo nella directory pdf del progetto per ogni modifica
 
 Ogni file poi è strutturato a livelli:
 
-- materia (Titolo H1)
-  - professore (Titolo H2)
-    - anno (Nessun titolo, font **bold** e <u>underlined</u>)
+-   materia (Titolo H1)
+    -   professore (Titolo H2)
+        -   anno (Nessun titolo, font **bold** e <u>underlined</u>)
 
 Ogni file è scritto con sintassi **Markdown**
 
@@ -103,14 +102,13 @@ Per la stilatura di markdown, consiglio il software [Typora
 
 Ma esistono comunque altri software validi.  
 
-Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e *genereremo il pdf con Typora* per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
+Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e _genereremo il pdf con Typora_ per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
 
-#### Alcuni consigli di buona scrittura 
+#### Alcuni consigli di buona scrittura
 
-- Lasciare almeno un rigo vuoto tra un titolo e un altro
-- meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
-- meglio utilizzare codice inline o grassetto
-
+-   Lasciare almeno un rigo vuoto tra un titolo e un altro
+-   meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
+-   meglio utilizzare codice inline o grassetto
 
 ### leggere nel  file
 
