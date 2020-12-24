@@ -24,7 +24,7 @@ L'intera struttura è basata su più file, uno a corso di laurea:
 -   [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
 -   [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Alimentare_IndiceDomandeOrali.md)
 -   [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Informatica_IndiceDomandeOrali.md)
--   [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
+-   [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
 -   [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Telecomunicazioni_IndiceDomandeOrali.md)
 -   [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Automazione_IndiceDomandeOrali.md)
 
