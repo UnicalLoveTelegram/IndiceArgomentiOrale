@@ -505,6 +505,19 @@ rc(X):- u(X), not(r(X)).
     - frame problem e perché strips non soffre del problema del frame 
     - approssimazione lower bound-upperbound con calcolo greatest lower bound 
 
+# Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
+
+## Palopoli Luigi
+
+**<u>2020 2021</u>**
+-Anonimi
+ - hill climb simulated annealing
+ - planning
+ - nucleolo stable set
+ - regole inferenza
+ - entailment NP-C perché
+ - gsat wsat con random walking
+
 # Sistemi Informativi
 
 ## Cassavia
