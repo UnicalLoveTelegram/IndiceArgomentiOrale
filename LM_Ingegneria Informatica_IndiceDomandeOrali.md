@@ -515,7 +515,7 @@ rc(X):- u(X), not(r(X)).
  - planning
  - nucleolo stable set
  - regole inferenza
- - entailment NP-C perché
+ - entailment  perché è Pi P2-C
  - gsat wsat con random walking
 
 # Sistemi Informativi
