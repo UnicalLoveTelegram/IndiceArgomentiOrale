@@ -507,7 +507,7 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2020 2021</u>**
 
-- Prima testimonianza anonima
+-Prima testimonianza anonima
  - hill climb simulated annealing
  - planning
  - nucleolo stable set
