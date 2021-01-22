@@ -507,20 +507,20 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2020 2021</u>**
 
-- Prima testimonianza anonima
+- Anonimi
     - hill climb simulated annealing
     - planning
     - nucleolo stable set
     - regole inferenza
     - entailment in logica di default  perché è Pi P2-C?
     - gsat wsat con random walking
-
-- Seconda testimonianza anonima
-    - breadth first
+- breadth first
+    
     - Iterative broadening e come si fa con A*
     - Nucleolo di nuovo
     - Compilazione di conoscenza
     - datalog or not
+    
 
 # Sistemi Informativi
 
