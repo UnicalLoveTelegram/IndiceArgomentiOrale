@@ -514,8 +514,7 @@ rc(X):- u(X), not(r(X)).
     - regole inferenza
     - entailment in logica di default  perché è Pi P2-C?
     - gsat wsat con random walking
-- breadth first
-    
+	- breadth first
     - Iterative broadening e come si fa con A*
     - Nucleolo di nuovo
     - Compilazione di conoscenza
