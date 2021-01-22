@@ -508,18 +508,19 @@ rc(X):- u(X), not(r(X)).
 **<u>2020 2021</u>**
 
 - Anonimi
-    - hill climb simulated annealing
-    - planning
-    - nucleolo stable set
-    - regole inferenza
-    - entailment in logica di default  perché è Pi P2-C?
-    - gsat wsat con random walking
-	- breadth first
-    - Iterative broadening e come si fa con A*
-    - Nucleolo di nuovo
-    - Compilazione di conoscenza
-    - datalog or not
-    
+    - primo interrogato
+        - hill climb simulated annealing
+        - planning
+        - nucleolo stable set
+        - regole inferenza
+        - entailment in logica di default  perché è Pi P2-C?
+	    - gsat wsat con random walking
+    - secondo interrogato
+        - breadth first
+        - Iterative broadening e come si fa con A*
+        - Nucleolo di nuovo
+        - Compilazione di conoscenza
+        - datalog or not
 
 # Sistemi Informativi
 
