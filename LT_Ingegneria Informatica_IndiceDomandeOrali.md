@@ -9,7 +9,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
 - [Piattaforme software per applicazioni web](#piattaforme-software-applicazioni-web)
-        - [Sergio Flesca](#sergio-flesca)
+	- [Sergio Flesca](#sergio-flesca)
 	- [Francesco Scala](#scala)
 - [Elettrotecnica](#elettrotecnica)
 	- [Felice Crupi](#felice-crupi)
