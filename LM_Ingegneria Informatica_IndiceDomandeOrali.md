@@ -71,6 +71,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - caratteristiche di un programma in parallelo
     - combiner in mapreduce
     - numero di reducer e mapper
+    - watermark
+    - wordlenghtcount
      
 
 # Architetture e programmazione dei sistemi di elaborazione 
