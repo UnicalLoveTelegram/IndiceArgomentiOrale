@@ -46,21 +46,22 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2020 2021</u>**
 
 - Anonimi
-    -parametri mpi speedrun tempo esecuzione parallelo e sequenziale
-    -lambda expression
-    -benefici java stream
-    -differenze spark hadoop
-    -RDD
-    -hama
-    -costo del calcolo bsp
-    -zookeper
-    -trajectory discovery
-    -java stream lazy
-    -legge amdhal
-    -wordcount
-    -mapper e reducer
-    -spark e hadoop convenienza
-    -bsp in generale
+
+    - parametri mpi speedrun tempo esecuzione parallelo e sequenziale
+    - lambda expression
+    - benefici java stream
+    - differenze spark hadoop
+    - RDD
+    - hama
+    - costo del calcolo bsp
+    - zookeper
+    - trajectory discovery
+    - java stream lazy
+    - legge amdhal
+    - wordcount
+    - mapper e reducer
+    - spark e hadoop convenienza
+    - bsp in generale
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
