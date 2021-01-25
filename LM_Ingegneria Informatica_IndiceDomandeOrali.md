@@ -36,6 +36,31 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
+- [Modelli e Tecniche per i Big Data](#modelli-tecniche-big-data)
+  - [Paolo Trunfio](#paolo-trunfio)
+
+# Modelli e Tecniche per i Big Data
+
+## Paolo Trunfio 
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    -parametri mpi speedrun tempo esecuzione parallelo e sequenziale
+    -lambda expression
+    -benefici java stream
+    -differenze spark hadoop
+    -RDD
+    -hama
+    -costo del calcolo bsp
+    -zookeper
+    -trajectory discovery
+    -java stream lazy
+    -legge amdhal
+    -wordcount
+    -mapper e reducer
+    -spark e hadoop convenienza
+    -bsp in generale
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
