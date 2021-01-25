@@ -67,6 +67,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - wordcount reverse (chiave lunghezza parole)
     - logica di hive
     - legge di amdhal
+    - comunicazione in MPI sincrona e asincrona e meccanismi
+    - caratteristiche di un programma in parallelo
+     
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
