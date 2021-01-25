@@ -70,6 +70,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - comunicazione in MPI sincrona e asincrona e meccanismi
     - caratteristiche di un programma in parallelo
     - combiner in mapreduce
+    - numero di reducer e mapper
      
 
 # Architetture e programmazione dei sistemi di elaborazione 
