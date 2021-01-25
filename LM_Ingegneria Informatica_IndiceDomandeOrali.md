@@ -69,6 +69,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - legge di amdhal
     - comunicazione in MPI sincrona e asincrona e meccanismi
     - caratteristiche di un programma in parallelo
+    - combiner in mapreduce
      
 
 # Architetture e programmazione dei sistemi di elaborazione 
