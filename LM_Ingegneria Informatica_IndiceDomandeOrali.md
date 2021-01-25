@@ -66,6 +66,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - spark lazy execution
     - wordcount reverse (chiave lunghezza parole)
     - logica di hive
+    - legge di amdhal
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
