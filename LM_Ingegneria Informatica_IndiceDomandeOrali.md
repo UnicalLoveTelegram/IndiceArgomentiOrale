@@ -65,6 +65,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - send receive non blocanti e bloccanti
     - spark lazy execution
     - wordcount reverse (chiave lunghezza parole)
+    - logica di hive
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
