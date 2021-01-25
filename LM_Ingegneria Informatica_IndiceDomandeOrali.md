@@ -62,6 +62,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - mapper e reducer
     - spark e hadoop convenienza
     - bsp in generale
+    - send receive non blocanti e bloccanti
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
