@@ -8,6 +8,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
+- [Piattaforme software per applicazioni web]
+        - [Sergio Flesca](#sergio-flesca)
+	- [Francesco Scala](#scala)
 - [Elettrotecnica](#elettrotecnica)
 	- [Felice Crupi](#felice-crupi)
 - [Metodi matematici per l'ingegneria dell'informazione](#metodi-matematici-per-lingegneria-dellinformazione)
@@ -129,7 +132,25 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- esercizio di backtracking 
 	- dimostrazione distanza tra stringhe 
 
-	
+
+# Piattaforme software per applicazioni web
+
+## Sergio Flesca
+
+**<u>2018 2019</u>**
+
+- Anonimi
+     - Stateful EJB
+     - web services
+     - ajax
+     - stateful session bean
+     - componenti angular
+     - lock nel progetto, come si fa? JSF o Angular
+
+- Giovanni Giordano
+    - componente angular cosa contiene
+     
+
 # Elettrotecnica 
 
 ## Felice Crupi 
