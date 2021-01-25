@@ -63,7 +63,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - spark e hadoop convenienza
     - bsp in generale
     - send receive non blocanti e bloccanti
-    - spark lezy execution
+    - spark lazy execution
+    - wordcount reverse (chiave lunghezza parole)
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
