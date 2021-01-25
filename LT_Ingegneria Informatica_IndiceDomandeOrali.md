@@ -8,7 +8,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
-- [Piattaforme software per applicazioni web]
+- [Piattaforme software per applicazioni web](#piattaforme-software-applicazioni-web)
         - [Sergio Flesca](#sergio-flesca)
 	- [Francesco Scala](#scala)
 - [Elettrotecnica](#elettrotecnica)
