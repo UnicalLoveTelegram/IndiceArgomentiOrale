@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
+  - [Paolo Trunfio](#paolo-trunfio)
 - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
   - [Fabrizio Angiulli](#fabrizio-angiulli)
 - [Crittografia e analisi reti sociali](#crittografia-e-analisi-reti-sociali)
@@ -36,8 +38,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
-- [Modelli e Tecniche per i Big Data](#modelli-tecniche-big-data)
-  - [Paolo Trunfio](#paolo-trunfio)
 
 # Modelli e Tecniche per i Big Data
 
