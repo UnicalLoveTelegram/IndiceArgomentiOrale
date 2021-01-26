@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Strategie e Politiche Aziendali](#strategie-politiche-aziendali)
+  - [Patrizia Pastore](#pastore)
 - [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
   - [Paolo Trunfio](#paolo-trunfio)
 - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
@@ -39,6 +41,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
 
+# Strategie e Politiche Aziendali
+
+## Patrizia Pastore
+
+**<u>2020 2021</u>
+
+- Anonimi
+	- cosa faresti da imprenditore della tua azienda (cyber security), ovvero quali strategie sceglieresti tra quelle viste nel corso
+	- classificazione outsourcing
+	- scelta di un settore in cui competere e forze di porter
+	- esempi a lezione
+	-  la valutazione comprende i punteggi dati al test online di fine corso (crocette) e i lavori in ppt di gruppo
 # Modelli e Tecniche per i Big Data
 
 ## Paolo Trunfio 
