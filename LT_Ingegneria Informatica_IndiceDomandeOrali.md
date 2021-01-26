@@ -564,8 +564,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Scedule serializzabile
 	- schedule seriale 
 	- Phantom read
-	- dimostrazione 2pl implica confict equivalence 
+	- dimostrazione 2pl implica confict equivalence
 
+**<u>2020 2021</u>**
+
+- Anonimi
+	- Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
+	- perché viene garantita in 2pl la cascadeless
 ## Amelio Alessia
  
 **<u>2016 2017</u>**
@@ -603,6 +608,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Viviana 
 	- definizione di chiave primaria
 	- differenza tra btree e b+tree
+**<u>2020 2021</u>**
+## Giuseppe Nardiello
+- Anonimi
+	- una delle tre definizioni formali chiave, chiave esterna, dipendenza funzionale
+	- differenza tra hashing statico e dinamico ed in particolare hashing estendibile
 
 # Calcolatori Elettronici
 
