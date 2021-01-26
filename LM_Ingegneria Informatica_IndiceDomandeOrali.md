@@ -6,7 +6,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
 - [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
-  - [Patrizia Pastore](#pastore)
+  - [Patrizia Pastore](#patrizia-pastore)
 - [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
   - [Paolo Trunfio](#paolo-trunfio)
 - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
