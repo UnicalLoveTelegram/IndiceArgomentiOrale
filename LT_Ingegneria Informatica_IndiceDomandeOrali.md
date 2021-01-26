@@ -25,6 +25,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Basi di Dati](#basi-di-dati)
 	- [Filippo Furfaro](#filippo-furfaro)
 	- [Amelio Alessia](#amelio-alessia)
+	- [Giuseppe Nardiello](#giuseppe-nardiello)
 - [Calcolatori Elettronici](#calcolatori-elettronici)
 	- [Palopoli Luigi](#palopoli-luigi)
 	- [Fassetti Fabio](#fassetti-fabio)
