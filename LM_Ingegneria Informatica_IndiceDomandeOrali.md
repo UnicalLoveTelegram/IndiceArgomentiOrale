@@ -5,7 +5,7 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
-- [Strategie e Politiche Aziendali](#strategie-politiche-aziendali)
+- [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
   - [Patrizia Pastore](#pastore)
 - [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
   - [Paolo Trunfio](#paolo-trunfio)
