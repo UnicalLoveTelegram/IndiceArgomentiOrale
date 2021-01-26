@@ -45,7 +45,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Patrizia Pastore
 
-**<u>2020 2021</u>
+**<u>2020 2021</u>**
 
 - Anonimi
 	- cosa faresti da imprenditore della tua azienda (cyber security), ovvero quali strategie sceglieresti tra quelle viste nel corso
