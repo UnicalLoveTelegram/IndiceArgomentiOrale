@@ -95,6 +95,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Dario
 	-  A me ha chiesto il counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
 	
+
 **<u>2015 2016</u>**
 - Salvatore Riga 
 	- come srotolare una ricorsione 
@@ -149,9 +150,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Giovanni Giordano
     - componente angular cosa contiene
-     
+    
 
-# Elettrotecnica 
+**<u>2020 2021</u>**
+
+- Gabriele Citrigno
+	- ha chiesto il progetto progetto (ho fatto un sito di aste) 
+		- ha voluto sapere come avessi implementato il sistema di offerte  nei service.
+	- ha chiesto come si dovrebbe fare in angular per implementare un modo che faccia visualizzare una pagina personalizzata per ogni prodotto, ma mi ha chiesto solo come si dovrebbe fare a livello teorico 	
+
+
+# Elettrotecnica
 
 ## Felice Crupi 
 
@@ -202,6 +211,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- scrivere una fdt in forma di bode
 	- definizioni di filtro ( passa alto, passa alto, passa banda )
 	
+
 **<u>2012 2013</u>**
 
 - PsykeDady
@@ -224,6 +234,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- diagramma di nyquist in generale 
 	- margine di fase
 	
+
 **<u>2015 2016</u>**
 
 - Cataldo
@@ -581,7 +592,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- perché viene garantita in 2pl la cascadeless
 
 ## Amelio Alessia
- 
+
 **<u>2016 2017</u>**
 
 - Carmen 
@@ -1065,6 +1076,7 @@ malloc(sizeof(int)*(i+1));
 	- dimostrazione del lemma : albero ricoprente &rarr; triangolare superiore
 	- base per flusso di rete 
   
+
 **<u>2018 2019</u>**
 
 - Anonimi 
