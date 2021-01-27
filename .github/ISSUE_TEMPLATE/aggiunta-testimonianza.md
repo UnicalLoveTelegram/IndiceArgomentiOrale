@@ -2,7 +2,7 @@
 name: Aggiunta testimonianza
 about: 'come aggiungere una testimonianza al file '
 title: Aggiunta testimonianza NOMEMATERIA-ANNO-NOMESTUDENTE
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
