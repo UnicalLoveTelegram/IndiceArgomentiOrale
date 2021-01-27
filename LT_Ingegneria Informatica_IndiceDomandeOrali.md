@@ -572,12 +572,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
 	- perché viene garantita in 2pl la cascadeless
+
 ## Amelio Alessia
  
 **<u>2016 2017</u>**
 
 - Carmen 
-	- btre
+	- btree
 	- definizione chiave esterna
 
 **<u>2017 2018</u>**
@@ -609,8 +610,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Viviana 
 	- definizione di chiave primaria
 	- differenza tra btree e b+tree
-**<u>2020 2021</u>**
+
 ## Giuseppe Nardiello
+
+**<u>2020 2021</u>**
+
 - Anonimi
 	- una delle tre definizioni formali chiave, chiave esterna, dipendenza funzionale
 	- differenza tra hashing statico e dinamico ed in particolare hashing estendibile
@@ -750,7 +754,7 @@ malloc(sizeof(int)*(i+1));
 **<u>2015 2016</u>**
 
 - Anonimi 
-	- Builder patern
+	- Builder pattern
 	- Agile Development
 	- Scrum
 	- Principio di sostituibilit&agrave; di Liskov
