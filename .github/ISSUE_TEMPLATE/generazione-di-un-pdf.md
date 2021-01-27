@@ -3,7 +3,7 @@ name: Generazione di un PDF
 about: 'Se qualche pdf è obsoleto, segnalalo qua! '
 title: Generazione PDF di [INSERIRE NOME]
 labels: documentation
-assignees: ''
+assignees: PsykeDady
 
 ---
 
