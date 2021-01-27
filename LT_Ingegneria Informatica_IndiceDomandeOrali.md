@@ -537,6 +537,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Simone
 	-  tecnica di hashing statico e indirizzamento aperto
 	-  Esempio di schedule view serializzable ma non confict serializzable
+- Francesco
+	- serializzabilita
+	- esempio schedule view serializzable ma non conflict serializzable
+	- 2PL cosa implica
+	- cascadeless con esempio 
+	- hashing lineare
+	- livelli di isolamento 
 - Anonime
 	- Definizione di Schedule Serializzable 
 	- Esempio di schedule non vs ma serializzable
@@ -1352,13 +1359,7 @@ malloc(sizeof(int)*(i+1));
 	- esercizi di insiemistica 
 	- dimostrazioni per assurdo e/o contrapposizione
 	- dimostrazione del teorema delle dimensioni 
-- Francesco
-	- serializzabilita
-	- esempio schedule view serializzable ma non conflict serializzable
-	- 2PL cosa implica
-	- cascadeless con esempio 
-	- hashing lineare
-	- livelli di isolamento 
+
 
 # Fisica 12CFU e 9CFU
 
