@@ -589,7 +589,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
 	- Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
-	- perché viene garantita in 2pl la cascadeless
+	- perché viene garantita in 2pl la cascadeless	
+- Samuele
+	- Definizione di schedule serializzabile 
+	- Esempio di schedule view-serializable ma non conflict-serializable
 
 ## Amelio Alessia
 
@@ -636,6 +639,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- una delle tre definizioni formali chiave, chiave esterna, dipendenza funzionale
 	- differenza tra hashing statico e dinamico ed in particolare hashing estendibile
+- Samuele
+	- Definizione di dipendenza funzionale
+	- B-tree e inserimento di un elemento con nodo foglia pieno
 
 # Calcolatori Elettronici
 
