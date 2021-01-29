@@ -1378,6 +1378,73 @@ malloc(sizeof(int)*(i+1));
 	- dimostrazioni per assurdo e/o contrapposizione
 	- dimostrazione del teorema delle dimensioni 
 
+**<u>2020 2021</u>**
+  
+- Pietro
+	- dimostrazione del teorema della dimensione 
+	- combinazioni semplici
+- Anonimo
+	- checosa sono i sistemi lineari a scala e come vengono trattati ?
+	- che cosa succede quando il numero di colonne è superiore al numero di righe in una matrice a scala ? ( anche dal punto di vista algoritmico)
+	- Che cosa sono i numeri primi?
+	- Idea dell'algoritmo di euclide
+	- Che cosa è il principio di induzione ?
+	- Calcolo combinatorio in generale
+Disposizioni con ripetizione
+	- Che cos' è una base di uno spazio vettoriale?
+	- Come si può costruire una base per uno spazio vettoriale
+	- Se abbiamo i vettori e vogliamo completare la base?
+		- anche processo inverso 
+	- Variabili libere e variabili dipendenti
+	- Che cosa sono i generatori?
+	- Combinazione lineare
+	- Metodi di dimostrazione
+	- Leggi di De Morgan
+	- Che cosa sono i diagrammi di Venezia
+	- Disegni un insieme B tale che l'intersezione non sia  vuota
+	- Disegni il complementare all'unione di due insiemi
+	- Che cosa sono autovalori autovettori ed endomorfismo
+	- Molteplicità algebriche e geometriche di un autovalore
+	- Che cosa sono le combinazioni semplici ?
+	- Rocche Capelli teorema
+	- Cosa è e come si calcola il determinante
+	- Proprieta determinante
+	- Regola del prodotto o della somma del calcolo combiantorio
+	- Spazi lineari dei polinomi
+	- Differenze tra combinazioni con e senza ripetizioni
+	- Che cosa e uno spazio vettoriale?
+	- Elementi pivotali
+	- legame elementi di pivot e determinati
+	- Base di uno spazio di polinomi 
+	- Una base infinita
+	- In che modo e legato il calcolo combiantorio al calcolo del determinante
+	- Teorema degli orlati
+	- Matrice quadrata invertibile e trovare la sua inversa
+	- Numero di combinazioni semplici
+	- In che modo avendo dei vettori si puà trovare uno
+	- spazio generato da questi vettori
+	- Cosa e la dimensione ?
+	- Regola di laplace
+	- Sviluppo rispetto alle righe?
+	- Come possiamo trovare una base generata da vettori
+	- sapendo che la base è un sottoinsieme di questi vettori
+	- Come possiamo trovare una base generata da vettori sapendo che la base è un sottoinsieme di dati vettori
+		- oppure che non è un sottoinsieme di dati vettori
+	- Eliminazione Gauss
+	- Complementi algebrici
+	- Dimostrazione per contrapposizione 
+	- che cosa sono gli spazi euclidei
+	- Che funzione deve essere definita su spazi euclidei?
+	- Come si può affermare un affermazione universale
+	- Applicazioni lineari
+	- Differenza metodo, contrapposizione e assurdo
+	- Assiomi di piano
+	- perché la radice di 2 non è razionale
+	- Teorema dimensioni
+	- Che cosa è il ker
+	- iniettivitità,suriettività e bigettività
+	- Rango di una matrice
+
 
 # Fisica 12CFU e 9CFU
 
