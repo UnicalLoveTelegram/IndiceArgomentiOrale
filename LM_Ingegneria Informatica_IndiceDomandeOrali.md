@@ -255,7 +255,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
     - come vengono memorizzati i json in memoria nella calculist 
 
-**<u>201 201</u>**
+**<u>2019 2020</u>**
 
 - Alfredo
 	- json 
