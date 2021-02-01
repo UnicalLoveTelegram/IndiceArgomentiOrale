@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Business Intelligence](#business-intelligence)
+  - [Filippo Furfaro](#filippo-furfaro)
 - [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
   - [Patrizia Pastore](#patrizia-pastore)
 - [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
@@ -40,6 +42,24 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
+
+# Business Intelligence
+
+## Filippo Furfaro
+
+**<u>2020 2021</u>**
+- Anonimi
+	-gestione delle dimensioni degeneri
+	-gerarchie dinamiche 
+	-a cosa serve attributo master nello scenario di verità storica
+	-a cosa servono le chiavi surrogate
+	-perchè non si usano i btree
+	-star index
+	-join index
+	-quando conviene fare snow flake
+	-gerarchie incomplete e soluzioni
+	-indici bitmap a confronto con btree
+	-molap e rolap
 
 # Strategie e Politiche Aziendali
 
