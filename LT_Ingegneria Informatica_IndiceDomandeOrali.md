@@ -589,7 +589,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
 	- Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
-	- perché viene garantita in 2pl la cascadeless	
+	- perché non viene garantita in 2pl la cascadeless	
 - Samuele
 	- Definizione di schedule serializzabile 
 	- Esempio di schedule view-serializable ma non conflict-serializable
