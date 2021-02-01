@@ -48,18 +48,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 ## Filippo Furfaro
 
 **<u>2020 2021</u>**
+
 - Anonimi
-	-gestione delle dimensioni degeneri
-	-gerarchie dinamiche 
-	-a cosa serve attributo master nello scenario di verità storica
-	-a cosa servono le chiavi surrogate
-	-perchè non si usano i btree
-	-star index
-	-join index
-	-quando conviene fare snow flake
-	-gerarchie incomplete e soluzioni
-	-indici bitmap a confronto con btree
-	-molap e rolap
+	- gestione delle dimensioni degeneri
+	- gerarchie dinamiche 
+	- a cosa serve attributo master nello scenario di verità storica
+	- a cosa servono le chiavi surrogate
+	- perchè non si usano i btree
+	- star index
+	- join index
+	- quando conviene fare snow flake
+	- gerarchie incomplete e soluzioni
+	- indici bitmap a confronto con btree
+	- molap e rolap
 
 # Strategie e Politiche Aziendali
 
