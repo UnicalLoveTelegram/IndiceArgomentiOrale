@@ -203,6 +203,26 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - tipi di threading 
     - conflitti pipeline 
 
+**<u>2020 2021</u>**
+
+- Anonimi
+	- Cache
+	- Politiche di sostituzione
+	- Unità di controllo monociclo
+	- Segnali beta mono e multi
+	- Ottimizzazione controllo micro programmato
+	- Circuito di selezione degli indirizzi
+	- Disegno stack lru
+	- E disegno circuito di selezione degli indirizzi
+- Erma_TV
+	- conflitti sulla pipeline quali sono e come si risolvono
+	- CISC RISC
+	- principi dei modelli di calcolatori di oggi
+	- UMA e NUMA con disegno della NUMA
+	- speculazione hardware come avviene e dove avviene
+	- attacco spectr
+	- speculaizone  hardware nella pipeline e come viene risolta
+
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
