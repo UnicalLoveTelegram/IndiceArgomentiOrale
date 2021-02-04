@@ -620,6 +620,7 @@ rc(X):- u(X), not(r(X)).
         - Nucleolo di nuovo
         - Compilazione di conoscenza
         - datalog or not
+
     - terzo interrogato
     	- metodi di ricerca blind e metodi di ricerca informata: differenze
 	- iterative deepening con vantaggi
@@ -629,6 +630,7 @@ rc(X):- u(X), not(r(X)).
 	- verifica coerenza teoria di default (NP Hard)
 	- processo
 	- nucleolo
+
     - quarto interrogato
 	- iterative broadening
 	- perché non usiamo A* per i giochi al posto di min max?
