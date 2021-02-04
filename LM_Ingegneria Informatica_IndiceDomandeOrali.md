@@ -205,6 +205,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2020 2021</u>**
 
+- Erma_TV
+	- conflitti sulla pipeline quali sono e come si risolvono
+	- CISC RISC
+	- principi dei modelli di calcolatori di oggi
+	- UMA e NUMA con disegno della NUMA
+	- speculazione hardware come avviene e dove avviene
+	- attacco spectr
+	-  c'é speculaizone hardware nella pipeline? No, come vengono gestiti i salti?
 - Anonimi
 	- Cache
 	- Politiche di sostituzione
@@ -214,14 +222,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Circuito di selezione degli indirizzi
 	- Disegno stack lru
 	- E disegno circuito di selezione degli indirizzi
-- Erma_TV
-	- conflitti sulla pipeline quali sono e come si risolvono
-	- CISC RISC
-	- principi dei modelli di calcolatori di oggi
-	- UMA e NUMA con disegno della NUMA
-	- speculazione hardware come avviene e dove avviene
-	- attacco spectr
-	-  c'é speculaizone hardware nella pipeline? No, come vengono gestiti i salti?
 
 # Crittografia e analisi reti sociali 
 
