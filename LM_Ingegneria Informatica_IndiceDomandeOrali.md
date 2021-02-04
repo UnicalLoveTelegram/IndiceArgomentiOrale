@@ -221,7 +221,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- UMA e NUMA con disegno della NUMA
 	- speculazione hardware come avviene e dove avviene
 	- attacco spectr
-	- speculaizone  hardware nella pipeline e come viene risolta
+	-  c'é speculaizone hardware nella pipeline? No, come vengono gestiti i salti?
 
 # Crittografia e analisi reti sociali 
 
