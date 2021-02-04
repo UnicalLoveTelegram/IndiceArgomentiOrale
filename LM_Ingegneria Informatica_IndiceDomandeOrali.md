@@ -74,7 +74,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- scelta di un settore in cui competere e forze di porter
 	- esempi a lezione
 	-  la valutazione comprende i punteggi dati al test online di fine corso (crocette) e i lavori in ppt di gruppo
-
+	- Stakeholder amichevoli
+	- Outsourcing 
+	- Finalitá dell azienda
 
 # Modelli e Tecniche per i Big Data
 
