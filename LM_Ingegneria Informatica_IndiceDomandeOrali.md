@@ -224,7 +224,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Circuito di selezione degli indirizzi
 	- Disegno stack lru
 	- E disegno circuito di selezione degli indirizzi
-
+	- Ottimizzazione controllo microprogrammato
+	- Macchine parallele 
+	- Nanoprogrammazione
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
