@@ -227,6 +227,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Ottimizzazione controllo microprogrammato
 	- Macchine parallele 
 	- Nanoprogrammazione
+	- circuito propagazione nelal superscalare
+		- circuito di bypass
+	- NUMA e UMA
+	- conflitti sul controllo
+	- conflitti nella pipeline: inserimento circuito di uguaglianza
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
