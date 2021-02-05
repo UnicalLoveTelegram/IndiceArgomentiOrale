@@ -621,27 +621,27 @@ rc(X):- u(X), not(r(X)).
         - Compilazione di conoscenza
         - datalog or not
 
-    - terzo interrogato
-    	- metodi di ricerca blind e metodi di ricerca informata: differenze
-	- iterative deepening con vantaggi
-	- IDA*
-	- semantica alla reiter default logic
-	- semantica brave default logic
-	- verifica coerenza teoria di default (NP Hard)
-	- processo
-	- nucleolo
+	- terzo interrogato
+    		- metodi di ricerca blind e metodi di ricerca informata: differenze
+		- iterative deepening con vantaggi
+		- IDA*
+		- semantica alla reiter default logic
+		- semantica brave default logic
+		- verifica coerenza teoria di default (NP Hard)
+		- processo
+		- nucleolo
 
-    - quarto interrogato
-	- iterative broadening
-	- perché non usiamo A* per i giochi al posto di min max?
-	- hill climb simulated annealing
-	- modello stabile con negazione e disgiunzione
-	- computer vision e algoritmo di waltz
-	- planning
-		 - quale sequenza di azioni va considerata?
-		 - perché la delete list deve essere vuota?
-	- stable set teoria giochi
-	- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
+	- quarto interrogato
+		- iterative broadening
+		- perché non usiamo A* per i giochi al posto di min max?
+		- hill climb simulated annealing
+		- modello stabile con negazione e disgiunzione
+		- computer vision e algoritmo di waltz
+		- planning
+			- quale sequenza di azioni va considerata?
+			- perché la delete list deve essere vuota?
+		- stable set teoria giochi
+		- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
 	
 
 # Sistemi Informativi
