@@ -227,7 +227,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Ottimizzazione controllo microprogrammato
 	- Macchine parallele 
 	- Nanoprogrammazione
-	- circuito propagazione nelal superscalare
+	- circuito propagazione nella superscalare
 		- circuito di bypass
 	- NUMA e UMA
 	- conflitti sul controllo
