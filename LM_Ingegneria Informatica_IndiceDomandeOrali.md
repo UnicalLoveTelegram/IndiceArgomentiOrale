@@ -232,6 +232,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- NUMA e UMA
 	- conflitti sul controllo
 	- conflitti nella pipeline: inserimento circuito di uguaglianza
+	- Confronto prestazionale fra tutte le macchine viste nel corso
+	- Clock fine
+	- Speculazione hw e cosa cambia rispetto alle predizioni della pipeline 
+	- Cache multilivello e come cambia il calcolo del tempo medio di accesso alla memoria
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
