@@ -635,7 +635,8 @@ rc(X):- u(X), not(r(X)).
         - Nucleolo di nuovo
         - Compilazione di conoscenza
         - datalog or not
-- terzo interrogato
+
+    - terzo interrogato
 	- metodi di ricerca blind e metodi di ricerca informata: differenze
 	- iterative deepening con vantaggi
 	- IDA*
@@ -644,7 +645,8 @@ rc(X):- u(X), not(r(X)).
 	- verifica coerenza teoria di default (NP Hard)
 	- processo
 	- nucleolo
-- quarto interrogato
+
+    - quarto interrogato
 	- iterative broadening
 	- perché non usiamo A* per i giochi al posto di min max?
 	- hill climb simulated annealing
@@ -656,7 +658,8 @@ rc(X):- u(X), not(r(X)).
 	- stable set teoria giochi
 	- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
 
-- quinto interrogato
+
+    - quinto interrogato
 	- metodi olistici di riconoscimento ambiente
 	- pianificazione: Strips
 		- Strips Assumption
@@ -669,7 +672,8 @@ rc(X):- u(X), not(r(X)).
 	- modello stabile per datalog not
 		- intersezione tra modelli che provoca?
 		- semantica modelli perfetti o modell stabili
-- sesto interrogato
+
+    - sesto interrogato
 	- test turing
 	- regole di inferenza correttezza e completezza
 		- Modus Ponens e completezza del modus ponens
@@ -683,7 +687,8 @@ rc(X):- u(X), not(r(X)).
 		- algoritmo della famiglia minmax a cui si applica alfa-beta con valori +0.001 e -0.001 in questo caso si taglia l'albero?
 		- algoritmo waltz
 		
-- settimo interrogato
+
+    - settimo interrogato
 	- numero GLB teoria di horn di dimensione n
 	- come scende la complessità del caution reasoning?
 	- pure theory
@@ -692,7 +697,8 @@ rc(X):- u(X), not(r(X)).
 		- la funzione euristica non esegue mai il backtracking?
 	- Core
 	- algoritmo waltz
-- ottavo interrogato
+
+    - ottavo interrogato
 	- numero dei GLB? la congiunzione degli UB è 1 (unico LUB congiunto), anche la congiunzione dei GLB è pure 1 solo se la teoria è di horn (esponenziale se teoria default)
 	- kernel
 	- teoria di default che abbia un estensione che non possa essere calcolata dall'albero de processi?
