@@ -636,75 +636,72 @@ rc(X):- u(X), not(r(X)).
         - Compilazione di conoscenza
         - datalog or not
 
-    - terzo interrogato
-	- metodi di ricerca blind e metodi di ricerca informata: differenze
-	- iterative deepening con vantaggi
-	- IDA*
-	- semantica alla reiter default logic
-	- semantica brave default logic
-	- verifica coerenza teoria di default (NP Hard)
-	- processo
-	- nucleolo
-
-    - quarto interrogato
-	- iterative broadening
-	- perché non usiamo A* per i giochi al posto di min max?
-	- hill climb simulated annealing
-	- modello stabile con negazione e disgiunzione
-	- computer vision e algoritmo di waltz
-	- planning
-		- quale sequenza di azioni va considerata?
-		- perché la delete list deve essere vuota?
-	- stable set teoria giochi
-	- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
-
-
-    - quinto interrogato
-	- metodi olistici di riconoscimento ambiente
-	- pianificazione: Strips
-		- Strips Assumption
-		- A1:precondizione vuota, add list è P, delete list vuota,A2:precondizione vuota, add list not P, delete list vuota e stato iniziale vuoto. Risultato?
-	- concetti soluzione che danno equità, Shapley Value
-	- effetto orizzonte
-	- singolar extension
-	- nodo quieto e nodo tattico
-	- A*
-	- modello stabile per datalog not
-		- intersezione tra modelli che provoca?
-		- semantica modelli perfetti o modell stabili
-
-    - sesto interrogato
-	- test turing
-	- regole di inferenza correttezza e completezza
-		- Modus Ponens e completezza del modus ponens
-			- esempio sound e non complete
-		- quanto costa capire se f può essere generato da modus ponens con F?
-		- versione arricchita del modus ponens Tp
-		- di nuovo la cosa della add list di prima con riflessione su strips
-		- waking sat
-		- il numero dei GLB in una teoria CNF
-		- bargening set
-		- algoritmo della famiglia minmax a cui si applica alfa-beta con valori +0.001 e -0.001 in questo caso si taglia l'albero?
-		- algoritmo waltz
+	- terzo interrogato
+		- metodi di ricerca blind e metodi di ricerca informata: differenze
+		- iterative deepening con vantaggi
+		- IDA*
+		- semantica alla reiter default logic
+		- semantica brave default logic
+		- verifica coerenza teoria di default (NP Hard)
+		- processo
+		- nucleolo
 		
+	- quarto interrogato
+		- iterative broadening
+		- perché non usiamo A* per i giochi al posto di min max?
+		- hill climb simulated annealing
+		- modello stabile con negazione e disgiunzione
+		- computer vision e algoritmo di waltz
+		- planning
+			- quale sequenza di azioni va considerata?
+			- perché la delete list deve essere vuota?
+		- stable set teoria giochi
+		- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
 
-    - settimo interrogato
-	- numero GLB teoria di horn di dimensione n
-	- come scende la complessità del caution reasoning?
-	- pure theory
-	- se una teoria ha un estensione non calcolabile attraverso i processi cosa succede?
-	- A* con differenza best-first
-		- la funzione euristica non esegue mai il backtracking?
-	- Core
-	- algoritmo waltz
+	- quinto interrogato
+		- metodi olistici di riconoscimento ambiente
+		- pianificazione: Strips
+			- Strips Assumption
+			- A1:precondizione vuota, add list è P, delete list vuota,A2:precondizione vuota, add list not P, delete list vuota e stato iniziale vuoto. Risultato?
+		- concetti soluzione che danno equità, Shapley Value
+		- effetto orizzonte
+		- singolar extension
+		- nodo quieto e nodo tattico
+		- A*
+		- modello stabile per datalog not
+			- intersezione tra modelli che provoca?
+			- semantica modelli perfetti o modell stabili
+	- sesto interrogato
+		- test turing
+		- regole di inferenza correttezza e completezza
+			- Modus Ponens e completezza del modus ponens
+				- esempio sound e non complete
+			- quanto costa capire se f può essere generato da modus ponens con F?
+			- versione arricchita del modus ponens Tp
+			- di nuovo la cosa della add list di prima con riflessione su strips
+			- waking sat
+			- il numero dei GLB in una teoria CNF
+			- bargening set
+			- algoritmo della famiglia minmax a cui si applica alfa-beta con valori +0.001 e -0.001 in questo caso si taglia l'albero?
+			- algoritmo waltz
+		
+	- settimo interrogato
+		- numero GLB teoria di horn di dimensione n
+		- come scende la complessità del caution reasoning?
+		- pure theory
+		- se una teoria ha un estensione non calcolabile attraverso i processi cosa succede?
+		- A* con differenza best-first
+			- la funzione euristica non esegue mai il backtracking?
+		- Core
+		- algoritmo waltz
 
-    - ottavo interrogato
-	- numero dei GLB? la congiunzione degli UB è 1 (unico LUB congiunto), anche la congiunzione dei GLB è pure 1 solo se la teoria è di horn (esponenziale se teoria default)
-	- kernel
-	- teoria di default che abbia un estensione che non possa essere calcolata dall'albero de processi?
-	- IDA*
-		- a cosa serve il min?
-	- programma datalog stratificato
+	- ottavo interrogato
+		- numero dei GLB? la congiunzione degli UB è 1 (unico LUB congiunto), anche la congiunzione dei GLB è pure 1 solo se la teoria è di horn (esponenziale se teoria default)
+		- kernel
+		- teoria di default che abbia un estensione che non possa essere calcolata dall'albero de processi?
+		- IDA*
+			- a cosa serve il min?
+		- programma datalog stratificato
 	
 	
 # Sistemi Informativi
