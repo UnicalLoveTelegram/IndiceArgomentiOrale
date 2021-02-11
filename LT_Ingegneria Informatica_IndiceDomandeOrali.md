@@ -694,9 +694,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Alberto 
 	- quote e comandi correlati
 	- nfs
-	- Demoni
-	- problemi in un esercizio 
-	- esercizi
+
 **<u>2018 2019</u>**
 
 - Anonimi
@@ -718,6 +716,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Descrizione dei puntatori dinamici in C
     - problema del segmentation fault
 
+**<u>2017 2018</u>**
+
+- Demoni
+- problemi in un esercizio 
+- esercizi
 
 **<u>2018 2019</u>**
 
@@ -736,7 +739,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2020 2021</u>**
 
- - Anonimi
+ -Anonimi
  	- Software Libero(licenze, lgpl, gpl, principi, se un software gpl fosse commercializzabile etc)
 	- storia di linux/unix
 	- repository
@@ -769,6 +772,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
           while(*p++ = *s++);
           return d;
           }
+	 
+- Samuele
+	- Implementazione LinkedList in C con funzione di accodamento nuovo nodo
+	- Errore in 
+	  ```c
+	  char *s1 = "ciao";
+	  char *s2 = "utente";
+	  strcat(s1, s2);
+	  ```
+	  (le stringhe referenziate si trovano in data segment che è read only)
 
 ## Folino e Ianni 
 
