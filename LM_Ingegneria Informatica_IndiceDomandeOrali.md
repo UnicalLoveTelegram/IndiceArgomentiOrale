@@ -622,20 +622,19 @@ rc(X):- u(X), not(r(X)).
 **<u>2020 2021</u>**
 
 - Anonimi
-    - primo interrogato
-        - hill climb simulated annealing
-        - planning
-        - nucleolo stable set
-        - regole inferenza
-        - entailment in logica di default  perché è Pi P2-C?
-	    - gsat wsat con random walking
-    - secondo interrogato
-        - breadth first
-        - Iterative broadening e come si fa con A*
-        - Nucleolo di nuovo
-        - Compilazione di conoscenza
-        - datalog or not
-
+	- primo interrogato
+	- hill climb simulated annealing
+	- planning
+	- nucleolo stable set
+	- regole inferenza
+	- entailment in logica di default  perché è Pi P2-C?
+	- gsat wsat con random walking
+- secondo interrogato
+	- breadth first
+	- Iterative broadening e come si fa con A*
+	- Nucleolo di nuovo
+	- Compilazione di conoscenza
+	- datalog or not
 	- terzo interrogato
 		- metodi di ricerca blind e metodi di ricerca informata: differenze
 		- iterative deepening con vantaggi
@@ -657,7 +656,6 @@ rc(X):- u(X), not(r(X)).
 			- perché la delete list deve essere vuota?
 		- stable set teoria giochi
 		- N=1,2,3 v1=v2=v3=0 e la coalizione di taglia due hanno valore 2, la coalizione di tagla tre vale 5: c'è stable set?
-
 	- quinto interrogato
 		- metodi olistici di riconoscimento ambiente
 		- pianificazione: Strips
@@ -694,7 +692,6 @@ rc(X):- u(X), not(r(X)).
 			- la funzione euristica non esegue mai il backtracking?
 		- Core
 		- algoritmo waltz
-
 	- ottavo interrogato
 		- numero dei GLB? la congiunzione degli UB è 1 (unico LUB congiunto), anche la congiunzione dei GLB è pure 1 solo se la teoria è di horn (esponenziale se teoria default)
 		- kernel

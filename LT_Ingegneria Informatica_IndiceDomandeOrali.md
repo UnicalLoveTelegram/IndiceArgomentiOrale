@@ -716,11 +716,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Descrizione dei puntatori dinamici in C
     - problema del segmentation fault
 
+
+## Ianni 
+
 **<u>2017 2018</u>**
 
-- Demoni
-- problemi in un esercizio 
-- esercizi
+- Anonimo
+	- Demoni
+	- problemi in un esercizio 
+	- esercizi
 
 **<u>2018 2019</u>**
 
@@ -739,28 +743,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2020 2021</u>**
 
- -Anonimi
- 	- Software Libero(licenze, lgpl, gpl, principi, se un software gpl fosse commercializzabile etc)
-	- storia di linux/unix
-	- repository
-	- apt-get
-	- installare software da sorgente
-	- modalità kernel modalità utente
-	- nfs e samba (come configurarli)
-	- esempio su mount e qualche esempio su stdin stdout ed stderr
-	- cos'è una system call
-	- come funzionano i processi (gerarchia padre figlio e cose così)
-
-## Ianni 
-
-**<u>2020 2021</u>**
-
 - Oscar
 	- apt-get come funziona a che serve
 	- repository
 	- modalità kernel
 	- modalità utente
-
+- Samuele
+	- Implementazione LinkedList in C con funzione di accodamento nuovo nodo
+	- Errore in 
+	  ```c
+	  char *s1 = "ciao";
+	  char *s2 = "utente";
+	  strcat(s1, s2);
+	  ```
+	  (le stringhe referenziate si trovano in data segment che è read only)
 - Anonimi
 	-  esercizi su C e puntatori (nello specifico dava del e chiedeva cosa facesse)
 	- stdin stdout stderr
@@ -772,16 +768,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
           while(*p++ = *s++);
           return d;
           }
-	 
-- Samuele
-	- Implementazione LinkedList in C con funzione di accodamento nuovo nodo
-	- Errore in 
-	  ```c
-	  char *s1 = "ciao";
-	  char *s2 = "utente";
-	  strcat(s1, s2);
-	  ```
-	  (le stringhe referenziate si trovano in data segment che è read only)
+	- Software Libero(licenze, lgpl, gpl, principi, se un software gpl fosse commercializzabile etc)
+	- storia di linux/unix
+	- repository
+	- apt-get
+	- installare software da sorgente
+	- modalità kernel modalità utente
+	- nfs e samba (come configurarli)
+	- esempio su mount e qualche esempio su stdin stdout ed stderr
+	- cos'è una system call
+	- come funzionano i processi (gerarchia padre figlio e cose così)	 
+
 
 ## Folino e Ianni 
 
