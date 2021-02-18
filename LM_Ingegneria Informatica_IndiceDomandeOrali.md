@@ -6,42 +6,42 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
 - [Business Intelligence](#business-intelligence)
-  - [Filippo Furfaro](#filippo-furfaro)
+	- [Filippo Furfaro](#filippo-furfaro)
 - [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
-  - [Patrizia Pastore](#patrizia-pastore)
+	- [Patrizia Pastore](#patrizia-pastore)
 - [Modelli e Tecniche per i Big Data](#modelli-e-tecniche-per-i-big-data)
-  - [Paolo Trunfio](#paolo-trunfio)
+	- [Paolo Trunfio](#paolo-trunfio)
 - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
-  - [Fabrizio Angiulli](#fabrizio-angiulli)
+	- [Fabrizio Angiulli](#fabrizio-angiulli)
 - [Crittografia e analisi reti sociali](#crittografia-e-analisi-reti-sociali)
-  - [Molinaro Cristian](#molinaro-cristian)
+	- [Molinaro Cristian](#molinaro-cristian)
 - [Linguaggi Formali](#linguaggi-formali)
-  - [Domenico Saccà](#domenico-saccà)
-  - [Rullo](#rullo)
+	- [Domenico Saccà](#domenico-saccà)
+	- [Rullo](#rullo)
 - [Informatica teorica](#informatica-teorica)
-  - [Scarcello Francesco](#scarcello-francesco)
+	- [Scarcello Francesco](#scarcello-francesco)
 - [Ottimizzazione](#ottimizzazione)
-  - [Maria Flavia Monaco](#maria-flavia-monaco)
+	- [Maria Flavia Monaco](#maria-flavia-monaco)
 - [Valutazione delle prestazioni](#valutazione-delle-prestazioni)
-  - [Pasquale Legato](#pasquale-legato)
+	- [Pasquale Legato](#pasquale-legato)
 - [Intelligenza Artificiale (6 CFU)](#intelligenza-artificiale-6-cfu)
-  - [Palopoli Luigi](#palopoli-luigi)
+	- [Palopoli Luigi](#palopoli-luigi)
 - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
-  - [Palopoli Luigi](#palopoli-luigi-1)
+	- [Palopoli Luigi](#palopoli-luigi-1)
 - [Sistemi Informativi](#sistemi-informativi)
-  - [Cassavia](#cassavia)
+	- [Cassavia](#cassavia)
 - [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
-  - [Libero Nigro](#libero-nigro)
+	- [Libero Nigro](#libero-nigro)
 - [Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )](#sistemi-distribuiti-e-cloud-computing--6-cfu-e-9-cfu-)
-  - [Talia Domenico](#talia-domenico)
-  - [Loris Belcastro](#loris-belcastro)
+	- [Talia Domenico](#talia-domenico)
+	- [Loris Belcastro](#loris-belcastro)
 - [Basi di Dati evolute](#basi-di-dati-evolute)
-  - [Molinaro Cristian](#molinaro-cristian-1)
+	- [Molinaro Cristian](#molinaro-cristian-1)
 - [Calcolo Numerico](#calcolo-numerico)
-  - [Yaroslav Sergeyev](#yaroslav-sergeyev)
-  - [Marat Mukhametzhanov](#marat-mukhametzhanov)
+	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
+	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
-  - [Cristian Molinaro](#cristian-molinaro)
+	- [Cristian Molinaro](#cristian-molinaro)
 
 # Business Intelligence
 
@@ -623,18 +623,18 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimi
 	- primo interrogato
-	- hill climb simulated annealing
-	- planning
-	- nucleolo stable set
-	- regole inferenza
-	- entailment in logica di default  perché è Pi P2-C?
-	- gsat wsat con random walking
-- secondo interrogato
-	- breadth first
-	- Iterative broadening e come si fa con A*
-	- Nucleolo di nuovo
-	- Compilazione di conoscenza
-	- datalog or not
+		- hill climb simulated annealing
+		- planning
+		- nucleolo stable set
+		- regole inferenza
+		- entailment in logica di default  perché è Pi P2-C?
+		- gsat wsat con random walking
+	- secondo interrogato
+		- breadth first
+		- Iterative broadening e come si fa con A*
+		- Nucleolo di nuovo
+		- Compilazione di conoscenza
+		- datalog or not
 	- terzo interrogato
 		- metodi di ricerca blind e metodi di ricerca informata: differenze
 		- iterative deepening con vantaggi
@@ -643,8 +643,7 @@ rc(X):- u(X), not(r(X)).
 		- semantica brave default logic
 		- verifica coerenza teoria di default (NP Hard)
 		- processo
-		- nucleolo
-		
+		- nucleolo		
 	- quarto interrogato
 		- iterative broadening
 		- perché non usiamo A* per i giochi al posto di min max?
@@ -682,7 +681,6 @@ rc(X):- u(X), not(r(X)).
 			- bargening set
 			- algoritmo della famiglia minmax a cui si applica alfa-beta con valori +0.001 e -0.001 in questo caso si taglia l'albero?
 			- algoritmo waltz
-		
 	- settimo interrogato
 		- numero GLB teoria di horn di dimensione n
 		- come scende la complessità del caution reasoning?
@@ -699,6 +697,17 @@ rc(X):- u(X), not(r(X)).
 		- IDA*
 			- a cosa serve il min?
 		- programma datalog stratificato
+	- altri
+		- Verie testimonianze 04/02/2021
+		- Descrizione algoritmo Iterative deepening
+		- Precisare come si può uscire dal ciclo quando non ci sono goal 
+			- **Risposta**: la soluzione proposta dal prof è quella di utilizzare una variabile booleana (non sappiamo nel dettaglio come), un'altra soluzione è quella di uscire quando il cutting level sia pari all'altezza dell'albero ma costa troppo in termini temporali
+		- Complessità di verificare la coerenza di una teoria in logica di default (ossia se ammette un'estensione), dimostrare almeno intuitivamente perché tale problema è almeno NP-hard
+			- **Risposta**: intuitivamente se la complessità dell'entailment è CONP-c in logica proposizionale, poiché la logica di default ha sia una teoria proposizionale W che un'insieme di default D è facile capire che sarà almeno difficile quanto l'entailment è quindi ha almeno una sorgente di esponenzialità
+		- Strips genera stati inconsistenti? 
+			- **Risposta**:un esempio è {f, not(f)} in cui abbiamo uno stato con due fluenti con valore logico opposto, ma strips NON è un linguaggio logico, f e not f potrebbero essere chiamati pluto e paperino quindi no, non genera stati inconsistenti in quanto il concetto di incosistenza è associato a linguaggi logici)
+		- Esempio di teoria di default in cui non ci sia alcuna estensione che sia calcolabile con la semantica operazionale 
+			- **Risposta**: basta usare una teoria incoerente, {TRUE:A/&not;A } è l'esempio tipico
 	
 	
 # Sistemi Informativi
