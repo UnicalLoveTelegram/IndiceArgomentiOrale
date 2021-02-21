@@ -61,6 +61,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- gerarchie incomplete e soluzioni
 	- indici bitmap a confronto con btree
 	- molap e rolap
+	- Tutti i pro e tutti i contro dell'usare Chiavi surrogate
+	- Star index
+		- quando non è efficiente usare lo star index
+
 
 # Strategie e Politiche Aziendali
 
@@ -509,11 +513,14 @@ rc(X):- u(X), not(r(X)).
 	- FPT con VC e con knapsack
 	- knapsack con programmazione dinamica
 	
-**<u>2019 2020</u>**
+**<u>2020 2021</u>**
 - Erma_TV
 	- Dimostrazione NP incluso in PSPACE
 	- Dimostrazione che Knapsack ammette un FPTAS
 	- Che sono le classi di approssimabilitá
+- Anonimi
+	- Rice con dimostrazione
+	- FPT
 
 # Ottimizzazione
 
