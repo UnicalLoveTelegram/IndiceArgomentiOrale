@@ -425,7 +425,7 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2020 2021</u>**
 
--Anonimi
+- Anonimi
 	- riceve 2 liste: true se le due liste contengono gli stessi elementi, anche con numero di occorrenze diverso
 	- ricerca binaria in prolog
 # Informatica teorica
