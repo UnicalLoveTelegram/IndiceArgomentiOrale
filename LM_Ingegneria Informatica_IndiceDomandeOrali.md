@@ -422,7 +422,9 @@ rc(X):- u(X), not(r(X)).
     - scrivere un metodo `q(A,B,L1,L2)` che restituisce true `L1=L2` con i caratteri **A sostituiti con B in L2**
     - scrivere un `q(X,L,Y)` che restituisce vero se **Y** è l'elemento successivo a **X** nella **L**
     - scrivere un `q(X,L,Y)` che restituisce vero solo se **Y** è nella posizione **X** di **L**
+
 **<u>2020 2021</u>**
+
 -Anonimi
 	- riceve 2 liste: true se le due liste contengono gli stessi elementi, anche con numero di occorrenze diverso
 	- ricerca binaria in prolog
