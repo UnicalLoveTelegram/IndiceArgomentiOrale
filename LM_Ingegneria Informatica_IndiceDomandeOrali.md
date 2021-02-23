@@ -338,7 +338,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- complessità del problema di stabilire se un programma logico ammette un unico modello (sol. *PSPACE*)
 	- Verificare se due Liste L1 e L2 hanno gli stessi elementi
 
-
+**<u>2020 2021</u>**
+- Anonimi
+	- high order function
+	- solito esempio con u(X),p(X),r(X),rc(X)
+	- universo di Herbrand, Base di Herbrand, modelli minimali
+	- verificare che 2 liste abbiano gli stessi elementi con lo stesso numero di occorrenze
+	- espressioni regolari
 ## Rullo
 
 **<u>2016 2017</u>**
@@ -416,8 +422,10 @@ rc(X):- u(X), not(r(X)).
     - scrivere un metodo `q(A,B,L1,L2)` che restituisce true `L1=L2` con i caratteri **A sostituiti con B in L2**
     - scrivere un `q(X,L,Y)` che restituisce vero se **Y** è l'elemento successivo a **X** nella **L**
     - scrivere un `q(X,L,Y)` che restituisce vero solo se **Y** è nella posizione **X** di **L**
-
-
+**<u>2020 2021</u>**
+-Anonimi
+	- riceve 2 liste: true se le due liste contengono gli stessi elementi, anche con numero di occorrenze diverso
+	- ricerca binaria in prolog
 # Informatica teorica
 
 ## Scarcello Francesco 
