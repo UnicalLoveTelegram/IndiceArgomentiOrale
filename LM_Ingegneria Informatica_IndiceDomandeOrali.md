@@ -6,8 +6,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
 - [Metodi e Strumenti per la Sicurezza Informatica](#metodi-strumenti-sicurezza-informatica)
-	- [Andrea Pugliese](#pugliese)
-	- [Michele](#ianni)
+	- [Andrea Pugliese](#andrea-pugliese)
+	- [Michele Ianni](#michele-ianni)
 - [Business Intelligence](#business-intelligence)
 	- [Filippo Furfaro](#filippo-furfaro)
 - [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
