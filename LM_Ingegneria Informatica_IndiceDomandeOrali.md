@@ -531,6 +531,17 @@ rc(X):- u(X), not(r(X)).
 - Anonimi
 	- Rice con dimostrazione
 	- FPT
+	- FPT con vertex cover (con le due soluzioni)
+	- Dimostrare che Subset Sum è NP-Hard
+	- Rice con dimostrazione
+	- NL con dimostrazione che è NP-Hard
+	- vertex cover
+	- indipendet set
+	- hamiltonian cycle
+	- NTM = DTM
+	- def di NP-complete (NP-HARD, NP)
+	- L appartiene ad NP se e solo se esiste una relazione caratteristica RL di L  (parte <=) e (parte =>)
+	- Bisaccia FPTAS
 
 # Ottimizzazione
 
