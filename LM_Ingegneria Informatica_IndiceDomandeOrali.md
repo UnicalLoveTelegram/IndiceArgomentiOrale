@@ -5,6 +5,9 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Metodi e Strumenti per la Sicurezza Informatica](#metodi-strumenti-sicurezza-informatica)
+	- [Andrea Pugliese](#pugliese)
+	- [Michele](#ianni)
 - [Business Intelligence](#business-intelligence)
 	- [Filippo Furfaro](#filippo-furfaro)
 - [Strategie e Politiche Aziendali](#strategie-e-politiche-aziendali)
@@ -42,6 +45,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
+
+# Metodi e Strumenti per la Sicurezza Informatica
+
+## Michele Ianni
+**<u>2020 2021</u>**
+- Giovanni Giordano
+	- http://basicrce.challs.cyberchallenge.it/ risolvi la challenge
+	- GOT e PLT
+- Anonimi
+	- Canary
+	- gdb
+	- sito che ritorna un immagine, come capisci le tabelle?
+	- nmap port scanning
+	- reflected e stored XSS
+	- ASLR
 
 # Business Intelligence
 
