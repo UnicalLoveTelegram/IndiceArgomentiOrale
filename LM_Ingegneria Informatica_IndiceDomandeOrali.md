@@ -51,7 +51,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 ## Michele Ianni
 **<u>2020 2021</u>**
 - Giovanni Giordano
-	- http://basicrce.challs.cyberchallenge.it/ risolvi la challenge
+	- http://basicrce.challs.cyberchallenge.it/ risolvi la challenge edit: è andato down, la challenge consisteva in un form html che faceva una post all'indirizzo /ping dello stesso sito e ritornava semplicemente il codice di ritorno della shell linux collegata e il comando eseguito, altrimenti dava errore. Non c'era nient'altro, bisognava trovare la flag.txt da qualche parte nel sito.
 	- GOT e PLT
 - Anonimi
 	- Canary
