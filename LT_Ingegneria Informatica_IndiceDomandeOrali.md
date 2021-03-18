@@ -761,7 +761,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	-  esercizi su C e puntatori (nello specifico dava del e chiedeva cosa facesse)
 	- stdin stdout stderr
 	- qualche directory in / cosa facesse es: /dev   /proc
-	- ```char (*x)(char*)``` cosa è? (puntatore a funzione)
+	- `char (*x)(char*)` cosa è? (puntatore a funzione)
 	- char *f(char *d, const char *s){
           char *p=d;
           while(*p) p++;
