@@ -881,6 +881,11 @@ rc(X):- u(X), not(r(X)).
     - grafici di convergenza
     - metodi di derivazione numerica 
 
+**<u>2020 2021</u>**
+- Anonimi
+	- le tecniche di preprocessamento dei sistemi lineari (pivoting parziale, totale e bilanciamento)
+	- indice di condizionamento
+
 ## Marat Mukhametzhanov
 
 **<u>2019 2020</u>**
@@ -892,6 +897,10 @@ rc(X):- u(X), not(r(X)).
     - fenomeno Runge
     - cancellazione numerica
     - decomposizione triangolare con Teoremi
+
+**<u>2020 2021</u>**
+- Anonimi
+	- estrapolazione di richardso
 
 # Algoritmi di Crittografia
 
