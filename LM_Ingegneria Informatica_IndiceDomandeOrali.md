@@ -900,7 +900,7 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2020 2021</u>**
 - Anonimi
-	- estrapolazione di richardso
+	- estrapolazione di richardson
 
 # Algoritmi di Crittografia
 
