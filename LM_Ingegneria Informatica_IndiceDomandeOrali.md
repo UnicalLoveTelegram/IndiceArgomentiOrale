@@ -44,7 +44,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
-
 # Metodi e Strumenti per la Sicurezza Informatica
 
 ## Michele Ianni
