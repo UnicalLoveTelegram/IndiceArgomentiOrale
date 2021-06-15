@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
+- [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
+	- [Francesco Parisi](#francesco-parisi)
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
@@ -86,6 +88,34 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Domenico Famularo](#domenico-famularo)
 - [Qualità del servizio](#qualità-del-servizio)
 	- [Amedeo](#amedeo)
+
+# Laboratorio di Sistemi Informativi
+
+## Francesco Parisi
+
+**<u>2020/2021</u>**
+- Oscar
+	- prima chiede ad uno del team di condividere lo schermo con il progetto, poi chiede di vedere anche magari qualche tabella del database quando l'acquisto va a buon fine. 
+	- tecniche PERT e CPM differenze tra PERT e CPM
+	- definizione (la vuole scritta) di t-late e t-early
+	- ricorsione: cos'è una CTE? ha fatto scrivere anche una query ricorsiva (ha chiesto sia quella del fattoriale sia quella della chiusa del grafo; vedi slide)
+	- trigger (ne fa anche scrivere uno semplice)
+	- operatori olap: pivot
+	- slice
+	- dice
+	- drill trougth
+	- roll up
+	- drill down etc
+	- di pivot può chiedere in quale database si può fare direttamente (oracle) e se non si può fare direttamente come fare a mano (in realtà era domanda per la lode credo)
+	- poi chiede le metodologie di sviluppo
+	- xml
+	- xml-schema
+	- Insomma può chiedere veramente di tutto ma è molto buono fa tante domande finché non sai qualcosa
+	- l'importante è fare il sito(o altro progetto) che rispetta la parte che hai deciso di implementare
+	- ha chiesto a tutti inoltre se avevamo messo controlli sui campi di inserimento quindi controlli per vedere se un email è ben formata durante la registrazione etc
+	- l'unica cosa è vedere bene sql perché ti fa fare in diretta query ricorsive e trigger
+	- Schema a stella e fiocco di neve
+		- come suddividere gli attributi in quello a fiocco di neve
 
 # Algoritmi e strutture dati 
 
