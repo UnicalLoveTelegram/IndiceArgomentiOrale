@@ -117,6 +117,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Schema a stella e fiocco di neve
 		- come suddividere gli attributi in quello a fiocco di neve
 
+- Giacomo
+    - Fase di assestment
+        - cos'é il project managament (visto che quando ho risposto ho detto che ne fa parte)
+    - Cosa é il Work breakdown structure
+    - Cosa é il DFM dimensional fact model
+    - Costruisci una query ricorsiva che calcoli il fattoriale
+    - Costruisci una query ricorsiva che percorre un grafo a partire dal nodo iniziale(applicato a diversi contesti, cittá, treni etc)
+    - Operatori OLAP dice e slice
+        -se io faccio k operazioni di slice le mie dimensioni dell'ipercubo di quanto variano?
+        -La risposta é che se si effettuano k slice allora se la dimensione era n poi sará n-k
+    - Operatori OLAP drill through
+        - quali sono i requisiti per poterlo usare nel 2o livello? 
+        - perché nel 3o livello si puó fare invece a prescindere?
+        - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
+
 # Algoritmi e strutture dati 
 
 ## Sergio Flesca 
