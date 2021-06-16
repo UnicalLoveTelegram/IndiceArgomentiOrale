@@ -187,8 +187,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Gabriele Citrigno
 	- ha chiesto il progetto progetto (ho fatto un sito di aste) 
 		- ha voluto sapere come avessi implementato il sistema di offerte  nei service.
-	- ha chiesto come si dovrebbe fare in angular per implementare un modo che faccia visualizzare una pagina personalizzata per ogni prodotto, ma mi ha chiesto solo come si dovrebbe fare a livello teorico 	
-
+	- ha chiesto come si dovrebbe fare in angular per implementare un modo che faccia visualizzare una pagina personalizzata per ogni prodotto, ma mi ha chiesto solo come si dovrebbe fare a livello teorico 
+	
+- Anonimi
+	- Gestione delle cose in flutter visto che è single threaded
+	- gestione del token
+	- mostrare il config dell'http request in backend
+	- da fare: controllo sulle quantità in fase di checkout e non solo al carrello e al Lock
+	- funzionamento del Lock:
+		- Pessimistico
+		- Ottimistico
+		- version
+	- codice del frontend
 
 # Elettrotecnica
 
