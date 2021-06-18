@@ -52,7 +52,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 ## Antonella Guzzo
 
 **<u>2020/2021</u>**
--Anonimi
+- Anonimi
 	- C-Net vs Heuristic net
 	- Petri net Vs heuristic net
 	- come viene fatta la classificazione delle attività iniziali e finali su ProM
