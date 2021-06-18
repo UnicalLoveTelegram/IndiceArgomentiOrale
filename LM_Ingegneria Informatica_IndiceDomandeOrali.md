@@ -913,6 +913,16 @@ rc(X):- u(X), not(r(X)).
 - Anonimi
 	- le tecniche di preprocessamento dei sistemi lineari (pivoting parziale, totale e bilanciamento)
 	- indice di condizionamento
+- Erma_Tv
+	- integrale di riferimento 
+	- metodi di integrazione in più dimensione e perché non si può sempre suddividere in somma di integrali come in 1 dimensione
+	- condizione convergenza metodi iterativi (sistemi)
+	- ordine dell’errore (sia locale che globale) in tutti i metodi sulla risoluzione delle equazioni differenziali
+	- può succedere che Jacobi converga e Gaus-Siedel diverga o viceversa?
+	- FARE BENE il metodo di Cavalieri-Simpson (con enfasi sul motivo per cui si fa l’ipotesi sull’ uguaglianza tra la derivata in psi e psi con tilde
+	- come scegliere i nodi per evitare fenomeno Runge
+	- modo migliore per calcolare la somma di tanti numeri in virgola mobile (slide Marat)
+	- come si migliora l’indice di condizionamento? -> PREPROCESSING
 
 ## Marat Mukhametzhanov
 
