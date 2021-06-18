@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Metodi Informatici per l'analisi dei Processi](#metodi-informatici-per-analisi-processi)
+  - [Antonella Guzzo](#antonella-guzzo)
 - [Metodi e Strumenti per la Sicurezza Informatica](#metodi-e-strumenti-per-la-sicurezza-informatica)
   - [Michele Ianni](#michele-ianni)
 - [Business Intelligence](#business-intelligence)
@@ -44,6 +46,33 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
+
+# Metodi Informatici per l'analisi dei Processi
+
+## Antonella Guzzo
+
+**<u>2020/2021</u>**
+-Anonimi
+	- C-Net vs Heuristic net
+	- Petri net Vs heuristic net
+	- come viene fatta la classificazione delle attività iniziali e finali su ProM
+	- workflow net (definizione)
+	- cos'è la threshold 
+	- betweeness Nella resource analysis
+	- differenze fra pattern merge e discriminator (bpmn)
+	- perché scegliere un modello (o un plugin) rispetto ad un altro
+	- boundness
+	- quando il marking è dead?
+	- esercizi su boundness e deadlock
+	- alpha miner (con i vari punti specifici)
+	- qualità del modello
+	- in cosa consiste la classificazione di un dato
+	- perché è costoso l'alpha miner?
+	- domande sul progetto in generale e nello specifico
+	- liveness
+	- come ottenere un buon modello?
+	- conformance e tipologie
+
 # Metodi e Strumenti per la Sicurezza Informatica
 
 ## Michele Ianni
