@@ -923,6 +923,71 @@ rc(X):- u(X), not(r(X)).
 	- come scegliere i nodi per evitare fenomeno Runge
 	- modo migliore per calcolare la somma di tanti numeri in virgola mobile (slide Marat)
 	- come si migliora l’indice di condizionamento? -> PREPROCESSING
+- Anonimi
+	- Quando parliamo di integrazione, cos'è l'intervallo di riferimento?
+	- Qual'è il significato del condizionamento di un sistema lineare?
+	- Cos'è la fattorizzazione di Cholesky?
+	- Qual'è la differenza tra errore locale e errore globale
+	- Qual'è il grado più elevato che permette di usare un polinomio di interpolazione? 
+		- (Risposta: settimo, oltre avviene il fenomeno di Runge)
+	- Qual'è la migliore predisposizione dei nodi?
+		- (Risposta: la peggiore sono i nodi equidistanti, la migliore sono i nodi di Chebyshev)
+	- Vantaggi e svantaggi di metodi iterativi rispetto ai metodi diretti
+		- (Risposta: sono più semplici ma non è detto che convergano)
+	- Da cosa dipende il condizionamento di un sistema lineare?
+	- Cancellazione numerica e come si può evitare
+	- Prendendo un metodo iterativo qual'è la condizione della convergenza?
+		- (Raggio spettrale (ovvero massimo degli autovalori della matrice d'iterazione) < 1)
+	- Cos'è uno spazio lineare?
+	- Data una grande sequenza di numeri positivi, qual'è il migliore modo di sommarli? 
+		- (Risposta: ordine crescente, minor perdita d'informazioni)
+	- Quale dei metodi (Gauss e Gauss-Jordan) è il più efficente? 
+Risposta: Il migliore è il metodo di Gauss perché ha una complessità minore
+	- Svantaggi della formula del polinomio interpolante di LaGrange?
+Risposta: la complessità e non si possono aggiungere nodi senza dover ricalcolare il polinomio da capo
+	- Significato di errore assoluto e relativo nell'approssimazione di un numero floating point
+	- Formula adattiva di Cavalieri-Simpson e qual'è il presupposto fatto?
+Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
+	- Quali sono i metodi per la risoluzione di equazioni differenziali ordinarie? Cosa vuol dire implicito ed esplicito?
+	- Residuo dei sistemi lineare? Se il residuo è piccolo cosa possiamo dire sulla soluzione?
+		- Risposta: r^(k) = b - Ax^(k)
+	- Se il sistema è mal condizionato il fatto che il residuo è piccolo non ci dice nulla
+	- Metodi per la risoluzione di equazioni differenziali e ordine degli errori
+	- Come funzionano i metodi di integrazione numerica in più dimensioni? Perchè non si può usare la formula che trasforma un 
+	- integrale a più dimensioni in una successione di integrali in una dimensione?
+	- Metodi per la derivazione numerica
+	- Estrapolazione di Richardson
+	- Migliorare il condizionamento di un sistema lineare? 
+		- Risposta: tecniche di pre-processing
+	- Metodi iterativi per la risoluzione dei sistemi lineari? Differenza in implementazione? 
+		- Risposta: Jacobi può essere parallelizzato
+	- Cos'è una matrice di permutazione e quali sono le proprietà?
+	- Formula di Cavaglieri-Simpson adattiva
+	- Fenomeno Runge e come si risolve?
+		- Risposta: nodi di Chebyshev o uso di Spline
+	- Può capitare che uno dei metodi di risoluzione dei sistemi lineari (iterativi) converge e l'altro diverge?
+		- Risposta: si perché avendo la matrice di iterazione due formule diverse il raggio spettrale potrebbe essere diverso
+	- Teorema dell'esistenza di un unico polinomio d'interpolazione
+	- Vantaggi e svantaggi dei metodi diretti rispetto ai metodi iterativi per la soluzione di sistemi lineari. 
+	- Quando i metodi diretti non sono applicabili?
+		- Risposta: Quando le matrici sono di grandi dimensioni è preferibile usare il metodo di Jacobi che è parallelizzabile
+	- Metodo dei coefficenti indeterminati?
+	- Metodo del punto fisso
+	- Condizione di Lipshiz e dove si applica
+	- Tipi di problemi computazionali (problema diretto, inverso e di indentificazione) ed esempi
+	- Pre-processing sistemi lineari
+	- polinomi osculatori 
+	- spazi lineari  
+	- metodo dei coefficienti indeterminati 
+	- classificazione problemi computazionali 
+	- integrazione in multi dimensioni 
+	- CONDIZIONE DI LIPSCHITZ
+	- gauss e gauss jordan
+	- come trovare la matrice inversa 
+	- matrice di permutazione
+
+
+
 
 ## Marat Mukhametzhanov
 
