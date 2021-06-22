@@ -631,6 +631,15 @@ rc(X):- u(X), not(r(X)).
     - Differenza Hamilton - eulero, con confronto tra i due
     - Teorema di minkowsky
 
+**<u>2020 2021</u>**
+- Anonimi
+	- Set covering
+	- Formulazione valida 
+	-  ottima
+	- Problema di localizzazione 
+	- Rilassamento lagrangiano 
+	- Se x è punto estremo => x appartiene ad S
+
 # Valutazione delle prestazioni
 
 ## Pasquale Legato
