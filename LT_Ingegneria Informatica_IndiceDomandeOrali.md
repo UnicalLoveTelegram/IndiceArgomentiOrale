@@ -483,8 +483,38 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- protezione in generale 
 	- protezione di IO
 	- SystemCall e passaggio dei parametri 
-
-
+**<u>2020 2021</u>**
+Anonimi
+	- algoritmo banchiere
+	- System Call? che interfaccia è?
+	- memoria condivisa scambio di messaggi (comunicazione)
+	- diagramma di stato dei processi
+		- perché si passa da waiting a pronto?
+		- tempo di attesa come si calcola?
+	- paginazione gerarchica
+	- scheduling del disco
+	- mutua esclusione: gestione e soluzioni
+	- algoritmi scheduling cpu Linux
+	- algoritmi scheduling cpu
+		- come si ottimizza il tempo di attesa? 
+		- come si calcola la stima?
+	- come si muovono i process isu windows?
+	- MMU
+	- sostituzione pagine LRU
+	- lettori scrittori con semafori come si muovono?
+	- round robin
+	- fat e come viene conservata
+	- starvation e sua soluzione
+	- monitor residente
+	- I/O sincrono e asincrono
+	- funzionamento dual mode
+		- come gestisce la system call?
+	- dispatcher
+	- privilegio minimo
+	- scheduler
+	- domini in multics
+	- page fault
+	- grafo di stato dei processi
 
 ## Marrozzo
 
