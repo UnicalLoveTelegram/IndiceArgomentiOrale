@@ -109,7 +109,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Tutti i pro e tutti i contro dell'usare Chiavi surrogate
 	- Star index
 		- quando non è efficiente usare lo star index
-
+	- aggregatori olistici 
+	- indici di bit-sliced 
+	- gerarchie ricorsive ( pro e contro delle 2 soluzioni)
 
 # Strategie e Politiche Aziendali
 
