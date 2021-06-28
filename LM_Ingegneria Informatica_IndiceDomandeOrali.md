@@ -872,6 +872,11 @@ rc(X):- u(X), not(r(X)).
     - eukaliptus 
     - Naming in generale 
     - HT Condor 
+**<u>2020 2021</u>**
+Anonimi
+    - componenti del Cloud Amazon
+    - tecniche di scalabilità dei sistemi distribuiti
+    - grid computing
 
 ## Loris Belcastro
 
@@ -891,6 +896,12 @@ rc(X):- u(X), not(r(X)).
   - tabelle Azure
   - Combiner 
 
+**<u>2020 2021</u>**
+Anonimi
+	- equals in RMI
+	- distributed garbage collector
+	- tables di azure
+	- json web token
 # Basi di Dati evolute
 
 ## Molinaro Cristian 
@@ -996,6 +1007,7 @@ Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
 	- gauss e gauss jordan
 	- come trovare la matrice inversa 
 	- matrice di permutazione
+	- qual è il trucco dea formula di integrazione di cavalieri Simpson? 
 
 
 
