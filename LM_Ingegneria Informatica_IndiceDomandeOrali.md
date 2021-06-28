@@ -872,8 +872,9 @@ rc(X):- u(X), not(r(X)).
     - eukaliptus 
     - Naming in generale 
     - HT Condor 
+
 **<u>2020 2021</u>**
-Anonimi
+- Anonimi
     - componenti del Cloud Amazon
     - tecniche di scalabilità dei sistemi distribuiti
     - grid computing
@@ -897,7 +898,8 @@ Anonimi
   - Combiner 
 
 **<u>2020 2021</u>**
-Anonimi
+
+- Anonimi
 	- equals in RMI
 	- distributed garbage collector
 	- tables di azure
