@@ -917,6 +917,14 @@ rc(X):- u(X), not(r(X)).
         - deadlock
             - risposta: che se due transazioni richiedono il lock in scrittura sulla stessa risorsa e ci sono dei ritardi nella rete, nessuna delle due transazioni ottiene il lock e quindi si va in deadlock
 
+**<u>2020 2021</u>**
+
+- Anonimi
+	- protocollo zero knowledge
+	- algoritmo fiat shamir
+	- proprietà funzioen hash firma digitale
+	- paradosso compleanno
+
 # Calcolo Numerico 
 
 ## Yaroslav Sergeyev
