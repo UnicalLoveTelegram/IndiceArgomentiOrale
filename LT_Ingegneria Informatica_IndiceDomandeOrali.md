@@ -157,6 +157,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- grafo a ciclico 
 	- su domande vero o falso: spiegazioni e altre domande
 
+**<u>2020 2021</u>**
+- Anonimi
+	- dato un algoritmo A risolutore di un problema P, se la sua complessità è O(f(n)), la complessità intrinseca di P è O(f(n))
+	- dato un algoritmo A risolutore di un problema P, se la sua complessità è Omega(f(n)), la complessità intrinseca di P è Omega(f(n))
+	- complessità intrinseca ricerca di un problema di ricerca di un elemento in una sequenza disordinata è Omega(logn)
+	- equalTo(ALbero a,int x) numero nodi NON foglia che hanno entrambi figli con valore x
+	- albero binario bilanciato
+	- complessità migliore e peggiore
+	- risoluzione di 4T(n/2)+bn^3
+	- risoluzione di 3T(n/6)+bn
+	- Kruskal
+	- Prim 
+
 ## Mandaglio 
 
 
