@@ -1035,8 +1035,16 @@ Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
     - decomposizione triangolare con Teoremi
 
 **<u>2020 2021</u>**
+
 - Anonimi
 	- estrapolazione di richardson
+	- Problema di Cauchy 
+	- Equazione differenziale
+	- Stima indice K(A)
+	- Differenze divise e proprietà
+	- idea di fondo degli algoritmi
+		- jacobi
+	- Spline lineari e quadratiche
 
 # Algoritmi di Crittografia
 
