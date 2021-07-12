@@ -478,6 +478,7 @@ rc(X):- u(X), not(r(X)).
 	- Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi p(1,2,[1,1,2,2],[2,2,2,2])
 	- Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. Si supponga disponibile il predicato member p([a,r,t],[t,s,m,n,a],L3,L4) p([a,r,t],[t,s,m,n,a],[a,t] ,[r])
 	- Scrivere un programma PROLOG per la seguente relazione: d(X,Y) se e solo se Y è la lista che si ottiene dalla lista X rimuovendo gli elementi di posizione pari
+	- Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. add_up_list([1,2,3,4], [1,3,6,10])
 
 # Informatica teorica
 
