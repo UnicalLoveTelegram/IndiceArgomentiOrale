@@ -103,6 +103,8 @@ Per la stilatura di markdown, consiglio il software [Typora
 Ma esistono comunque altri software validi.  
 
 Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e _genereremo il pdf con Typora_ per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
+Il tema utilizzato da noi su Typora lo trovate qui: [purple theme](https://github.com/UnicalLoveTelegram/typora-purple-theme/blob/master/purple.css)
+
 
 #### Alcuni consigli di buona scrittura
 
@@ -110,7 +112,7 @@ Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software co
 -   meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
 -   meglio utilizzare codice inline o grassetto
 
-### leggere nel  file
+### leggere nel file
 
 Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio code + AIOM ) ad inizio del file.  
 
