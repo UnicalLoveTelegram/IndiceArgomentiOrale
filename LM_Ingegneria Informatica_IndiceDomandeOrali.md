@@ -1,6 +1,6 @@
 # Indice delle domande degli esami orali: Ingegneria Informatica LM 
 
-Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea di **Ingegneria Informatica Laurea Magistrale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
+Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea in **Ingegneria Informatica Laurea Magistrale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
@@ -163,7 +163,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - numero di reducer e mapper
     - watermark
     - wordlenghtcount
-     
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
@@ -574,7 +573,7 @@ rc(X):- u(X), not(r(X)).
 	- FPTAS con costi
 	- FPT con VC e con knapsack
 	- knapsack con programmazione dinamica
-	
+
 **<u>2020 2021</u>**
 - Erma_TV
 	- Dimostrazione NP incluso in PSPACE
@@ -979,12 +978,12 @@ rc(X):- u(X), not(r(X)).
 	- Data una grande sequenza di numeri positivi, qual'è il migliore modo di sommarli? 
 		- (Risposta: ordine crescente, minor perdita d'informazioni)
 	- Quale dei metodi (Gauss e Gauss-Jordan) è il più efficente? 
-Risposta: Il migliore è il metodo di Gauss perché ha una complessità minore
+	Risposta: Il migliore è il metodo di Gauss perché ha una complessità minore
 	- Svantaggi della formula del polinomio interpolante di LaGrange?
-Risposta: la complessità e non si possono aggiungere nodi senza dover ricalcolare il polinomio da capo
+	Risposta: la complessità e non si possono aggiungere nodi senza dover ricalcolare il polinomio da capo
 	- Significato di errore assoluto e relativo nell'approssimazione di un numero floating point
 	- Formula adattiva di Cavalieri-Simpson e qual'è il presupposto fatto?
-Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
+	Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
 	- Quali sono i metodi per la risoluzione di equazioni differenziali ordinarie? Cosa vuol dire implicito ed esplicito?
 	- Residuo dei sistemi lineare? Se il residuo è piccolo cosa possiamo dire sulla soluzione?
 		- Risposta: r^(k) = b - Ax^(k)

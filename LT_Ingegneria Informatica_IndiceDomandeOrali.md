@@ -1,6 +1,6 @@
 # Indice delle domande degli esami orali: Ingegneria Informatica LT 
 
-Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea di **Ingegneria Informatica Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
+Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea in **Ingegneria Informatica Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
@@ -139,7 +139,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>Anno non classificato</u>**
 - Dario
 	-  A me ha chiesto il counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
-	
 
 **<u>2015 2016</u>**
 - Salvatore Riga 
@@ -208,7 +207,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Giovanni Giordano
     - componente angular cosa contiene
-    
 
 **<u>2020 2021</u>**
 
@@ -278,7 +276,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Luigi De Marco
 	- scrivere una fdt in forma di bode
 	- definizioni di filtro ( passa alto, passa alto, passa banda )
-	
 
 **<u>2012 2013</u>**
 
@@ -301,7 +298,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- criterio di bode
 	- diagramma di nyquist in generale 
 	- margine di fase
-	
 
 **<u>2015 2016</u>**
 
@@ -378,7 +374,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- tempo di salita sulla risposta al gradino 
 	- esercizio data **una risposta in t** 
 		- Ascissa di convergenza
-  
 # Sistemi Operativi
 
 ## Domenico Talia
@@ -496,8 +491,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- protezione in generale 
 	- protezione di IO
 	- SystemCall e passaggio dei parametri 
-**<u>2020 2021</u>**
-Anonimi
+	**<u>2020 2021</u>**
+	Anonimi
 	- algoritmo banchiere
 	- System Call? che interfaccia è?
 	- memoria condivisa scambio di messaggi (comunicazione)
@@ -1219,7 +1214,6 @@ malloc(sizeof(int)*(i+1));
 	- `s.a.b. <=> vertice per omega(P)`
 	- dimostrazione del lemma : albero ricoprente &rarr; triangolare superiore
 	- base per flusso di rete 
-  
 
 **<u>2018 2019</u>**
 
@@ -1517,7 +1511,7 @@ malloc(sizeof(int)*(i+1));
 	- dimostrazione del teorema delle dimensioni 
 
 **<u>2020 2021</u>**
-  
+
 - Pietro
 	- dimostrazione del teorema della dimensione 
 	- combinazioni semplici
@@ -1528,7 +1522,7 @@ malloc(sizeof(int)*(i+1));
 	- Idea dell'algoritmo di euclide
 	- Che cosa è il principio di induzione ?
 	- Calcolo combinatorio in generale
-Disposizioni con ripetizione
+	Disposizioni con ripetizione
 	- Che cos' è una base di uno spazio vettoriale?
 	- Come si può costruire una base per uno spazio vettoriale
 	- Se abbiamo i vettori e vogliamo completare la base?
