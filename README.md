@@ -102,7 +102,8 @@ Per la stilatura di markdown, consiglio il software [Typora
 
 Ma esistono comunque altri software validi.  
 
-Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e _genereremo il pdf con Typora_ per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf
+Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e _genereremo il pdf con Typora_ per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf  
+
 Il tema utilizzato da noi su Typora lo trovate qui: [purple theme](https://github.com/UnicalLoveTelegram/typora-purple-theme/blob/master/purple.css)
 
 
