@@ -1029,6 +1029,28 @@ malloc(sizeof(int)*(i+1));
 - Anonimi 
 	- differenza tra composizione
 
+**<u>2017 2018</u>**
+
+## Angelo Furfaro 
+
+- Oscar
+	- Visitor
+	-  design by contract
+		- cosa sono in funzione pre e post condizione (ad esempio post condizione in funzione del valore di ritorno dei valori in ingresso e dello stato iniziale e finale dell'oggetto)
+	-  ereditarietà
+	-  aggregazione e composizione differenze
+	-  cosa significa rafforzare una condizione dal punto di vista logico e dal punto di vista insiemistico.
+- Anonimi
+	- Abstract factory
+	- builder
+	- decorator
+	- mediator
+	- frame di interazione
+	- sequence diagram
+	- cos'è un criterio e cos'è un test
+	- classe associativa
+	- use case diagram e le varie relazioni che possiamo avere (inclusione, estensione e generalizzazione)
+
 
 # Reti di Calcolatori
 
