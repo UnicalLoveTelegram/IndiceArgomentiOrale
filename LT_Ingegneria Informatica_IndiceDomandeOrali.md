@@ -524,7 +524,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- page fault
 	- grafo di stato dei processi
 
-## Marrozzo
+## Marozzo
 
 **<u>Anno non classificato</u>**
 
@@ -1029,7 +1029,7 @@ malloc(sizeof(int)*(i+1));
 - Anonimi 
 	- differenza tra composizione
 
-**<u>2017 2018</u>**
+**<u>2020 2021</u>**
 
 ## Angelo Furfaro 
 
@@ -1050,6 +1050,10 @@ malloc(sizeof(int)*(i+1));
 	- cos'è un criterio e cos'è un test
 	- classe associativa
 	- use case diagram e le varie relazioni che possiamo avere (inclusione, estensione e generalizzazione)
+	- decorator
+	- abstract factory
+	- composite diagram
+	- Rup e modello a spirale
 
 
 # Reti di Calcolatori
