@@ -878,11 +878,21 @@ rc(X):- u(X), not(r(X)).
     - HT Condor 
 
 **<u>2020 2021</u>**
+
 - Anonimi
     - componenti del Cloud Amazon
     - tecniche di scalabilità dei sistemi distribuiti
     - grid computing
+    - Consistenza debole (synchronize)
+    - Naming in generale e p2p
+    - Kerberos
 
+- Erma_TV
+	- HTCondor
+	- Client Side Consistency (Eventual Consistency)
+	- RPC (in prticolare RPC one-way)
+	- Eucalyptus
+ 
 ## Loris Belcastro
 
 **<u>2018 2019</u>**
@@ -899,7 +909,7 @@ rc(X):- u(X), not(r(X)).
   - distribuited garbage collector
   - riferimenti Java RMI 
   - tabelle Azure
-  - Combiner 
+  - Combiner
 
 **<u>2020 2021</u>**
 
@@ -908,6 +918,15 @@ rc(X):- u(X), not(r(X)).
 	- distributed garbage collector
 	- tables di azure
 	- json web token
+	- Dynamic class download
+	- Oggetti attivabili
+	- Modulo combiner in map reduce
+
+- Erma_TV
+	- MapReduce
+	- Distributed Garbage Collector
+	- Tables Di Azure
+
 # Basi di Dati evolute
 
 ## Molinaro Cristian 
