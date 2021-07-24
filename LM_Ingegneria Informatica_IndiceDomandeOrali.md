@@ -85,8 +85,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- gdb
 	- sito che ritorna un immagine, come capisci le tabelle?
 	- nmap port scanning
-	- reflected e stored XSS
+	- reflected, DOM Based e stored XSS
 	- ASLR
+	- CSRF
+	- Thin scanning
+	- ROP
+		- come mai i tool automatizzati trovano tanti gadget mentre una scansione manuale ne trova pochi?
 
 # Business Intelligence
 
