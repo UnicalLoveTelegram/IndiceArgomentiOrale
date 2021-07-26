@@ -809,6 +809,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Descrizione dei puntatori dinamici in C
     - problema del segmentation fault
 
+**<u>2020 2021</u>**
+
+- Oscar
+	- apt-get come funziona a che serve
+	- repository
+	- modalità kernel
+	- modalità utente
 
 ## Ianni 
 
@@ -836,11 +843,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2020 2021</u>**
 
-- Oscar
-	- apt-get come funziona a che serve
-	- repository
-	- modalità kernel
-	- modalità utente
 - Samuele
 	- Implementazione LinkedList in C con funzione di accodamento nuovo nodo
 	- Errore in 
@@ -1037,7 +1039,7 @@ malloc(sizeof(int)*(i+1));
 	- Visitor
 	-  design by contract
 		- cosa sono in funzione pre e post condizione (ad esempio post condizione in funzione del valore di ritorno dei valori in ingresso e dello stato iniziale e finale dell'oggetto)
-	-  ereditarietà
+		- ereditarietà
 	-  aggregazione e composizione differenze
 	-  cosa significa rafforzare una condizione dal punto di vista logico e dal punto di vista insiemistico.
 - Anonimi
