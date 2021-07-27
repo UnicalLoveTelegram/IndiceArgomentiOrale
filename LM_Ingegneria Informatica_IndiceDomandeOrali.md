@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Ethical Hacking](#ethical-hacking)
+  - [Francesco Lupia](#francesco-lupia)
 - [Metodi Informatici per l'analisi dei Processi](#metodi-informatici-per-lanalisi-dei-processi)
   - [Antonella Guzzo](#antonella-guzzo)
 - [Metodi e Strumenti per la Sicurezza Informatica](#metodi-e-strumenti-per-la-sicurezza-informatica)
@@ -46,6 +48,23 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
   - [Cristian Molinaro](#cristian-molinaro)
+
+# Ethical Hacking
+## Francesco Lupia
+
+**<u>2020/2021</u>**
+- Anonimi
+	- Reverse Shell e Bind Shell
+	- sql injection con script php (cosa è e cosa fa)
+	- challenge web con loose comparison
+	- differenze attacchi x32 bit e x64 bit
+		- rop chain e bruteforce sul indirizzo di ritorno
+	- Metasploit cosa è
+	- tool simili a metasploit per windows
+	- challenge web che presentava degli endpoint e bisognava loggarsi come admin
+	- challenge web con form di login e registrazione
+	- format string
+	- privilege escalation windows: cosa faresti?
 
 # Metodi Informatici per l'analisi dei Processi
 
