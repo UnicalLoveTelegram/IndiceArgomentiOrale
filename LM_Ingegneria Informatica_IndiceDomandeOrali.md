@@ -414,6 +414,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- universo di Herbrand, Base di Herbrand, modelli minimali
 	- verificare che 2 liste abbiano gli stessi elementi con lo stesso numero di occorrenze
 	- espressioni regolari
+	-  unificatore generale
+	- Palindroma in Calculist
 ## Rullo
 
 **<u>2016 2017</u>**
@@ -508,6 +510,7 @@ rc(X):- u(X), not(r(X)).
 	- Define a predicate occurs(L,N,X) which holds iff X is the element occurring in position N of the list L    
 	- Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. Example: ?- add_up_list([1,2,3,4],K). K = [1,3,6,10]
 	- Define a predicateoccurs(L,N,X)which holds iffXis the element occurring in positionNof the listL
+	- palindroma
 
 # Informatica teorica
 
