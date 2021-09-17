@@ -919,6 +919,8 @@ rc(X):- u(X), not(r(X)).
     - Consistenza debole (synchronize)
     - Naming in generale e p2p
     - Kerberos
+    - grid
+    - algoritmo elezioni
 
 - Erma_TV
 	- HTCondor
@@ -954,6 +956,9 @@ rc(X):- u(X), not(r(X)).
 	- Dynamic class download
 	- Oggetti attivabili
 	- Modulo combiner in map reduce
+	- combiner
+	- jwt
+	- gerarchia row timestamp
 
 - Erma_TV
 	- MapReduce
