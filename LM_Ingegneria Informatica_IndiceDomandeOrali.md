@@ -1063,7 +1063,7 @@ rc(X):- u(X), not(r(X)).
 	- Metodi iterativi per la risoluzione dei sistemi lineari? Differenza in implementazione? 
 		- Risposta: Jacobi può essere parallelizzato
 	- Cos'è una matrice di permutazione e quali sono le proprietà?
-	- Formula di Cavaglieri-Simpson adattiva
+	- Formula di Cavaglieri-Simpson adattiva e come si valuta l'errore
 	- Fenomeno Runge e come si risolve?
 		- Risposta: nodi di Chebyshev o uso di Spline
 	- Può capitare che uno dei metodi di risoluzione dei sistemi lineari (iterativi) converge e l'altro diverge?
@@ -1087,6 +1087,9 @@ rc(X):- u(X), not(r(X)).
 	- come trovare la matrice inversa 
 	- matrice di permutazione
 	- qual è il trucco dea formula di integrazione di cavalieri Simpson? 
+	- metodi di derivazione,i tipi e qual è il margine di errore, come si migliora, che grado di errore c'è
+	- clark nicolson
+	- calcolo delle matrici LU (con studio dell'errore)
 
 
 
