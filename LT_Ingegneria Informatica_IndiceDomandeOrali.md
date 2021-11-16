@@ -168,6 +168,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- risoluzione di 3T(n/6)+bn
 	- Kruskal
 	- Prim 
+	- algoritmo di Djkstra
+	- correzione errori primo esercizio dello scritto
+	- domanda su Floyd (pseudo algoritmo)
+- Oscar
+	- correzione errori
+	- edit distance
+		- riflessione sul poter invertire insert remove e sostituzione della edit distance
 
 ## Mandaglio 
 
@@ -188,8 +195,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Counting sort 
 - Davide 
 	- esercizio di backtracking 
-	- dimostrazione distanza tra stringhe 
+	- dimostrazione distanza tra stringhe
 
+**<u>2020 2021</u>**
+ 
+- Anonimi
+	- Kruskal
+		- complessita spiegata
+	- Struttura union find e due implementazioni
+	- Heap descrizione e inserimento nodo ed estrazione
 
 # Piattaforme software per applicazioni web
 
