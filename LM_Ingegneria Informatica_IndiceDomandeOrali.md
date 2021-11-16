@@ -1142,3 +1142,11 @@ rc(X):- u(X), not(r(X)).
     - modi operativi many time Key
     - PRG e definizioni sicurezza
     - firma digitale e CA
+
+**<u>2020 2021</u>**
+
+- Anonimi
+	- Modi operativi many time key
+	- Sicurezza modi operativi many time key
+	- zero knowledge 
+	- Algoritmo che è capace di attaccare qualsiasi funzione hash e paradosso del compleanno
