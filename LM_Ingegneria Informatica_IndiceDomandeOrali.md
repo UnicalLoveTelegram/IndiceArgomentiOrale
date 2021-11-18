@@ -104,13 +104,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- gdb
 	- sito che ritorna un immagine, come capisci le tabelle?
 	- nmap port scanning
+		- fin scan
+		- udp scan
+		- syn scan
+		- null scan
+		- xmas scan
 	- reflected, DOM Based e stored XSS
 	- ASLR
 	- CSRF
-	- Thin scanning
+		- chi genera il token
 	- ROP
 		- come mai i tool automatizzati trovano tanti gadget mentre una scansione manuale ne trova pochi?
-
+	- buffer overflow
+		- mitigazioni
+		- generarlo senza utilizzare le funzioni vulnerabili
+	- Mitigazioni SQL injection
 # Business Intelligence
 
 ## Filippo Furfaro
