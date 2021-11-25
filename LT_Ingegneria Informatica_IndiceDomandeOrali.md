@@ -830,6 +830,30 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- repository
 	- modalità kernel
 	- modalità utente
+- Angelo Palumbo
+	- nfs
+	- lato client fstub
+	- samba
+	-repository
+	-perché alcuni pacchetti potrebbero appartenere a repository non ufficiali?
+	-demoni e super demoni
+- Anonimi
+	- permessi (ottale)
+	- link simbolici
+	- processi linux
+	- lo stato di zombie come avviene?
+	- segnali
+	- perché si dice che la pipe è bloccante (tra processi C, non la shell)?
+	- lseek
+	- comando cron
+	- differenza union e struct
+	- samba
+	- quote utenti
+	- distribuzioni molto leggere
+	- software libero
+	- principi del software libero (più o meno uguale alla domanda di sopra)
+	- file system (cartelle, gerarchia ecc.) e cartella proc
+	- nfs
 
 ## Ianni 
 
