@@ -115,6 +115,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- chi genera il token
 	- ROP
 		- come mai i tool automatizzati trovano tanti gadget mentre una scansione manuale ne trova pochi?
+		- i gadget sono una serie di istruzioni. Perché ropper va a guardare l'esadecimale, parte da una ret e va all'indietro se una sotto sequenza è un'istruzione valida viene restituito il gadget. Ad esempio in esadecimale a3 aa bb cc 90 c3 è mov eax, 0x90aabbcc; ret, ma la sottosequenza 90 c3 è nop; ret. Sono entrambi gadget.
 	- buffer overflow
 		- mitigazioni
 		- generarlo senza utilizzare le funzioni vulnerabili
