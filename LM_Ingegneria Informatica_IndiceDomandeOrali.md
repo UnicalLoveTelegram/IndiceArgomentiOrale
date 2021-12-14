@@ -109,6 +109,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- syn scan
 		- null scan
 		- xmas scan
+	- arp poisoning
 	- reflected, DOM Based e stored XSS
 	- ASLR
 	- CSRF
@@ -119,6 +120,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- buffer overflow
 		- mitigazioni
 		- generarlo senza utilizzare le funzioni vulnerabili
+	- code reuse
 	- Mitigazioni SQL injection
 # Business Intelligence
 
