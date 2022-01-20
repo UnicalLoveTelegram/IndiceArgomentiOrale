@@ -947,6 +947,16 @@ rc(X):- u(X), not(r(X)).
 	- RPC (in prticolare RPC one-way)
 	- Eucalyptus
  
+ **<u>2021 2022</u>**
+ 
+ - Anonimi
+ 	- ClassAds di HTCondor
+	- cos'è e come viene usato il KDC
+	- algoritmi di elezione
+	- Eucalyptus
+	- Match macker (ht condor)
+	- Locking nfs 
+	- Naming sistemi distribuiti
 ## Loris Belcastro
 
 **<u>2018 2019</u>**
