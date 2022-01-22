@@ -1137,6 +1137,65 @@ malloc(sizeof(int)*(i+1));
     - Protocollo ap4.0 
         - se il nonce rimane invariato che succede ?
 
+**<u> 2021 2022 <u>**
+- Oscar
+	- DIFFERENZA TRA CRITTOGRAFIA SIMMETRICA E ASIMMETRICA
+	- Esiste uno scenario per utilizzare in modo combinato entrambe le crittografie?
+	- Quali sono gli aspetti positivi delle due crittografie, e quali quelli negativi?  
+	- QUALI SONO I MODELLI DI DEPLOYEMENT DEL CLOUD COMPUTING??
+	- modelli di servizio
+	- utilizzatori tipici dei servizi cloud 
+	- DHT
+		- Complessità nelle DHT?
+	- Che cosa sono le finger table in chord?
+	- Per quale motivo la distanza cresce esponenzialmente nella finger table?  
+	- Come si calcola il prossimo round trip time e per quale motivo lo facciamo?
+	- SPIEGARE L'ANALISI DELLE FREQUENZE CHE SI USA NELLE CRITTOGRAFIE
+		- si può usare questa tecnica di analisi in ONE TIME PAD 
+	- Spiegare la differenza tra multiplexing TCP e UDP
+	- Differenza tra risoluzione iterative e ricorsiva del DNS
+		- Quale delle due è la soluzione più vantaggiosa ?
+	- ICMP cos è?
+	- Traceroute funzionamento, cosa sono gli asterischi che possono uscire in un traceroute
+	- A che serve una CA?
+		- Cosa troviamo dentro una CA 
+	- procedura di firma digitale 
+	- Perché la ricerca è in log_2  in chord
+	- Quanti sono i successori nella lista di successori in chord?
+	- Cosa ci permette di fare il gateway a livello applicazione che il firewall a filtraggio di pacchetto non permette? 
+	- Hot potato routing cos è, è intra-AS o inter-AS ? 
+	- FIREWALL: Perchè è necessario nel filtraggio di pacchetto un ordine ragionato e non randomico ?
+	- Quale regola inseriamo per bloccare le connessioni in ingresso TCP?
+	- Perché sarebbe sbagliato bloccare i pacchetti in ingresso con solo SYN pari a 1? 
+	- Come funziona la sostituzione poli-alfabetica? 
+	- KDC come funziona ?   
+	- FTP
+	- Che cos è la GET condizionale? 
+	- Differenza tra stop & Wait e Pipeline 
+	- Differenza tra selective e go back n e vantaggi e svantaggi
+	- MAC codice di autenticazione 
+	- Come evitare attacchi di playback?
+	- Get condizionale?
+	- Cosa sono le hash crittografiche e quali sono le proprietà di cui devono godere?
+	- Cos è il cloud Computing ? 
+	- Vantaggio pipeline rispetto a stop and wait
+	- Codice autenticazione messaggi MAC
+	- Attacchi payback
+	- Funzioni hash crittografiche
+	- Definizione di cloud computing
+	- Lazy join in chord
+	- Come mai è meglio p2p rispetto a client-server
+	- Come funziona l algoritmo RSA
+	- attacchi di rete
+	- smurfing
+	- perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
+	- chi tra go back n e selective repeat utilizza buffer in ricezione
+	- email sicura
+	- Funzionamento di bittorrent
+	- Metodi per inviare un form in http
+	- Differenza in http tra connessioni persistenti e non persistenti
+	- Definizioni di reti di calcolatori e dire una rete di computer interconessi che non sono indipendenti (spoiler: cluster)
+
 # Metodi probabilistici della ricerca operativa 
 
 ## Pasquale Legato 
