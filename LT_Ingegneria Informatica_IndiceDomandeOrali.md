@@ -1138,6 +1138,7 @@ malloc(sizeof(int)*(i+1));
         - se il nonce rimane invariato che succede ?
 
 **<u> 2021 2022 <u>**
+
 - Oscar
 	- DIFFERENZA TRA CRITTOGRAFIA SIMMETRICA E ASIMMETRICA
 	- Esiste uno scenario per utilizzare in modo combinato entrambe le crittografie?
@@ -1463,6 +1464,32 @@ malloc(sizeof(int)*(i+1));
 	- rapport clock ritardo
 	- algoritmo minimizzazione automa
 
+**<u>2021 2022</u>**
+
+## Giallombardo
+
+- Anonimo
+	- Teorema fondamentale della PL
+	- Problemi che possono emergere con il cambio di base (regole anticiclaggio)
+	- Formulazione problema del flusso di costo minimo e in cosa consiste (esempio reale)
+	- Può dire che i flussi sono a componenti intere?
+	- Condizione sufficiente di ottimalità, come ci si arriva
+	- Algoritmo del simplesso su rete (come mai esso non fa uso esplicito dei coefficienti di costo ridotto)
+	- Vincoli del duale del flusso di costo minimo
+	- Prima fase dell'algoritmo del simplesso
+	- Formulazione problema artificiale, perché esiste sicuramente l'ottimo? perché si può fare lo scambio di base degenere? 
+	- Cosa si intende per proprietà di interezza?
+	- Perché se la matrice è TUM la soluzione del simplesso è a coordinate intere?
+	- Teo Scarti complementari+Dim
+	- Dove l'abbiamo vista l'applicazione degli scarti complementari nel massimo flusso?(3° enunciato FF)
+	- Cos'è un cammino aumentante
+	- Altri due enunciati FF
+	- Teorema fondamentale della PL con dimostrazione
+	- Similitudini simplesso e simplesso su rete
+	- Rassegna dei principali risultati della teoria della dualità (Da primale a duale, teo dualità debole + corollari, teo dualità forte+dim)
+	- Algoritmo del simplesso dal punto di vista del duale
+	- Un algoritmo che è in grado di lavorare su soluzioni inammissibili, perché sarebbe particolarmente utile nella costruzione del metodo del branch&bound?
+	- Criteri di arresto del metodo branch&bound
 
 ## Angiulli Fabrizio e Fassetti Fabio
 
