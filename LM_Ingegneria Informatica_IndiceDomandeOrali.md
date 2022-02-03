@@ -848,7 +848,11 @@ rc(X):- u(X), not(r(X)).
 			- **Risposta**:un esempio è {f, not(f)} in cui abbiamo uno stato con due fluenti con valore logico opposto, ma strips NON è un linguaggio logico, f e not f potrebbero essere chiamati pluto e paperino quindi no, non genera stati inconsistenti in quanto il concetto di incosistenza è associato a linguaggi logici)
 		- Esempio di teoria di default in cui non ci sia alcuna estensione che sia calcolabile con la semantica operazionale 
 			- **Risposta**: basta usare una teoria incoerente, {TRUE:A/&not;A } è l'esempio tipico
-	
+- Giovanni
+	- GSAT
+	- espressività vs complessità
+	- hill climb con simulated annealing
+	- modello perfetto
 	
 # Sistemi Informativi
 
