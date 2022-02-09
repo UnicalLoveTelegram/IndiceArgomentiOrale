@@ -73,7 +73,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Cos'è kerberos
 	- challenge SSRF presente sul sito di burp suite https://portswigger.net/burp (in teoria vi registrate, andate in accademy e poi nei vulnerabilty lab e cercate ssrf)
 	- pass the hash: descrizione
-	- challenge presente su natas numero 8
+	- challenge presente su natas numero 8 https://overthewire.org/wargames/natas/
 	- Hash md5: come si riconosce?
 
 # Metodi Informatici per l'analisi dei Processi
