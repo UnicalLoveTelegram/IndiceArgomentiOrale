@@ -129,7 +129,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- format string
 	- xss
-		- le differenze tra i vari tipi di xss 
+		- le differenze tra i vari tipi di xss
+	- ARP poisoning
+	- port scanning
+		- FIN SCAN
+		- XMAS SCAN
+		- SYN SCAN
+	- ret2libc
+		- perché è meno conveniente rispetto alla code reuse? 
 
 # Business Intelligence
 
