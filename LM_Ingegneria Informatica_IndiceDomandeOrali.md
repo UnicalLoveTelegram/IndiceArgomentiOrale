@@ -122,6 +122,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- generarlo senza utilizzare le funzioni vulnerabili
 	- code reuse
 	- Mitigazioni SQL injection
+
+**<u>2021 2022</u>**
+
+
+- Anonimi
+	- format string
+	- xss
+		- le differenze tra i vari tipi di xss 
+
 # Business Intelligence
 
 ## Filippo Furfaro
