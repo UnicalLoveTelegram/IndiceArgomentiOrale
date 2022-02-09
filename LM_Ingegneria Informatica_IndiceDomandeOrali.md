@@ -52,7 +52,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 # Ethical Hacking
 ## Francesco Lupia
 
-**<u>2020/2021</u>**
+**<u>2020 2021</u>**
 - Anonimi
 	- Reverse Shell e Bind Shell
 	- sql injection con script php (cosa è e cosa fa)
@@ -65,6 +65,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- challenge web con form di login e registrazione
 	- format string
 	- privilege escalation windows: cosa faresti?
+
+**<u>2021 2022</u>**
+- Anonimi
+	- Spiegazione csrf
+	- Differenze tra csrf e xss
+	- Cos'è kerberos
+	- challenge SSRF presente sul sito di burp suite https://portswigger.net/burp (in teoria vi registrate, andate in accademy e poi nei vulnerabilty lab e cercate ssrf)
+	- pass the hash: descrizione
+	- challenge presente su natas numero 8
+	- Hash md5: come si riconosce?
 
 # Metodi Informatici per l'analisi dei Processi
 
