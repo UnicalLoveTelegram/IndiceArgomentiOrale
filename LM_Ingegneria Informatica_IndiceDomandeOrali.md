@@ -224,6 +224,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - watermark
     - wordlenghtcount
 
+**<u>2020 2021</u>**
+
+- Anonimi
+	- codice word count
+	- che tipologia di programmi esegue storm
+	- possono esserci piu spout?
+	- quali metodi deve implementare spout e quali bolt
+	- combiner di map reduce
+	- codice word count reverse
+	- Superlinear speedup:
+	- architettura hdfs e file di configurazione delle risorse
+
 # Architetture e programmazione dei sistemi di elaborazione 
 
 ## Fabrizio Angiulli 
