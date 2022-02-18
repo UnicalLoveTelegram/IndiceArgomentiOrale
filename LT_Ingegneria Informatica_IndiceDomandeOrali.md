@@ -242,6 +242,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- version
 	- codice del frontend
 
+## Francesco Scala
+
+**<u>2020 2021</u>**
+
+- Samuele
+	- controller e service piú importante del progetto, chiede di spiegare il funzionamento e fa alcune domande se alcune cose non vanno bene
+	- lock ottimistici, pessimistici e livelli di isolamento
+
 # Elettrotecnica
 
 ## Felice Crupi 
