@@ -4,4 +4,4 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
-[TOC]
+- [Indice delle domande degli esami orali: Ingegneria Elettronica LM](#indice-delle-domande-degli-esami-orali-ingegneria-elettronica-lm)
