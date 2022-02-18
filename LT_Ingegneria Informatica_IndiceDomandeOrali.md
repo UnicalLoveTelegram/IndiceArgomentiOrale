@@ -1439,6 +1439,15 @@ malloc(sizeof(int)*(i+1));
 	- Un algoritmo che è in grado di lavorare su soluzioni inammissibili, perché sarebbe particolarmente utile nella costruzione del metodo del branch&bound?
 	- Criteri di arresto del metodo branch&bound
 
+- Anonimo
+	- Prima fase simplesso
+	- teorema fondamentale
+	- duale forte e debole
+	- Ford fulkerson e massimo flusso
+	- simplesso su rete
+	- teorema degli scarti
+	- Formulazione base
+
 # Reti Logiche e Calcolatori
 
 ## Fabio Fassetti 
