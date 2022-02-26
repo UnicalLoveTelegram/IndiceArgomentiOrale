@@ -5,6 +5,9 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+
+- [Sistemi Informativi Ambientali](#sistemi-informativi-ambientali)
+	- [Davide Luciano De Luca](#davide-luciano-de-luca)
 - [Ethical Hacking](#ethical-hacking)
 	- [Francesco Lupia](#francesco-lupia)
 - [Metodi Informatici per l'analisi dei Processi](#metodi-informatici-per-lanalisi-dei-processi)
@@ -48,6 +51,24 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
+
+# Sistemi Informativi Ambientali]
+## Davide Luciano De Luca
+
+**<u>2021 2022</u>**
+- Giovanni
+	- cosa è un DEM?
+	- differenza file shape vettoriale e file raster
+	- tecniche di geoprocessing
+	- tutti i tipi di interpolatori (esatto,non esatto,locale,globale...)
+	- cosa vuol dire la media o la varianza in un certo punto?
+	- cosa rappresenta Z0? Ponendo Zi come i punti che hanno misura esatta con i>0
+	- cosa è una misura?
+		- lo strumento misura sicuramente bene
+	- cosa è un GCP?
+	- come è fatto un file di tipo geografico?
+		- numero delle righe,colonne,risoluzione,xcornern,ycornern...
+
 
 # Ethical Hacking
 ## Francesco Lupia
