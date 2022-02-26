@@ -56,7 +56,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 ## Davide Luciano De Luca
 
 **<u>2021 2022</u>**
-- Giovanni
+- giovixo97
 	- cosa è un DEM?
 	- differenza file shape vettoriale e file raster
 	- tecniche di geoprocessing
