@@ -243,6 +243,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- version
 	- codice del frontend
 
+**<u>2021 2022</u>**
+
+- Giovanna
+	- progetto ecommerce
+	- quale problema sorgerebbe se il prezzo di un prodotto cambiasse dopo averlo messo nel carrello?
+	- come si fa (nel back-end in Spring boot) a svuotare automaticamente e dopo un certo intervallo di tempo il carrello?
+		- si fa utilizzando l'annotazione @Scheduled
+	- come è stata fatta l'autenticazione/registrazione dell'utente? (spring security)
+	- routing
+
 ## Francesco Scala
 
 **<u>2020 2021</u>**
