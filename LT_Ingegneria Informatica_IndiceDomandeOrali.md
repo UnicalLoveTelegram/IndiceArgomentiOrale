@@ -201,7 +201,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- dimostrazione distanza tra stringhe
 
 **<u>2020 2021</u>**
- 
+
 - Anonimi
 	- Kruskal
 		- complessita spiegata
