@@ -121,19 +121,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- come suddividere gli attributi in quello a fiocco di neve
 
 - Giacomo
-    - Fase di assestment
-        - cos'é il project managament (visto che quando ho risposto ho detto che ne fa parte)
-    - Cosa é il Work breakdown structure
-    - Cosa é il DFM dimensional fact model
-    - Costruisci una query ricorsiva che calcoli il fattoriale
-    - Costruisci una query ricorsiva che percorre un grafo a partire dal nodo iniziale(applicato a diversi contesti, cittá, treni etc)
-    - Operatori OLAP dice e slice
-        -se io faccio k operazioni di slice le mie dimensioni dell'ipercubo di quanto variano?
-        -La risposta é che se si effettuano k slice allora se la dimensione era n poi sará n-k
-    - Operatori OLAP drill through
-        - quali sono i requisiti per poterlo usare nel 2o livello? 
-        - perché nel 3o livello si puó fare invece a prescindere?
-        - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
+	- Fase di assestment
+		- cos'é il project managament (visto che quando ho risposto ho detto che ne fa parte)
+	- Cosa é il Work breakdown structure
+	- Cosa é il DFM dimensional fact model
+	- Costruisci una query ricorsiva che calcoli il fattoriale
+	- Costruisci una query ricorsiva che percorre un grafo a partire dal nodo iniziale(applicato a diversi contesti, cittá, treni etc)
+	- Operatori OLAP dice e slice
+		-se io faccio k operazioni di slice le mie dimensioni dell'ipercubo di quanto variano?
+		-La risposta é che se si effettuano k slice allora se la dimensione era n poi sará n-k
+	- Operatori OLAP drill through
+		- quali sono i requisiti per poterlo usare nel 2o livello? 
+		- perché nel 3o livello si puó fare invece a prescindere?
+		- La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
 
 # Algoritmi e strutture dati 
 
@@ -215,15 +215,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2018 2019</u>**
 
 - Anonimi
-     - Stateful EJB
-     - web services
-     - ajax
-     - stateful session bean
-     - componenti angular
-     - lock nel progetto, come si fa? JSF o Angular
+	 - Stateful EJB
+	 - web services
+	 - ajax
+	 - stateful session bean
+	 - componenti angular
+	 - lock nel progetto, come si fa? JSF o Angular
 
 - Giovanni Giordano
-    - componente angular cosa contiene
+	- componente angular cosa contiene
 
 **<u>2020 2021</u>**
 
@@ -270,7 +270,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Federica Branca
 	- Per quello che ho potuto constatare io si concentra molto sulla seconda parte cioè dai condensatori-induttori in poi ...a me ha   chiesto la risposta forza di un circuito rl e la potenza media 
 
-    
+	
 # Metodi matematici per l'ingegneria dell'informazione
 
 ## Sciunzi Berardino 
@@ -281,7 +281,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Teorema di Dini
 	- serie di Laurent, con dimostrazione
 
-    
+	
 # Fondamenti di Automatica 
 
 ## Famularo Domenico 
@@ -840,9 +840,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2019 2020</u>**
 
 - Viviana 
-    - configurazione NFS lato server 
-    - Descrizione dei puntatori dinamici in C
-    - problema del segmentation fault
+	- configurazione NFS lato server 
+	- Descrizione dei puntatori dinamici in C
+	- problema del segmentation fault
 
 **<u>2020 2021</u>**
 
@@ -875,6 +875,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- principi del software libero (più o meno uguale alla domanda di sopra)
 	- file system (cartelle, gerarchia ecc.) e cartella proc
 	- nfs
+
+**<u>2021 2022</u>**
+
+- Alfredo
+	- Permessi degli utenti e dei gruppi cosa sono?
+	- Che differenza c'è tra un file .txt ed un file .bin
+	- Demoni
+	- Processi, cosa sono e come funzionano
+	- Come si installano i pacchetti da repository
+	- Le quote del disco cosa sono ed a cosa servono
+	- cos'è il protocollo Samba?
+
 
 ## Ianni 
 
@@ -917,11 +929,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- qualche directory in / cosa facesse es: /dev   /proc
 	- `char (*x)(char*)` cosa è? (puntatore a funzione)
 	- char *f(char *d, const char *s){
-          char *p=d;
-          while(*p) p++;
-          while(*p++ = *s++);
-          return d;
-          }
+		  char *p=d;
+		  while(*p) p++;
+		  while(*p++ = *s++);
+		  return d;
+		  }
 	- Software Libero(licenze, lgpl, gpl, principi, se un software gpl fosse commercializzabile etc)
 	- storia di linux/unix
 	- repository
@@ -989,36 +1001,36 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - Emanu
-    - Abstract Factory 
-        - pattern
-        - diagramma di classe
-        - esempio
-        - conseguenze
-    - Design by contract
-        - dove va verificato l'invariante
-    - Frame di interazione
+	- Abstract Factory 
+		- pattern
+		- diagramma di classe
+		- esempio
+		- conseguenze
+	- Design by contract
+		- dove va verificato l'invariante
+	- Frame di interazione
 - FrancescoLux
-    - Pattern builder con sequence diagram, posso usare stesso director e builder diverso? posso utilizzare questo pattern per la riusabilità? esempio fatto a lezione (document)
-    - differenza tra class diagram e sequence diagram
-    - tabella di verità implicazione logica
-    - weaker vs stronger precondizione e post condizione
-    - Dato P(superclasse) be P'(sottoclasse) P implica P' o viceversa?
-    - quale dei due posso rendere più restrittivo/meno restrittivo?
+	- Pattern builder con sequence diagram, posso usare stesso director e builder diverso? posso utilizzare questo pattern per la riusabilità? esempio fatto a lezione (document)
+	- differenza tra class diagram e sequence diagram
+	- tabella di verità implicazione logica
+	- weaker vs stronger precondizione e post condizione
+	- Dato P(superclasse) be P'(sottoclasse) P implica P' o viceversa?
+	- quale dei due posso rendere più restrittivo/meno restrittivo?
 - Giovanni 
-    - Builder con il sequence Diagram 
-    - UseCase 
-    - RMI (con pattern correlato )
+	- Builder con il sequence Diagram 
+	- UseCase 
+	- RMI (con pattern correlato )
 - Anonimi
-    - vari esempi pratici di pattern in java
-    - prototype con esempio java
-    - abstract factory con esempio java
-    - strategy
-    - decorator con sequence Diagram
-    - bridge 
-    - tabella implicazione
-    - design by contract 
-    - rmi con parte implementazione java
-    - Liskov: un esempio che non rispetta il principio 
+	- vari esempi pratici di pattern in java
+	- prototype con esempio java
+	- abstract factory con esempio java
+	- strategy
+	- decorator con sequence Diagram
+	- bridge 
+	- tabella implicazione
+	- design by contract 
+	- rmi con parte implementazione java
+	- Liskov: un esempio che non rispetta il principio 
 
 **<u>2019 2020</u>**
 
@@ -1144,19 +1156,19 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - Anonimi 
-    - controllo di flusso TCP 
-    - Autenticazione con chiave simmetrica 
-    - perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
-    - Smurfing 
-    - Multiplexing demultiplexing TCP e UDP
-    - WebServices 
-    - Nat 
-    - Chord 
-    - email sicure 
+	- controllo di flusso TCP 
+	- Autenticazione con chiave simmetrica 
+	- perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
+	- Smurfing 
+	- Multiplexing demultiplexing TCP e UDP
+	- WebServices 
+	- Nat 
+	- Chord 
+	- email sicure 
 - Alfredo 
-    - Chiave simmetrica e asimmetrica
-    - Protocollo ap4.0 
-        - se il nonce rimane invariato che succede ?
+	- Chiave simmetrica e asimmetrica
+	- Protocollo ap4.0 
+		- se il nonce rimane invariato che succede ?
 
 **<u> 2021 2022 <u>**
 
@@ -1246,43 +1258,43 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - FrancescoLux
-    - Prove di bernoulli (ipotesi)
-    - Retta di regressione ( come ci si arriva)
+	- Prove di bernoulli (ipotesi)
+	- Retta di regressione ( come ci si arriva)
 
 ##  Rina Mary Mazza
 
 **<u>2018 2019</u>**
 
 - Anonimi
-    - Esercizio ( preso da prova scritta 2012 ) 
-        - 3 server di 2 componenti in serie, calcolare:
-        - affidabilita 
-        - probabilita 
-        - successo
-        - guasto del 3 server con la geometrica 
-        - coefficente di pearson 
-    - modello PC e considerazioni sul tempo di giacenza e tempo di soggiorno
-        - perché il tempo di giacenza è più influente? 
-        - calcoli su excel 
-    - modello di erlang e considerazioni sui grafici della erlang modulata
-    - dimostrazione coefficenti della retta di regressioe
-    - valore atteso e distribuzione esponenziale
-    - diapositiva regressione 
-    - esercizio su erlang con bernoulli 
-    - definizioni di distribuzioni 
-    - curva di regressione 
-    - statistiche di ordinamento
-    - esercizio su m out of n e commutazione
-    - foglio excel della correlazione produttore consumatore
-    - dimostrazione coefficenti della retta di regressione
-    - funzioni di v.a. 
-    - statistiche min e Max con funzione di distribuzione
-    - modello di erlang 
-    - commutazione perfetta e non 
-    - test sulla forma con foglio excel
-    - test di ipotesi e test della differenza tra due media
-    - dimostrazione della distribuzione totale
-    - distribuzione della somma di v.a.
+	- Esercizio ( preso da prova scritta 2012 ) 
+		- 3 server di 2 componenti in serie, calcolare:
+		- affidabilita 
+		- probabilita 
+		- successo
+		- guasto del 3 server con la geometrica 
+		- coefficente di pearson 
+	- modello PC e considerazioni sul tempo di giacenza e tempo di soggiorno
+		- perché il tempo di giacenza è più influente? 
+		- calcoli su excel 
+	- modello di erlang e considerazioni sui grafici della erlang modulata
+	- dimostrazione coefficenti della retta di regressioe
+	- valore atteso e distribuzione esponenziale
+	- diapositiva regressione 
+	- esercizio su erlang con bernoulli 
+	- definizioni di distribuzioni 
+	- curva di regressione 
+	- statistiche di ordinamento
+	- esercizio su m out of n e commutazione
+	- foglio excel della correlazione produttore consumatore
+	- dimostrazione coefficenti della retta di regressione
+	- funzioni di v.a. 
+	- statistiche min e Max con funzione di distribuzione
+	- modello di erlang 
+	- commutazione perfetta e non 
+	- test sulla forma con foglio excel
+	- test di ipotesi e test della differenza tra due media
+	- dimostrazione della distribuzione totale
+	- distribuzione della somma di v.a.
 
 # Propagazione e Trasmissione 
 
@@ -1365,55 +1377,55 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - Anonimi 
-    - Teorema fondamentale 
-    - Teoremi di dualità (3+2 corollari ) 
-    - Teorema di Ford and Fulkerson  ( 3 enunciati )
-    - Corrispondenza base-alberi 
-    - TUM
-    - Proprietà regione ammissibile 
-    - problema PL 
-    - problema PLI 
-    - teorema fondamentale della PL e formulazione geometrica
-    - Regione ammissibile di un generico problema di PL 
-    - Problema della PLI e relazione con PL associato (rilassato lineare )
-    - Quando esiste una soluzione ottima non di base? mostrarlo graficamente 
-        - un esempio di unica soluzione ottima 
-        - infinite soluzioni ottime ( la soluzione sta tra due vertici, i punti son di base e ciò che sta in mezzo non di base ) 
-        - fare di entrambi la funzione obiettivo 
-    - cosa sono i coefficenti ridotti e come ricavarli 
-    - definizione di soluzione di base 
-    - quando è più facile risolvere il PLI rispetto a PL
-    - disegnare regione ammissibile PLI
-    - quando PLI è inammissibile
-    - la regione ammissibile del PLI è convessa ? (no ) 
-    - la regione ammissibile del PLI è chiusa ? ( no) 
-        - regione PLI è un insieme di punti senza proprietà matematica 
-    - che relazione c'è tra z*(pl) e z*(pli)
-    - dimostrare che le matrici d'incidenza di un grafo siano TUM 
-    - teorema delle relazioni di complementarietà 
-    - coppia primale/duale simmetrica, forma e proprietà
-    - formulazione problema di flusso di costo minimo e il suo duale 
-    - se il primale è degenere il duale ammette infinite soluzioni ottime 
-    - caratterizzazioni delle basi del problem di flusso di costo minimo 
-    - la soluzione ottima del max flusso è di base ? 
+	- Teorema fondamentale 
+	- Teoremi di dualità (3+2 corollari ) 
+	- Teorema di Ford and Fulkerson  ( 3 enunciati )
+	- Corrispondenza base-alberi 
+	- TUM
+	- Proprietà regione ammissibile 
+	- problema PL 
+	- problema PLI 
+	- teorema fondamentale della PL e formulazione geometrica
+	- Regione ammissibile di un generico problema di PL 
+	- Problema della PLI e relazione con PL associato (rilassato lineare )
+	- Quando esiste una soluzione ottima non di base? mostrarlo graficamente 
+		- un esempio di unica soluzione ottima 
+		- infinite soluzioni ottime ( la soluzione sta tra due vertici, i punti son di base e ciò che sta in mezzo non di base ) 
+		- fare di entrambi la funzione obiettivo 
+	- cosa sono i coefficenti ridotti e come ricavarli 
+	- definizione di soluzione di base 
+	- quando è più facile risolvere il PLI rispetto a PL
+	- disegnare regione ammissibile PLI
+	- quando PLI è inammissibile
+	- la regione ammissibile del PLI è convessa ? (no ) 
+	- la regione ammissibile del PLI è chiusa ? ( no) 
+		- regione PLI è un insieme di punti senza proprietà matematica 
+	- che relazione c'è tra z*(pl) e z*(pli)
+	- dimostrare che le matrici d'incidenza di un grafo siano TUM 
+	- teorema delle relazioni di complementarietà 
+	- coppia primale/duale simmetrica, forma e proprietà
+	- formulazione problema di flusso di costo minimo e il suo duale 
+	- se il primale è degenere il duale ammette infinite soluzioni ottime 
+	- caratterizzazioni delle basi del problem di flusso di costo minimo 
+	- la soluzione ottima del max flusso è di base ? 
 - Angelo 
-    - criteri di bound per Branch&Bound
-    - intervallo `[L,U]` a che serve
-    - c'è un caso in cui l'algoritmo di b&B si ferma su nodo radice ? 
-        - risposta si: se tutti gli estremi del poliero sono interi
-        - A è tum
-    - matrici tum 
-    - teorema fondamentale PL 
-    - ipotesi della PL 
-    - &#91;&#949;1,&#949;2&#93; una delle due può essere finita, dal punto di vista geometrico qual'è il significato 
-        - riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi) 
-    - teorema debole e forte
-    - formula del duale
-    - simplesso esponenziale 
-    - teorema ford and Fulkerson 
-    - perché il duale del massimo flusso ha variabili appartenenti a {0,1}
-    - dal continuo si passa a variabili {0,1} come mai ?  (stessa domanda di sopra)
-        - grazie alla matrice TUM
+	- criteri di bound per Branch&Bound
+	- intervallo `[L,U]` a che serve
+	- c'è un caso in cui l'algoritmo di b&B si ferma su nodo radice ? 
+		- risposta si: se tutti gli estremi del poliero sono interi
+		- A è tum
+	- matrici tum 
+	- teorema fondamentale PL 
+	- ipotesi della PL 
+	- &#91;&#949;1,&#949;2&#93; una delle due può essere finita, dal punto di vista geometrico qual'è il significato 
+		- riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi) 
+	- teorema debole e forte
+	- formula del duale
+	- simplesso esponenziale 
+	- teorema ford and Fulkerson 
+	- perché il duale del massimo flusso ha variabili appartenenti a {0,1}
+	- dal continuo si passa a variabili {0,1} come mai ?  (stessa domanda di sopra)
+		- grazie alla matrice TUM
 
 ## Maria Flavia Monaco e Marcello Sammarra
 
@@ -1643,12 +1655,12 @@ malloc(sizeof(int)*(i+1));
 **<u>2019 2020</u>**
 
 - Andrea 
-    - Operazioni di Visite sugli alberi 
-    - Calcolo determinante utilizzando il metodo di LaPlace
-    - Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente 
-    - Lettura file interi con modifica in loco 
-    - Metodi add/remove su LinkedList Ricorsiva
-    - Metodi add/remove/iterator su Heap
+	- Operazioni di Visite sugli alberi 
+	- Calcolo determinante utilizzando il metodo di LaPlace
+	- Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente 
+	- Lettura file interi con modifica in loco 
+	- Metodi add/remove su LinkedList Ricorsiva
+	- Metodi add/remove/iterator su Heap
 
 # Matematica Computazionale
 
@@ -1818,11 +1830,11 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - Fabio 
-    - pianificazione della traiettoria nel caso di una circonferenza ( nel progetto avevo un quadrato) 
-    - semi circonferenza descritta in R3 con matrice di rototraslazione per la trasformazione 
-    - cinematica differenziale
-    - matrice jacobiana nel caso delle velocità lineari e non quelle angolari
-        - quando presenta singolarità ? 
+	- pianificazione della traiettoria nel caso di una circonferenza ( nel progetto avevo un quadrato) 
+	- semi circonferenza descritta in R3 con matrice di rototraslazione per la trasformazione 
+	- cinematica differenziale
+	- matrice jacobiana nel caso delle velocità lineari e non quelle angolari
+		- quando presenta singolarità ? 
 
 # Elettromagnetismo
 
@@ -1848,18 +1860,18 @@ malloc(sizeof(int)*(i+1));
 **<u>2018 2019</u>**
 
 - Giovanni Giordano 
-    - Slow Start 
-    - Congestion Avoidance 
-    - TCP
-    - congestione 
-    - media
-    - varianza
-    - jacomson
-    - karn
-    - SRTT
+	- Slow Start 
+	- Congestion Avoidance 
+	- TCP
+	- congestione 
+	- media
+	- varianza
+	- jacomson
+	- karn
+	- SRTT
 - Anonimi
-    - fast retrasmitt
-    - fast recovery 
+	- fast retrasmitt
+	- fast recovery 
 
 ## Tropea, Santamaria o Raimondo
 
@@ -1893,9 +1905,9 @@ malloc(sizeof(int)*(i+1));
 **<u>2017 2018</u>**
 
 - Fabio 
-    - PID 
-    - DFT
-    - Filtri
+	- PID 
+	- DFT
+	- Filtri
 
 # Qualità del servizio 
 
