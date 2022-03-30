@@ -1170,7 +1170,7 @@ malloc(sizeof(int)*(i+1));
 	- Protocollo ap4.0 
 		- se il nonce rimane invariato che succede ?
 
-**<u> 2021 2022 <u>**
+**<u> 2021 2022 </u>**
 
 - Oscar
 	- DIFFERENZA TRA CRITTOGRAFIA SIMMETRICA E ASIMMETRICA
