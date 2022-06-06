@@ -6,6 +6,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
 
+- [Data Mining](#data-mining)
+	- [Sergio Greco](#sergio-greco)
 - [Sistemi Informativi Ambientali](#sistemi-informativi-ambientali)
 	- [Davide Luciano De Luca](#davide-luciano-de-luca)
 - [Ethical Hacking](#ethical-hacking)
@@ -51,6 +53,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
+
+# Data Mining
+## Sergio Greco
+
+**<u>2021 2022</u>**
+- Alessio
+	- clustering gerarchico
+	- entropia 
+	- reti neurali
 
 # Sistemi Informativi Ambientali]
 ## Davide Luciano De Luca
