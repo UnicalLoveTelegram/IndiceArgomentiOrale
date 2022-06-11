@@ -1036,13 +1036,36 @@ rc(X):- u(X), not(r(X)).
  **<u>2021 2022</u>**
  
  - Anonimi
- 	- ClassAds di HTCondor
-	- cos'è e come viene usato il KDC
-	- algoritmi di elezione
-	- Eucalyptus
-	- Match macker (ht condor)
-	- Locking nfs 
-	- Naming sistemi distribuiti
+ 	- prima sessione di interrogazione:
+ 		- ClassAds di HTCondor
+		- cos'è e come viene usato il KDC
+		- algoritmi di elezione
+		- Eucalyptus
+		- Match macker (ht condor)
+		- Locking nfs 
+		- Naming sistemi distribuiti
+	- seconda sessione di interrogazione:
+		- MPI
+		- Modello di autenticazione challenge-response a 5 messaggi a 3 e reflection Attack
+		- File locking in NFS
+		- sistemi distribuiti in generale e proprietà
+		- Coda
+		- Needham Shroeder
+		- Kdc
+		- RPC
+		- Globus Gram Home based
+		- mutua esclusione
+		- NFS
+		- lamport
+		- sincronizzazione
+		- Htcondor
+		- consistenza sequenziale
+		- read your writes
+	- terza sessione di interrogazione:
+		- Naming
+		- Consistenza
+
+
 ## Loris Belcastro
 
 **<u>2018 2019</u>**
@@ -1079,6 +1102,26 @@ rc(X):- u(X), not(r(X)).
 	- MapReduce
 	- Distributed Garbage Collector
 	- Tables Di Azure
+
+**<u>2021 2022</u>**
+
+- Anonimi
+  	- prima sessione di interrogazione:
+		- Map Reduce
+		- La table di azure
+		- dynamic class download
+		- problema dell'equals in RMI e Remote Object
+		- CDN
+		- Combiner di MapReduce
+ 	- seconda sessione di interrogazione:
+		- DGB
+		- garbage collector
+		- storage di Azure
+		- Docker in generale
+		- come aggiungere un altro layer ad un'immagine
+		- il vantaggio dei volumi sui bind mount
+		- se esistono container con kernel Windows
+		- differenze tra storage per oggetti e blocchi in aws
 
 # Basi di Dati evolute
 
