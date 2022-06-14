@@ -179,6 +179,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- SYN SCAN
 	- ret2libc
 		- perché è meno conveniente rispetto alla code reuse? 
+	- Plt e got
+	- Xss
+	- Canary
+		- perché si usa il carattere 0
+	- Ropper
+	- Blind sql injection
 
 # Business Intelligence
 
