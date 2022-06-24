@@ -655,6 +655,40 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- RIcerca binaria 
 	- complessità asintotica
 
+**<u>2021 2022</u>**
+
+## Filippo Furfaro
+
+- Agatino
+	- differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
+	- differenza tra passaggio di parametro per valore e per riferimento
+	- esercizio ricorsivo: trovare il minore di una LinkedList di interi.
+	- complessità computazionale di merge sort e quick sort e spiegarne il motivo.
+
+- Davide
+	- differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
+	- esercizio ricorsivo: verificare se una LinkedList di interi è simmetrica
+	- complessità computazionale del quick sort e spiegarne il motivo
+	- differenza tra statico e dinamico
+
+- Alessandro
+	- differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
+	- complessità computazionale del merge sort e spiegarne il motivo
+	- esercizio ricorsivo: date 2 linkedlist l1, l2. Creare una linkedlist che contiene tutti gli elementi tali che l1[i] != l2[i]. in tal caso aggiungere alla linkedlist prima l1[i] e poi l2[i]. se le due linkedlist list hanno diversa dimensione, allorché si giunge alla fine di quella più piccola, aggiungere alla linkedlist da restituire gli elementi rimanenti di quella più grande
+
+- Anonimo 1
+	- differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
+	- esercizio ricorsivo: trovare la somma degli elementi in posizione pari che si anche trovano nella posizione simmetrica di un’altra lista
+
+- Anonimo 2
+	- differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
+	- Esercizio ricorsivo: unire due linkedlist 
+	- costo merge sort
+- Anonimo 3
+	- la differenza tra shallow copy e in depth copycon esempi
+	- gli algoritmi di ordinamento fatti a lezione
+	- un esercizio solitamente ricorsivo con gli iteratori
+
 # Basi di Dati
 
 ## Filippo Furfaro 
