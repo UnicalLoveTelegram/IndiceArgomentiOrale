@@ -25,6 +25,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Fondamenti di informatica](#fondamenti-di-informatica)
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
+	- [Filippo Furfaro](#filippo-furfaro)
 - [Basi di Dati](#basi-di-dati)
 	- [Filippo Furfaro](#filippo-furfaro)
 	- [Amelio Alessia](#amelio-alessia)
