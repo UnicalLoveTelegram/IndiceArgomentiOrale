@@ -12,6 +12,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Davide Luciano De Luca](#davide-luciano-de-luca)
 - [Ethical Hacking](#ethical-hacking)
 	- [Francesco Lupia](#francesco-lupia)
+	- [Angelo Furfaro](#angelo-furfaro)
 - [Metodi Informatici per l'analisi dei Processi](#metodi-informatici-per-lanalisi-dei-processi)
 	- [Antonella Guzzo](#antonella-guzzo)
 - [Metodi e Strumenti per la Sicurezza Informatica](#metodi-e-strumenti-per-la-sicurezza-informatica)
@@ -107,6 +108,34 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- pass the hash: descrizione
 	- challenge presente su natas numero 8 https://overthewire.org/wargames/natas/
 	- Hash md5: come si riconosce?
+	- siamo con una Macchina Windows e si devono rispondere alle seguenti domande poste dal prof:
+		- psexec
+		- pass the ticket
+		- comandi vari del prompt o powershell
+		- rogue potato (e in generale da tenere sott'occhio qualsiasi cosa che sia potato, quindi juicy potato, hot potato...)
+		- si hanno degli output di eseguibili di Windows (permessi di un eseguibile e le info di un eseguibile) e fra i permessi di questo eseguibile c'era gitconfig e si poteva cambiare la configurazione per cambiare il /bin/path con una reverse shell
+		- query su un registro per vedere se era attivo il permesso su un utente (alwaysinstalledprivileged) e si poteva sfruttare per installare qualsiasi eseguibile come utente privilegiato
+		- pass the hash
+		- bind e reverse shell
+		- nishang
+
+## Angelo Furfaro
+
+**<u>2021 2022</u>**
+- Anonimi
+	- Kerberos: cosa è ed attacchi
+	- Docker:cosa è, configurazioni e comandi, attacchi (soprattutto privilege escalation)
+	- Parte di privilege escalation disponibile su tryhackme (privesc) 
+	- Metasploit: come usare i servizi e gli exploit
+	- nc: cosa è e come funziona
+	- XXE: cosa è, scenari d'uso, esempi
+	- XXS: cosa è, quali tipi ci sono, esempi
+	- Laboratorio di attacco
+	- Sudo con opzione -l
+	- Utente con Alcuni privilegi di root
+	- LDAP nel particolare 
+	- come creare una sottorete con virtualbox e come collegare due macchine alla sottorete
+	- come creare un laboratorio con virtualbox 
 
 # Metodi Informatici per l'analisi dei Processi
 
