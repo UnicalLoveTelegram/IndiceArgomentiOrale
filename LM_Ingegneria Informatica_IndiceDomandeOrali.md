@@ -1099,6 +1099,12 @@ rc(X):- u(X), not(r(X)).
 	- terza sessione di interrogazione:
 		- Naming
 		- Consistenza
+	- quarta sessione di interrogazione:
+		- Sistemi grid
+		- HT condor
+		- KDC
+		- NFS lock
+		- Strong mobility
 
 
 ## Loris Belcastro
@@ -1157,6 +1163,11 @@ rc(X):- u(X), not(r(X)).
 		- il vantaggio dei volumi sui bind mount
 		- se esistono container con kernel Windows
 		- differenze tra storage per oggetti e blocchi in aws
+	- terza sessione di interrogazione:
+		- Map reduce con Disegno e spiegazione del Partitioner e Combiner
+		- Garbage collector
+		- Table di azure
+		- CND azure
 
 # Basi di Dati evolute
 
