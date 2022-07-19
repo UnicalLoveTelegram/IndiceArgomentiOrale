@@ -27,7 +27,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Francesco Scarcello](#francesco-scarcello)
 	- [Filippo Furfaro](#filippo-furfaro)
 - [Basi di Dati](#basi-di-dati)
-	- [Filippo Furfaro](#filippo-furfaro)
+	- [Filippo Furfaro](#filippo-furfaro-1)
 	- [Amelio Alessia](#amelio-alessia)
 	- [Giuseppe Nardiello](#giuseppe-nardiello)
 - [Calcolatori Elettronici](#calcolatori-elettronici)
@@ -79,6 +79,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
 	- [Crossetti Nanni](#crossetti-nanni)
 	- [Mazzulla](#mazzulla)
+	- [Fazio](#fazio)
+	- [Maria Penelope](#maria-penelope)
 - [Robotica](#robotica)
 	- [Muraca](#muraca)
 - [Elettromagnetismo](#elettromagnetismo)
@@ -1856,6 +1858,46 @@ malloc(sizeof(int)*(i+1));
 	- corpo rigido
 	- termodinamica (tutta)
 	- teoria cinetica
+
+
+## Fazio 
+
+**<u>2021 2022</u>**
+
+- Anonime
+	- Legge orario del moto uniformemente accelerato con DIMOSTRAZIONE (Fazio)
+
+
+## Maria Penelope 
+
+**<u>2021 2022</u>**
+
+- Anonime
+	- Condizioni in cui l'energia meccanica si conserva (Penny)
+	- Definizione forza conservativa (Penny)
+	- Dimostrare che il lavoro della forza di gravità è nullo (Penny)
+	- Teorema delle forze vive (Penny)
+	- Conservazione dell'energia meccanica (Penny)
+	- Primo principio della termodinamica + Primo principio della Termodinamica associato alle trasformazioni (Penny)
+	- Moto parabolico
+	- Momento di inerzia per massa puntiforme e per massa estesa
+	- Condizioni affinchè un corpo sia in equilibrio
+	- Calore specifico
+	- Impulso
+	- Oscillatore armonico
+	- Lavoro in Termodinamica
+	- Energia Elastica
+	- Forza conservativa
+	- Forza Elastica
+	- Calore latente di fusione
+	- Momento torcente
+	- Accelerazione centripeta
+	- Classificazione degli urti
+	- Gas Perfetti
+	- Perchè si dice moto parabolico?
+	- Momento della Quantità
+
+
 
 
 # Robotica
