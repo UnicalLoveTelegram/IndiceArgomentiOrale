@@ -118,6 +118,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- pass the hash
 		- bind e reverse shell
 		- nishang
+	- XML
+		- come funziona la direttiva system
+		- come è strutturato il linguaggio
+	- SSRF
+	- LDAP
+		- qualche attacco
+		- sfruttare il protocollo
+	- se tu penetri su un sistema con una shell, cosa usi per vedere il traffico?
+		- tcpdump e comandi annessi
+		- che traffico internet vedi? traffico mio ingresso/uscita
 
 ## Angelo Furfaro
 
