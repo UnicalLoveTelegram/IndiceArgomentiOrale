@@ -122,12 +122,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- come funziona la direttiva system
 		- come è strutturato il linguaggio
 	- SSRF
-	- LDAP
-		- qualche attacco
-		- sfruttare il protocollo
-	- se tu penetri su un sistema con una shell, cosa usi per vedere il traffico?
-		- tcpdump e comandi annessi
-		- che traffico internet vedi? traffico mio ingresso/uscita
+	- DDL Hijacking
 
 ## Angelo Furfaro
 
@@ -145,7 +140,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Utente con Alcuni privilegi di root
 	- LDAP nel particolare 
 	- come creare una sottorete con virtualbox e come collegare due macchine alla sottorete
-	- come creare un laboratorio con virtualbox 
+	- come creare un laboratorio con virtualbox
+	- LDAP
+		- qualche attacco
+		- sfruttare il protocollo
+	- se tu penetri su un sistema con una shell, cosa usi per vedere il traffico?
+		- tcpdump e comandi annessi
+		- che traffico internet vedi? traffico mio ingresso/uscita
+
 
 # Metodi Informatici per l'analisi dei Processi
 
