@@ -827,6 +827,20 @@ rc(X):- u(X), not(r(X)).
 	- Rilassamento lagrangiano 
 	- Se x è punto estremo => x appartiene ad S
 
+**<u>2021 2022</u>**
+- Erma_TV
+	- effetto orizzonte
+	- nucleolo
+	- semantica operazionale per la logica di default
+	- complessità ed espressività 
+	- anomalia di Sussman
+
+- Arbrane97
+	- Bargaining Set
+	- Iterative deepening 
+	- Algoritmo di Waltz 
+	- Hill Climbing
+
 # Valutazione delle prestazioni
 
 ## Pasquale Legato
