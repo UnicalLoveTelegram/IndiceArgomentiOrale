@@ -104,9 +104,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Spiegazione csrf
 	- Differenze tra csrf e xss
 	- Cos'è kerberos
-	- challenge SSRF presente sul sito di burp suite https://portswigger.net/burp (in teoria vi registrate, andate in accademy e poi nei vulnerabilty lab e cercate ssrf)
+	- challenge SSRF presente sul sito di [burp suite](https://portswigger.net/burp) (in teoria vi registrate, andate in accademy e poi nei vulnerabilty lab e cercate ssrf)
 	- pass the hash: descrizione
-	- challenge presente su natas numero 8 https://overthewire.org/wargames/natas/
+	- challenge presente su natas [numero 8](https://overthewire.org/wargames/natas)
 	- Hash md5: come si riconosce?
 	- siamo con una Macchina Windows e si devono rispondere alle seguenti domande poste dal prof:
 		- psexec
@@ -123,6 +123,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- come è strutturato il linguaggio
 	- SSRF
 	- DDL Hijacking
+	- ROP e mitigazioni
+	- buffer overflow con diff tra x32 e x64 e possibili mitigazioni
+	- challenge: file binario main, un file sorgente lib.c, hijack delle sharedlibrary consigliata da [hacktricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/ld.so.conf-example)
 
 ## Angelo Furfaro
 
@@ -996,7 +999,14 @@ rc(X):- u(X), not(r(X)).
 	- espressività vs complessità
 	- hill climb con simulated annealing
 	- modello perfetto
-	
+
+**<u>2021 2022</u>**
+
+ - Anonimi
+	- Semantica operazionale per DL
+	- Insieme di regole d'inferenza corretto e completo
+	- Iterative deepening
+
 # Sistemi Informativi
 
 ## Cassavia
