@@ -1666,6 +1666,45 @@ malloc(sizeof(int)*(i+1));
 	- data un equazione differenziale che la soluzione in un punto dato
 	- verificare data un eq differenziale che la soluzione in un punto dato è unica  (verifica della lipchitzianità)
 
+**<u>2021 2022</u>**
+
+- Anonimi
+	- perché rho tende a zero mentre theta non lo fa
+	- risolvere un problema di Cauchy con lo schema di Eulero
+	- come un calcolatore risolve le equazioni differenziali?
+	- Dimostrare perché una equazione differenziale lineare con coefficenti f(x) costanti ha sempre una soluzione e quindi la condizione di  Lipschitzianità vale sempre
+	- teorema del rotore
+	- limiti in coordinate polari
+	- chiede esercizi vari e soprattutto fate attenzione che può chiedere esercizi fatti agli appelli all'orale
+	- cosa è una soluzione singolare
+	- calcolo di un Iperpiano tangente ad un campo scalare
+	- teorema differenziale totale
+	- risoluzione di un'ode del terzo ordine
+		- che teorema applichi?
+	- prima mi ha dato una matrice con dei parametri e voleva sapere i valori da dargli per renderla Hessiana
+	- ricerca di massimi e minimi relativi
+	- come si arriva alla soluzione di un ODE
+		- come si arriva a all'esponenziale e elevato ad alfa x
+	- come si trovano i coefficienti c1 e c2 della soluzione
+	- la lipschitzianità globale
+	- la definizione con il rapporto incrementale con analoga applicazione ad un problema da lui assegnato
+	- proprietà matrice simmetrica
+		- hessiana e autovalori
+
+## Viviana Solferino
+
+**<u>2021 2022</u>**
+
+- Anonimi
+	- concentrarsi sui teoremi inseriti messi nel teams, un PDF indica i teoremi spiegati e bisogna studiare quelli
+	- può chiedere esercizi da svolgere
+	- come si arriva alla serie di Fourier?
+	- sviluppare in serie di fourier la funzione f(x)= x e studiare la convergenza
+	- studiare la convergenza di qualche serie di potenze
+		- criterio della radice o con criterio del rapporto
+	- Teorema dei residui
+	- Lemma del grande cerchio
+	- Teorema della proiezione
 
 # Programmazione orientata ad Oggetti
 
