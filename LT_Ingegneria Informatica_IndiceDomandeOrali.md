@@ -69,7 +69,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Sciuzi Berardino](#sciuzi-berardino)
 	- [Colao](#colao)
 	- [De Luca](#de-luca)
-	- [Solferino](#solferino)
+	- [VIviana Solferino](#viviana-solferino)
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
 - [Matematica Computazionale](#matematica-computazionale)
