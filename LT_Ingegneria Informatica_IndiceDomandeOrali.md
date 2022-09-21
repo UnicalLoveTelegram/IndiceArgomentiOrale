@@ -37,6 +37,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Folino Gianluigi](#folino-gianluigi)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
+	- [Zicari](#zicari)
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
 - [Ingegneria del software](#ingegneria-del-software)
@@ -925,6 +926,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Le quote del disco cosa sono ed a cosa servono
 	- cos'è il protocollo Samba?
 
+- Anonimi
+	- permessi dei file
+	- file system linux
+
+## Zicari
+
+- Anonimi
+	- come si ferma una comunicazione tramite pipe?
+		- con i tappi
+	- differenza tra stack e heap
 
 ## Ianni 
 
