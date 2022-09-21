@@ -75,6 +75,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- simPath
 	- Cosa introduce il Page Rank rispetto alla Katz Centrality
 	- concentrarsi molto sul significato delle formule e anche sulla memorizzazione della formula stessa (di qualsiasi difficoltà)
+	- RIS di influence maximization
+	- Metodo Montecarlo per l'influence maximization
+	- CNN community detection
+	- Differenza tra small world e scale free
+	- Algoritmo di Louvian
+	- Metodi Girman Newman
+	- Small world e come si comporta il modello al variare del parametro beta
+	- Preferential Attachment model
 
 # Machine e Deep Learning
 ## Angiulli Fabrizio
