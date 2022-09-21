@@ -6,6 +6,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
 
+- [Machine e Deep Learning](#machine-e-deep-learning)
+	- [Angiulli Fabrizio](#angiulli-fabrizio)
+- [Analisi di Social Network e Media](#analisi-di-social-network-e-media)
+	- [Andrea Tagarelli](#andrea-tagarelli)
 - [Data Mining](#data-mining)
 	- [Sergio Greco](#sergio-greco)
 - [Sistemi Informativi Ambientali](#sistemi-informativi-ambientali)
@@ -54,6 +58,34 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
+
+# Analisi di Social Network e Media
+## Andrea Tagarelli
+
+**<u>2021 2022</u>**
+
+- Anonimi
+	- Tim (algoritmo sketch based)
+	- Modularità, Louvain con formule
+	- Infomap con formule
+	- Katz centrality
+	- Perché la soluzione di bonacich e loyd differisce da quella di katz di una costante
+	- SimRank
+		- qual è la sua ratio, ossia perché ci piace fare la media dei simRank dei vicini e che legame c’è con la katz centrality
+	- simPath
+	- Cosa introduce il Page Rank rispetto alla Katz Centrality
+	- concentrarsi molto sul significato delle formule e anche sulla memorizzazione della formula stessa (di qualsiasi difficoltà)
+
+# Machine e Deep Learning
+## Angiulli Fabrizio
+
+**<u>2021 2022</u>**
+
+- Anonimi
+	- Pac learnability in generale
+	- Derivazione formula Agnostic Pac Learning
+	- stima di densità non parametrica, knn e KDE
+	- Vita, morte e miracoli dell’SVM
 
 # Data Mining
 ## Sergio Greco
