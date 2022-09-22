@@ -1043,9 +1043,17 @@ rc(X):- u(X), not(r(X)).
 **<u>2021 2022</u>**
 
  - Anonimi
-	- Semantica operazionale per DL
-	- Insieme di regole d'inferenza corretto e completo
-	- Iterative deepening
+ 	- primo interrogato
+		- Semantica operazionale per DL
+		- Insieme di regole d'inferenza corretto e completo
+		- Iterative deepening
+	- secondo interrogato
+		- Algoritmo di Waltz
+		- Algoritmo Bread First
+		- Shapley Value
+		- Complessità formalismi vs espressività
+		- Abduzione
+		- IDA*
 
 # Sistemi Informativi
 
