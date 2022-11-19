@@ -166,6 +166,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- ROP e mitigazioni
 	- buffer overflow con diff tra x32 e x64 e possibili mitigazioni
 	- challenge: file binario main, un file sorgente lib.c, hijack delle sharedlibrary consigliata da [hacktricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/ld.so.conf-example)
+	- Kerberosting.
+		- Io ho prima introdotto kerberos, e poi gli ho parlato dell’attacco AS Rep Rosting.
+	- Over pass the Hash
+		- Io non lo conoscevo e gli ho parlato di pass the hash.
+	- Cosa è necessario che sia presente per la tecnica pass the hash sulla macchina windows?
+		- è necessatio sia presente SMB. Se non è presente allora si usa la tecnica Over Pass the hash. 
+	- Conosci altri framework di post-exploitation oltre a mimikatz?
+	- In windows gli hash vengono memorizzati dove?
+		- Ho risposto nel file SAM.
+	- C'è un ulteriore luogo dove vengono memorizzati. Dove?
+		- In un processo in memoria che prende il nome di LSASS
+	- Perché l’ultima versione di powershell empire client-server è migliore rispetto alla vecchia versione monolitica?
+		- Perché, se c’è un target e la tua macchina, e tu riesci a prendere il controllo di una macchina intermedia sempre sulla stessa rete del target, che magari ha anche privileggi migliori rispetto a quelli che hai dalla tua macchina attaccante, puoi lanciare l’attacco di bruteforce (server) da questa seconda macchina, e sgravare (client) la tua macchina dal lavoro. Puoi pure chiuderla e ricollegarti giorni dopo, e la tua macchina non fa nessuno sforzo. Prima con la monolitica, dovevi lanciare l’attacco dalla tua macchina. 
+
 
 ## Angelo Furfaro
 
