@@ -5,14 +5,13 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
-
-- [Machine e Deep Learning](#machine-e-deep-learning)
-	- [Angiulli Fabrizio](#angiulli-fabrizio)
 - [Analisi di Social Network e Media](#analisi-di-social-network-e-media)
 	- [Andrea Tagarelli](#andrea-tagarelli)
+- [Machine e Deep Learning](#machine-e-deep-learning)
+	- [Angiulli Fabrizio](#angiulli-fabrizio)
 - [Data Mining](#data-mining)
 	- [Sergio Greco](#sergio-greco)
-- [Sistemi Informativi Ambientali](#sistemi-informativi-ambientali)
+- [Sistemi Informativi Ambientali\]](#sistemi-informativi-ambientali)
 	- [Davide Luciano De Luca](#davide-luciano-de-luca)
 - [Ethical Hacking](#ethical-hacking)
 	- [Francesco Lupia](#francesco-lupia)
@@ -58,6 +57,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
+
 
 # Analisi di Social Network e Media
 ## Andrea Tagarelli

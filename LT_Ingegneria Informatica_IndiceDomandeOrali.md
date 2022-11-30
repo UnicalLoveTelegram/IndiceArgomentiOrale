@@ -35,9 +35,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Fassetti Fabio](#fassetti-fabio)
 - [Ambienti di programmazione per il software di base](#ambienti-di-programmazione-per-il-software-di-base)
 	- [Folino Gianluigi](#folino-gianluigi)
+	- [Zicari](#zicari)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
-	- [Zicari](#zicari)
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
 - [Ingegneria del software](#ingegneria-del-software)
@@ -65,13 +65,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angiulli Fabrizio e Fassetti Fabio](#angiulli-fabrizio-e-fassetti-fabio)
 - [Analisi 1](#analisi-1)
 	- [Riey e Solferino](#riey-e-solferino)
-	- [Sciunzi Berardino](#sciunzi-berardino-1)
 	- [Francesco Esposito](#francesco-esposito)
+	- [Sciunzi Berardino](#sciunzi-berardino-1)
 - [Analisi Matematica 2](#analisi-matematica-2)
 	- [Sciuzi Berardino](#sciuzi-berardino)
 	- [Colao](#colao)
 	- [De Luca](#de-luca)
-	- [VIviana Solferino](#viviana-solferino)
+	- [Viviana Solferino](#viviana-solferino)
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
 - [Matematica Computazionale](#matematica-computazionale)
@@ -100,6 +100,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Amedeo](#amedeo)
 - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
 	- [Marcello Sammarra](#marcello-sammarra)
+
 
 # Laboratorio di Sistemi Informativi
 
