@@ -1955,6 +1955,7 @@ plicativo
 	- Tecniche di cifratura simmetriche e asimmetriche 
 	- IPSEC
 	- Differenza tra IntServ e DiffServ
+	- IPv4 e IPv6
 	- IPv4 e IPv
 
 # Laboratorio di ricerca operativa
