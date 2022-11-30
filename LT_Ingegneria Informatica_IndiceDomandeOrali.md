@@ -66,6 +66,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Analisi 1](#analisi-1)
 	- [Riey e Solferino](#riey-e-solferino)
 	- [Sciunzi Berardino](#sciunzi-berardino-1)
+	- [Francesco Esposito](#francesco-esposito)
 - [Analisi Matematica 2](#analisi-matematica-2)
 	- [Sciuzi Berardino](#sciuzi-berardino)
 	- [Colao](#colao)
@@ -87,6 +88,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Muraca](#muraca)
 - [Elettromagnetismo](#elettromagnetismo)
 	- [Arnone e Sandra Costanzo](#arnone-e-sandra-costanzo)
+	- [Sandra Costanzo](#sandra-costanzo)
 - [Reti di Telecomunicazione](#reti-di-telecomunicazione)
 	- [De Rango](#de-rango)
 	- [Tropea, Santamaria o Raimondo](#tropea-santamaria-o-raimondo)
@@ -96,6 +98,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Domenico Famularo](#domenico-famularo)
 - [Qualità del servizio](#qualità-del-servizio)
 	- [Amedeo](#amedeo)
+- [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
+	- [Marcello Sammarra](#marcello-sammarra)
 
 # Laboratorio di Sistemi Informativi
 
@@ -1605,6 +1609,16 @@ malloc(sizeof(int)*(i+1));
 	- Criterio della radice 
 	- Teorema fondamentale del calcolo integrale 
 
+## Francesco Esposito
+
+**<u>2020 2021</u>**
+
+- Giuseppe Magliano
+	- Dimostrazione lim x->0 sin(x)/x
+	- Esercizio sui limiti
+	- Enunciato e dimostrazione gerarchia degli infiniti
+	- Enunciato e dimostrazione criterio della radice
+
 ## Sciunzi Berardino
 
 **<u>2017 2018</u>**
@@ -1974,6 +1988,22 @@ malloc(sizeof(int)*(i+1));
 	- Equazioni di maxwell e potenziale elettrostatico
 	- Contenuto dei suoi appunti
 
+## Sandra Costanzo
+
+**<u>2022 2022</u>**
+
+- Giuseppe Magliano
+	- Illustrare il concetto di potenziale elettrico differenziale e derivare da esso la legge di Kirchoff
+per le tensioni
+	- Illustrare la legge di Ohm
+	- Illustrare il fenomeno di polarizzazione dei materiali
+	- Illustrare il principio di sovrapposizione degli effetti, descrivendone altresı́ un esempio ap-
+plicativo
+	- Illustrare il significato della conducibilitá σ, e ricavarne l’espressione
+	- Illustrare la legge di Joule
+	- Illustrare le analogie e le differenze tra la forza gravitazionale e la forza elettrica
+	- Illustrare il concetto di densitá di carica volumetrica
+
 # Reti di Telecomunicazione
 
 ## De Rango
@@ -2054,4 +2084,16 @@ malloc(sizeof(int)*(i+1));
 	- IPSEC
 	- Differenza tra IntServ e DiffServ
 	- IPv4 e IPv6
+	- IPv4 e IPv
+
+# Laboratorio di ricerca operativa
+
+## Marcello Sammarra
+
+**<u>2021 2022</u>**
+
+- Giuseppe Magliano
+	- Enunciato e dimostrazione dualità debole, dualità forte e le differenze tra i due
+	- Risoluzione problema su knapsack multiplo
+	- Risoluzione problema di OPL
 
