@@ -1717,6 +1717,11 @@ malloc(sizeof(int)*(i+1));
 	- la definizione con il rapporto incrementale con analoga applicazione ad un problema da lui assegnato
 	- proprietà matrice simmetrica
 		- hessiana e autovalori
+	- controllare se date due equazioni differenziali sono linearmente indipendenti
+		- in caso affermativo trovare una soluzione ode che soddisfi queste sue soluzioni
+	- data una figura aperta calcolare il flusso
+	- teorema di cauchy riemann con dimostrazione
+	- dimostrare che le condizioni di cauchy riemann sono armoniche coniugate
 
 ## Viviana Solferino
 
