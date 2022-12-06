@@ -77,10 +77,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- concentrarsi molto sul significato delle formule e anche sulla memorizzazione della formula stessa (di qualsiasi difficoltà)
 	- RIS di influence maximization
 	- Metodo Montecarlo per l'influence maximization
-	- CNN community detection
+	- CNM community detection
 	- Differenza tra small world e scale free
 	- Algoritmo di Louvian
-	- Metodi Girman Newman
+	- Metodi Girvan Newman
 	- Small world e come si comporta il modello al variare del parametro beta
 	- Preferential Attachment model
 
@@ -94,6 +94,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Derivazione formula Agnostic Pac Learning
 	- stima di densità non parametrica, knn e KDE
 	- Vita, morte e miracoli dell’SVM
+	- Model selection(sia con validation set, che SRM e MDL)
+	- Problemi di learning convesso
+	- Discesa del gradiente
 
 # Data Mining
 ## Sergio Greco
@@ -103,6 +106,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- clustering gerarchico
 	- entropia 
 	- reti neurali
+
+- Anonimi
+	- KNN
 
 # Sistemi Informativi Ambientali]
 ## Davide Luciano De Luca
