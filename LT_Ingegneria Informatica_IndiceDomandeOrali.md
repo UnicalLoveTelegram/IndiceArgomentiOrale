@@ -1722,6 +1722,10 @@ malloc(sizeof(int)*(i+1));
 	- data una figura aperta calcolare il flusso
 	- teorema di cauchy riemann con dimostrazione
 	- dimostrare che le condizioni di cauchy riemann sono armoniche coniugate
+	- data la funzione f(x,y)=y²e^x vedere se è differenziabile ed eventuali punti di massimo, minimo o sella
+	- data una superficie posta solo sul piano xy quindi con versore normale diretto lungo z
+	- dato un campo vettoriale F=(x,y,z) trovare il flusso attraverso tale superficie (fa 0)
+	- dati y1=e^3x ed y2=e^-3x verificare se fossero l.i. e trovare un'ode omogenea di cui fossero soluzione
 
 ## Viviana Solferino
 
