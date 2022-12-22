@@ -1727,9 +1727,6 @@ malloc(sizeof(int)*(i+1));
 	- dati y1=e^3x ed y2=e^-3x verificare se fossero l.i. e trovare un'ode omogenea di cui fossero soluzione
 	- esercizio preso dalle lezioni: Calcolare lo spettro delle frequenze della funzione definita da -T a T
 
-dlb, [22/12/2022 13:58]
-Guarda io ed altri due colleghi si, poi non so perché sono andato via
-
 ## Viviana Solferino
 
 **<u>2021 2022</u>**
