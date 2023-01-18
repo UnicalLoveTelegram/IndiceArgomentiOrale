@@ -184,7 +184,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- C'è un ulteriore luogo dove vengono memorizzati. Dove?
 		- In un processo in memoria che prende il nome di LSASS
 	- Perché l’ultima versione di powershell empire client-server è migliore rispetto alla vecchia versione monolitica?
-		- Perché, se c’è un target e la tua macchina, e tu riesci a prendere il controllo di una macchina intermedia sempre sulla stessa rete del target, che magari ha anche privileggi migliori rispetto a quelli che hai dalla tua macchina attaccante, puoi lanciare l’attacco di bruteforce (server) da questa seconda macchina, e sgravare (client) la tua macchina dal lavoro. Puoi pure chiuderla e ricollegarti giorni dopo, e la tua macchina non fa nessuno sforzo. Prima con la monolitica, dovevi lanciare l’attacco dalla tua macchina. 
+		- Perché, se c’è un target e la tua macchina, e tu riesci a prendere il controllo di una macchina intermedia sempre sulla stessa rete del target, che magari ha anche privileggi migliori rispetto a quelli che hai dalla tua macchina attaccante, puoi lanciare l’attacco di bruteforce (server) da questa seconda macchina, e sgravare (client) la tua macchina dal lavoro. Puoi pure chiuderla e ricollegarti giorni dopo, e la tua macchina non fa nessuno sforzo. Prima con la monolitica, dovevi lanciare l’attacco dalla tua macchina.
+	- Empire for Pentester: Active Directory Enumeration
+	- tool per prelevare password (mimikatz)
+	- dove vengono salvati gli hash delle password di windows?
+		- i file importanti per le password hashate di windows (sam,lsas...)
+		- come prelevi questi hash?
+		- come prelevare password dal file sas?
+		- pass the hash 
 
 
 ## Angelo Furfaro
@@ -210,6 +217,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- se tu penetri su un sistema con una shell, cosa usi per vedere il traffico?
 		- tcpdump e comandi annessi
 		- che traffico internet vedi? traffico mio ingresso/uscita
+	- metodi privilege escalation e post exploitation
 
 
 # Metodi Informatici per l'analisi dei Processi
