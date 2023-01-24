@@ -290,13 +290,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- XMAS SCAN
 		- SYN SCAN
 	- ret2libc
-		- perché è meno conveniente rispetto alla code reuse? 
+		- perché è meno conveniente rispetto alla code reuse?
+			- Perchè ret2libc non può essere utilizzata in caso di chiamate a due o più funzioni che posseggono uno o più parametri, mentre la code reuse sì
 	- Plt e got
 	- Xss
 	- Canary
 		- perché si usa il carattere 0
 	- Ropper
 	- Blind sql injection
+	- per rompere ASLR basta solo un offset, detto in un altro modo supponiamo di avere l’indirizzo della printf questo basta per derandomizzare l’intero spazio degli indirizzi o serve altro?
+		- Per rompere ASLR basta trovare un solo indirizzo della libc in quanto poi l'offset tra le funzioni è sempre uguale
 
 # Business Intelligence
 
