@@ -74,6 +74,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Viviana Solferino](#viviana-solferino)
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
+	- [Cicirelli Franco](#cicirelli-franco)
 - [Matematica Computazionale](#matematica-computazionale)
 	- [Astorino Annabella](#astorino-annabella)
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
@@ -1773,6 +1774,19 @@ malloc(sizeof(int)*(i+1));
 	- Lettura file interi con modifica in loco 
 	- Metodi add/remove su LinkedList Ricorsiva
 	- Metodi add/remove/iterator su Heap
+
+## Cicirelli Franco
+
+**<u>2022 2023</u>**
+
+- Anonimo
+	- scrivere i metodi salva e ripristina della classe agendina fatta a lezione sia come file di tipo testo che di tipo oggetto, scrivere a parte anche i metodi necessari (es. svuota(), aggiungi()). Fare attenzione alla signature dei metodi e delle classi.
+	- ricerca in un albero binario di ricerca, di tipo infissa, postfissa e prefissa
+	- iteratore di una linked list
+	- metodi per la gestione di una lista a puntatori espliciti (add, remove ecc.)
+	- le eccezioni
+	- i generici
+	- la serializzazione
 
 # Matematica Computazionale
 
