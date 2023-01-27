@@ -1787,6 +1787,14 @@ malloc(sizeof(int)*(i+1));
 	- le eccezioni
 	- i generici
 	- la serializzazione
+	- Implementare aggiungi,ricerca e remove su agendina dinamica sviluppata durante il corso che contiene nominativi su un array 
+	- iteratore su una lista concatenata
+	- add e remove con listaConcatenata ordinata 
+	- visita prefissa ,infissa e postfissa su un ABR 
+	- salva , ripristina da file di testa e come object di un'agendina fatta durante il corso
+	- cosa sono i generici
+	- sfruttata interfaccia, classe astratta e concreta
+	- metodi ed attributi statici a cosa servono e cosa sono
 
 # Matematica Computazionale
 
