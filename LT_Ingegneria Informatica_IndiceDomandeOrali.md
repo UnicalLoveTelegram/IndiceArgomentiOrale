@@ -936,6 +936,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- permessi dei file
 	- file system linux
 
+**<u>2022 2023</u>**
+
+- Anonimo
+	- Cos'è il file in etc/apt/source
+	- Processi in C
+	- Perché bisogna evitare di creare processi orfani
+	- A cosa serve il file /etc/apt/source
+	- Processi in C
+
 ## Zicari
 
 - Anonimi
