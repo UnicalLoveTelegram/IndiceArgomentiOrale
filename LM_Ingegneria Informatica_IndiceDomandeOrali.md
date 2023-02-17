@@ -968,7 +968,7 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimi 
     - Iterative Broadening (ordine di visita degli alberi ) 
-    - Iterative Dipening
+    - Iterative Deepening
     - processi closed e successful
     - shapley value 
     - wsat e gsat 
