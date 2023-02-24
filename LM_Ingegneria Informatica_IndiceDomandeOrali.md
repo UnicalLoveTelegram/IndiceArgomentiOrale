@@ -191,7 +191,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- i file importanti per le password hashate di windows (sam,lsas...)
 		- come prelevi questi hash?
 		- come prelevare password dal file sas?
-		- pass the hash 
+		- pass the hash
+
+**<u>2022 2023</u>**
+- Anonimi
+	- come si fa a creare l'ambiente isolato di docker
+	- uso di docker
+	- Pass the hash e pass the ticket
+		- come si fa la privilege escalation?
+	- Active Directory
+		- come si chiama il computer principale?
+		- come si fa la privilege escalation?
+		- cosa è?
+		- è presente su un computer?
+	- come si esce da un ambiente docker?
+	- come gestisci i servizi in linux?
 
 
 ## Angelo Furfaro
