@@ -570,6 +570,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- page fault
 	- grafo di stato dei processi
 
+**<u>2022 2023</u>**
+
+- Anonimi
+	- si consiglia di consultare tale documentazione http://www.swappa.it/wiki/Uni/SistemiOperativi#s5 ringrazio per la segnalazione
+
 ## Marozzo
 
 **<u>Anno non classificato</u>**
@@ -622,7 +627,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Prouttore-Consumatore usando una lista (con lock )
 	- Interleaving (con esempio)
 	- Cosa succede a basso livello quando si incrementa una variabile 
-	- diagramma di stato nei thread di java 
+	- diagramma di stato nei thread di java
 
 
 # Fondamenti di informatica
@@ -1526,13 +1531,23 @@ malloc(sizeof(int)*(i+1));
 	- Criteri di arresto del metodo branch&bound
 
 - Anonimo
-	- Prima fase simplesso
-	- teorema fondamentale
-	- duale forte e debole
-	- Ford fulkerson e massimo flusso
-	- simplesso su rete
-	- teorema degli scarti
-	- Formulazione base
+	- Primo orale
+		- Prima fase simplesso
+		- teorema fondamentale
+		- duale forte e debole
+	- Secondo orale
+		- Ford fulkerson e massimo flusso
+		- simplesso su rete
+		- teorema degli scarti
+		- Formulazione base
+	- Terzo orale
+		- Teorema fondamentale pl
+		- Formulazione mcfp
+		- Branch and bound condizioni di arresto
+	- Quarto orale
+		- Teoria della dualità
+ 		- Coeff di costo ridotto per mcfp
+	
 
 # Reti Logiche e Calcolatori
 
@@ -1773,6 +1788,7 @@ malloc(sizeof(int)*(i+1));
 	- stack concatenato
 	- dimostrazione merge sort 
 	- backtracking 
+	- Nota molto importante: per l'orale di questo esame, rispetto ad altri esami in cui può sorgere il dubbio su cosa può essere chiesto all'orale, consiglio immensamente lo studio completo del libro perché toglie ogni tipo di dubbio su quale tematica può essere trattata. Il libro è la fonte principale per capire cosa mette all'appello scritto e orale. Non esiste altro metodo di studio migliore, in quanto il professore segue alla lettera il suo stesso libro che consiglia. Il libro è fondamentale per qualsiasi tipo di curiosità, si può dire che qualsiasi tipo di pagina può essere fonte di domanda all'orale.
 
 **<u>2019 2020</u>**
 
