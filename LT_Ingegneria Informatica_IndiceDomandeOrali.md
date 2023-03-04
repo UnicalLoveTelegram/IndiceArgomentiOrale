@@ -22,6 +22,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Sistemi Operativi](#sistemi-operativi)
 	- [Domenico Talia](#domenico-talia)
 	- [Marozzo](#marozzo)
+	- [Orsino](#orsino)
 - [Fondamenti di informatica](#fondamenti-di-informatica)
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
