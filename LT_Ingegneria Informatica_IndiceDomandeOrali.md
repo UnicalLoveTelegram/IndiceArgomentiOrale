@@ -574,6 +574,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
 	- si consiglia di consultare tale documentazione http://www.swappa.it/wiki/Uni/SistemiOperativi#s5 ringrazio per la segnalazione
+	- System Call
+	- Differenza Starvation e Deadlock
+	- Descrizione Vari Scheduler
+	- Condizioni affinché si verifichi il Deadlock
+	- Cosa succede quando si crea un file e la si inserisce in una cartella
 
 ## Marozzo
 
@@ -629,6 +634,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Cosa succede a basso livello quando si incrementa una variabile 
 	- diagramma di stato nei thread di java
 
+## Orsino
+
+**<u>2022 2023</u>**
+
+- Anonimi
+	- Codice Produttore-Consumatore
+	- Codice Sequenza AAB
+	- Differenza Monitor Hansen e Monitor Hoare
+	- Differenza Monitor Espliciti e Monitor Impliciti
+	- Ciclo di vita di un Thread Java
 
 # Fondamenti di informatica
 
