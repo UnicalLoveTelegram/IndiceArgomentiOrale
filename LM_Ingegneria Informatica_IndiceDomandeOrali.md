@@ -97,6 +97,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Model selection(sia con validation set, che SRM e MDL)
 	- Problemi di learning convesso
 	- Discesa del gradiente
+	- Predittori lineari in generale
+	- Regressione logistica
+	- Quale proprietà ha la cross entropy loss? Risposta: è una funzione convessa, si può applicare l'algoritmo di discesa del gradiente)
+	- Principal Component Analysis (PCA)
+	- (Di ogni argomento il professore richiede passaggi, formule matematiche ed eventuali grafici)
 
 # Data Mining
 ## Sergio Greco
