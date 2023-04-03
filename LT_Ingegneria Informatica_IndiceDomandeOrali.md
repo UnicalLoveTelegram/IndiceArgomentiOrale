@@ -1816,6 +1816,44 @@ malloc(sizeof(int)*(i+1));
 	- Metodi add/remove su LinkedList Ricorsiva
 	- Metodi add/remove/iterator su Heap
 
+**<u>2021 2022</u>**
+
+- Anonimo 1
+	- 1) verifica palindroma ricorsiva
+	- 2) differenza tra gaus diagonale e gaus determinante
+	- 3) differenza tra file tipati e file di testo
+	- 4) differenza tra heap e abr
+	- 5) quantificare gli spostamenti quando si aggiunge un nodo con ultimo livello pieno su heap
+- Anonimo 2
+	- 1) valutare espressione con delle regex
+	- 2) definizione di backtracking
+	- 3) elencare i metodi di visita di un abr
+	- 4) scrivere metodo visita per livelli di un abr
+	- 5) complessità del merge sort
+- Anonimo 3
+	- 1) Scrivere costruttore classe Heap ed il metodo add
+	- 2) scrivere il metodo heapsort
+	- 3) elencare i metodi di random access file
+	- 4) che vuol dire classe base
+- Anonimo 4
+	- 1) lista concatenata semplice in veste ricorsiva
+	- 2) complessità di selection e bubble sort
+- Anonimo 5
+	- 1) aggiunta elemento su abr con ricorsione
+	- 2) elencare proprietà dei set
+	- 3) calcolare indice lista tramite hashcode
+	- 4) liste di trabocco hashset
+- Anonimo 5
+	- 1) definizione di type erasure
+	- 2) metodo generico ricorsivo che inserisce un elemento su una linked list mantenendo la lista ordinata usando listiterator
+	- 3) risolvere problema permutazioni, differenza tra permutazioni e disposizioni
+- Anonimo 6
+	- 1) ordinare linkedlist con bubble sort
+	- 2) serializzazione
+- Anonimo 7
+	- 1) peso della ricorsione
+	- 2) da ricorsivo a iterativo tramite stack della visita inOrder su abr
+
 ## Cicirelli Franco
 
 **<u>2022 2023</u>**
