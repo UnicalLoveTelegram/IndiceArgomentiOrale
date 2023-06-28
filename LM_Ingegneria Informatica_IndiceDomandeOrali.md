@@ -211,6 +211,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- è presente su un computer?
 	- come si esce da un ambiente docker?
 	- come gestisci i servizi in linux?
+ - Anonimi
+	- Kerberos
+ 		- attacchi kerberos.
+	- Mimikatz.
+	- SSTI
+	- Active directory
+	- Tool per rubare l'hash
+	- Utente di dominio per Active directory
 
 
 ## Angelo Furfaro
