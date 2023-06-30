@@ -1127,7 +1127,27 @@ malloc(sizeof(int)*(i+1));
 		- invarianti
 		- sequence digram su vari pattern
 
+**<u>2022-2023</u>**
 
+- Anonimi
+	- Abstract Factory (Class + Sequence Diagram)
+ 	- Builder (Class Diagram + Esempi) + Modello a spirale + Criteri di test
+    	- Decorator (Class + Sequence Diagram) + Differenze tra Aggregazione e Composizione
+     	- Visitor + Observer
+        - Visitor (Class Diagram) + Decorator (Class Diagram) + Implicazione Logica + Design by Contract (pre-condizioni su sottoclassi)
+        - Abstract Factory
+	- Decorator (Class + Sequence) + Criteri di testing
+ 	- Abstract Factory + Elementi di Class Diagram e Sequence Diagram + Design by Contract
+  	- Observer + Principi Ingegneria del Software + Modularità + Criteri di testing
+  	- Observer + Change Manager + Sequence Diagram con frame di interazione (su Observer)
+  	- Builder (Class + Sequence Diagram) + State Diagram + Design by Contract (implicazione logica)
+  	- Composite (Class Diagram)+ Scrum + Decorator (Sequence Diagram)
+  	- Visitor (Class + Sequence) + Activity Diagram + Principio di Liskov
+  	- Decorator (+ problema della superclasse)
+  	- Builder (Class + Sequence)
+  	- Bridge (Class)
+   	- Strategy + Template Method
+   	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
 
 ## Argento Luciano
 
