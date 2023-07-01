@@ -23,6 +23,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Domenico Talia](#domenico-talia)
 	- [Marozzo](#marozzo)
 	- [Orsino](#orsino)
+ 	- [Cantini](#cantini)
 - [Fondamenti di informatica](#fondamenti-di-informatica)
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
@@ -635,6 +636,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Cosa succede a basso livello quando si incrementa una variabile 
 	- diagramma di stato nei thread di java
 
+**<u>2022 2023</u>**
+
+- Giuseppe
+	- raid 10 e 01
+	- ssd
+	- disegnare le varie implementazioni della tabella delle pagine (hash, normale e invertita)
+	- esempio grafo assegnazione risorse dove c'è un ciclo ma non c'è deadlock
+	- argomento a piacere
+	- le varie generazioni dei sistemi operativi (primo ppt)
+	- anomalia di belady cos'è
+
 ## Orsino
 
 **<u>2022 2023</u>**
@@ -645,6 +657,38 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Differenza Monitor Hansen e Monitor Hoare
 	- Differenza Monitor Espliciti e Monitor Impliciti
 	- Ciclo di vita di un Thread Java
+
+## Cantini
+
+**<u>2022 2023</u>**
+
+- Giuseppe
+	- compare and swap (cas) cos'è
+	- differenza monitor di hansen e di hoare
+	- quali sono le 3 caratteristiche che rendono i monitor di hansen in java simili a quelli di hoare
+	- cosa sono concorrenza e parallelismo e cosa implica cosa
+	- thread-safety cos'è
+	- la yield() cosa fa
+	- not runnable quali stati comprende
+	- quando si va in blocked
+	- collezioni sincronizzate e concorrenti (anche col codice e come vanno inizializzate)
+	- differenza tra hashmap concorrente e sincronizzata
+	- cosa vuol dire rientrante per i lucchetti
+	- monitor nativi
+	- grafo allocazione delle risorse e condizioni affinche ci sia deadlock
+	- implementare una sequenza simile a quelle viste a lezione (abc abbc abbbc ...)con i semafori
+	- implementare una soluzione al problema dei 5 filosofi che non ammetta starvation (è ammesso im deadlock )
+	- implementare una soluzione ai 5 filosofi senza deadlock
+	- problema dei lettori e scrittori implementazione
+	- blocchi e metodi sincronizzati differenze e cosa sono
+	- race condition,interleaving , tipi atomici e sezione critica come accederci
+	- lamport , djikstra e peterson
+	- come funziona la fairness dei semafori e dei lock
+	- contrario di fairness? (barging)
+	- perche non basta la fairness dei lock e dobbiamo usare anche le linkedlist
+	- legge di ahmdal e considerazioni casi limite
+	- differenza tra processo e thread
+	- code associate ai monitor come funzionano? (diff hansen e hoare)
 
 # Fondamenti di informatica
 
