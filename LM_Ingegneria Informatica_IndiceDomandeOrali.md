@@ -306,7 +306,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2021 2022</u>**
 
-
 - Anonimi
 	- format string
 	- xss
@@ -327,6 +326,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Blind sql injection
 	- per rompere ASLR basta solo un offset, detto in un altro modo supponiamo di avere l’indirizzo della printf questo basta per derandomizzare l’intero spazio degli indirizzi o serve altro?
 		- Per rompere ASLR basta trovare un solo indirizzo della libc in quanto poi l'offset tra le funzioni è sempre uguale
+
+**<u>2022 2023</u>**
+
+- Anonimi
+	- XSS
+	- CSRF
+	- Post scanning (varie domande su tcp scan, syn, ecc)
+	- ASLR
+	- Mitigazione Relco e differenze tra Partial Relco e Full Relco
+	- Got, plt, got patching e perché ci sono due tabelle anziché una sola
+	- XSS Dom-Based
+	- domanda sulla libc (quanti indirizzi ti servono per derandomizzare)
+	- Mitigazioni di SQL injection
+	- format string exploitation
+	- arp poisoning e mitigazione
 
 # Business Intelligence
 
