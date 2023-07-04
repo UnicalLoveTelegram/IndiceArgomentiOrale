@@ -574,13 +574,21 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2022 2023</u>**
 
-- Anonimi
+- Anonimo 1
 	- si consiglia di consultare tale documentazione http://www.swappa.it/wiki/Uni/SistemiOperativi#s5 ringrazio per la segnalazione
 	- System Call
 	- Differenza Starvation e Deadlock
 	- Descrizione Vari Scheduler
 	- Condizioni affinché si verifichi il Deadlock
 	- Cosa succede quando si crea un file e la si inserisce in una cartella
+
+- Anonimo 2
+	- Syscall solaris
+	- scheduling della cpu
+	- scheduling solaris e multics
+	- fork vs clone linux
+	- spiegazione permesso minimo
+	- sistema permessi solaris e multics
 
 ## Marozzo
 
@@ -651,12 +659,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2022 2023</u>**
 
-- Anonimi
+- Anonimo 1
 	- Codice Produttore-Consumatore
 	- Codice Sequenza AAB
 	- Differenza Monitor Hansen e Monitor Hoare
 	- Differenza Monitor Espliciti e Monitor Impliciti
 	- Ciclo di vita di un Thread Java
+
+- Anonimo 2
+	- Cosa fa la signalAll e a cosa viene usata negli esercizi
+	- esercizio lettori scrittori usando lock e condition
 
 ## Cantini
 
@@ -1917,6 +1929,25 @@ malloc(sizeof(int)*(i+1));
 - Anonimo 7
 	- 1) peso della ricorsione
 	- 2) da ricorsivo a iterativo tramite stack della visita inOrder su abr
+
+**<u>2022 2023</u>**
+
+- Anonimo
+	- Regex
+ 	- albero delle espressioni
+	- ricerca binaria ricorsiva
+	- implementazione di uno stack generico con un array
+	- visita a livelli
+	- algoritmo per calcolare l'altezza di un albero ricorsiva
+	- metodi di listIterator
+	- differenza file tipati e file binari
+	- come ordinare gli elementi all'interno di un file
+	- definizione regex
+	- regex monomio
+	- visita post ordine albero
+	- complessità algoritmi  bubble sort selection sort insertion sort e quale tra questi è il migliore
+	- spiegazione heap e come rimuovere il minimo
+	- spiegazione albero binario di ricerca
 
 ## Cicirelli Franco
 
