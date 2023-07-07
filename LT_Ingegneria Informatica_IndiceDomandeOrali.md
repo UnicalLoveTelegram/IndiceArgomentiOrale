@@ -173,6 +173,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- su domande vero o falso: spiegazioni e altre domande
 
 **<u>2020 2021</u>**
+
 - Anonimi
 	- dato un algoritmo A risolutore di un problema P, se la sua complessità è O(f(n)), la complessità intrinseca di P è O(f(n))
 	- dato un algoritmo A risolutore di un problema P, se la sua complessità è Omega(f(n)), la complessità intrinseca di P è Omega(f(n))
@@ -191,6 +192,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- correzione errori
 	- edit distance
 		- riflessione sul poter invertire insert remove e sostituzione della edit distance
+
+**<u>2022 2023</u>**
+
+- Anonimo
+	- quick sort
+ 	- edit distance
+  	- scheduler attività
+  	- aciclicità di un grafo
+  	- implementate con pseudo codice o python (preferibile)
 
 ## Mandaglio 
 
