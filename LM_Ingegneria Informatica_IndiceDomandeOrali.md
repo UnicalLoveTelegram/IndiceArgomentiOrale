@@ -1293,7 +1293,7 @@ rc(X):- u(X), not(r(X)).
 	- Modulo combiner in map reduce
 	- combiner
 	- jwt
-	- gerarchia row timestamp
+	- raw key e timestamp
 
 - Erma_TV
 	- MapReduce
@@ -1311,8 +1311,7 @@ rc(X):- u(X), not(r(X)).
 		- CDN
 		- Combiner di MapReduce
  	- seconda sessione di interrogazione:
-		- DGB
-		- garbage collector
+		- Distributed Garbage Collector
 		- storage di Azure
 		- Docker in generale
 		- come aggiungere un altro layer ad un'immagine
