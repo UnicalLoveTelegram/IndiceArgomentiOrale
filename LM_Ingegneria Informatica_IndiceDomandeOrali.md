@@ -1262,6 +1262,15 @@ rc(X):- u(X), not(r(X)).
 		- NFS lock
 		- Strong mobility
 
+**<u>2022 2023</u>**
+
+- Anonimo
+	- grid
+	- integrazione tra condor e globus
+	- come vengono raccolti i dati in un sistema distribuito 
+	- modello di autenticazione challenge-response
+ 	- con la scalabilità vengono introdotte soluzioni non scalabili?
+		- (Risposta: sì e avviene con la replicazione)
 
 ## Loris Belcastro
 
@@ -1323,6 +1332,19 @@ rc(X):- u(X), not(r(X)).
 		- Garbage collector
 		- Table di azure
 		- CND azure
+
+**<u>2022 2023</u>**
+
+- Anonimo
+	- docker
+	- vantaggi di docker rispetto alle macchine virtuali
+	- come creare oggetti in Java rmi
+	- come vengono passati gli oggetti in Java rmi
+	- con quali operazioni viene caricato un oggetto in un registry
+		- (risposta: bind e rebind)
+	- con quale operazione viene cercato un oggetto in un registry
+		- (risposta: lookup)
+ 	- la struttura delle tabelle azure
 
 # Basi di Dati evolute
 
