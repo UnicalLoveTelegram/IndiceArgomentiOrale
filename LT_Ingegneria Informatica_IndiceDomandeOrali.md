@@ -1401,6 +1401,17 @@ malloc(sizeof(int)*(i+1));
 	- Differenza in http tra connessioni persistenti e non persistenti
 	- Definizioni di reti di calcolatori e dire una rete di computer interconessi che non sono indipendenti (spoiler: cluster)
 
+**<u> 2022 2023 </u>**
+- Anonimo
+	- Blockchain
+	- Calcolo dell' EstimatedRtt e perché cresce esponenzialmente
+	- Protocollo 4.0 autenticazione dei messaggi
+	- Nat
+	- Port forwarding 
+	- One time pad
+	- Cifratura polialfabetica
+	- Fly finger e stabilize nel chord
+
 # Metodi probabilistici della ricerca operativa 
 
 ## Pasquale Legato 
