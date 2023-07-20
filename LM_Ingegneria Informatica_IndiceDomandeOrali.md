@@ -1264,13 +1264,19 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2022 2023</u>**
 
-- Anonimo
+- Anonimo 1
 	- grid
 	- integrazione tra condor e globus
 	- come vengono raccolti i dati in un sistema distribuito 
 	- modello di autenticazione challenge-response
  	- con la scalabilità vengono introdotte soluzioni non scalabili?
 		- (Risposta: sì e avviene con la replicazione)
+- Anonimo 2
+	- Agente mobile
+	- NFS e protocolli principale
+	- NFS Delegation
+	- NFS Lock
+	- Modelli Cloud a Servizi
 
 ## Loris Belcastro
 
