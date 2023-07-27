@@ -231,6 +231,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Struttura union find e due implementazioni
 	- Heap descrizione e inserimento nodo ed estrazione
 
+**<u>2022 2023</u>**
+
+ - Anonimo
+	- hashMap
+	- Kruskal
+	- metodo che dato un albero binario verifica che sia di ricerca
+
 # Piattaforme software per applicazioni web
 
 ## Sergio Flesca
