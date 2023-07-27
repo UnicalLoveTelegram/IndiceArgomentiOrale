@@ -211,6 +211,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- è presente su un computer?
 	- come si esce da un ambiente docker?
 	- come gestisci i servizi in linux?
+
  - Anonimi
 	- Kerberos
  		- attacchi kerberos.
@@ -219,6 +220,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Active directory
 	- Tool per rubare l'hash
 	- Utente di dominio per Active directory
+
+ - Anonimi
+	- ssti
+	- pass the hash
+	- kerberos
+ 	- docker
+	- ldap con attacchi
+	- rbash
+	- pass the ticket
+	- kerberoasting
+	- aes-reproasting
+	- Xss
+	- La configurazione rete per macchine virtuali e container
 
 
 ## Angelo Furfaro
