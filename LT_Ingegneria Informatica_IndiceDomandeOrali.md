@@ -238,6 +238,25 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Kruskal
 	- metodo che dato un albero binario verifica che sia di ricerca
 
+## Greco
+
+**<u>2022 2023</u>**
+
+- Giuseppe
+	- cos'è un grafo planare
+	- permutazioni di un vettore
+	- inserimento e deleteMin in un heap (sia priority queue che albero)
+	- colorazione di un grafo
+	- fibonacci con la programmazione dinamica ed in generale altre implementazioni
+	- horse tour
+	- knapsack 01 con definizione matematica (e spiegazione funzionamento matrice)
+	- kruskal
+	- prodotto di matrici (riserva)
+	- hamiltonian path
+	- Problemi np-completi
+	- Dijkstra
+
+
 # Piattaforme software per applicazioni web
 
 ## Sergio Flesca
