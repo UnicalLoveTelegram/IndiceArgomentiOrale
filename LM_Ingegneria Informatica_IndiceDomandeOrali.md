@@ -1484,13 +1484,6 @@ rc(X):- u(X), not(r(X)).
 	- clark nicolson
 	- calcolo delle matrici LU (con studio dell'errore)
 
-**<u>2022 2023</u>**
-
-- Oscar
-	- 3 des funzionamento come si cifra e come si decifra
- 	- che costo ha des con ricerca esaustiva e con altri attacchi (complessità spaziale e temporale)
-  	- funzioni hash e collisioni con l'attacco relativo (paradosso del compleanno)
-
 
 ## Marat Mukhametzhanov
 
@@ -1548,3 +1541,11 @@ rc(X):- u(X), not(r(X)).
 	- Sicurezza modi operativi many time key
 	- zero knowledge 
 	- Algoritmo che è capace di attaccare qualsiasi funzione hash e paradosso del compleanno
+
+**<u>2022 2023</u>**
+
+- Oscar
+	- 3 des funzionamento come si cifra e come si decifra
+ 	- che costo ha des con ricerca esaustiva e con altri attacchi (complessità spaziale e temporale)
+  	- funzioni hash e collisioni con l'attacco relativo (paradosso del compleanno)
+
