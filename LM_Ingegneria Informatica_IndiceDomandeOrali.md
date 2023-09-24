@@ -35,6 +35,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Rullo](#rullo)
 - [Informatica teorica](#informatica-teorica)
 	- [Scarcello Francesco](#scarcello-francesco)
+ 	- [Palopoli Luigi](#palopoli-luigi)
 - [Ottimizzazione](#ottimizzazione)
 	- [Maria Flavia Monaco](#maria-flavia-monaco)
 - [Valutazione delle prestazioni](#valutazione-delle-prestazioni)
@@ -903,6 +904,40 @@ rc(X):- u(X), not(r(X)).
 	- def di NP-complete (NP-HARD, NP)
 	- L appartiene ad NP se e solo se esiste una relazione caratteristica RL di L  (parte <=) e (parte =>)
 	- Bisaccia FPTAS
+
+## Palopoli Luigi
+
+**<u>2022 2023</u>**
+
+- Anonimo
+	- cosa sono i linguaggi regolari?
+	- quali sono le caratteristiche dell automa di un linguaggio regolare?
+	- quanti simboli leggo per volta?
+	- c è differenza di potenza di calcolo tra dfa e nfa? no, ma c'è differenza di? (risposta: taglia, dimensione, numero di stati)
+	- teorema di rice con dimostrazione
+	- teorema di savitch con dimostrazione
+	- parliamo del concetto di approssimabilità
+	- i problemi sono tutti approssimabili?
+	- cos'è la classe p/poly
+	- classe di complessità IP
+	- legame che c'è tra complessita di circuito e di tempo nei linguaggi
+	- un insieme r.e. lo possiamo definire in più modi, come e in che modo sono equivalenti le def(dimostrazione che la seconda def è equivalente alla terza)
+	- cos è la forma normale di Greinbach
+	- classe di complessita NC
+	- confronta NCI con ACI
+	- p/poly dove sta rispetto a NCI e ACI (non è sicuro sia questo confronto però è sicuro sia con p/poly)
+	- nel linguaggio mini C non abbiamo l'if-than-else, riusciamo a realizzarlo?
+	- pumping lemma linguaggi regolari
+	- se due linguaggi sono regolari la loro unione è regolare, dimostrazione
+	- consideriamo l'insieme degli indici delle funzioni totali, è ricorsivo r.e. o non r.e.
+	- parliamo di p spazio e indichiamone un linguaggio completo
+	- data una macchina che dati n elementi in input si vuole stabilire se il numero di elementi dell array sia pari o dispari, che complessità ha nello spazio
+	- esiste una forma normale per i problemi in psapzio che è anche la codifica di un problema completo, com è fatto
+	- domande su copspazio generiche
+	- teorema di toda (ultimo fatto nel corso)
+	- dimostriamo che un automa a pila deterministico è sempre equivalente a uno a pila non deterministico, non è così in realtà, mi fai vedere un linguaggio che separa?
+	- consideriamo ww^R perché l automa a pila det non è sufficiente in questo caso, dimostrazione
+	- Abbiamo due forme di automi a pila accettanti per stato finale e per stato vuoto, dimostrazione equivalenza che i linguaggi  riconosciuti da uno sono "equivalenti" a quelli dell altro
 
 # Ottimizzazione
 
