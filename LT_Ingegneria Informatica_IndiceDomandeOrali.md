@@ -10,6 +10,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
+	- [Greco](#greco)
 - [Piattaforme software per applicazioni web](#piattaforme-software-per-applicazioni-web)
 	- [Sergio Flesca](#sergio-flesca-1)
 	- [Francesco Scala](#francesco-scala)
@@ -23,7 +24,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Domenico Talia](#domenico-talia)
 	- [Marozzo](#marozzo)
 	- [Orsino](#orsino)
- 	- [Cantini](#cantini)
+	- [Cantini](#cantini)
 - [Fondamenti di informatica](#fondamenti-di-informatica)
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
@@ -48,6 +49,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angelo Furfaro e Argento Luciano](#angelo-furfaro-e-argento-luciano)
 	- [Sacco Ludovica](#sacco-ludovica)
 	- [Angelo Furfaro](#angelo-furfaro-1)
+	- [Angelo Furfaro](#angelo-furfaro-2)
 - [Reti di Calcolatori](#reti-di-calcolatori)
 	- [Paolo Trunfio](#paolo-trunfio)
 - [Metodi probabilistici della ricerca operativa](#metodi-probabilistici-della-ricerca-operativa)
@@ -1224,10 +1226,10 @@ malloc(sizeof(int)*(i+1));
 - Anonimi
 	- Abstract Factory (Class + Sequence Diagram)
  	- Builder (Class Diagram + Esempi) + Modello a spirale + Criteri di test
-    	- Decorator (Class + Sequence Diagram) + Differenze tra Aggregazione e Composizione
-     	- Visitor + Observer
-        - Visitor (Class Diagram) + Decorator (Class Diagram) + Implicazione Logica + Design by Contract (pre-condizioni su sottoclassi)
-        - Abstract Factory
+		- Decorator (Class + Sequence Diagram) + Differenze tra Aggregazione e Composizione
+	 	- Visitor + Observer
+		- Visitor (Class Diagram) + Decorator (Class Diagram) + Implicazione Logica + Design by Contract (pre-condizioni su sottoclassi)
+		- Abstract Factory
 	- Decorator (Class + Sequence) + Criteri di testing
  	- Abstract Factory + Elementi di Class Diagram e Sequence Diagram + Design by Contract
   	- Observer + Principi Ingegneria del Software + Modularità + Criteri di testing
@@ -1324,6 +1326,27 @@ malloc(sizeof(int)*(i+1));
 	- abstract factory
 	- composite diagram
 	- Rup e modello a spirale
+
+**<u>2022 2023</u>**
+
+## Angelo Furfaro
+
+- Anonimo
+	- Decorator
+		- Class Diagram
+		- Sequence DIagram
+		- Problema della super classe
+		- Vantaggi rispetto ereditarietà
+	- Proxy
+		- Class Diagram
+		- Remoto, Virtuale, Smart Pointer, Protezione
+		- Esempi di utilizzi di proxy
+		- Vantaggi proxy
+	- Scrum
+		- Scrum Backlog
+	- Progetto
+		- Design pattern utilizzati
+		- Spiegazione delle scelte progettuali intraprese
 
 
 # Reti di Calcolatori
@@ -1428,6 +1451,7 @@ malloc(sizeof(int)*(i+1));
 	- Definizioni di reti di calcolatori e dire una rete di computer interconessi che non sono indipendenti (spoiler: cluster)
 
 **<u> 2022 2023 </u>**
+
 - Anonimo
 	- Blockchain
 	- Calcolo dell' EstimatedRtt e perché cresce esponenzialmente
