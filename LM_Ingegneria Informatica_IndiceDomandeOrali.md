@@ -1326,6 +1326,15 @@ rc(X):- u(X), not(r(X)).
 	- NFS Delegation
 	- NFS Lock
 	- Modelli Cloud a Servizi
+ 
+- Anonimo 3
+	- distributed garbage collector
+	- grid computing
+	- Coda
+		- come gestisce le repliche
+		- mounting del file system
+	- va nello specifico davvero di ogni tipologia di argomento chiedendo dettagli molto particolari e fini
+
 
 ## Loris Belcastro
 
@@ -1400,6 +1409,12 @@ rc(X):- u(X), not(r(X)).
 	- con quale operazione viene cercato un oggetto in un registry
 		- (risposta: lookup)
  	- la struttura delle tabelle azure
+- Anonimi
+	- meccanismi code Azure:
+		- 3 tipi di proprietà obbligatorie
+	- perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e ribind)?
+		- il meccanismo di Java obbliga a estendere la classe e questo dovrebbe farlo ogni client (soluzione scomoda)
+
 
 # Basi di Dati evolute
 
