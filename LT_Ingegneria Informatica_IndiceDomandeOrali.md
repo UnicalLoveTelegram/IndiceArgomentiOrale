@@ -1059,6 +1059,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Perché bisogna evitare di creare processi orfani
 	- A cosa serve il file /etc/apt/source
 	- Processi in C
+ 	- Demoni
+  	- pipe nel terminale
+  	- permessi
+  	- varie domande sullo scritto
 
 ## Zicari
 
