@@ -240,6 +240,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Kruskal
 	- metodo che dato un albero binario verifica che sia di ricerca
 
+**<u>2023 2024</u>**
+
+- Anonimo
+	- Correzioni errori scritto
+	- Kruscal: cosa fa e pseudocodice
+	- Metodo che calcola l’altezza di un albero + complessità 
+	- Dato un codice scritto da lui, calcolare la complessità dell’algoritmo
+	- UnionFind
+	- Inserimento e rimozione negli heap con complessità
+	- Prim
+	- Edit distance, che problema risolve + pseudocodice
+	- Complessità intrinseca definizione formale
+	- Dijkstra
+
 ## Greco
 
 **<u>2022 2023</u>**
