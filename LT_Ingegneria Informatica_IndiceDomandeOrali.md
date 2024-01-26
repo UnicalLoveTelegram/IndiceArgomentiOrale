@@ -896,6 +896,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Definizione di schedule serializzabile 
 	- Esempio di schedule view-serializable ma non conflict-serializable
 
+**<u>2023 2024</u>**
+
+- Anonimi
+    - Schedule serializzabile ma non view serializable
+    - Definizione di schedule serializzabile
+    - Definizione di schedule seriale
+
 ## Amelio Alessia
 
 **<u>2016 2017</u>**
@@ -944,6 +951,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Samuele
 	- Definizione di dipendenza funzionale
 	- B-tree e inserimento di un elemento con nodo foglia pieno
+
+**<u>2023 2024</u>**
+
+- Anonimi
+    - Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
+    - Rimozione di una chiave in un b-tree
+    - Struttura di un nodo di un b-tree
+    - Differenza tra hashing statico e dinamico
+    - Hashing lineare 
 
 # Calcolatori Elettronici
 
