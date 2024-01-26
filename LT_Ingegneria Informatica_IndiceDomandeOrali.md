@@ -89,6 +89,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Mazzulla](#mazzulla)
 	- [Fazio](#fazio)
 	- [Maria Penelope](#maria-penelope)
+ 	- [Caputo](#caputo)
 - [Robotica](#robotica)
 	- [Muraca](#muraca)
 - [Elettromagnetismo](#elettromagnetismo)
@@ -902,6 +903,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Schedule serializzabile ma non view serializable
     - Definizione di schedule serializzabile
     - Definizione di schedule seriale
+    - recuperabilità
 
 ## Amelio Alessia
 
@@ -959,7 +961,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Rimozione di una chiave in un b-tree
     - Struttura di un nodo di un b-tree
     - Differenza tra hashing statico e dinamico
-    - Hashing lineare 
+    - Hashing lineare
+    - differenza tra hashing statico e dinamico
+    - hashing virtuale
+    	- definizione e rappresentazione grafica
 
 # Calcolatori Elettronici
 
@@ -2235,7 +2240,6 @@ malloc(sizeof(int)*(i+1));
 	- termodinamica (tutta)
 	- teoria cinetica
 
-
 ## Fazio 
 
 **<u>2021 2022</u>**
@@ -2274,6 +2278,13 @@ malloc(sizeof(int)*(i+1));
 	- Momento della Quantità
 
 
+**<u>2023 2024</u>**
+
+## Caputo
+
+- Anonimo
+	- esercizio dello scritto
+	- la dimostrazione del lavoro termodinamico
 
 
 # Robotica
