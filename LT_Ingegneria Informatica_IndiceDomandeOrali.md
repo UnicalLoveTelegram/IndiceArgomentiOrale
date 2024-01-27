@@ -900,10 +900,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2023 2024</u>**
 
 - Anonimi
-    - Schedule serializzabile ma non view serializable
-    - Definizione di schedule serializzabile
-    - Definizione di schedule seriale
-    - recuperabilità
+	- Schedule serializzabile ma non view serializable
+	- Definizione di schedule serializzabile
+	- Definizione di schedule seriale
+	- recuperabilità
+	- definizione formale di dipendenza funzionale
+	- hashing lineare dinamico 
+	- serializzabilitá
+	- Esempio di schedule view-serializable ma non conflict-serializable
+	- esempio di schedule serializable ma non view-serializable
 
 ## Amelio Alessia
 
