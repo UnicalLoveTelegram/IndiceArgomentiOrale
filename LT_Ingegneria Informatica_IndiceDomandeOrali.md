@@ -475,6 +475,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- tempo di salita sulla risposta al gradino 
 	- esercizio data **una risposta in t** 
 		- Ascissa di convergenza
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	-  la definizione di banda passante
+	-  il grafico qualitativo della risposta a gradino di un sistema con 3 poli e uno zero a fase non minima
+
+
 # Sistemi Operativi
 
 ## Domenico Talia
