@@ -41,6 +41,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Zicari](#zicari)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
+ 	- [Emilio Greco](#emilio-greco) 
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
 - [Ingegneria del software](#ingegneria-del-software)
@@ -1111,6 +1112,29 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   	- pipe nel terminale
   	- permessi
   	- varie domande sullo scritto
+
+**<u>2023 2024</u>**
+
+- Anonimo
+	- Cosa sono le distribuzioni.
+	- Cosa sono le repository.
+	- Parlare del file system structure di linux.
+	- A cosa servono /home e /etc
+	- Cos'è apt-get.
+	- Cosa fanno apt-get update, upgrade, install, remove.
+	- Come si cambiano le repository ad apt.
+	- Storia di linux.
+	- Parlare dei processi, stati e processi demone, zombie e orfano.
+	- Cos'è l'init system.
+
+## Emilio Greco
+
+**<u>2023 2024</u>**
+
+- Anonimo
+	- domande generiche sull'implentazione dell'app Android
+ 	- domande su come potrebbe essere implementata una funzionalità che per loro avrebbe reso il progetto migliore
+  		- se il progetto salvava delle info solo in locale con sharedPreferences come si poteva fare invece con un database locale/remoto
 
 ## Zicari
 
