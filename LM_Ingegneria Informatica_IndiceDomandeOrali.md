@@ -939,6 +939,30 @@ rc(X):- u(X), not(r(X)).
 	- consideriamo ww^R perché l automa a pila det non è sufficiente in questo caso, dimostrazione
 	- Abbiamo due forme di automi a pila accettanti per stato finale e per stato vuoto, dimostrazione equivalenza che i linguaggi  riconosciuti da uno sono "equivalenti" a quelli dell altro
 
+**<u>2023 2024</u>**
+
+- Anonimo
+	- MaxSat e perché è DeltaP2Completo
+	- MaxCol e perché è DeltaP2CompletoLog
+	- Funzione di Ackerman
+	- Exp e Nexp
+	- Esempio di problema PSpace Completo
+	- Gerarchia Polinomiale
+	- Teorema di Post
+	- Dimostrazione di equivalenza tra le due definizioni di Ricorsivamente enumerabile
+	- Teorema di Savitch
+	- cos'è Ppoly 
+	- Ppoly contiene linguaggi indecidibili?
+	- Dimostrazione che se L è unario allora è PPoly
+	- Dimostrare che NP è chiuso rispetto alla stella di kleeny
+	- Teorema di Toda
+	- Cos'è #P
+	- Cos'è IP? È equivalente a PSpace?
+	- Simulare comportamento di una TM multi nastro con una multitraccia
+	- Pumping lemma per linguaggi ctx free
+	- Principio della piccionaia
+	- Come funziona la tecnica di riduzione per problemi indecidibili
+
 # Ottimizzazione
 
 ## Maria Flavia Monaco 
