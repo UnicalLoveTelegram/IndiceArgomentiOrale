@@ -1,4 +1,4 @@
-# Indice delle domande degli esami orali: Ingegneria Informatica LT 
+![image](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/assets/13524984/bc1e55a2-7425-40d8-8ed6-4707e0d3271c)# Indice delle domande degli esami orali: Ingegneria Informatica LT 
 
 Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea in **Ingegneria Informatica Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
 
@@ -2389,6 +2389,15 @@ plicativo
 - Anonimi
 	- fast retrasmitt
 	- fast recovery 
+
+**<u>2023 2024</u>**
+
+-Anonimo
+	- ipv4 come funziona e l'unità dati come è fatta
+	- header del protocollo TCP com'è fatto
+	- slow start, congestion avoidance
+	- dimostrazione efficienza go-back-n
+	- Jacobson come si ottiene RTO
 
 ## Tropea, Santamaria o Raimondo
 
