@@ -2096,6 +2096,24 @@ malloc(sizeof(int)*(i+1));
 	- spiegazione heap e come rimuovere il minimo
 	- spiegazione albero binario di ricerca
 
+**<u>2023 2024</u>**
+
+- Anonimo
+	- ricerca binaria ricorsiva -disegnare un heap e un albero dati dei valori
+	- Generici
+	- add su albero
+	- differenza tra abr e heap
+	- iteratore dell’albero
+	- Eccezioni di un Iterator
+	- Quando non è possibile fare una remove
+	- Polimorfismo
+	- heapsort
+	- differenza tra algoritmo iterativo e ricorsivo
+	- visita inOrder da ricorsivo ad iterativo
+	- ordinare una Linkedlist con il listIterator seguendo bubblesort
+	- Ordinare 2 liste con il merge
+	- coda astratta, iteratore della coda, coda concreta
+
 ## Cicirelli Franco
 
 **<u>2022 2023</u>**
@@ -2392,7 +2410,7 @@ plicativo
 
 **<u>2023 2024</u>**
 
--Anonimo
+- Anonimo
 	- ipv4 come funziona e l'unità dati come è fatta
 	- header del protocollo TCP com'è fatto
 	- slow start, congestion avoidance
