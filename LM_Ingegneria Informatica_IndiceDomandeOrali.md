@@ -44,6 +44,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Palopoli Luigi](#palopoli-luigi)
 - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-1)
+ 	- [Sergio Greco](#sergio-greco-1) 
 - [Sistemi Informativi](#sistemi-informativi)
 	- [Cassavia](#cassavia)
 - [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
@@ -1199,6 +1200,37 @@ rc(X):- u(X), not(r(X)).
 		- Complessità formalismi vs espressività
 		- Abduzione
 		- IDA*
+
+## Sergio Greco
+
+- Anonimi
+	- come si valuta il maggiore o uguale e minore o uguale nel tableau (nota: contatela come domanda fatta, non badate a quale anonimo sia stata fatta)
+	- primo Anonimo
+ 		- Algoritmo punto fisso (con esempio di possibile applicazione) Quando può essere applicato questo algoritmo?
+		- In cosa consiste il problema della verifica? Cosa ha in Input? Che complessità ha?
+		- Quando un interpretazione è stabile per un programma?
+		- Cosa è un interpretazione? È un sottoinsieme della base di Herbrand.
+		- Qual è la dimensione dell'universo di Herbrand?
+		- Dimensione del ground di un programma.
+		- Semantica della possibilità/Semantica della certezza.
+		- Skeptical reasoning (definizione)
+		- Struttura dei modelli completi.
+	- secondo Anonimo
+		- Argomentazione in generale
+		- I 3 problemi nell'ambito di argomentazione con le complessità
+		- Spiegazione delle complessità
+	- terzo Anonimo
+		- Algoritmo semi-naïve in generale (cosa vogliamo ottenere) cosa abbiamo in input: una base di dati e un insieme di regole. 
+Questo programma calcola il modello minimo per il programma P (insieme di regole)
+		- Esempio di applicazione dell'algoritmo. Con questo esempio dire che cosa fa l'algoritmo naïve e dove interviene quello semi-naïve.
+		- Che cosa fa eval_rule()? Dato l'esempio, generare l'espressione in algebra relazionale.
+		- Description logic in generale.
+		- Linguaggio ALC, descrizione.
+		- Perchè utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatro che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic? 
+		- Tbox e Abox
+	- quarto Anonimo
+		- Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
+
 
 # Sistemi Informativi
 
