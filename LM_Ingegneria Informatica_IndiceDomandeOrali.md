@@ -1203,6 +1203,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Sergio Greco
 
+**<u>2023 2024</u>**
 - Anonimi
 	- come si valuta il maggiore o uguale e minore o uguale nel tableau (nota: contatela come domanda fatta, non badate a quale anonimo sia stata fatta)
 	- primo Anonimo
