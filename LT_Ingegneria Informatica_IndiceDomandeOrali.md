@@ -1319,6 +1319,11 @@ malloc(sizeof(int)*(i+1));
    	- Strategy + Template Method
    	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
 
+**<u>2023 2024</u>**
+
+- Anonimi
+	- nota: chi è del corso nuovo studia gRPC al posto di java RMI, per chi è del corso vecchio (non è possibile ricordare chi ha seguito il corso vecchio o il nuovo) va esplicitato all'orale e gli verrà chiesto RMI al posto di gRPC. Si confermano sempre le stesse domande fatte negli anni precedenti
+
 ## Argento Luciano
 
 **<u>2017 2018</u>**
