@@ -1030,6 +1030,16 @@ rc(X):- u(X), not(r(X)).
 	- Algoritmo di Waltz 
 	- Hill Climbing
 
+## Giovanni Giallombardo
+
+**<u>2022 2023</u>**
+
+- Anonimi
+	- svr
+		- regressione
+	- l'algoritmo di Newton
+ 	- metodo del gradiente
+
 # Valutazione delle prestazioni
 
 ## Pasquale Legato
