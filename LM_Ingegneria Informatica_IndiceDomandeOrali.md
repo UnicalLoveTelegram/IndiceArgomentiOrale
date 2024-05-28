@@ -38,6 +38,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
  	- [Palopoli Luigi](#palopoli-luigi)
 - [Ottimizzazione](#ottimizzazione)
 	- [Maria Flavia Monaco](#maria-flavia-monaco)
+ 	- [Giovanni Giallombardo](#giovanni-giallombardo)
 - [Valutazione delle prestazioni](#valutazione-delle-prestazioni)
 	- [Pasquale Legato](#pasquale-legato)
 - [Intelligenza Artificiale (6 CFU)](#intelligenza-artificiale-6-cfu)
