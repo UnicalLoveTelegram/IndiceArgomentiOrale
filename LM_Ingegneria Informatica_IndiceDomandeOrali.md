@@ -435,8 +435,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - watermark
     - wordlenghtcount
 
-**<u>2020 2021</u>**
-
 - Anonimi
 	- codice word count
 	- che tipologia di programmi esegue storm
@@ -446,6 +444,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- codice word count reverse
 	- Superlinear speedup:
 	- architettura hdfs e file di configurazione delle risorse
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	- Modello BSP
+	- Costo di BSP
+	- Pseudocodice funzioni map e reduce
+	- Topologia Storm
+	- nota:  da quest'anno il programma è cambiato, non si fa più Hama e si studiano GraphX e Apache Airflow (slide su teams)
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
