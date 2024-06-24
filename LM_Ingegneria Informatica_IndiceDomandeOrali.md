@@ -1048,6 +1048,14 @@ rc(X):- u(X), not(r(X)).
 	- l'algoritmo di Newton
  	- metodo del gradiente
 
+**<u>2023 2024</u>**
+
+- Anonimi
+	- Metodo di Newton
+	- Metodo Quasi Newton
+	- formulazione SVR
+	- Generalmente fa tre domande, una sicura sulla parte di Machine Learning
+
 # Valutazione delle prestazioni
 
 ## Pasquale Legato
