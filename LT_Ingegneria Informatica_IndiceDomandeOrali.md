@@ -918,6 +918,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- serializzabilitá
 	- Esempio di schedule view-serializable ma non conflict-serializable
 	- esempio di schedule serializable ma non view-serializable
+ 	- Quando uno schedule è serializabile
+ 	- Dimostrazione two face looking implica conflict serializable
+ 	- Scrivere schedule non view serializable ma serializzabile
+ 	- Scrivere schedule non conflict serializable ma view serializable
+ 	- Se il two face looking garantisce la cascadeless e la recuperabilità
+ 	- Perché non implica la cascadeless e la recuperabilità
+ 	- Come garantire la cascadeless e la recuperabilità
+ 	- Cos'è una phantom read
+ 	- Si possono leggere meno dati in una phantom read?
+ 	- Cosa significa che due schedule sono equivalent
+ 	- Cos'è la strong 2pl
+ 	- Cos'è la strong strict 2pl
+ 	- Parlare della 2pl
 
 ## Amelio Alessia
 
@@ -979,6 +992,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - differenza tra hashing statico e dinamico
     - hashing virtuale
     	- definizione e rappresentazione grafica
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	- Definizione di chiave candidata
+	- Parlare dell'hashing estendibile
+	- B-tree
+	- B-tree plus
+	- Perché si usa il B-tree plus
+	- Problema dell'agglomerazione primaria
+	- Chiave esterna
+	- Come funziona la rimozione nel b-tree
+	- Differenza tra hashing e b-tree
+	- Hashing dinamico lineare
 
 # Calcolatori Elettronici
 
