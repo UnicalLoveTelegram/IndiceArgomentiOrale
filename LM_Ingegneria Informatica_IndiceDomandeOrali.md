@@ -106,6 +106,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Principal Component Analysis (PCA)
 	- (Di ogni argomento il professore richiede passaggi, formule matematiche ed eventuali grafici)
 
+**<u>2023 2024</u>**
+
+- Anonimi
+	- VAE
+ 	- GAN
+  	- agnostic PAC
+  	- learnability
+  	- svm
+
 # Data Mining
 ## Sergio Greco
 
