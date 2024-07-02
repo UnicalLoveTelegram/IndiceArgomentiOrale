@@ -49,6 +49,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Argento Luciano](#argento-luciano)
 	- [Angelo Furfaro e Argento Luciano](#angelo-furfaro-e-argento-luciano)
 	- [Sacco Ludovica](#sacco-ludovica)
+ 	- [Francesco Blefari](#francesco-blefari)
 	- [Angelo Furfaro](#angelo-furfaro-1)
 	- [Angelo Furfaro](#angelo-furfaro-2)
 - [Reti di Calcolatori](#reti-di-calcolatori)
@@ -1351,6 +1352,16 @@ malloc(sizeof(int)*(i+1));
 - Anonimi
 	- nota: chi è del corso nuovo studia gRPC al posto di java RMI, per chi è del corso vecchio (non è possibile ricordare chi ha seguito il corso vecchio o il nuovo) va esplicitato all'orale e gli verrà chiesto RMI al posto di gRPC. Si confermano sempre le stesse domande fatte negli anni precedenti
 
+- PHEELMASTER
+	- differenza tra connettore di storia e storia profonda (con esempio pratico) 
+	- regola del minimo antenato comune
+	- principio di liskov
+	- dbc inheritance, precondizioni e postcondizioni di sottoclassi
+
+## Francesco Blefari
+
+**<u>2023 2024</u>**
+
 - Turbotheo19
  	- Builder con sequence e che problema importante risolve (costruttori con tanti parametri)
  	- Composite
@@ -1372,6 +1383,33 @@ malloc(sizeof(int)*(i+1));
  	- come si chiama la fase scrum dove si rilascia il prodotto
  	- cosa si fa nello sprint planning
  	- cosa si fa nello sprint retrospective
+
+- PHEELAMASTER
+	- pattern observer (class+seq)
+	- cos'è la pair programming
+	- product backlog + differenze con scrum backlog
+	- sprint cycle di scrum
+	- che tipo di chiamate RPC esistono
+	- chiamate di grpc
+	- esempio di file proto Message e Service di grpc, implementare poi una chiamata effettiva
+	- Pattern mediator
+ 	- di gprc fare bene il codice delle lezioni
+  	- soffermarsi molto sui powerpoint usati a lezione
+  	- agile e scrum
+  	- se fate il progetto:
+  		- usare molto bene git, con criterio e seguendo un rigore logico
+  	 	- usare Junit
+  	  		- usare tanti @Test per avere una valutazione buone
+
+- mottashorse
+	- proxy e i tipi
+ 		- un esempio di proxy con i giochi
+   - copy on write
+   - observer completo tranne il change manager
+   - metodi agili
+   - extreme programming e pair programming
+   - design by contract ( esempi di pre e post condizioni)
+   	- invariante
 
 ## Argento Luciano
 
