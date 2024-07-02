@@ -1351,6 +1351,28 @@ malloc(sizeof(int)*(i+1));
 - Anonimi
 	- nota: chi è del corso nuovo studia gRPC al posto di java RMI, per chi è del corso vecchio (non è possibile ricordare chi ha seguito il corso vecchio o il nuovo) va esplicitato all'orale e gli verrà chiesto RMI al posto di gRPC. Si confermano sempre le stesse domande fatte negli anni precedenti
 
+- Turbotheo19
+ 	- Builder con sequence e che problema importante risolve (costruttori con tanti parametri)
+ 	- Composite
+ 	- Observer
+ 	- In quale metodologia è più appropriato usare git (in tutte)
+ 	- Aspetti migliori dell'XP programming
+ 	- Quanto dura uno sprint cycle
+ 	- Tipi di cerimonie scrum
+ 	- Git cos'è un branch
+ 	- come fare un branch
+ 	- come fare la merge
+ 	- come muoversi tra i branch
+ 	- Si può creare un branch usando la checkout?
+ 	- gRpc cos'è il protocol buffer
+ 	- gRpc a quale pattern lo associ (proxy remoto)
+ 	- cos'è una chiamata bloccante
+ 	- quanti tipi di chiamate remote abbiamo con gRpc
+ 	- che differenza c'è per il protocol buffer quando c'è bisogno di compilarlo in Java e in Python (per java va importata la dipendenza del compilatore nel pom, per python dall'esterno)
+ 	- come si chiama la fase scrum dove si rilascia il prodotto
+ 	- cosa si fa nello sprint planning
+ 	- cosa si fa nello sprint retrospective
+
 ## Argento Luciano
 
 **<u>2017 2018</u>**
