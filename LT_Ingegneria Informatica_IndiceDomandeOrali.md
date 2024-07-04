@@ -54,6 +54,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angelo Furfaro](#angelo-furfaro-2)
 - [Reti di Calcolatori](#reti-di-calcolatori)
 	- [Paolo Trunfio](#paolo-trunfio)
+ 	- [Cristian Cosentino](#cristian-cosentino)
 - [Metodi probabilistici della ricerca operativa](#metodi-probabilistici-della-ricerca-operativa)
 	- [Pasquale Legato](#pasquale-legato)
 	- [Rina Mary Mazza](#rina-mary-mazza)
