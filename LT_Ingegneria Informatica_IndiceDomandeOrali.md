@@ -1630,6 +1630,33 @@ malloc(sizeof(int)*(i+1));
 	- Cifratura polialfabetica
 	- Fly finger e stabilize nel chord
 
+## Fabrizio Marozzo
+
+**<u> 2023 2024 </u>**
+
+- Anonimi
+	- cosa è il blockchain
+	- come funziona il DES (n bit della chiave, iterazioni…)
+	- schema invio messaggio garantendo sicurezza, integrità e autenticazione
+	- Chord (aggiunta/caduta nodi)
+
+## Cristian Cosentino
+
+- Anonimi
+	- esercizio scrivere un client che riceve un orario tramite udo
+	- port forwarding
+	- cloud computing
+	- nat 
+	- esercizio implementare una chat fra client e server
+ 	- Prendere l'header da una pagina 
+	- Prendere il contenuto della pagina
+	- Fare una get di qualcosa 
+	- Fare una post di qualcosa
+	- In più sui socket (capitati a me):
+	- Chat multicast p2p
+	- Chat con due soli utenti TCP.
+
+
 # Metodi probabilistici della ricerca operativa 
 
 ## Pasquale Legato 
