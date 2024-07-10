@@ -7,7 +7,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
 - [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
 	- [Francesco Parisi](#francesco-parisi)
-- [Data Mining]
+- [Data Mining](#data-mining)
 	- [Domenico Mandaglio](#domenico-mandaglio)
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
