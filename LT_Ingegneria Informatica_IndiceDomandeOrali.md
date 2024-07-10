@@ -7,6 +7,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
 - [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
 	- [Francesco Parisi](#francesco-parisi)
+- [Data Mining]
+	- [Domenico Mandaglio](#domenico-mandaglio)
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
@@ -110,7 +112,74 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
 	- [Marcello Sammarra](#marcello-sammarra)
 
+# Data Mining
 
+## Domenico Mandaglio
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	- Percettrone
+ 		- funzione non rappresentabile
+   		- come fa a capire se appartiene ad una classe
+	- Reti neurali + reti neurali multilivello
+	- Discesa del gradiante
+	- SVM + backpropagation
+	- Regole associative
+	- Algoritmo apriori
+	- Kmeans (frequente)
+ 		- come si calcola il centroide
+   		- algoritmo
+     		- complessità
+	- DBSCAN
+ 		- algoritmo
+	- Bagging 
+	- Boosting
+ 		- probabilità di estrazione che cresce se il modello classifica in modo errato
+	- Coefficiente siluette (formula)
+	- Random Forest
+	- Preprocessing e normalizzazione
+	- Grafico overfitting su alberi
+	- Classificatori bayesiani
+	- Criteri di valutazione per il clustering
+	- Normalizzazione max min 
+	- Alberi di decisione
+	- In base a cosa preferiamo lo split su un criterio rispetto ad un altro
+	- Entropia
+	- Overfitting e underfitting
+	- Metodi di classificazione indiretta basati su regole
+	- Discretizzazione di un attributo continuo in uno discreto
+	- Accuracy formula
+	- Precision formula
+	- Recall formula
+	- classificatori bayesani (esempio con l'assunzione dell'indipendenza condizionale nel classificatore Naive, formula probabilità condizionale)
+	- ‌Come si gestiscono i valori mancanti nel training set (automatico, manuale e classificazione con knn)
+	- ‌Problema dei cluster vuoti nel KMeans
+	- ‌Underfitting e Overfitting (grafico)
+‌	- Training set e test set
+‌	- Alberi di Decisione
+	- ‌Misure delle impurità
+	- ‌SVM
+	- ‌Discretizzazione
+	- ‌Simple Matching Coefficient (Jaccard)
+	- ‌Misure di Similarità 
+	- ‌KNN
+	- ‌Clustering
+‌	- Cross-Validation
+‌	- Validation Set, quando è più comodo usarlo
+	- ‌Bisecting KMeans
+	- ‌Normalizzazione Max Min
+	- ‌Sequential covering
+	- ‌Valutazione di un classificatore
+‌	- F-Measurw
+	- ‌perchè introduciamo la precision e la recall
+	- ‌Campionamento
+	- ‌Clustering gerarchico
+	- ‌Algoritmo di Hunt 
+	- ‌Come scegliere il criterio di split sugli alberi
+	- Come si gestiscono i dati mancanti in un dataset (elimino entry, rimpiazzo con la media o uso un classificatore)
+
+ 
 # Laboratorio di Sistemi Informativi
 
 ## Francesco Parisi
