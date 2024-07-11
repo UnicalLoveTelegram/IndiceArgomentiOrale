@@ -1,14 +1,13 @@
-![image](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/assets/13524984/bc1e55a2-7425-40d8-8ed6-4707e0d3271c)# Indice delle domande degli esami orali: Ingegneria Informatica LT 
+# Indice delle domande degli esami orali: Ingegneria Informatica LT 
 
 Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea in **Ingegneria Informatica Laurea Triennale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
-- [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
-- [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
-	- [Francesco Parisi](#francesco-parisi)
 - [Data Mining](#data-mining)
 	- [Domenico Mandaglio](#domenico-mandaglio)
+- [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
+	- [Francesco Parisi](#francesco-parisi)
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
 	- [Sergio Flesca](#sergio-flesca)
 	- [Mandaglio](#mandaglio)
@@ -40,23 +39,24 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Fassetti Fabio](#fassetti-fabio)
 - [Ambienti di programmazione per il software di base](#ambienti-di-programmazione-per-il-software-di-base)
 	- [Folino Gianluigi](#folino-gianluigi)
+	- [Emilio Greco](#emilio-greco)
 	- [Zicari](#zicari)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
- 	- [Emilio Greco](#emilio-greco) 
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
 - [Ingegneria del software](#ingegneria-del-software)
 	- [Angelo Furfaro](#angelo-furfaro)
+	- [Francesco Blefari](#francesco-blefari)
 	- [Argento Luciano](#argento-luciano)
 	- [Angelo Furfaro e Argento Luciano](#angelo-furfaro-e-argento-luciano)
 	- [Sacco Ludovica](#sacco-ludovica)
- 	- [Francesco Blefari](#francesco-blefari)
 	- [Angelo Furfaro](#angelo-furfaro-1)
 	- [Angelo Furfaro](#angelo-furfaro-2)
 - [Reti di Calcolatori](#reti-di-calcolatori)
 	- [Paolo Trunfio](#paolo-trunfio)
- 	- [Cristian Cosentino](#cristian-cosentino)
+	- [Fabrizio Marozzo](#fabrizio-marozzo)
+	- [Cristian Cosentino](#cristian-cosentino)
 - [Metodi probabilistici della ricerca operativa](#metodi-probabilistici-della-ricerca-operativa)
 	- [Pasquale Legato](#pasquale-legato)
 	- [Rina Mary Mazza](#rina-mary-mazza)
@@ -94,7 +94,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Mazzulla](#mazzulla)
 	- [Fazio](#fazio)
 	- [Maria Penelope](#maria-penelope)
- 	- [Caputo](#caputo)
+	- [Caputo](#caputo)
 - [Robotica](#robotica)
 	- [Muraca](#muraca)
 - [Elettromagnetismo](#elettromagnetismo)
@@ -121,7 +121,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- Percettrone
  		- funzione non rappresentabile
-   		- come fa a capire se appartiene ad una classe
+      		- come fa a capire se appartiene ad una classe
 	- Reti neurali + reti neurali multilivello
 	- Discesa del gradiante
 	- SVM + backpropagation
@@ -129,8 +129,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Algoritmo apriori
 	- Kmeans (frequente)
  		- come si calcola il centroide
-   		- algoritmo
-     		- complessità
+      		- algoritmo
+          		- complessità
 	- DBSCAN
  		- algoritmo
 	- Bagging 
@@ -156,8 +156,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- ‌Come si gestiscono i valori mancanti nel training set (automatico, manuale e classificazione con knn)
 	- ‌Problema dei cluster vuoti nel KMeans
 	- ‌Underfitting e Overfitting (grafico)
-‌	- Training set e test set
-‌	- Alberi di Decisione
+	‌	- Training set e test set
+	‌	- Alberi di Decisione
 	- ‌Misure delle impurità
 	- ‌SVM
 	- ‌Discretizzazione
@@ -165,21 +165,28 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- ‌Misure di Similarità 
 	- ‌KNN
 	- ‌Clustering
-‌	- Cross-Validation
-‌	- Validation Set, quando è più comodo usarlo
+	‌	- Cross-Validation
+	‌	- Validation Set, quando è più comodo usarlo
 	- ‌Bisecting KMeans
 	- ‌Normalizzazione Max Min
 	- ‌Sequential covering
 	- ‌Valutazione di un classificatore
-‌	- F-Measurw
+	‌	- F-Measurw
 	- ‌perchè introduciamo la precision e la recall
 	- ‌Campionamento
 	- ‌Clustering gerarchico
 	- ‌Algoritmo di Hunt 
 	- ‌Come scegliere il criterio di split sugli alberi
 	- Come si gestiscono i dati mancanti in un dataset (elimino entry, rimpiazzo con la media o uso un classificatore)
+	- Clustering col KMEANS
+	- Come assegnare i punti al cluster più vicino
+	- Come aggiornare i centroidi
+	- Pseudocodice
+	- Complessita
+	- Campionamento
+	- Perche si usa
+	- Criterio con il quale si campiona
 
- 
 # Laboratorio di Sistemi Informativi
 
 ## Francesco Parisi
@@ -1232,7 +1239,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimo
 	- domande generiche sull'implentazione dell'app Android
  	- domande su come potrebbe essere implementata una funzionalità che per loro avrebbe reso il progetto migliore
-  		- se il progetto salvava delle info solo in locale con sharedPreferences come si poteva fare invece con un database locale/remoto
+    		- se il progetto salvava delle info solo in locale con sharedPreferences come si poteva fare invece con un database locale/remoto
 
 ## Zicari
 
@@ -1414,8 +1421,8 @@ malloc(sizeof(int)*(i+1));
   	- Decorator (+ problema della superclasse)
   	- Builder (Class + Sequence)
   	- Bridge (Class)
-   	- Strategy + Template Method
-   	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
+      	- Strategy + Template Method
+      	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
 
 **<u>2023 2024</u>**
 
@@ -1467,9 +1474,9 @@ malloc(sizeof(int)*(i+1));
   	- soffermarsi molto sui powerpoint usati a lezione
   	- agile e scrum
   	- se fate il progetto:
-  		- usare molto bene git, con criterio e seguendo un rigore logico
-  	 	- usare Junit
-  	  		- usare tanti @Test per avere una valutazione buone
+    		- usare molto bene git, con criterio e seguendo un rigore logico
+    	 	- usare Junit
+    	  		- usare tanti @Test per avere una valutazione buone
 
 - mottashorse
 	- proxy e i tipi
@@ -1479,7 +1486,7 @@ malloc(sizeof(int)*(i+1));
    - metodi agili
    - extreme programming e pair programming
    - design by contract ( esempi di pre e post condizioni)
-   	- invariante
+      	- invariante
 
 ## Argento Luciano
 
@@ -1709,6 +1716,11 @@ malloc(sizeof(int)*(i+1));
 	- come funziona il DES (n bit della chiave, iterazioni…)
 	- schema invio messaggio garantendo sicurezza, integrità e autenticazione
 	- Chord (aggiunta/caduta nodi)
+	- Differenza tra container e macchina virtuale.
+	- Blockchain: Algoritmo consenso, Struttura blocco, Proof of work.
+	- Smart contract.
+	- Processo per l'invio di mail sicure.
+	- Differenza tra Soap e Rest dei web service.
 
 ## Cristian Cosentino
 
@@ -1718,13 +1730,15 @@ malloc(sizeof(int)*(i+1));
 	- cloud computing
 	- nat 
 	- esercizio implementare una chat fra client e server
- 	- Prendere l'header da una pagina 
+	- Prendere l'header da una pagina 
 	- Prendere il contenuto della pagina
 	- Fare una get di qualcosa 
 	- Fare una post di qualcosa
 	- In più sui socket (capitati a me):
 	- Chat multicast p2p
 	- Chat con due soli utenti TCP.
+	- Esercizio in cui bisognava mandare tramite i socket una richiesta HTTP Post
+	- Nat
 
 
 # Metodi probabilistici della ricerca operativa 
@@ -2560,11 +2574,11 @@ malloc(sizeof(int)*(i+1));
 
 - Giuseppe Magliano
 	- Illustrare il concetto di potenziale elettrico differenziale e derivare da esso la legge di Kirchoff
-per le tensioni
+	per le tensioni
 	- Illustrare la legge di Ohm
 	- Illustrare il fenomeno di polarizzazione dei materiali
 	- Illustrare il principio di sovrapposizione degli effetti, descrivendone altresı́ un esempio ap-
-plicativo
+	plicativo
 	- Illustrare il significato della conducibilitá σ, e ricavarne l’espressione
 	- Illustrare la legge di Joule
 	- Illustrare le analogie e le differenze tra la forza gravitazionale e la forza elettrica
