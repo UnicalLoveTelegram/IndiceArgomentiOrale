@@ -730,6 +730,16 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- spiegazione permesso minimo
 	- sistema permessi solaris e multics
 
+**<u>2023 2024</u>**
+
+- Anonimi
+	- dischi raid
+	- worm di morris 
+	- memoria virtuale
+	- mmu
+	- dma
+	- page fault
+
 ## Marozzo
 
 **<u>Anno non classificato</u>**
@@ -809,6 +819,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimo 2
 	- Cosa fa la signalAll e a cosa viene usata negli esercizi
 	- esercizio lettori scrittori usando lock e condition
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	- struttura logica dei semafori
+	- thread demone
+	- deadlock
+		- tra 2 semafori con pseudocodice
 
 ## Cantini
 
