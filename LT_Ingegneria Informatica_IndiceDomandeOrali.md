@@ -2007,7 +2007,17 @@ malloc(sizeof(int)*(i+1));
 	- Quarto orale
 		- Teoria della dualità
  		- Coeff di costo ridotto per mcfp
-	
+
+**<u>2023 2024</u>**
+
+- Anonimo
+	- Dualità: da un PL in forma standard come si arriva al problema duale
+	- Dimostrazione teorema dualità debole (passaggi inversi della domanda precedente) 
+	- Corollari della dualità debole (due) 
+	- Teorema dualità forte e dimostrazione 
+	- Teorema fondamentale della PL (cenno collegato alla domanda di prima) 
+	- Algoritmo del simplesso su rete applicato al flusso di costo minimo (secondo esercizio albero ricoprente) 
+	- Teorema della caratterizzazione della basi
 
 # Reti Logiche e Calcolatori
 
