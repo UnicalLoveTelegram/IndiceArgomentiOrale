@@ -74,6 +74,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angiulli Fabrizio e Fassetti Fabio](#angiulli-fabrizio-e-fassetti-fabio)
 - [Analisi 1](#analisi-1)
 	- [Riey e Solferino](#riey-e-solferino)
+	- [Riey](#riey)
 	- [Francesco Esposito](#francesco-esposito)
 	- [Sciunzi Berardino](#sciunzi-berardino-1)
 - [Analisi Matematica 2](#analisi-matematica-2)
@@ -2115,7 +2116,10 @@ malloc(sizeof(int)*(i+1));
 	- Enunciato e dimostrazione gerarchia degli infiniti
 	- Enunciato e dimostrazione criterio della radice
 
+# Riey
+
 **<u>2023 2024</u>**
+
 - Anonimi
 	- Limiti
 	- Quando il limite della derivata non esiste
