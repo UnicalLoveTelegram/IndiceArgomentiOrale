@@ -2115,6 +2115,47 @@ malloc(sizeof(int)*(i+1));
 	- Enunciato e dimostrazione gerarchia degli infiniti
 	- Enunciato e dimostrazione criterio della radice
 
+**<u>2023 2024</u>**
+- Anonimi
+	- Limiti
+	- Quando il limite della derivata non esiste
+	- Limiti Noteveli
+	- Esercizio sui Limiti
+  	- Domanda del compito: Perché il limite va a 0
+	- Quando una Funzione è derivabile oppure no?
+	- Argomento a piacere sulle funzioni derivabili 
+	- Che cos'è una serie
+	- Quando converge o Diverge
+	- I criteri di una serie
+	- Come si scrive il limite notevole di una funzione 
+	- Teorema Fondamentale del calcolo Integrale
+		- In che altro modo si può rappresentare
+  		- quale usi per calcolare gli integrali definiti 
+	- Il criterio della radice 
+	- Integrale Improprio quando Converge/Diverge
+	- Che criteri abbiamo visto
+	- Teorema del confronto Asintotico x Serie o Integrali 
+	- Derivata usando la definizione (es e^x)
+	- Criterio per serie Positive - Convergenza/Divergenza 
+	- Quando una serie Diverge
+	- Funzione Illimitata e Funzione Limitata 
+	- Come facciamo a far vedere se un punto è derivabile è anche continuo
+	- Esempio di funzione continua non derivabile 
+	- Punti di non derivabilità di una funzione
+	- Punti Stazionari, cosa sono e definizione 
+	- Tipi di punti stazionari, come si classificano
+	- Massimi e Minimi
+	- Derivata
+	- Punto di Flesso
+	- Com'è fatta la funzione in un punto di massimo 
+	- Come si calcola un massimo o un minimo
+	- Che proprietà si studia per trovare il massimo o il minimo 
+	- Cos'è un Integrale definito e come si definisce, graficamente 
+	- Cos'è un Integrale Indefinito, graficamente 
+	- Primitiva di una funzione
+	- Proprietà di una funzione G per dire che è una primitiva di F
+	- Regole di Derivazioni delle funzioni
+
 ## Sciunzi Berardino
 
 **<u>2017 2018</u>**
