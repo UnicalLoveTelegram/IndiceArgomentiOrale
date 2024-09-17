@@ -43,6 +43,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Pasquale Legato](#pasquale-legato)
 - [Intelligenza Artificiale (6 CFU)](#intelligenza-artificiale-6-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-1)
+ 	- [Scarcello Francesco](#scarcello-francesco)
 - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-2)
 	- [Sergio Greco](#sergio-greco-1)
@@ -980,6 +981,20 @@ rc(X):- u(X), not(r(X)).
 	- Pumping lemma per linguaggi ctx free
 	- Principio della piccionaia
 	- Come funziona la tecnica di riduzione per problemi indecidibili
+
+## Scarcello Francesco
+
+**<u>2023 2024</u>**
+
+- Anonimi
+	- Semantica di ASP con esempio
+	- A*
+ 		- Dimostrazione ottimalità A*
+   		- cos'è la soluzione ottima
+     		- calcolo frontiera
+	- Equilibrio di Nash normale e misti
+	- core e nucleoli nella teoria dei giochi
+	- CSP
 
 # Ottimizzazione
 
