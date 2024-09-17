@@ -43,7 +43,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Pasquale Legato](#pasquale-legato)
 - [Intelligenza Artificiale (6 CFU)](#intelligenza-artificiale-6-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-1)
- 	- [Scarcello Francesco](#scarcello-francesco)
+- [Intelligenza Artificiale (9 CFU)](#intelligenza-artificiale-9-cfu)
+ 	- [Scarcello Francesco](#scarcello-francesco-1)
 - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-2)
 	- [Sergio Greco](#sergio-greco-1)
@@ -981,6 +982,8 @@ rc(X):- u(X), not(r(X)).
 	- Pumping lemma per linguaggi ctx free
 	- Principio della piccionaia
 	- Come funziona la tecnica di riduzione per problemi indecidibili
+
+# Intelligenza Artificiale (9 CFU)
 
 ## Scarcello Francesco
 
