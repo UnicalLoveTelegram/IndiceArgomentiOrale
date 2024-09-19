@@ -20,7 +20,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Fondamenti di Informatica 1](#fondamenti-di-informatica-1)
 	- [Savaglio Claudio](#savaglio-claudio)
 - [Laboratorio di microcontrollori](#laboratorio-di-microcontrollori)
-	- [Savaglio Claudio](#savaglio-claudio)
+	- [Tedesco Francesco](#tedesco-francesco)
 - [Elettrotecnica](#elettrotecnica)
 	- [Ricci Marco](#ricci-marco)
 
