@@ -43,6 +43,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Zicari](#zicari)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
+- [Ambienti di programmazione e programmazione Mobile](#ambienti-di-programmazione-e-programmazione-mobile)
+	- [Folino Gianluigi](#folino-gianluigi-1)
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
 - [Ingegneria del software](#ingegneria-del-software)
@@ -1342,6 +1344,23 @@ x = (int*)
 malloc(sizeof(int)*(i+1));
 ```
 - 	- Gestione delle quote
+
+# Ambienti di programmazione e programmazione mobile
+
+## Folino Gianluigi 
+
+**<u>2023 2024</u>**
+
+- Anonimo
+	- Broadcast Receiver
+	- Ciclo di vita dell' Activity
+ 	- in particolare onCreate() e onStart()
+	- Spiegazione Intent, espliciti ed Impliciti con esempi
+	- Repository 
+	- Cos'è APT
+	- Dove si trovano i sorgenti dei pacchetti 
+	- Cosa fanno apt-get Upgrade e apt-get Update
+
 
 # Chimica 
 
