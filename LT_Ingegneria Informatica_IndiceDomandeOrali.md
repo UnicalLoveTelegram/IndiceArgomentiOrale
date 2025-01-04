@@ -92,6 +92,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
 	- [Dmitry Kvasov](#dmitry-kvasov)
 	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
+ 	- [Francesco Liguori](#francesco-liguori)
 - [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
 	- [Crossetti Nanni](#crossetti-nanni)
 	- [Mazzulla](#mazzulla)
@@ -2538,6 +2539,19 @@ malloc(sizeof(int)*(i+1));
 	- Che cosa è il ker
 	- iniettivitità,suriettività e bigettività
 	- Rango di una matrice
+
+## Francesco Liguori
+
+**<u>2024 2025</u>**
+
+- Anonimi
+	- Sottospazio
+ 	- spazio
+   	- immagine e nucleo
+   	- correlazione rango e determinante
+   	- come si trova il determinante
+   	- come trovare il determinante usando laplace
+   	- data una matrice dire se possibile trovare il determinante senza usare una formula come laplace o sarrus
 
 
 # Fisica 12CFU e 9CFU
