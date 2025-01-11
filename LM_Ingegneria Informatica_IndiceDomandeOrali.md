@@ -999,6 +999,81 @@ rc(X):- u(X), not(r(X)).
 	- core e nucleoli nella teoria dei giochi
 	- CSP
 
+- Anonimo 1 
+	- Giochi di coalizione 
+	- Cos'è un contributo marginale 
+	- dummy player, definizione formale
+	- Che tipo di algoritmi utilizziamo per i giochi con avversari? 
+	- minimax con pruning 
+		- euristica di minimax con upper bound o lower bound  
+		- Questi giochi con avversari sono giochi a somma zero o arbitrari? 
+		-  col pruning abbiamo l'ottimalità (considerando upper bound,lower bound)? 
+	- Cos'è un modello?
+		- programma logico dato come esempio, trovare i modelli e gli answer set 
+		- Se dalla terza regola deduci C cosa succede?
+ 
+- Anonimo 2 
+	- answer set da un programma logico
+	- un modello quando si dice answer set 
+	- Dimostrare che A* è corretto e completo 
+		-  tree search con spiegazione dell'ottimalità 
+	- Definizione formale di ammissibilità 
+	- aste, second price 
+		- truthful 
+ 
+- Anonimo 3: 
+	- Constraints satisfaction problem 
+	- Come funziona il forward checking? 
+	- Problema aciclico?
+		- ipergrafo
+	- problemi binari o con arità maggiore.
+	- Cos'è un grafo?
+	- Equilibrio di nash, cos'è e definizione formale. 
+	- spiegazione di a*, perchè è ottimale?
+	- Cos'è l'ammissibilità?  
+	- Depth first search 
+ 
+- Anonimo 4: 
+	- Equilibrio di nash
+		- che possiamo dire per l'esistenza di questi equilibri?
+	- Cos'è il nucleolo?   
+	- Differenza tra core e nucleolo
+	- Dato un programma logico trovami gli answer set 
+ 
+- Anonimo 5: 
+	- Che cos'è un answer set
+ 		- dato un programma logico, trovare il suo answer set
+   		- riduzione programma logico
+	- Cos'è il contributo marginale e il Contributo singolo?
+	- Cos'è un dummy player e lo shapley value?
+		- Esiste sempre lo shapley value? 
+	- Csp aciclici  
+ 
+- Anonimo 6: 
+	- Csp, vediamo cos'è e cos'è una struttura associata.  
+ 
+- Anonimo 7: 
+	- Differenza tra tree search e graph search
+ 		- perché su graph search non è ottimale
+	- contributo marginale
+	- coalizioni
+	- nucleolo
+	- core  
+ 
+- Anonimo 8: 
+	- Che tipo di algoritmi abbiamo fatto per i problemi di soddisfacimento dei vincoli, 
+	- Core
+		- se le due strutture sono acicliche che succede?
+		- Qual è il beneficio se la struttura è aciclica? (Alla fine della procedura possiamo sapere qualcosa)
+	- Cos'è un answer set? 
+ 
+ 
+- Anonimo 9: 
+	- Giochi strategici
+	- definizione di equilibrio di nash
+	- cosa possiamo dire dell'esistenza invece nelle strategie miste? 
+	- Csp tree decomposition
+ 
 # Ottimizzazione
 
 ## Maria Flavia Monaco 
