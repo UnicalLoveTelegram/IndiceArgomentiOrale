@@ -1050,7 +1050,7 @@ rc(X):- u(X), not(r(X)).
 	- Csp aciclici  
  
 - Anonimo 6: 
-	- Csp, vediamo cos'è e cos'è una struttura associata.  
+	- Csp con struttura associata.  
  
 - Anonimo 7: 
 	- Differenza tra tree search e graph search
