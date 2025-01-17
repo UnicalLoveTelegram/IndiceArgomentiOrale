@@ -465,6 +465,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Topologia Storm
 	- nota:  da quest'anno il programma è cambiato, non si fa più Hama e si studiano GraphX e Apache Airflow (slide su teams)
 
+**<u>2024 2025</u>**
+
+- OliG9
+	- UPC++ cos'è e a che modello fa riferimento 
+	- Parlare di APGAS
+	- Esempio di calcolo del π con UPC++ visto in aula, descriverne in linea di massima il funzionamento 
+	- HDFS
+	- Legge di Ahmdal cos'è (con la cosa dell'andamento sovralineare)
+	- Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (ahmdal)
+
+
 # Architetture e programmazione dei sistemi di elaborazione 
 
 ## Fabrizio Angiulli 
