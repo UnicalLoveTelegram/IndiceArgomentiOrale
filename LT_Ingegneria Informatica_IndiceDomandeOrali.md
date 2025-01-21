@@ -93,6 +93,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Dmitry Kvasov](#dmitry-kvasov)
 	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
  	- [Francesco Liguori](#francesco-liguori)
+  	- [Corrado Salvatore](#corrado-salvatore)
 - [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
 	- [Crossetti Nanni](#crossetti-nanni)
 	- [Mazzulla](#mazzulla)
@@ -2453,6 +2454,16 @@ malloc(sizeof(int)*(i+1));
 	- proprietà equazioni logaritmiche esponenziali
 
 # Algebra lineare e matematica discreta
+
+## Corrado Salvatore
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- base
+ 	- ker
+  	- vettore nullo fa parte della base?
+  	- dipendenza e indipendenza lineare
 
 ## Dmitry Kvasov 
 
