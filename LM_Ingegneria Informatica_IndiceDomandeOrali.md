@@ -994,6 +994,26 @@ rc(X):- u(X), not(r(X)).
 	- Principio della piccionaia
 	- Come funziona la tecnica di riduzione per problemi indecidibili
 
+**<u>2024 2025</u>**
+
+- Anonimo 1
+	- L={<M>| M accetta numero antropomorfi}
+		-  antropomorfi=sono numeri tali che n e n quadro terminano con stesso numero (potrebbe non chiamarsi antropomorfo ma è importante la sua struttura appena definita)
+	- Rice 
+	- Definire le composizioni.
+ 	- Combinazioni, esponenziazioni e ripetizioni.
+  	- Insieme a zero.
+  	- Identità, successore e l'altro argomento correlato
+	- Definire classe IP
+	- Np complete
+
+- Anonimo 2
+	- All'altro ragazzo ha chiesto Rice, 
+	- Dimostrazione che automa è uguale a regex
+	- Una caratteristica dei context free
+	- Un'altra domanda ma ora non ricordo
+
+ 
 # Intelligenza Artificiale (9 CFU)
 
 ## Scarcello Francesco
