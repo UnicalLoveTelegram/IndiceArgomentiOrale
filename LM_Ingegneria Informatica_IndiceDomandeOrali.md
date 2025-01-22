@@ -5,6 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria Informatica LM](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lm)
+- [Software Security](#software-security)
+	- [Angelo Furfaro](#angelo-furfaro)
 - [Analisi di Social Network e Media](#analisi-di-social-network-e-media)
 	- [Andrea Tagarelli](#andrea-tagarelli)
 - [Machine e Deep Learning](#machine-e-deep-learning)
@@ -63,6 +65,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
 
+
+# Software Security
+## Angelo Furfaro
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	-  format string
+ 	- fasi di compilazione
+  	- il binario
+  		- formato Elf
 
 # Analisi di Social Network e Media
 ## Andrea Tagarelli
