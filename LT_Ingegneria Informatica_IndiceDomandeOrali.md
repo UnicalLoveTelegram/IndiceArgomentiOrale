@@ -1762,6 +1762,16 @@ malloc(sizeof(int)*(i+1));
 	- Processo per l'invio di mail sicure.
 	- Differenza tra Soap e Rest dei web service.
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- NAT
+ 	- email sicure
+  	- firma digitale
+  	- DNS
+  	- go-back-n
+  	- RTT
+
 ## Cristian Cosentino
 
 - Anonimi
