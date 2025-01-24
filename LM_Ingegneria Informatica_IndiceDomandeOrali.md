@@ -50,6 +50,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
 	- [Palopoli Luigi](#palopoli-luigi-2)
 	- [Sergio Greco](#sergio-greco-1)
+- [Rappresentazione della Conoscenza (6 CFU)](#rappresentazione-della-conoscenza-6-cfu)
+	- [Sergio Greco](#sergio-greco-2)
 - [Sistemi Informativi](#sistemi-informativi)
 	- [Cassavia](#cassavia)
 - [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
@@ -1404,6 +1406,17 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- quarto Anonimo
 		- Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
 
+# Rappresentazione della Conoscenza (6 CFU)
+
+## Sergio Greco
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Algoritmo naive/semi-naive
+ 	- complessità ASP
+  	- sistemi di argomentazione in generale
+	- Linguaggio ALC
 
 # Sistemi Informativi
 
