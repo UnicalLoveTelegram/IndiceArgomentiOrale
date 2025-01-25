@@ -1033,6 +1033,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
  	- Cos'è la strong strict 2pl
  	- Parlare della 2pl
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- schedule serializzabile
+	- protocollo 2pl
+	- condizione di recuperabilità
+	- strong e stongstrict 2pl
+	- esempio di schedule serializzabile ma non view
+
 ## Amelio Alessia
 
 **<u>2016 2017</u>**
@@ -1107,6 +1116,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Come funziona la rimozione nel b-tree
 	- Differenza tra hashing e b-tree
 	- Hashing dinamico lineare
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- definizioni di chiave esterna, chiave candidata
+	- inserimento/rimozione nel btree con esempio
+	- hashing virtuale 
+	- hashing estendibile
+	- differenza tra hashing e btree
 
 # Calcolatori Elettronici
 
