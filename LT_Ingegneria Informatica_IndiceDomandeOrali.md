@@ -87,6 +87,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
 	- [Cicirelli Franco](#cicirelli-franco)
+  	- [Francesco Pironti](#francesco-pironti)
 - [Matematica Computazionale](#matematica-computazionale)
 	- [Astorino Annabella](#astorino-annabella)
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
@@ -2332,6 +2333,20 @@ malloc(sizeof(int)*(i+1));
 	- Teorema della proiezione
 
 # Programmazione orientata ad Oggetti
+
+## Francesco Pironti
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Wildcard
+	- PECS lower bound upper bound
+	- Wrapper class
+	- Generics
+	- Implementare dei metodi con una interfacca che ha l’iteratore
+	- Differenze tra inheritance Python e java
+	- Interfacce e classi astratte
+	- Collection in python
 
 ## Libero Nigro
 
