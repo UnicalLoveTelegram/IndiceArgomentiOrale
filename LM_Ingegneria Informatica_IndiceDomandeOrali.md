@@ -613,6 +613,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Clock fine
 	- Speculazione hw e cosa cambia rispetto alle predizioni della pipeline 
 	- Cache multilivello e come cambia il calcolo del tempo medio di accesso alla memoria
+
+**<u>2024 2025</u>**
+- Anonimi
+	- Cache
+	- Politiche di sostituzione
+	- Unità di controllo monociclo
+	- Segnali beta mono e multi
+	- Ottimizzazione controllo micro programmato
+	- Disegno stack lru
+	- Ottimizzazione controllo microprogrammato
+	- conflitti sui dati nella macchina pipeline
+	- conflitti nella pipeline: inserimento circuito di uguaglianza
+   
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
