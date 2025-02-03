@@ -342,6 +342,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Complessità intrinseca definizione formale
 	- Dijkstra
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- cammino minimo
+	- cammino semplice 
+	- aciclicita grafo non orientato
+	- algoritmo di floyd
+
+
 ## Greco
 
 **<u>2022 2023</u>**
