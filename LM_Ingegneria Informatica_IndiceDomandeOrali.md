@@ -668,6 +668,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - puzzle di merkle 
     - introduzione key managment e scneari utilizzo rsa 
 
+**<u>2024 2025</u>**
+
+- Anonimi 
+    - Sicurezza Prg (tutte e tre le definizioni) 
+    - Puzzle Merkle 
+    - Sicurezza puzzle merkle
+    - paradosso compleanno
+    - attacco alle funzioni hash (col paradosso del compleanno)
+  
 # Linguaggi Formali
 
 ## Domenico Saccà
