@@ -87,6 +87,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
 	- [Cicirelli Franco](#cicirelli-franco)
+- [Programmazione orientata ad Oggetti 6 CFU](#programmazione-orientata-ad-oggetti-6-cfu)
+  	- [Francesco Pironti](#francesco-pironti)
+	- [Angelo Furfaro](#angelo-furfaro-3)
 - [Matematica Computazionale](#matematica-computazionale)
 	- [Astorino Annabella](#astorino-annabella)
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
@@ -338,6 +341,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Edit distance, che problema risolve + pseudocodice
 	- Complessità intrinseca definizione formale
 	- Dijkstra
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- cammino minimo
+	- cammino semplice 
+	- aciclicita grafo non orientato
+	- algoritmo di floyd
+
 
 ## Greco
 
@@ -2330,6 +2342,30 @@ malloc(sizeof(int)*(i+1));
 	- Teorema dei residui
 	- Lemma del grande cerchio
 	- Teorema della proiezione
+
+# Programmazione orientata ad Oggetti 6 CFU
+
+## Francesco Pironti
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Wildcard
+	- PECS lower bound upper bound
+	- Wrapper class
+	- Generics
+	- Implementare dei metodi con una interfacca che ha l’iteratore
+	- Differenze tra inheritance Python e java
+	- Interfacce e classi astratte
+	- Collection in python
+
+# Angelo Furfaro
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Dynamic binding e static binding
+ 	- Method resolution order 
 
 # Programmazione orientata ad Oggetti
 

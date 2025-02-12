@@ -615,6 +615,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Cache multilivello e come cambia il calcolo del tempo medio di accesso alla memoria
 
 **<u>2024 2025</u>**
+
 - Anonimi
 	- Cache
 	- Politiche di sostituzione
@@ -625,7 +626,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Ottimizzazione controllo microprogrammato
 	- conflitti sui dati nella macchina pipeline
 	- conflitti nella pipeline: inserimento circuito di uguaglianza
-   
+
 # Crittografia e analisi reti sociali 
 
 ## Molinaro Cristian
@@ -1026,7 +1027,7 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimo 1
 	- L={<M>| M accetta numero antropomorfi}
-		-  antropomorfi=sono numeri tali che n e n quadro terminano con stesso numero (potrebbe non chiamarsi antropomorfo ma è importante la sua struttura appena definita)
+		-  antropomorfi=sono numeri tali che n e n quadro terminano con stesso numero (potrebbe non chiamarsi antropomorfo ma è importante la sua struttura appena definita, esercizio che fa parte dello scritto)
 	- Rice 
 	- Definire le composizioni.
  	- Combinazioni, esponenziazioni e ripetizioni.
@@ -1041,6 +1042,8 @@ rc(X):- u(X), not(r(X)).
 	- Una caratteristica dei context free
 	- Un'altra domanda ma ora non ricordo
 
+- Anonimo 3
+	- dimostrazione punto fisso
  
 # Intelligenza Artificiale (9 CFU)
 
@@ -1854,3 +1857,14 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
  	- che costo ha des con ricerca esaustiva e con altri attacchi (complessità spaziale e temporale)
   	- funzioni hash e collisioni con l'attacco relativo (paradosso del compleanno)
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- puzzle di merkle
+	- 3des e perché non usiamo 2des (analisi complessità attacco al 2des e come applicarlo al 3des)
+	- cos'è una funzione hash e come attaccarla
+	- padding nel mac
+	- definizione di sicurezza per generatori pseudocasuali e predicibilità con dimostrazione di predicibile=>non sicuro,inoltre la 	- definizione con p1 e p2 computazionalmente indistinguibili
+	- AE quale è il più sicuro e quale non lo è (perché non lo è)
+	- modi operativi MTK con il gioco dell'avversario 
+	- proof of knowledge
