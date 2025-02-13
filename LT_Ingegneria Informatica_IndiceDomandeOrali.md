@@ -2619,7 +2619,7 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2024 2025</u>**
 
-- Anonimi
+- Anonimo 1
 	- Sottospazio
  	- spazio
    	- immagine e nucleo
@@ -2628,6 +2628,11 @@ malloc(sizeof(int)*(i+1));
    	- come trovare il determinante usando laplace
    	- data una matrice dire se possibile trovare il determinante senza usare una formula come laplace o sarrus
 
+- Anonimo 2
+	- Definizione spazio e sottospazio vettoriale.
+	- Quando una matrice si dice invertibile.
+	- Calcolare l'inversa di una matrice.
+	- Esercizio con autovalori e autovettori
 
 # Fisica 12CFU e 9CFU
 
