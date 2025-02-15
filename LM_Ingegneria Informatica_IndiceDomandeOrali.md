@@ -1870,10 +1870,14 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 - Anonimo
 	- puzzle di merkle
+ 	- analisi sicurezza puzzle merkle
 	- 3des e perché non usiamo 2des (analisi complessità attacco al 2des e come applicarlo al 3des)
 	- cos'è una funzione hash e come attaccarla
 	- padding nel mac
-	- definizione di sicurezza per generatori pseudocasuali e predicibilità con dimostrazione di predicibile=>non sicuro,inoltre la 	- definizione con p1 e p2 computazionalmente indistinguibili
+	- definizione di sicurezza per generatori pseudocasuali e predicibilità con dimostrazione di predicibile=>non sicuro
+  	- definizione con p1 e p2 computazionalmente indistinguibili
 	- AE quale è il più sicuro e quale non lo è (perché non lo è)
 	- modi operativi MTK con il gioco dell'avversario 
 	- proof of knowledge
+   	- differenza e analogie tra rsa e rabin
+  	- diffie-helman
