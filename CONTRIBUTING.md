@@ -4,20 +4,69 @@ Grazie per il tuo interesse a contribuire a questo progetto! Segui queste linee 
 
 ## Come contribuire tramite issue
 
-Se vuoi contribuire creando nuove domande per una materia, per favore segui questi passaggi:
+La sezione issue offre più metodi di contribuzione:
 
-1. **Apri una nuova issue**: Vai alla pagina delle [issue](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/issues) del repository e clicca su "New Issue".
-2. **Titolo dell'issue**: Nel titolo dell'issue, includi la materia, l'anno e il professore.
-    ```markdown
-    [Materia] - Anno - Professore
-    ```
-3. **Descrizione dell'issue**: Nella descrizione dell'issue, elenca le domande richieste.
-    ```markdown
-    ## Domande richieste
-    1. Domanda 1
-    2. Domanda 2
-    3. Domanda 3
-    ```
+- Aggiunta di una testimonianza: da utilizzare per aggiungere nuove domande per materia
+- Correzione di una testimonianza: da utilizzare per correggere le domande esistenti
+- Generazione dei pdf: se noti pdf non aggiornati, puoi segnalarlo qui
+
+Per accedere a tutti i tipi di contributi, **apri una nuova issue**: Vai alla pagina delle [issue](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/issues) del repository e clicca su "New Issue".
+
+Si aprirà il pop-up con le varie scelte.
+
+> NOTA BENE:
+>
+> Le issue non aggiungono/modificano nulla in maniera diretta sui vari file, ma segnalano ai vari autori del repository le modifiche da fare, questo rende fisiologico un attesa maggiore rispetto alle PR per la modifica poi effettiva.
+
+### Aggiunta
+
+Cliccare su **Aggiunta una testimonianza** quindi seguire il template che si presenterà dinnanzi. Il template avrà queste sembianze:
+
+```markdown
+# nome corso di laurea - es: ingegneria informatica LT
+
+## materia - es: ingegneria del software
+
+### Professore con cui si è svolto l'esame - es: Furfaro Angelo 
+
+#### anno di riferimento ( quello di settembre ) - es: 2018/2019
+
+- NOME ESAMINANDO oppure Anonimi 
+    - domanda 1
+        - domanda correlata a domanda 1
+        - risposta ( se la si vuole inserire)
+    - domanda 2
+    - domanda 3
+etc...
+
+```
+
+**Ricordarsi di adeguare anche il titolo della ISSUE**.
+
+### Modifica
+
+Cliccare su **Correzione di una Testimonianza** quindi seguire il template che si presenterà dinnanzi. Il template avrà queste sembianze:
+
+```markdown
+# nome corso di laurea - es: ingegneria informatica LT
+
+## materia - es: ingegneria del software
+
+### Professore con cui si è svolto l'esame - es: Furfaro Angelo 
+
+#### anno di riferimento ( quello di settembre ) - es: 2018/2019
+
+- NOME ESAMINANDO oppure Anonimi 
+    - domanda o domande da correggere
+```
+
+**Ricordarsi di adeguare anche il titolo della ISSUE**.
+
+### Generazione di un PDF
+
+Cliccare su **Generazione di un PDF** e inserire le informazioni richieste.
+
+**Ricordarsi di adeguare anche il titolo della ISSUE**.
 
 ## Come contribuire tramite Pull up request
 
@@ -112,6 +161,10 @@ Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software co
 
 Il tema utilizzato da noi su Typora lo trovate qui: [purple theme](https://github.com/UnicalLoveTelegram/typora-purple-theme/blob/master/purple.css)
 
+
+### Indice
+
+Ricordarsi di tenere l'indice dei contenuti sempre aggiornato tramite l'estensione di visual studio code.
 
 #### Alcuni consigli di buona scrittura
 
