@@ -6,7 +6,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria dell' Automazione](#indice-delle-domande-degli-esami-orali-ingegneria-dell-automazione)
 - [Teoria dei sistemi](#teoria-dei-sistemi)
-	- [Casavola](#casavola)
+  - [Casavola](#casavola)
 
 
 # Teoria dei sistemi

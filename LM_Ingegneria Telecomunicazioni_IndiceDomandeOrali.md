@@ -6,7 +6,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - [Indice delle domande degli esami orali: Ingegneria delle Telecomunicazioni LM](#indice-delle-domande-degli-esami-orali-ingegneria-delle-telecomunicazioni-lm)
 - [Programmazione Dispositivi Mobili](#programmazione-dispositivi-mobili)
-	- [Francesco Pupo](#francesco-pupo)
+  - [Francesco Pupo](#francesco-pupo)
 
 # Programmazione Dispositivi Mobili
 
