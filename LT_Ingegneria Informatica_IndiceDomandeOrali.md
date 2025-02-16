@@ -4,6 +4,7 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
+- [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
 - [Data Mining](#data-mining)
 	- [Domenico Mandaglio](#domenico-mandaglio)
 - [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
@@ -43,7 +44,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Zicari](#zicari)
 	- [Ianni](#ianni)
 	- [Folino e Ianni](#folino-e-ianni)
-- [Ambienti di programmazione e programmazione Mobile](#ambienti-di-programmazione-e-programmazione-mobile)
+- [Ambienti di programmazione e programmazione mobile](#ambienti-di-programmazione-e-programmazione-mobile)
 	- [Folino Gianluigi](#folino-gianluigi-1)
 - [Chimica](#chimica)
 	- [Bruno De Cindio](#bruno-de-cindio)
@@ -76,27 +77,27 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angiulli Fabrizio e Fassetti Fabio](#angiulli-fabrizio-e-fassetti-fabio)
 - [Analisi 1](#analisi-1)
 	- [Riey e Solferino](#riey-e-solferino)
-	- [Riey](#riey)
 	- [Francesco Esposito](#francesco-esposito)
+- [Riey](#riey)
 	- [Sciunzi Berardino](#sciunzi-berardino-1)
 - [Analisi Matematica 2](#analisi-matematica-2)
 	- [Sciuzi Berardino](#sciuzi-berardino)
 	- [Colao](#colao)
 	- [De Luca](#de-luca)
 	- [Viviana Solferino](#viviana-solferino)
+- [Programmazione orientata ad Oggetti 6 CFU](#programmazione-orientata-ad-oggetti-6-cfu)
+	- [Francesco Pironti](#francesco-pironti)
+- [Angelo Furfaro](#angelo-furfaro-3)
 - [Programmazione orientata ad Oggetti](#programmazione-orientata-ad-oggetti)
 	- [Libero Nigro](#libero-nigro)
 	- [Cicirelli Franco](#cicirelli-franco)
-- [Programmazione orientata ad Oggetti 6 CFU](#programmazione-orientata-ad-oggetti-6-cfu)
-  	- [Francesco Pironti](#francesco-pironti)
-	- [Angelo Furfaro](#angelo-furfaro-3)
 - [Matematica Computazionale](#matematica-computazionale)
 	- [Astorino Annabella](#astorino-annabella)
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
+	- [Corrado Salvatore](#corrado-salvatore)
 	- [Dmitry Kvasov](#dmitry-kvasov)
 	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
- 	- [Francesco Liguori](#francesco-liguori)
-  	- [Corrado Salvatore](#corrado-salvatore)
+	- [Francesco Liguori](#francesco-liguori)
 - [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
 	- [Crossetti Nanni](#crossetti-nanni)
 	- [Mazzulla](#mazzulla)
@@ -119,6 +120,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Amedeo](#amedeo)
 - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
 	- [Marcello Sammarra](#marcello-sammarra)
+- [Modelli e tecniche per i big data](#modelli-e-tecniche-per-i-big-data)
+	- [Paolo Trunfio](#paolo-trunfio-1)
 
 # Data Mining
 
@@ -129,7 +132,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- Percettrone
  		- funzione non rappresentabile
-      		- come fa a capire se appartiene ad una classe
+	  		- come fa a capire se appartiene ad una classe
 	- Reti neurali + reti neurali multilivello
 	- Discesa del gradiante
 	- SVM + backpropagation
@@ -137,8 +140,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Algoritmo apriori
 	- Kmeans (frequente)
  		- come si calcola il centroide
-      		- algoritmo
-          		- complessità
+	  		- algoritmo
+		  		- complessità
 	- DBSCAN
  		- algoritmo
 	- Bagging 
@@ -1106,14 +1109,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2023 2024</u>**
 
 - Anonimi
-    - Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
-    - Rimozione di una chiave in un b-tree
-    - Struttura di un nodo di un b-tree
-    - Differenza tra hashing statico e dinamico
-    - Hashing lineare
-    - differenza tra hashing statico e dinamico
-    - hashing virtuale
-    	- definizione e rappresentazione grafica
+	- Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
+	- Rimozione di una chiave in un b-tree
+	- Struttura di un nodo di un b-tree
+	- Differenza tra hashing statico e dinamico
+	- Hashing lineare
+	- differenza tra hashing statico e dinamico
+	- hashing virtuale
+		- definizione e rappresentazione grafica
 
 **<u>2023 2024</u>**
 
@@ -1292,7 +1295,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimo
 	- domande generiche sull'implentazione dell'app Android
  	- domande su come potrebbe essere implementata una funzionalità che per loro avrebbe reso il progetto migliore
-    		- se il progetto salvava delle info solo in locale con sharedPreferences come si poteva fare invece con un database locale/remoto
+			- se il progetto salvava delle info solo in locale con sharedPreferences come si poteva fare invece con un database locale/remoto
 
 ## Zicari
 
@@ -1491,8 +1494,8 @@ malloc(sizeof(int)*(i+1));
   	- Decorator (+ problema della superclasse)
   	- Builder (Class + Sequence)
   	- Bridge (Class)
-      	- Strategy + Template Method
-      	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
+	  	- Strategy + Template Method
+	  	- Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
 
 **<u>2023 2024</u>**
 
@@ -1544,9 +1547,9 @@ malloc(sizeof(int)*(i+1));
   	- soffermarsi molto sui powerpoint usati a lezione
   	- agile e scrum
   	- se fate il progetto:
-    		- usare molto bene git, con criterio e seguendo un rigore logico
-    	 	- usare Junit
-    	  		- usare tanti @Test per avere una valutazione buone
+			- usare molto bene git, con criterio e seguendo un rigore logico
+		 	- usare Junit
+		  		- usare tanti @Test per avere una valutazione buone
 
 - mottashorse
 	- proxy e i tipi
@@ -1556,7 +1559,7 @@ malloc(sizeof(int)*(i+1));
    - metodi agili
    - extreme programming e pair programming
    - design by contract ( esempi di pre e post condizioni)
-      	- invariante
+	  	- invariante
 
 ## Argento Luciano
 
@@ -2872,3 +2875,18 @@ malloc(sizeof(int)*(i+1));
 	- Risoluzione problema su knapsack multiplo
 	- Risoluzione problema di OPL
 
+# Modelli e tecniche per i big data
+
+## Paolo Trunfio 
+
+**<u>2024/2025</u>**
+
+- Zio Rob 
+	- BSP in generale
+	- Esempi pratici di BSP (GraphX) 
+	- cos è una EdgeTriplet
+	- UPC++  e il metodo Monte Carlo per piGreco
+	- PGAS
+		 - APGAS 
+	- Efficienza e Speedup
+	- Efficienza Sovralineare (A volte l'efficienza può superare il 100% grazie a metodi come il caching)
