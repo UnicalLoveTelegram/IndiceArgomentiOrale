@@ -7,24 +7,38 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Indice delle domande degli esami orali: Ingegneria dell' Automazione](#indice-delle-domande-degli-esami-orali-ingegneria-dell-automazione)
 - [Teoria dei sistemi](#teoria-dei-sistemi)
   - [Casavola](#casavola)
-
+- [Laboratorio di Automatica](#laboratorio-di-automatica)
+  - [Tedesco Francesco](#tedesco-francesco)
+    - [2024/2025](#20242025)
 
 # Teoria dei sistemi
 
-## Casavola 
+## Casavola
 
 **<u>2018 2019</u>**
 
-- Carmen 
-    - Linearizzazione 
-    - Taratura modelli ARMA
-    - Analisi in frequenza 
-    - Risposta Libera 
-    - Esponenziale di matrice 
-    - Sylvester
-    - Raggiungibilità 
-    - Osservabilità
-    - Partizione alla Kalman
-    - Trasferimento Energia minima 
-    - retroazione
-    - retroazione dead beat
+- Carmen
+  - Linearizzazione
+  - Taratura modelli ARMA
+  - Analisi in frequenza
+  - Risposta Libera
+  - Esponenziale di matrice
+  - Sylvester
+  - Raggiungibilità
+  - Osservabilità
+  - Partizione alla Kalman
+  - Trasferimento Energia minima
+  - retroazione
+  - retroazione dead beat
+
+#  Laboratorio di Automatica
+
+## Tedesco Francesco
+
+### 2024/2025
+
+- Anonimi
+  - domanda 1
+    - Precisione statica
+  - domanda 2
+    - Ricavare partendo dallo schema del sistema a retroazione generico, le diverse funzioni di sensitività e come le varie uscite si comportano a fronte di ingressi diversi.
