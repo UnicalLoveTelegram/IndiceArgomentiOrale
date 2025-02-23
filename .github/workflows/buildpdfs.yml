@@ -11,12 +11,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1.2.0
+      - name: Convert Markdown to PDF
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_dir: ./
-          output_dir: ./pdfs
+          output_dir: pdfs
           build_html: false
-      - uses: actions/upload-artifact@v4.6.1
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4.6.1
         with:
           name: docs
-          path: ./pdfs
+          path: pdfs
+      - name: Checkout repository again
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Extract PDFs
+        run: unzip pdfs/docs.zip -d pdfs
+      - name: Commit and push PDFs
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add pdfs
+          git commit -m 'Add generated PDFs'
+          git push
