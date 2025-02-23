@@ -14,9 +14,9 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_dir: ./
-          output_dir: pdfs
+          output_dir: ./pdfs
           build_html: false
       - uses: actions/upload-artifact@v4.6.1
         with:
           name: docs
-          path: pdfs
+          path: ./pdfs
