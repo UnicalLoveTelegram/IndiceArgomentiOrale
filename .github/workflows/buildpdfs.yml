@@ -18,9 +18,6 @@ jobs:
           output_dir: ./pdfs
           build_html: false
 
-      - name: Extract PDFs
-        run: unzip ./pdfs/docs.zip -d pdfs
-
       - name: Commit and push PDFs
         run: |
           git config --global user.name 'github-actions[bot]'
