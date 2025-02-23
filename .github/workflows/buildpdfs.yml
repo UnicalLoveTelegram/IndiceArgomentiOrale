@@ -22,12 +22,10 @@ jobs:
         with:
           name: docs
           path: pdfs
-      - name: Checkout repository again
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+
       - name: Extract PDFs
         run: unzip pdfs/docs.zip -d pdfs
+        
       - name: Commit and push PDFs
         run: |
           git config --global user.name 'github-actions[bot]'
