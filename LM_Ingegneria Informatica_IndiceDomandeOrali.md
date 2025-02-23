@@ -1868,7 +1868,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 **<u>2024 2025</u>**
 
-- Anonimo
+- Anonimo 1
 	- puzzle di merkle
  	- analisi sicurezza puzzle merkle
 	- 3des e perché non usiamo 2des (analisi complessità attacco al 2des e come applicarlo al 3des)
@@ -1880,4 +1880,16 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- modi operativi MTK con il gioco dell'avversario 
 	- proof of knowledge
    	- differenza e analogie tra rsa e rabin
+
+- Anonimo 2
   	- diffie-helman
+  	- differenza tra attaccante attivo e passivo
+  	- sicurezza dei modi operativi many time key
+  	- cosa può fare l'attaccante attivo che scopre la chiave
+  	- fiat shamir
+  	- differenza tra attacco a forza bruta e attacco a forza bruta del paradosso del compleanno ( la risposta "dovrebbe essere" che lo spazio di ricerca è diverso )
+  	- se l'avversario si aspetta un valore di e ma ne arriva un altro puo correggere il tiro? ( la risposta "dovrebbe essere" che non può perchè il calcolo ha complessita pari a radice modulare n )
+  	- 3des
+  	- come decifrare con 3des ( se E(k1,k2,k3,m)=E(k1,D(k2,E(k3,m))) allora D(k1,k2,k3,m)=D(k3,E(k2,D(k1,c))) )
+  	- attacco e complessità dell'attacco a 2des
+  	- dimostra che l'attacco di 2des non si può fare su 3des
