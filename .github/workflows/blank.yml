@@ -19,7 +19,7 @@ jobs:
           input_dir: .
           output_dir: pdfs
           build_html: false
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4.6.1
         with:
           name: docs
           path: pdfs
