@@ -1,7 +1,4 @@
-# .github/workflows/convert-to-pdf.yml
-
 name: Docs to PDF
-# This workflow is triggered on pushes to the repository.
 on:
   workflow_dispatch:
   push:
@@ -16,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
-          input_dir: .
+          input_dir: ./
           output_dir: pdfs
           build_html: false
       - uses: actions/upload-artifact@v4.6.1
