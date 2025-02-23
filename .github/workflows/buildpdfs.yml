@@ -17,7 +17,7 @@ jobs:
           input_dir: ./
           output_dir: ./pdfs
           build_html: false
-          table_of_contents: true
+          table_of_contents: false
           
       - name: Commit and push PDFs
         run: |
