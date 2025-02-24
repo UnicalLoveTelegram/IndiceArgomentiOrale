@@ -2845,6 +2845,17 @@ malloc(sizeof(int)*(i+1));
 	- DFT
 	- Filtri
 
+## Tedesco Francesco
+
+**<u>2024 2025</u>**
+
+- Anonimi
+  - domanda 1
+    - Precisione statica
+  - domanda 2
+    - Ricavare partendo dallo schema del sistema a retroazione generico, le diverse funzioni di sensitività e come le varie uscite si comportano a fronte di ingressi diversi.
+
+
 # Qualità del servizio 
 
 ## Amedeo 
