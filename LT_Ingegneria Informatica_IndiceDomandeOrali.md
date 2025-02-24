@@ -116,6 +116,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Aloi](#aloi)
 - [Laboratorio di automatica](#laboratorio-di-automatica)
 	- [Domenico Famularo](#domenico-famularo)
+ 	- [Tedesco Francesco](#tedesco-francesco)
 - [Qualità del servizio](#qualità-del-servizio)
 	- [Amedeo](#amedeo)
 - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
