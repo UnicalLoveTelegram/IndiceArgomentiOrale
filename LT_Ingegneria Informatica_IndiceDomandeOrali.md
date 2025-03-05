@@ -1289,6 +1289,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Parlare dei processi, stati e processi demone, zombie e orfano.
 	- Cos'è l'init system.
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- apt
+	- repository
+	- permessi in android
+	- permessi in Linux
+	- storia di Linux 
+	- gradi di libertà 
+	- distribuzioni 
+	- intent impliciti ed espliciti
+	- processo demone/superdemone
+
 ## Emilio Greco
 
 **<u>2023 2024</u>**
