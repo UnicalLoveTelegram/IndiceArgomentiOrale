@@ -13,7 +13,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Angiulli Fabrizio](#angiulli-fabrizio)
 - [Data Mining](#data-mining)
 	- [Sergio Greco](#sergio-greco)
-- [Sistemi Informativi Ambientali\]](#sistemi-informativi-ambientali)
+- [Sistemi Informativi Ambientali](#sistemi-informativi-ambientali)
 	- [Davide Luciano De Luca](#davide-luciano-de-luca)
 - [Ethical Hacking](#ethical-hacking)
 	- [Francesco Lupia](#francesco-lupia)
@@ -144,7 +144,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
 	- KNN
 
-# Sistemi Informativi Ambientali]
+# Sistemi Informativi Ambientali
 ## Davide Luciano De Luca
 
 **<u>2021 2022</u>**
