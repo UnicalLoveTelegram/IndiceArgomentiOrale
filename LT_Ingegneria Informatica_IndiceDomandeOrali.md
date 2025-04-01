@@ -71,6 +71,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Maria Flavia Monaco](#maria-flavia-monaco)
 	- [Maria Flavia Monaco e Marcello Sammarra](#maria-flavia-monaco-e-marcello-sammarra)
 	- [Giallombardo](#giallombardo)
+ 	- [Marcello Sammarra-1](#marcello-sammarra)
 - [Reti Logiche e Calcolatori](#reti-logiche-e-calcolatori)
 	- [Fabio Fassetti](#fabio-fassetti)
 	- [Angiulli Fabrizio](#angiulli-fabrizio)
@@ -2034,6 +2035,16 @@ malloc(sizeof(int)*(i+1));
 	- perché il duale del massimo flusso ha variabili appartenenti a {0,1}
 	- dal continuo si passa a variabili {0,1} come mai ?  (stessa domanda di sopra)
 		- grazie alla matrice TUM
+
+## Marcello Sammarra
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- domanda a piacere
+	- validità del secondo e primo corollario del teorema della dualità nella rete di flusso
+	- parlare del problema di branch and bound
+	- le ottimizzazioni applicate nel branch and bound di taglio di un ramo
 
 ## Maria Flavia Monaco e Marcello Sammarra
 
