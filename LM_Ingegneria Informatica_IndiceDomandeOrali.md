@@ -1801,6 +1801,29 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- clark nicolson
 	- calcolo delle matrici LU (con studio dell'errore)
 
+## Dmitry
+
+**<u>2024 2025</u>**
+
+- Anonimi
+  	- Metodo del punto fisso
+	- Sistema virgola mobile 
+	- Errore di arrotondamento
+	- Interpolazione
+	- Lagrange 
+	- Forma di Newton 
+	- Errore di interpolazione
+	- Fenomeno di Runge 
+	- Spline
+	- Formula spline quadratica
+	- Estrapolazione di Ric
+	- Metodo di Romberg
+	- Formule adattive
+	- Sistemi lineari
+	- Condizionamento 
+	- Metodi iterativi 
+	- Equazioni differenziali 
+	- Problema di Cauchy
 
 ## Marat Mukhametzhanov
 
