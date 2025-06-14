@@ -63,8 +63,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Molinaro Cristian](#molinaro-cristian-1)
 - [Calcolo Numerico](#calcolo-numerico)
 	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
-	- [Dmitry](#dmitry)
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
+  	- [Dmitry](#dmitry)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
 
@@ -1802,30 +1802,6 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- clark nicolson
 	- calcolo delle matrici LU (con studio dell'errore)
 
-## Dmitry
-
-**<u>2024 2025</u>**
-
-- Anonimi
-  	- Metodo del punto fisso
-	- Sistema virgola mobile 
-	- Errore di arrotondamento
-	- Interpolazione
-	- Lagrange 
-	- Forma di Newton 
-	- Errore di interpolazione
-	- Fenomeno di Runge 
-	- Spline
-	- Formula spline quadratica
-	- Estrapolazione di Ric
-	- Metodo di Romberg
-	- Formule adattive
-	- Sistemi lineari
-	- Condizionamento 
-	- Metodi iterativi 
-	- Equazioni differenziali 
-	- Problema di Cauchy
-
 ## Marat Mukhametzhanov
 
 **<u>2019 2020</u>**
@@ -1849,6 +1825,30 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- idea di fondo degli algoritmi
 		- jacobi
 	- Spline lineari e quadratiche
+
+## Dmitry
+
+**<u>2024 2025</u>**
+
+- Anonimi
+  	- Metodo del punto fisso
+	- Sistema virgola mobile 
+	- Errore di arrotondamento
+	- Interpolazione
+	- Lagrange 
+	- Forma di Newton 
+	- Errore di interpolazione
+	- Fenomeno di Runge 
+	- Spline
+	- Formula spline quadratica
+	- Estrapolazione di Ric
+	- Metodo di Romberg
+	- Formule adattive
+	- Sistemi lineari
+	- Condizionamento 
+	- Metodi iterativi 
+	- Equazioni differenziali 
+	- Problema di Cauchy
 
 # Algoritmi di Crittografia
 
