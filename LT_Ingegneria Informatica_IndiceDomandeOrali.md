@@ -2662,6 +2662,24 @@ malloc(sizeof(int)*(i+1));
 	- Calcolare l'inversa di una matrice.
 	- Esercizio con autovalori e autovettori
 
+ - Anonimo 3
+	- Teorema di Rouche Capelli
+	- Che cos’è la matrice inversa
+	- Condizioni di invertibilità di una matrice 
+	- Che cos’è il rango
+	- Che cos’è il determinante
+	- Come varia la matrice se il determinante è uguale a 0
+	- Che cos’è uno spazio vettoriale
+	- Che cos’è il nucleo
+	- Che cos’è l’immagine
+	- Che cos’è la controimmagine
+	- Definizione di indipendenza lineare
+	- Come calcolare una combinazione lineare di un vettore
+	- Che cos’è una matrice
+	- Condizioni per effettuare operazioni di somma e prodotto fra matrici
+	- Come si calcola il determinante con Gauss
+	- Tenere conto degli scambi di righe effettuati al fine di sapere il segno del determinante
+
 # Fisica 12CFU e 9CFU
 
 ## Crossetti Nanni
