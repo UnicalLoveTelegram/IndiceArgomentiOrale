@@ -1230,6 +1230,26 @@ rc(X):- u(X), not(r(X)).
 	- formulazione SVR
 	- Generalmente fa tre domande, una sicura sulla parte di Machine Learning
 
+**<u>2024 2025</u>**
+
+- Anonimo 1
+	- ottimizzazione unidimensionale non vincolata
+ 	- ricerca lineare approssimata e esatta
+  	- SVM
+  	- formulazione Hard Margin
+
+- Anonimo 2
+	- armijo goldstein (scelta del passo)
+ 	- SVR
+
+- Anonimo 3
+	- kkt
+ 	- smo
+
+- Anonimo 4
+	- soft margin e kkt
+ 	- armijo con interpretazione geometrica
+ 
 # Valutazione delle prestazioni
 
 ## Pasquale Legato
