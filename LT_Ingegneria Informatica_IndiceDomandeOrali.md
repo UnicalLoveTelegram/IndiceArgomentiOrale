@@ -1838,6 +1838,10 @@ malloc(sizeof(int)*(i+1));
 	- disegnare il grafico del provisioning delle risorse e spiegare le differenze tra underprovisioning, overprovisioning e cosa succede nel cloud computing 
 	- http 2.0 
 	- imparare gli argomenti nuovi anche se il corso è stato seguito in passato
+ 	- blockchain
+  	- smart contract
+  	- hash
+  		- cosa sono, esempi e applicazioni su blockchain
 
 ## Cristian Cosentino
 
