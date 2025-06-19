@@ -1812,13 +1812,32 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2024 2025</u>**
 
-- Anonimo
+- Anonimo 1
 	- NAT
  	- email sicure
   	- firma digitale
   	- DNS
   	- go-back-n
   	- RTT
+
+- Anonimo 2
+	- tdm ed fdm
+	- miglioramenti di http 2.0
+	- aws em2
+	- invio di mail sicure (autenticazione, integrità e segretezza) 
+	- livello trasporto, segmenti tcp
+	- go back n e selective repeat
+	- crittografia con RSA e come ricavare la coppia di chiavi
+	- Nat
+	- soap
+	- schema di una rete chord con spiegazione
+	- confrontare gli approcci p2p (con indice centrale, query flooding, dht)
+	- p2p approcci. Esistono p2p puri?
+	- Bittorent dire cosa sono leecher e seeder e poi spiegare tutto il resto
+	- risoluzione iterativa e ricorsiva del dns
+	- disegnare il grafico del provisioning delle risorse e spiegare le differenze tra underprovisioning, overprovisioning e cosa succede nel cloud computing 
+	- http 2.0 
+	- imparare gli argomenti nuovi anche se il corso è stato seguito in passato
 
 ## Cristian Cosentino
 
