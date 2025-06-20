@@ -56,6 +56,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Sacco Ludovica](#sacco-ludovica)
 	- [Angelo Furfaro](#angelo-furfaro-1)
 	- [Angelo Furfaro](#angelo-furfaro-2)
+- [Internet Computing](#internet-computing)
+	- [Fabrizio Marozzo](#fabrizio-marozzo-1)
 - [Reti di Calcolatori](#reti-di-calcolatori)
 	- [Paolo Trunfio](#paolo-trunfio)
 	- [Fabrizio Marozzo](#fabrizio-marozzo)
@@ -1861,6 +1863,35 @@ malloc(sizeof(int)*(i+1));
 	- Esercizio in cui bisognava mandare tramite i socket una richiesta HTTP Post
 	- Nat
 
+
+# Internet Computing
+
+## Fabrizio Marozzo
+
+**<u>2024 2025</u>**
+
+- consiglio: gran parte delle domande coincide con il corso di reti di calcolatori, fare riferimento a quelle del 2024/2025
+- Anonimo 1
+	- KDC  + disegno
+	- sap e nap
+	- http2
+	- chord + disegno 
+	- cache web + formula
+	- cookie + tipologie
+	- email sicura
+	- RTT + timer
+	- Dos + attacchi
+	- Blockchain
+	- dns
+	- dns dinamico
+	- AWS
+	- Funzionamento DHT
+	- differenze tra POP3 e IMAP + disegno
+	- bittorrent
+	- RSA + formule
+	- Frammentazione di pacchetti con MTU
+	- Gnutella
+	- Rdt 3.0
 
 # Metodi probabilistici della ricerca operativa 
 
