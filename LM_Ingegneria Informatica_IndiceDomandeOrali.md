@@ -1623,6 +1623,13 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 		- mounting del file system
 	- va nello specifico davvero di ogni tipologia di argomento chiedendo dettagli molto particolari e fini
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- teorema di lamport
+	- algoritmi di mutua esclusione
+	- kerberos
+	- consistenza causale
 
 ## Loris Belcastro
 
@@ -1703,6 +1710,12 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e ribind)?
 		- il meccanismo di Java obbliga a estendere la classe e questo dovrebbe farlo ogni client (soluzione scomoda)
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- java rmi
+	- distributed garbage collector
+	- equals and hash code java rmi
 
 # Basi di Dati evolute
 
