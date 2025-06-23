@@ -491,6 +491,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Legge di Ahmdal cos'è (con la cosa dell'andamento sovralineare)
 	- Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (ahmdal)
 
+- Anonimo
+	- Upc ++
+   	- Montecarlo con Upc ++
+   	- Apache storm
 
 # Architetture e programmazione dei sistemi di elaborazione 
 
