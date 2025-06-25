@@ -2906,6 +2906,19 @@ malloc(sizeof(int)*(i+1));
 	- dimostrazione efficienza go-back-n
 	- Jacobson come si ottiene RTO
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- slow start e congestion avoidance+ formule della CWND
+	- sindrome silly window
+	- protocolli arq
+	- efficienza protocolli arq
+	- distance vector e link state
+	- pacchetto TCP e UDP (con differenze)
+	- multiplexing e demultiplexing
+	- tecniche di accesso multiplo
+	- fast recovery e retrasmit
+
 ## Tropea, Santamaria o Raimondo
 
 **<u>2018 2019</u>**
