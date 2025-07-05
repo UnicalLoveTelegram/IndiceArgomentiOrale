@@ -106,7 +106,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Mazzulla](#mazzulla)
 	- [Fazio](#fazio)
 	- [Maria Penelope](#maria-penelope)
-	- [Caputo](#caputo)
+	- [Roberto Caputo](#roberto-caputo)
+ 	- [Sandro Donato](#sandro-donato)
 - [Robotica](#robotica)
 	- [Muraca](#muraca)
 - [Elettromagnetismo](#elettromagnetismo)
@@ -764,6 +765,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- dma
 	- page fault
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Scheduling di Windows/solaris/linux
+	- Pcb
+	- Differenza tra paginazione e paginazione con memoria virtuale
+
+
 ## Marozzo
 
 **<u>Anno non classificato</u>**
@@ -851,6 +860,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- thread demone
 	- deadlock
 		- tra 2 semafori con pseudocodice
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Cos’è il Compare and Swap e dove l’abbiamo visto
+	- Monitor nativi in java
+	- Esercizio lettori e scrittori con i monitor nativi e ordine di risveglio FIFO
+	- Politiche di risveglio Hansen&Hoare
 
 ## Cantini
 
@@ -2824,12 +2841,31 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2023 2024</u>**
 
-## Caputo
+## Roberto Caputo
 
 - Anonimo
 	- esercizio dello scritto
 	- la dimostrazione del lavoro termodinamico
 
+## De Santo
+
+- Anonimo
+	- Momento torcente, 
+	- Dimostrazione cv e cp ottenimento
+	- Conservazione di moto
+	- Dimostrare che forza peso è conservativa
+	- Forza Elastica
+	- Lavoro Forza Elastica
+	- Correlazione Energia elastica e Lavoro
+	- Calcolare lavoro trasformazione ciclica graficamente
+	- Prima legge termodinamica
+	- Energia cinetica rotazionale
+
+## Sandro Donato
+
+- Anonimo
+	- Ciclo di Karnoot
+ 	- rendimento
 
 # Robotica
 
