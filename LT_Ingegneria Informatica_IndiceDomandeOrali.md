@@ -31,6 +31,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
 	- [Filippo Furfaro](#filippo-furfaro)
+- [Fondamenti di informatica 2](#fondamenti-di-informatica-2)
+	- [Andrea Pugliese](#andrea-pugliese-2)
 - [Basi di Dati](#basi-di-dati)
 	- [Filippo Furfaro](#filippo-furfaro-1)
 	- [Amelio Alessia](#amelio-alessia)
@@ -975,6 +977,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- la differenza tra shallow copy e in depth copycon esempi
 	- gli algoritmi di ordinamento fatti a lezione
 	- un esercizio solitamente ricorsivo con gli iteratori
+
+# Fondamenti di informatica 2
+
+## Andrea Pugliese
+
+- Anonimo
+	- Esercizi con liste normali
+	- Esercizi liste concatenate
+	- Esercizi albero di ricerca binaria
 
 # Basi di Dati
 
