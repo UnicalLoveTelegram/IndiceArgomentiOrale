@@ -1887,6 +1887,25 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- Equazioni differenziali 
 	- Problema di Cauchy
 
+ - Anonimo 2
+	- Che cos'è l’indice di condizionamento?
+	- Quali sono i metodi espliciti (es. Eulero, Runge-Kutta)?
+	- Che cos’è il metodo di Crank-Nicolson?
+	- Che cos'è la precisione macchina?
+	- Come vengono rappresentati i numeri sul calcolatore?
+	- Che cos'è la derivazione numerica?
+	- Che cos'è l’integrazione numerica?
+	- Che cosa sono i metodi adattivi e come funzionano?
+	- cavalieri simpson adattivo
+	- Che cos’è la cancellazione numerica?
+	- Che cos'è la perdita di contributo (somma tra numero grande e piccolo)?
+	- Che cosa sono le norme?
+		- Definizione di norma su vettori.
+ 		- Come si applicano le norme ai vettori?
+		- Come si applicano le norme alle matrici?
+		- Proprietà delle norme.
+		- Che cos’è la norma 1, norma infinito, norma 2, norma p?
+
 # Algoritmi di Crittografia
 
 ## Cristian Molinaro
