@@ -2725,6 +2725,20 @@ malloc(sizeof(int)*(i+1));
 	- iniettivitità,suriettività e bigettività
 	- Rango di una matrice
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Dimostrazione di tangente
+	- principio di skolemizzazione
+	- principio di generalizzazione universale
+	- proprietà logaritmi 
+	- append in prolog
+	- MCD in prolog 
+	- Valore assoluto in prolog
+	- Lenght in prolog
+	- member in prolog
+
+
 ## Francesco Liguori
 
 **<u>2024 2025</u>**
