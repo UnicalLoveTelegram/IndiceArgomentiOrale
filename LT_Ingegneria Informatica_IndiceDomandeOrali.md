@@ -98,6 +98,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Cicirelli Franco](#cicirelli-franco)
 - [Matematica Computazionale](#matematica-computazionale)
 	- [Astorino Annabella](#astorino-annabella)
+ 	- [Gianvincenzo Alfano](#gianvincenzo-alfano)
 - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
 	- [Corrado Salvatore](#corrado-salvatore)
 	- [Dmitry Kvasov](#dmitry-kvasov)
@@ -2607,6 +2608,27 @@ malloc(sizeof(int)*(i+1));
 	- metodi ed attributi statici a cosa servono e cosa sono
 
 # Matematica Computazionale
+
+## Gianvincenzo Alfano
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- 1. cos'è una formula soddisfacibile?
+	- 2. cos'è una tautologia? 
+	- 3. modus ponens, tollendo tones 
+	- 4. A implica B or C or D implica Z, cos'è? 
+	- 5. A implica B che implica C, cos'è? 
+	- 6. cos'è una formula ambigua? +esempio 
+	- 7. precedenza tra connettivi logici
+	- 8. A f, B v, C f... com'è questa formula sotto l'interpretazione?
+	- 9. A and B or C, com'è questa formula? 
+	- 10. cos'è una contraddizione?
+	- 11. A implica B implica Z
+	- 12.  A and B or C 
+	- 13. (P and not Q) and not P (applicare la distributiva) 
+	- 14. cos'è una formula valida? 
+	- 15. cos'è un'interpretazione in logica del primo ordine? 
 
 ## Astorino Annabella
 
