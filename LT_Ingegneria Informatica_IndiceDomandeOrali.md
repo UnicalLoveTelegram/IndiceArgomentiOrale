@@ -31,6 +31,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
 	- [Francesco Scarcello](#francesco-scarcello)
 	- [Filippo Furfaro](#filippo-furfaro)
+ 	- [Simona Nisticò](#simona-nisticò)
 - [Fondamenti di informatica 2](#fondamenti-di-informatica-2)
 	- [Andrea Pugliese](#andrea-pugliese)
 - [Basi di Dati](#basi-di-dati)
@@ -905,6 +906,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- code associate ai monitor come funzionano? (diff hansen e hoare)
 
 # Fondamenti di informatica
+
+## Simona Nisticò
+
+**<u>2024 2025</u>**
+
+- Anonimo
+	- ricerca binaria in maniera ricorsiva
+ 	- creare una funzione ricorsiva che, dati due numeri, restituisce la moltiplicazione di tutti i numeri compresi (estremi inclusi)
+	- somma della diagonale principale di una matrice
 
 ## Francesco Scarcello e Francesco Lupia 
 
