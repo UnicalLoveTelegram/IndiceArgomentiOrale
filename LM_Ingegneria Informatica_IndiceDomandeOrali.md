@@ -1887,7 +1887,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 	- Equazioni differenziali 
 	- Problema di Cauchy
 
- - Anonimo 2
+ - Anonimi 2
 	- Che cos'è l’indice di condizionamento?
 	- Quali sono i metodi espliciti (es. Eulero, Runge-Kutta)?
 	- Che cos’è il metodo di Crank-Nicolson?
@@ -1905,6 +1905,10 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 		- Come si applicano le norme alle matrici?
 		- Proprietà delle norme.
 		- Che cos’è la norma 1, norma infinito, norma 2, norma p?
+  	- Cosa sono le equazioni differenziali?
+   	- Problema di cauchy
+   	- Cosa succede nel metodo di integrazione di newton vuoi aumentare il grado del polinomio, devi ricalcolare tutto? (No)
+   	- Perchè esiste sempre il polinomio di migliore approssimazione e quali sono le condizioni affinchè si verifichi ciò? (teorema di weirestrass e intervallo con tutti nodi diversi)
 
 # Algoritmi di Crittografia
 
