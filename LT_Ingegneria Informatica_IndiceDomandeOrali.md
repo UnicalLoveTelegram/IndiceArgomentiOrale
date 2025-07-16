@@ -7,6 +7,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Indice delle domande degli esami orali: Ingegneria Informatica LT](#indice-delle-domande-degli-esami-orali-ingegneria-informatica-lt)
 - [Data Mining](#data-mining)
 	- [Domenico Mandaglio](#domenico-mandaglio)
+ 	- [Sergio Greco](#sergio-greco-1)
 - [Laboratorio di Sistemi Informativi](#laboratorio-di-sistemi-informativi)
 	- [Francesco Parisi](#francesco-parisi)
 - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
@@ -133,6 +134,45 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Paolo Trunfio](#paolo-trunfio-1)
 
 # Data Mining
+
+## Sergio Greco
+
+**<u>2024 2025</u>**
+
+- Pindilli Lorenzo
+    - Principio a priori
+        - Algoritmo  a priori
+    - Kmeans (con tutte le formule)
+        -Fuzzy Kmeans
+        -Bisect Kmeans
+    - DbScan
+    - Clustering gerarchico
+        -Clustering aagglomerativo (algoritmo e spiegazione e complessità)
+        -Clustering divisivo (Algortimo spiegazione e complessità)
+    - Reti convoluzionali
+    - Gini index
+    - Canali nelle reti convoluzionali
+    - regressione Lineare
+    - Regressione Logistica
+    - Metriche negli alberi decisionali (Accuracy precision e recall)
+    - Entropia
+    - Teorema universale delle reti neurali
+    - Kmeans++
+    - Knn 
+    - Classificatori bayesiani
+    - Discesa del gradiente
+    - Discesa del gradiente stocastico
+    - Xor problem, con grafici 
+    - Embedding 
+    - Output in una rete shallow (dimensione)
+    - Backpropagation 
+    - In generale chiede tutto e lo vuole con precisione, consiglio di fare al meglio tutti gli algoritmi che ci sono scritti, e di fare la complessità
+    - Quali sono le funzioni di attivazione più usate e fare il disegno (gradino, softMax, ecc..)
+    - Misure di similarità per i cluster 
+    - come comportarsi se un cluster diventa "vuoto"
+    - tecniche di Ensable
+
+
 
 ## Domenico Mandaglio
 
