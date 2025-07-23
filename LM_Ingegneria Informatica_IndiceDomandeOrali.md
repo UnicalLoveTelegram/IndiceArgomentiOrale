@@ -149,25 +149,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
   - KNN
 
-## Sistemi Informativi Ambientali
-
-### Davide Luciano De Luca
-
-**<u>2021 2022</u>**
-
-- giovixo97
-  - cosa è un DEM?
-  - differenza file shape vettoriale e file raster
-  - tecniche di geoprocessing
-  - tutti i tipi di interpolatori (esatto,non esatto,locale,globale...)
-  - cosa vuol dire la media o la varianza in un certo punto?
-  - cosa rappresenta Z0? Ponendo Zi come i punti che hanno misura esatta con i>0
-  - cosa è una misura?
-    - lo strumento misura sicuramente bene
-  - cosa è un GCP?
-  - come è fatto un file di tipo geografico?
-    - numero delle righe,colonne,risoluzione,xcornern,ycornern...
-
 ## Ethical Hacking
 
 ### Francesco Lupia
@@ -643,69 +624,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - conflitti sui dati nella macchina pipeline
   - conflitti nella pipeline: inserimento circuito di uguaglianza
 
-## Crittografia e analisi reti sociali
-
-### Molinaro Cristian
-
-**<u>2016 2017</u>**
-
-- Tassone
-  - Cifrario a flusso
-  - OTP
-  - PRG
-  - Shannon
-  - Cifrari a blocchi
-  - Sicurezza semantica
-  - PRP
-  - ECP
-  - CBC
-  - CBC+nonce
-  - CTR
-  - CTR+nonce
-  - MAC (funzionamento sicurezza e challange)
-  - NMac
-  - PMAC
-  - HMAC
-  - ECBC MAC
-  - PAYLOAD
-  - HASH (funzionamento sicurezza e challange)
-  - PAradosso compleanno + attacco hash (collissioni)
-  - Merkle damgard
-  - Autenticazione cifrata (funzionamento sicurezza e challange)
-  - tre tipologie costruzione autenticazione cifrata (e than m, e and m, m then e) più differenze e sicurezza
-  - differenza chiave simmetrica e asimmetrica
-  - principi chiave asimmetrica
-  - RSA
-  - Complessità attacco RSA per scoprire chaive segreta
-  - complessita attacco RSA per un messaggio cifrato (differenza con sopra )
-  - Merkle puzzle
-  - autorità di certificazione e firma digitale (molto in generale più schema)
-- Riccardo
-  - generazione rsa per calcolo chiavi
-    - come si cifra
-    - come si decifra
-  - rabin come si generano le chiavi
-    - collegarsi alla fattorizzazione
-    - output di 4 messaggi
-    - cattiva proprietà del sistema
-  - ElGamal su cosa è basato
-    - come si calcolano le chiavi
-  - tutti i possibili attacchi di chiave che si muovono contro RSA
-    - brute force
-    - euclide
-    - vari problemi
-  - puzzle di merkle
-  - introduzione key managment e scneari utilizzo rsa
-
-**<u>2024 2025</u>**
-
-- Anonimi
-  - Sicurezza Prg (tutte e tre le definizioni)
-  - Puzzle Merkle
-  - Sicurezza puzzle merkle
-  - paradosso compleanno
-  - attacco alle funzioni hash (col paradosso del compleanno)
-  
 ## Linguaggi Formali
 
 ### Domenico Saccà
@@ -1076,96 +994,6 @@ rc(X):- u(X), not(r(X)).
 - Anonimo 3
   - dimostrazione punto fisso
 
-## Intelligenza Artificiale (9 CFU)
-
-### Scarcello Francesco
-
-**<u>2023 2024</u>**
-
-- Anonimi
-  - Semantica di ASP con esempio
-  - A*
-  - Dimostrazione ottimalità A*
-  - cos'è la soluzione ottima
-    - calcolo frontiera
-  - Equilibrio di Nash normale e misti
-  - core e nucleoli nella teoria dei giochi
-  - CSP
-
-- Anonimo 1
-  - Giochi di coalizione
-  - Cos'è un contributo marginale
-  - dummy player, definizione formale
-  - Che tipo di algoritmi utilizziamo per i giochi con avversari?
-  - minimax con pruning
-    - euristica di minimax con upper bound o lower bound  
-    - Questi giochi con avversari sono giochi a somma zero o arbitrari?
-    - col pruning abbiamo l'ottimalità (considerando upper bound,lower bound)?
-  - Cos'è un modello?
-    - programma logico dato come esempio, trovare i modelli e gli answer set
-    - Se dalla terza regola deduci C cosa succede?
-
-- Anonimo 2
-  - answer set da un programma logico
-  - un modello quando si dice answer set
-  - Dimostrare che A* è corretto e completo
-    - tree search con spiegazione dell'ottimalità
-  - Definizione formale di ammissibilità
-  - aste, second price
-    - truthful
-
-- Anonimo 3:
-  - Constraints satisfaction problem
-  - Come funziona il forward checking?
-  - Problema aciclico?
-    - ipergrafo
-  - problemi binari o con arità maggiore.
-  - Cos'è un grafo?
-  - Equilibrio di nash, cos'è e definizione formale.
-  - spiegazione di a*, perchè è ottimale?
-  - Cos'è l'ammissibilità?  
-  - Depth first search
-
-- Anonimo 4:
-  - Equilibrio di nash
-    - che possiamo dire per l'esistenza di questi equilibri?
-  - Cos'è il nucleolo?
-  - Differenza tra core e nucleolo
-  - Dato un programma logico trovami gli answer set
-
-- Anonimo 5:
-  - Che cos'è un answer set
-  - dato un programma logico, trovare il suo answer set
-  - riduzione programma logico
-  - Cos'è il contributo marginale e il Contributo singolo?
-  - Cos'è un dummy player e lo shapley value?
-    - Esiste sempre lo shapley value?
-  - Csp aciclici  
-
-- Anonimo 6:
-  - Csp con struttura associata.  
-
-- Anonimo 7:
-  - Differenza tra tree search e graph search
-  - perché su graph search non è ottimale
-  - contributo marginale
-  - coalizioni
-  - nucleolo
-  - core  
-
-- Anonimo 8:
-  - Che tipo di algoritmi abbiamo fatto per i problemi di soddisfacimento dei vincoli,
-  - Core
-    - se le due strutture sono acicliche che succede?
-    - Qual è il beneficio se la struttura è aciclica? (Alla fine della procedura possiamo sapere qualcosa)
-  - Cos'è un answer set?
-
-- Anonimo 9:
-  - Giochi strategici
-  - definizione di equilibrio di nash
-  - cosa possiamo dire dell'esistenza invece nelle strategie miste?
-  - Csp tree decomposition
-
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
@@ -1316,6 +1144,96 @@ rc(X):- u(X), not(r(X)).
     - come calcolarla
       - che succede se togliamo TH da IN(pigreco)
     - nucleolo
+
+## Intelligenza Artificiale (9 CFU)
+
+### Scarcello Francesco
+
+**<u>2023 2024</u>**
+
+- Anonimi
+  - Semantica di ASP con esempio
+  - A*
+  - Dimostrazione ottimalità A*
+  - cos'è la soluzione ottima
+    - calcolo frontiera
+  - Equilibrio di Nash normale e misti
+  - core e nucleoli nella teoria dei giochi
+  - CSP
+
+- Anonimo 1
+  - Giochi di coalizione
+  - Cos'è un contributo marginale
+  - dummy player, definizione formale
+  - Che tipo di algoritmi utilizziamo per i giochi con avversari?
+  - minimax con pruning
+    - euristica di minimax con upper bound o lower bound  
+    - Questi giochi con avversari sono giochi a somma zero o arbitrari?
+    - col pruning abbiamo l'ottimalità (considerando upper bound,lower bound)?
+  - Cos'è un modello?
+    - programma logico dato come esempio, trovare i modelli e gli answer set
+    - Se dalla terza regola deduci C cosa succede?
+
+- Anonimo 2
+  - answer set da un programma logico
+  - un modello quando si dice answer set
+  - Dimostrare che A* è corretto e completo
+    - tree search con spiegazione dell'ottimalità
+  - Definizione formale di ammissibilità
+  - aste, second price
+    - truthful
+
+- Anonimo 3:
+  - Constraints satisfaction problem
+  - Come funziona il forward checking?
+  - Problema aciclico?
+    - ipergrafo
+  - problemi binari o con arità maggiore.
+  - Cos'è un grafo?
+  - Equilibrio di nash, cos'è e definizione formale.
+  - spiegazione di a*, perchè è ottimale?
+  - Cos'è l'ammissibilità?  
+  - Depth first search
+
+- Anonimo 4:
+  - Equilibrio di nash
+    - che possiamo dire per l'esistenza di questi equilibri?
+  - Cos'è il nucleolo?
+  - Differenza tra core e nucleolo
+  - Dato un programma logico trovami gli answer set
+
+- Anonimo 5:
+  - Che cos'è un answer set
+  - dato un programma logico, trovare il suo answer set
+  - riduzione programma logico
+  - Cos'è il contributo marginale e il Contributo singolo?
+  - Cos'è un dummy player e lo shapley value?
+    - Esiste sempre lo shapley value?
+  - Csp aciclici  
+
+- Anonimo 6:
+  - Csp con struttura associata.  
+
+- Anonimo 7:
+  - Differenza tra tree search e graph search
+  - perché su graph search non è ottimale
+  - contributo marginale
+  - coalizioni
+  - nucleolo
+  - core  
+
+- Anonimo 8:
+  - Che tipo di algoritmi abbiamo fatto per i problemi di soddisfacimento dei vincoli,
+  - Core
+    - se le due strutture sono acicliche che succede?
+    - Qual è il beneficio se la struttura è aciclica? (Alla fine della procedura possiamo sapere qualcosa)
+  - Cos'è un answer set?
+
+- Anonimo 9:
+  - Giochi strategici
+  - definizione di equilibrio di nash
+  - cosa possiamo dire dell'esistenza invece nelle strategie miste?
+  - Csp tree decomposition
 
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
@@ -1523,6 +1441,25 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - Schemi di fatto a stella e snowflake
   - Proprietà sistemi nosql
   - utilizzo di hbase
+
+## Sistemi Informativi Ambientali
+
+### Davide Luciano De Luca
+
+**<u>2021 2022</u>**
+
+- giovixo97
+  - cosa è un DEM?
+  - differenza file shape vettoriale e file raster
+  - tecniche di geoprocessing
+  - tutti i tipi di interpolatori (esatto,non esatto,locale,globale...)
+  - cosa vuol dire la media o la varianza in un certo punto?
+  - cosa rappresenta Z0? Ponendo Zi come i punti che hanno misura esatta con i>0
+  - cosa è una misura?
+    - lo strumento misura sicuramente bene
+  - cosa è un GCP?
+  - come è fatto un file di tipo geografico?
+    - numero delle righe,colonne,risoluzione,xcornern,ycornern...
 
 ## ISSTRA Ingegneria del software per sistemi real-time ed agenti
 
@@ -1930,6 +1867,69 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - Cosa succede nel metodo di integrazione di newton vuoi aumentare il grado del polinomio, devi ricalcolare tutto? (No)
   - Perchè esiste sempre il polinomio di migliore approssimazione e quali sono le condizioni affinchè si verifichi ciò? (teorema di weirestrass e intervallo con tutti nodi diversi)
 
+## Crittografia e analisi reti sociali
+
+### Molinaro Cristian
+
+**<u>2016 2017</u>**
+
+- Tassone
+  - Cifrario a flusso
+  - OTP
+  - PRG
+  - Shannon
+  - Cifrari a blocchi
+  - Sicurezza semantica
+  - PRP
+  - ECP
+  - CBC
+  - CBC+nonce
+  - CTR
+  - CTR+nonce
+  - MAC (funzionamento sicurezza e challange)
+  - NMac
+  - PMAC
+  - HMAC
+  - ECBC MAC
+  - PAYLOAD
+  - HASH (funzionamento sicurezza e challange)
+  - PAradosso compleanno + attacco hash (collissioni)
+  - Merkle damgard
+  - Autenticazione cifrata (funzionamento sicurezza e challange)
+  - tre tipologie costruzione autenticazione cifrata (e than m, e and m, m then e) più differenze e sicurezza
+  - differenza chiave simmetrica e asimmetrica
+  - principi chiave asimmetrica
+  - RSA
+  - Complessità attacco RSA per scoprire chaive segreta
+  - complessita attacco RSA per un messaggio cifrato (differenza con sopra )
+  - Merkle puzzle
+  - autorità di certificazione e firma digitale (molto in generale più schema)
+- Riccardo
+  - generazione rsa per calcolo chiavi
+    - come si cifra
+    - come si decifra
+  - rabin come si generano le chiavi
+    - collegarsi alla fattorizzazione
+    - output di 4 messaggi
+    - cattiva proprietà del sistema
+  - ElGamal su cosa è basato
+    - come si calcolano le chiavi
+  - tutti i possibili attacchi di chiave che si muovono contro RSA
+    - brute force
+    - euclide
+    - vari problemi
+  - puzzle di merkle
+  - introduzione key managment e scneari utilizzo rsa
+
+**<u>2024 2025</u>**
+
+- Anonimi
+  - Sicurezza Prg (tutte e tre le definizioni)
+  - Puzzle Merkle
+  - Sicurezza puzzle merkle
+  - paradosso compleanno
+  - attacco alle funzioni hash (col paradosso del compleanno)
+  
 ## Algoritmi di Crittografia
 
 ### Cristian Molinaro
