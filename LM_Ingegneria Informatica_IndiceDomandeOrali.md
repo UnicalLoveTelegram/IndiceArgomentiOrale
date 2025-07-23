@@ -64,7 +64,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Calcolo Numerico](#calcolo-numerico)
 	- [Yaroslav Sergeyev](#yaroslav-sergeyev)
 	- [Marat Mukhametzhanov](#marat-mukhametzhanov)
-  	- [Dmitry](#dmitry)
+	- [Dmitry](#dmitry)
 - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
 	- [Cristian Molinaro](#cristian-molinaro)
 
