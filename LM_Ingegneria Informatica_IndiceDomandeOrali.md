@@ -82,7 +82,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Analisi di Social Network e Media
 
-## Andrea Tagarelli
+### Andrea Tagarelli
 
 **<u>2021 2022</u>**
 
@@ -108,7 +108,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Machine e Deep Learning
 
-## Angiulli Fabrizio
+### Angiulli Fabrizio
 
 **<u>2021 2022</u>**
 
@@ -137,7 +137,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Data Mining
 
-## Sergio Greco
+### Sergio Greco
 
 **<u>2021 2022</u>**
 
@@ -170,7 +170,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Ethical Hacking
 
-## Francesco Lupia
+### Francesco Lupia
 
 **<u>2020 2021</u>**
 
@@ -273,7 +273,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Xss
     - La configurazione rete per macchine virtuali e container
 
-## Angelo Furfaro
+### Angelo Furfaro
 
 **<u>2021 2022</u>**
 
@@ -301,7 +301,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Metodi Informatici per l'analisi dei Processi
 
-## Antonella Guzzo
+### Antonella Guzzo
 
 **<u>2020/2021</u>**
 
@@ -328,7 +328,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Metodi e Strumenti per la Sicurezza Informatica
 
-## Michele Ianni
+### Michele Ianni
 
 **<u>2020 2021</u>**
 
@@ -399,7 +399,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Business Intelligence
 
-## Filippo Furfaro
+### Filippo Furfaro
 
 **<u>2020 2021</u>**
 
@@ -424,7 +424,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Strategie e Politiche Aziendali
 
-## Patrizia Pastore
+### Patrizia Pastore
 
 **<u>2020 2021</u>**
 
@@ -440,7 +440,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Modelli e Tecniche per i Big Data
 
-## Paolo Trunfio
+### Paolo Trunfio
 
 **<u>2020 2021</u>**
 
@@ -509,7 +509,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Architetture e programmazione dei sistemi di elaborazione
 
-## Fabrizio Angiulli
+### Fabrizio Angiulli
 
 **<u>2016 2017</u>**
 
@@ -645,7 +645,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ## Crittografia e analisi reti sociali
 
-## Molinaro Cristian
+### Molinaro Cristian
 
 **<u>2016 2017</u>**
 
@@ -708,7 +708,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   
 ## Linguaggi Formali
 
-## Domenico Saccà
+### Domenico Saccà
 
 **<u>2016 2017</u>**
 
@@ -760,7 +760,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - unificatore generale
   - Palindroma in Calculist
 
-## Rullo
+### Rullo
 
 **<u>2016 2017</u>**
 
@@ -1078,7 +1078,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Intelligenza Artificiale (9 CFU)
 
-## Scarcello Francesco
+### Scarcello Francesco
 
 **<u>2023 2024</u>**
 
@@ -1168,7 +1168,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Ottimizzazione
 
-## Maria Flavia Monaco
+### Maria Flavia Monaco
 
 **<u>2016 2017</u>**
 
@@ -1234,7 +1234,7 @@ rc(X):- u(X), not(r(X)).
   - Algoritmo di Waltz
   - Hill Climbing
 
-## Giovanni Giallombardo
+### Giovanni Giallombardo
 
 **<u>2022 2023</u>**
 
@@ -1274,7 +1274,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Valutazione delle prestazioni
 
-## Pasquale Legato
+### Pasquale Legato
 
 **<u>2016 2017</u>**
 
@@ -1285,7 +1285,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Intelligenza Artificiale (6 CFU)
 
-## Palopoli Luigi
+### Palopoli Luigi
 
 **<u>2017 2018</u>**
 
@@ -1319,7 +1319,7 @@ rc(X):- u(X), not(r(X)).
 
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
-## Palopoli Luigi
+### Palopoli Luigi
 
 **<u>2019 2020</u>**
 
@@ -1443,7 +1443,7 @@ rc(X):- u(X), not(r(X)).
       - Abduzione
       - IDA*
 
-## Sergio Greco
+### Sergio Greco
 
 **<u>2023 2024</u>**
 
@@ -1477,7 +1477,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## Rappresentazione della Conoscenza (6 CFU)
 
-## Sergio Greco
+### Sergio Greco
 
 **<u>2024 2025</u>**
 
@@ -1489,7 +1489,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## Sistemi Informativi
 
-## Cassavia
+### Cassavia
 
 **<u>2017 2018</u>**
 
@@ -1526,7 +1526,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## ISSTRA Ingegneria del software per sistemi real-time ed agenti
 
-## Libero Nigro
+### Libero Nigro
 
 **<u>2018 2019</u>**
 
@@ -1545,7 +1545,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )
 
-## Talia Domenico
+### Talia Domenico
 
 **<u>2018 2019</u>**
 
@@ -1654,7 +1654,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - kerberos
   - consistenza causale
 
-## Loris Belcastro
+### Loris Belcastro
 
 **<u>2018 2019</u>**
 
@@ -1742,7 +1742,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## Basi di Dati evolute
 
-## Molinaro Cristian
+### Molinaro Cristian
 
 **<u>2019 2020</u>**
 
@@ -1763,7 +1763,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
 
 ## Calcolo Numerico
 
-## Yaroslav Sergeyev
+### Yaroslav Sergeyev
 
 **<u>2019 2020</u>**
 
@@ -1859,7 +1859,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - clark nicolson
   - calcolo delle matrici LU (con studio dell'errore)
 
-## Marat Mukhametzhanov
+### Marat Mukhametzhanov
 
 **<u>2019 2020</u>**
 
@@ -1883,7 +1883,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
     - jacobi
   - Spline lineari e quadratiche
 
-## Dmitry
+### Dmitry
 
 **<u>2024 2025</u>**
 
