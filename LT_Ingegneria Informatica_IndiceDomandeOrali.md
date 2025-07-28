@@ -3053,6 +3053,13 @@ malloc(sizeof(int)*(i+1));
 	- tecniche di accesso multiplo
 	- fast recovery e retrasmit
 
+ - Anonimo
+ 	- Protocolli arq con dimostrazione di utilizzazione e efficienza
+  		- con e senza errori
+	- funzionalità ipv4 e formato del pacchetto (ihl, tos, total length,...)
+ 	- Slow start, congestion avoidance, con le formule
+  		- spiegare perché nello slow start esce la formula con la serie geometrica 
+
 ## Tropea, Santamaria o Raimondo
 
 **<u>2018 2019</u>**
