@@ -2243,6 +2243,13 @@ malloc(sizeof(int)*(i+1));
 	- Algoritmo del simplesso su rete applicato al flusso di costo minimo (secondo esercizio albero ricoprente) 
 	- Teorema della caratterizzazione della basi
 
+**<u>2024 2025</u>**
+
+- Anonimo
+	- Teorema di pl
+	- Prima fase del simplesso con caratteristiche del problema artificiale
+	- Problema di flusso di costo minimo formulazione e perché rango<m-1
+ 
 # Reti Logiche e Calcolatori
 
 ## Fabio Fassetti 
