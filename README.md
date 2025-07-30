@@ -16,7 +16,7 @@ Se vuoi partecipare, <u>invia le domande al founder del gruppo su Telegram</u> o
 Ricorda che comunque ogni aiuto è gradito dalla community e da chi dopo di te studierà quegli argomenti. Ti ringraziamo per la partecipazione e speriamo di poterti aiutare! 
 Ricorda sempre di indicare il professore o l’esercitatore con il quale hai affrontato l’esame!
 
-## partecipare o sfogliare il file
+## Partecipare o sfogliare il file
 
 L'intera struttura è basata su più file, uno a corso di laurea:
 
@@ -42,7 +42,7 @@ Ogni file è scritto con sintassi **Markdown**
 
 Riferirsi alle [linee guida di di contribuzione nel file CONTRIBUTING.md](./CONTRIBUTING.md)
 
-### leggere nel file
+### Leggere nel file
 
 Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio code + AIOM ) ad inizio del file.  
 
