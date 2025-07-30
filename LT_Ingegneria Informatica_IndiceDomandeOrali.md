@@ -248,6 +248,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- Perche si usa
 	- Criterio con il quale si campiona
 
+**<u>2024 2025</u>**
+
+-Anonimo 1
+	- Tipi di Validation
+	- KNN
+	- Varianti del KNN
+
 # Laboratorio di Sistemi Informativi
 
 ## Francesco Parisi
@@ -290,6 +297,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 		- quali sono i requisiti per poterlo usare nel 2o livello? 
 		- perché nel 3o livello si puó fare invece a prescindere?
 		- La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
+
+**<u>2024/2025</u>**
+
+- Anonimo 1
+  - Esercizio ricorsivo: calcolare I percorsi di un grafo sorgente a destinazione
+  - Trigger: trigger fatti durante le lezioni
 
 # Algoritmi e strutture dati 
 
