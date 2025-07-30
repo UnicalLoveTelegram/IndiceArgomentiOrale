@@ -1274,6 +1274,10 @@ rc(X):- u(X), not(r(X)).
   - Dimostrazione che se il core non è vuoto allora il nucleolo si trova nel core 
   - Nucleolo
 
+- Anonimo 7
+  - Nucleolo e metodo di PL che lo fa calcolare
+  - Teorema Di Grohe
+
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
