@@ -1235,6 +1235,24 @@ rc(X):- u(X), not(r(X)).
   - cosa possiamo dire dell'esistenza invece nelle strategie miste?
   - Csp tree decomposition
 
+**<u>2024 2025</u>**
+
+- Anonimo 1
+  - Teorema di grohe
+  - Dimostrazione dell'ottimalità di A* nella tree search
+  - Cosa rappresenta la tree width minima
+  - Contributo marginale
+  - Contributo singolo
+  - Cos è lo shapley Value
+  - Cos è il nucleolo
+  - Cos è il core
+
+- Anonimo 2
+  - Teorema di grohe
+  - Minmax con alpha betha pruning
+  - Cos è il nucleolo 
+  - Dimosrrazione dell'ottimalitá di A* graph search
+
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
