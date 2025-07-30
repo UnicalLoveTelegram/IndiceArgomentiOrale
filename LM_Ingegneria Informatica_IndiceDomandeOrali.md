@@ -1253,6 +1253,15 @@ rc(X):- u(X), not(r(X)).
   - Cos è il nucleolo 
   - Dimosrrazione dell'ottimalitá di A* graph search
 
+- Anonimo 3
+  - Algoritmo yannakaki
+  - Complessita dell'algoritmo di yannakaki
+
+- Anonimo 4
+  - Dimostrazione che se è ammissibile euristica allora a star è ottimale
+  - Dimostrazione che euristica consistente implica ammissibile
+  - Nucleolo
+
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
