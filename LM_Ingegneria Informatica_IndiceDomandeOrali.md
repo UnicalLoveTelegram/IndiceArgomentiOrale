@@ -1262,6 +1262,13 @@ rc(X):- u(X), not(r(X)).
   - Dimostrazione che euristica consistente implica ammissibile
   - Nucleolo
 
+- Anonimo 5
+  - Dimostrazioni A* ottimo sia per tree che per graph search
+  - teorema di Grohe
+  - definizione di nucleolo
+  - algoritmo per calcolarlo
+  - il nucleolo è nel core se non è vuoto e motivazione
+
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
