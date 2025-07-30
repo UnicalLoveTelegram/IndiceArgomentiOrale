@@ -1269,6 +1269,11 @@ rc(X):- u(X), not(r(X)).
   - algoritmo per calcolarlo
   - il nucleolo è nel core se non è vuoto e motivazione
 
+- Anomimo 6
+  - Dimostrazione che euristica consistente implica ammissibile
+  - Dimostrazione che se il core non è vuoto allora il nucleolo si trova nel core 
+  - Nucleolo
+
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
