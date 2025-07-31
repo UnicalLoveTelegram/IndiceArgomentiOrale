@@ -68,7 +68,7 @@ Cliccare su **Generazione di un PDF** e inserire le informazioni richieste.
 
 **Ricordarsi di adeguare anche il titolo della ISSUE**.
 
-## Come contribuire tramite Pull up request
+## Come contribuire tramite Pull request
 
 1. **Fork del repository**: Crea un fork del repository cliccando sul pulsante "Fork" in alto a destra.
 2. **Clona il repository**: Clona il tuo fork sul tuo computer locale.
