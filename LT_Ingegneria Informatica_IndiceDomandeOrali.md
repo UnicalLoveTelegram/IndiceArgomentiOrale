@@ -641,8 +641,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2023 2024</u>**
 
 - Anonimi
-	-  la definizione di banda passante
-	-  il grafico qualitativo della risposta a gradino di un sistema con 3 poli e uno zero a fase non minima
+	- la definizione di banda passante
+	- il grafico qualitativo della risposta a gradino di un sistema con 3 poli e uno zero a fase non minima
+
+**<u>2024 2025</u>**
+
+- Anonimo
+    - (Domanda teorica) Precisione statica: asservimento di posizione
+    - (Esercizio) Risposta qualitativa al gradino di un sistema di ordine 3 con zero dominante
+    - Cosa comporta l'aggiunta di effetti integrali a un sistema?
 
 
 # Sistemi Operativi
