@@ -903,6 +903,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- le varie generazioni dei sistemi operativi (primo ppt)
 	- anomalia di belady cos'è
 
+**<u>2024 2025</u>**
+
+- Anonimo
+     - Standard POSIX
+     - Test&Set
+     - Legge di Amdahl
+     - Inventare grafo con deadlock che si risolve
+     - Tabella delle pagine implementata con gli hash (+ disegno dello schema)
+     - Confronto segmentazione / paginazione
+     - Schema della memoria virtuale in IA-32
+     - Algoritmo della seconda chance (versione con 2 bit)
+
 ## Orsino
 
 **<u>2022 2023</u>**
