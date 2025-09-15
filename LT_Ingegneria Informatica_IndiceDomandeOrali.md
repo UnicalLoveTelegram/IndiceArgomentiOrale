@@ -60,6 +60,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 	- [Sacco Ludovica](#sacco-ludovica)
 	- [Angelo Furfaro](#angelo-furfaro-1)
 	- [Angelo Furfaro](#angelo-furfaro-2)
+ 	- [matteo](#matteo)
 - [Reti di Calcolatori](#reti-di-calcolatori)
 	- [Paolo Trunfio](#paolo-trunfio)
 	- [Fabrizio Marozzo](#fabrizio-marozzo)
@@ -1795,6 +1796,31 @@ malloc(sizeof(int)*(i+1));
 		- Design pattern utilizzati
 		- Spiegazione delle scelte progettuali intraprese
 
+## Matteo
+
+**<u>2024 2025</u>**
+
+- Anonimo 1
+	- executor framework
+	- comandi git
+	- Pattern command
+	- Design by contract 
+	- Sequence diagram
+	- spiegazione codice + Pattern utilizzati nel progetto
+
+- Anonimo 2
+	- Design by contract
+ 	- Adapter (tutti e 2 i diagrammi)
+  	- Builder + sequence
+  	- Executor framework
+
+Giovanni Giordano, [15/09/2025 14:03]
+sai per caso il nome dell'assistente?
+
+TheSpAc3, [15/09/2025 14:03]
+anche:
+-criteri del whitebox
+-Pattern flyweight
 
 # Reti di Calcolatori
 
