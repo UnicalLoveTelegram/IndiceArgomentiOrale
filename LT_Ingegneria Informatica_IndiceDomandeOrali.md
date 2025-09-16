@@ -1813,14 +1813,8 @@ malloc(sizeof(int)*(i+1));
  	- Adapter (tutti e 2 i diagrammi)
   	- Builder + sequence
   	- Executor framework
-
-Giovanni Giordano, [15/09/2025 14:03]
-sai per caso il nome dell'assistente?
-
-TheSpAc3, [15/09/2025 14:03]
-anche:
--criteri del whitebox
--Pattern flyweight
+  	- criteri del whitebox
+  	- Pattern flyweight
 
 # Reti di Calcolatori
 
@@ -1858,7 +1852,7 @@ anche:
 	- Nat 
 	- Chord 
 	- email sicure 
-- Alfredo 
+- Alredo 
 	- Chiave simmetrica e asimmetrica
 	- Protocollo ap4.0 
 		- se il nonce rimane invariato che succede ?
