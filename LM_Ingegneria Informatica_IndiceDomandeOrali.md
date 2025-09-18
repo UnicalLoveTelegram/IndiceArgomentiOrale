@@ -1004,6 +1004,16 @@ rc(X):- u(X), not(r(X)).
   - A quale classe della gerarchia polinomiale equivale IP?
   - Dimmi un problema delta P2 completo
 
+- Anonimo 5
+  - Teorema di rice e dimostrazione
+  - Teorema del punto fisso
+  - Teorema della ricorsione e dimostrazione
+  - Classe delta p 2
+  - Classe epsilon p 2
+  - Classe NC
+  - Classe IC
+  - Problema dell' Isomorfismo tra grafi e sua classe
+
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
