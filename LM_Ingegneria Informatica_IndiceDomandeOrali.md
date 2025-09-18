@@ -994,6 +994,16 @@ rc(X):- u(X), not(r(X)).
 - Anonimo 3
   - dimostrazione punto fisso
 
+- Anonimo 4
+  - Quanti sono i programmi di una funzione ricorsiva parziale data
+  - Funzione successore in quanti modi si può definire
+  - Differenza tra funzioni e programmi
+  - Il mapping tra programma e funzione è di 1 (ecco quante funzioni sa calcolare un programma)
+  - Il numero di programmi che calcola una funzione sono aleph 0 (tanti quanti i numeri naturali) perché si possono aggiungere aggiungere istruzioni farlocche ma la funzione che esegue il programma non cambia.
+  - La proprietà è un predicato che individua un insieme di f ricorsive parziali.
+  - A quale classe della gerarchia polinomiale equivale IP?
+  - Dimmi un problema delta P2 completo
+
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
