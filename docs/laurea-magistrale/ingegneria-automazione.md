@@ -7,13 +7,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Indice delle domande degli esami orali: Ingegneria dell' Automazione](#indice-delle-domande-degli-esami-orali-ingegneria-dell-automazione)
 - [Teoria dei sistemi](#teoria-dei-sistemi)
   - [Casavola](#casavola)
-- [Laboratorio di Automatica](#laboratorio-di-automatica)
-  - [Tedesco Francesco](#tedesco-francesco)
-    - [2024/2025](#20242025)
 
-# Teoria dei sistemi
+## Teoria dei sistemi
 
-## Casavola
+### Casavola
 
 **<u>2018 2019</u>**
 
