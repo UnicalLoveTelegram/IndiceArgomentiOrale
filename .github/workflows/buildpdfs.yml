@@ -11,19 +11,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Convert Markdown to PDF
+
+      - name: Convert Markdown to PDF (Triennale)
         uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
-          input_dir: ./
-          output_dir: ./pdfs
+          input_dir: ./docs/laurea-triennale
+          output_dir: ./pdfs/laurea-triennale
           build_html: false
           table_of_contents: false
-          
+
+      - name: Convert Markdown to PDF (Magistrale)
+        uses: baileyjm02/markdown-to-pdf@v1.2.0
+        with:
+          input_dir: ./docs/laurea-magistrale
+          output_dir: ./pdfs/laurea-magistrale
+          build_html: false
+          table_of_contents: false
+
       - name: Commit and push PDFs
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          mv pdfs* ./pdfs/ || true
+          mv pdfs/laurea-triennale/* ./pdfs/laurea-triennale || true
+          mv pdfs/laurea-magistrale/* ./pdfs/laurea-magistrale || true
           git add *
           git commit -m 'Add generated PDFs'
           git push
