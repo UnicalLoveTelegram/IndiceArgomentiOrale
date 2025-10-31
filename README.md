@@ -2,7 +2,9 @@
 
 `Ver: 2.0` &rarr; leggi [Changelog Versione 2 per sapere cosa è cambiato](CHANGELOG_VERSIONE2.md)
 
-Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram:heart:Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
+[Sito Web](https://unicallovetelegram.github.io/IndiceArgomentiOrale/)
+
+Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram ❤️ Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
 
 Ringrazio innanzitutto Albus per aver proposto questo tipo di
 approccio, molto apprezzato e interessante.
@@ -48,3 +50,4 @@ Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio
 
 Il vostro lettore pdf comunque, dovrebbe indicizzarne i capitoli  
 Potete comunque effettuare banali ricerche con il vostro reader.
+
