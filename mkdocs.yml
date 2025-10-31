@@ -1,0 +1,31 @@
+site_name: Unical<3Telegram
+site_description: Raccolta collaborativa delle domande per gli esami orali dei corsi di Ingegneria all'Università della Calabria.
+site_url: https://unicallovetelegram.github.io/IndiceArgomentiOrale/
+repo_url: https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale
+repo_name: UnicalLoveTelegram/IndiceArgomentiOrale
+theme:
+  name: material
+  language: it
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+nav:
+  - Home: index.md
+  - Laurea Triennale:
+      - Ingegneria Informatica: laurea-triennale/ingegneria-informatica.md
+      - Ingegneria Elettronica: laurea-triennale/ingegneria-elettronica.md
+      - Ingegneria Alimentare: laurea-triennale/ingegneria-alimentare.md
+  - Laurea Magistrale:
+      - Ingegneria Informatica: laurea-magistrale/ingegneria-informatica.md
+      - Ingegneria Elettronica: laurea-magistrale/ingegneria-elettronica.md
+      - Ingegneria delle Telecomunicazioni: laurea-magistrale/ingegneria-telecomunicazioni.md
+      - Ingegneria dell'Automazione: laurea-magistrale/ingegneria-automazione.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - md_in_html

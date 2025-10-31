@@ -28,10 +28,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - [Elettrotecnica](#elettrotecnica)
   - [Ricci Marco](#ricci-marco)
 
+## Campi Elettromagnetici
 
-
-# Campi Elettromagnetici
-## Amendola Gian Domenico
+### Amendola Gian Domenico
 
 **<u>2022 2023</u>**
 
@@ -41,8 +40,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - potenza onda obliqua
   - densità di potenza
 
-# Automatica
-## Fedele Giuseppe
+## Automatica
+
+### Fedele Giuseppe
 
 **<u>2023 2024</u>**
 
@@ -51,8 +51,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - definizione di poli/zeri
   - asintoticità sistemi
 
-# Fisica 2
-## Sindona Antonio
+## Fisica 2
+
+### Sindona Antonio
 
 **<u>2022 2023</u>**
 
@@ -61,8 +62,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - polarizzazione lineare e circolare
   - teorema di poynting
 
-# Analisi 2
-## Scuro Carmelo
+## Analisi 2
+
+### Scuro Carmelo
 
 **<u>2022 2023</u>**
 
@@ -71,8 +73,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - massimi e minimi di una funzione a 2 variabili
   - teorema Schwartz
 
-# Elettronica 1
-## Crupi Felice
+## Elettronica 1
+
+### Crupi Felice
 
 **<u>2022 2023</u>**
 
@@ -82,8 +85,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - dispositivo bjt
   - diodo led
 
-# Laboratorio di microcontrollori
-## Tedesco Francesco
+## Laboratorio di microcontrollori
+
+### Tedesco Francesco
 
 **<u>2023 2024</u>**
 
@@ -91,8 +95,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - teorema di Nyquist
   - digitalizzazione controllore
 
-# Analisi 1
-## Tavernise Marianna
+## Analisi 1
+
+### Tavernise Marianna
 
 **<u>2022 2023</u>**
 
@@ -104,15 +109,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - teorema fondamentale del calcolo integrale
   - teorema dell'unicità del limite
 
-# Analisi 2
-## Scuro Carmelo
+## Fisica 1
 
-**<u>2022 2023</u>**
-
-- Anonimi
-
-# Fisica 1
-## Mastroberardino Anna
+### Mastroberardino Anna
 
 **<u>2022 2023</u>**
 
@@ -120,8 +119,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - coordinate polari nel piano
   - teorema energia cinetica
 
-# Fondamenti di Informatica 1
-## Savaglio Claudio
+## Fondamenti di Informatica 1
+
+### Savaglio Claudio
 
 **<u>2021 2022</u>**
 
@@ -130,8 +130,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - puntatore
   - kernel
 
-# Elettrotecnica
-## Ricci Marco
+## Elettrotecnica
+
+### Ricci Marco
 
 **<u>2021 2022</u>**
 
