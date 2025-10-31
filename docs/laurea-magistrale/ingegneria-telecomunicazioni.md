@@ -5,8 +5,8 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria delle Telecomunicazioni LM](#indice-delle-domande-degli-esami-orali-ingegneria-delle-telecomunicazioni-lm)
-- [Programmazione Dispositivi Mobili](#programmazione-dispositivi-mobili)
-  - [Francesco Pupo](#francesco-pupo)
+  - [Programmazione Dispositivi Mobili](#programmazione-dispositivi-mobili)
+    - [Francesco Pupo](#francesco-pupo)
 
 ## Programmazione Dispositivi Mobili
 

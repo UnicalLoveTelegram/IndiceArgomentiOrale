@@ -26,7 +26,7 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
    ```bash
    git checkout -b nome-del-branch
    ```
-4. **Prepara l’ambiente** e avvia l’anteprima locale:
+4. \[Opzionale\] **Prepara l’ambiente** e avvia l’anteprima locale:
    ```bash
    make install
    make serve  # il sito sarà disponibile su http://127.0.0.1:8000
@@ -73,12 +73,11 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 
 Grazie ancora per il tuo contributo: mantenere aggiornato questo indice aiuta l’intera community! Se hai domande o vuoi suggerire miglioramenti alle linee guida, apri pure una issue dedicata. 
 
-Il tema utilizzato da noi su Typora lo trovate qui: [purple theme](https://github.com/UnicalLoveTelegram/typora-purple-theme/blob/master/purple.css)
-
 
 ### Indice
 
-Ricordarsi di tenere l'indice dei contenuti sempre aggiornato tramite l'estensione di visual studio code.
+L'indice viene automaticamente creato da MkDocs
+
 
 #### Alcuni consigli di buona scrittura
 

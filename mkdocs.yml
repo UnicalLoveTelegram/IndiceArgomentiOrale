@@ -1,3 +1,4 @@
+
 site_name: Unical<3Telegram
 site_description: Raccolta collaborativa delle domande per gli esami orali dei corsi di Ingegneria all'Università della Calabria.
 site_url: https://unicallovetelegram.github.io/IndiceArgomentiOrale/
@@ -11,6 +12,10 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: red
 nav:
   - Home: index.md
   - Laurea Triennale:

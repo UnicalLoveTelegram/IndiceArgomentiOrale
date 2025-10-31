@@ -37,7 +37,7 @@ $(VENV_DIR)/.installed: requirements.txt | venv
 	@touch $@
 
 serve: install
-	$(MKDOCS) serve
+	$(MKDOCS) serve --livereload --watch docs --dirtyreload
 
 build: install
 	$(MKDOCS) build --site-dir $(SITE_DIR)
