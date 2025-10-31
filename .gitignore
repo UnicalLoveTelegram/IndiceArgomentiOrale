@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# MkDocs build output
+site/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+.pytest_cache/
+
+# Logs
+*.log
+
+# macOS metadata
+.DS_Store

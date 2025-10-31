@@ -5,15 +5,12 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
 - [Indice delle domande degli esami orali: Ingegneria dell' Automazione](#indice-delle-domande-degli-esami-orali-ingegneria-dell-automazione)
-- [Teoria dei sistemi](#teoria-dei-sistemi)
-  - [Casavola](#casavola)
-- [Laboratorio di Automatica](#laboratorio-di-automatica)
-  - [Tedesco Francesco](#tedesco-francesco)
-    - [2024/2025](#20242025)
+  - [Teoria dei sistemi](#teoria-dei-sistemi)
+    - [Casavola](#casavola)
 
-# Teoria dei sistemi
+## Teoria dei sistemi
 
-## Casavola
+### Casavola
 
 **<u>2018 2019</u>**
 

@@ -1,170 +1,83 @@
 # Linee guida per i contributi
 
-Grazie per il tuo interesse a contribuire a questo progetto! Segui queste linee guida per contribuire in modo efficace.
+Grazie per il tuo interesse a contribuire! Questo repository ora pubblica un sito statico in Markdown con [MkDocs](https://www.mkdocs.org/) e viene distribuito automaticamente su GitHub Pages. Le sezioni seguenti spiegano come proporre idee, modifiche e come verificare il sito in locale.
 
-## Come contribuire tramite issue
+## Modalità di contributo
 
-La sezione issue offre più metodi di contribuzione:
+### Aprire una issue
 
-- Aggiunta di una testimonianza: da utilizzare per aggiungere nuove domande per materia
-- Correzione di una testimonianza: da utilizzare per correggere le domande esistenti
-- Generazione dei pdf: se noti pdf non aggiornati, puoi segnalarlo qui
+Se vuoi proporre nuove testimonianze, correggere contenuti esistenti o segnalare PDF da aggiornare, apri una nuova issue dalla pagina [Issues](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/issues) e scegli il template più adatto:
 
-Per accedere a tutti i tipi di contributi, **apri una nuova issue**: Vai alla pagina delle [issue](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/issues) del repository e clicca su "New Issue".
+- **Aggiunta di una testimonianza** per condividere nuove domande.
+- **Correzione di una testimonianza** per aggiornare domande già presenti.
+- **Generazione di un PDF** per chiedere la rigenerazione degli export.
 
-Si aprirà il pop-up con le varie scelte.
+Ricorda che le issue **non** modificano direttamente i file: servono come promemoria e discussione per poi procedere con la modifica effettiva (PR).
 
-> NOTA BENE:
->
-> Le issue non aggiungono/modificano nulla in maniera diretta sui vari file, ma segnalano ai vari autori del repository le modifiche da fare, questo rende fisiologico un attesa maggiore rispetto alle PR per la modifica poi effettiva.
+### Inviare una pull request
 
-### Aggiunta
+1. **Fork** del repository.
+2. **Clona** il fork sul tuo computer:
+   ```bash
+   git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
+   cd IndiceArgomentiOrale
+   ```
+3. **Crea un branch** dedicato:
+   ```bash
+   git checkout -b nome-del-branch
+   ```
+4. \[Opzionale\] **Prepara l’ambiente** e avvia l’anteprima locale:
+   ```bash
+   make install
+   make serve  # il sito sarà disponibile su http://127.0.0.1:8000
+   ```
+5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
+   - `docs/laurea-triennale/` per i corsi LT
+   - `docs/laurea-magistrale/` per i corsi LM
+6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
+   ```bash
+   make build
+   ```
+7. **Commit e push** delle modifiche:
+   ```bash
+   git commit -am "Breve descrizione del contributo"
+   git push origin nome-del-branch
+   ```
+8. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
 
-Cliccare su **Aggiunta una testimonianza** quindi seguire il template che si presenterà dinnanzi. Il template avrà queste sembianze:
+## Stile e formattazione delle testimonianze
 
-```markdown
-# nome corso di laurea - es: ingegneria informatica LT
+- I file sono scritti in **Markdown** standard con qualche tocco HTML (ad esempio `<u>` per il testo sottolineato). Mantieni lo stesso stile esistente.
+- Ogni testimonianza segue la gerarchia:
+  1. Titolo H1 per il corso
+  2. Titolo H2 per il docente
+  3. Anno in grassetto e sottolineato (`**<u>2024/2025</u>**`)
+  4. Elenco puntato con le domande
+- Mantieni l’ordine alfabetico/cronologico già presente.
+- Usa spazi anziché tab per indentare gli elenchi annidati.
+- Se aggiungi termini in inglese, non tradurre i titoli degli insegnamenti già consolidati.
 
-## materia - es: ingegneria del software
+## Struttura del repository
 
-### Professore con cui si è svolto l'esame - es: Furfaro Angelo 
+- `docs/` contiene tutte le pagine pubblicate. Qualsiasi nuovo corso deve essere aggiunto qui e referenziato nel `mkdocs.yml`.
+- `mkdocs.yml` definisce menu, tema e opzioni del sito. Aggiornalo se aggiungi nuove pagine.
+- `Makefile` fornisce i comandi principali (`make install`, `make serve`, `make build`, `make clean`).
+- `requirements.txt` elenca le dipendenze Python necessarie per MkDocs.
+- `pdf/`, `pdfs/` e `Vecchio Indice/` conservano gli esporti in PDF e i materiali storici.
 
-#### anno di riferimento ( quello di settembre ) - es: 2018/2019
+## Norme di condotta
 
-- NOME ESAMINANDO oppure Anonimi 
-    - domanda 1
-        - domanda correlata a domanda 1
-        - risposta ( se la si vuole inserire)
-    - domanda 2
-    - domanda 3
-etc...
+- Rispetta gli altri collaboratori e mantieni un linguaggio appropriato.
+- Evita di inserire dati personali o sensibili nelle testimonianze.
+- Discuti nelle issue se hai dubbi sul formato o sul posizionamento dei contenuti.
 
-```
-
-**Ricordarsi di adeguare anche il titolo della ISSUE**.
-
-### Modifica
-
-Cliccare su **Correzione di una Testimonianza** quindi seguire il template che si presenterà dinnanzi. Il template avrà queste sembianze:
-
-```markdown
-# nome corso di laurea - es: ingegneria informatica LT
-
-## materia - es: ingegneria del software
-
-### Professore con cui si è svolto l'esame - es: Furfaro Angelo 
-
-#### anno di riferimento ( quello di settembre ) - es: 2018/2019
-
-- NOME ESAMINANDO oppure Anonimi 
-    - domanda o domande da correggere
-```
-
-**Ricordarsi di adeguare anche il titolo della ISSUE**.
-
-### Generazione di un PDF
-
-Cliccare su **Generazione di un PDF** e inserire le informazioni richieste.
-
-**Ricordarsi di adeguare anche il titolo della ISSUE**.
-
-## Come contribuire tramite Pull request
-
-1. **Fork del repository**: Crea un fork del repository cliccando sul pulsante "Fork" in alto a destra.
-2. **Clona il repository**: Clona il tuo fork sul tuo computer locale.
-    ```bash
-    git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
-    ```
-3. **Crea un branch**: Crea un nuovo branch per il tuo contributo.
-    ```bash
-    git checkout -b nome-del-branch
-    ```
-4. **Apporta le modifiche**: Apporta le modifiche necessarie nel tuo branch.
-5. **Commit dei cambiamenti**: Fai il commit delle tue modifiche con un messaggio chiaro e descrittivo.
-    ```bash
-    git commit -m "Descrizione delle modifiche"
-    ```
-6. **Pusha le modifiche**: Pusha il branch con le tue modifiche sul tuo fork.
-    ```bash
-    git push origin nome-del-branch
-    ```
-7. **Crea una Pull Request**: Crea una Pull Request sul repository originale e descrivi le modifiche apportate.
-
-## Codice di condotta
-
-Assicurati di rispettare il codice di condotta del progetto.
-
-## Stile di codifica
-
-- Segui lo stile di codifica già presente nel progetto.
-- Assicurati che il tuo codice sia ben commentato e leggibile.
-
-Dovete tenere conto che il file è scritto in **Markdown** con sintassi <u>mista a HTML</u>
-segue un esempio:
-
-```markdown
-# TITOLO 1
-## TITOLO 2
-### TITOLO 3 
-#### TITOLO 4
-
-**testo in grassetto**
-*testo in corsivo*
-~~testosbarrato~~
-
-- lista
-- con i punti
-	- innescati
-	- basta un tab prima del trattino
-
-1. lista
-2. numerata
-
-<u>testo sottolineato</u>
-
-i tre underscore qui sotto
-___
-creeranno una linea lunga tutto il paragrafo
-
-`codice in linea`
-
-​```
-codice a blocco anonimo
-​```
-
-​```java
-public class Java { 
-	codice a blocco con sintassi di java 
-	( dei buoni renderer  di markdown evidenzieranno la sintassi)
-}
-​```
-
-> questo sarà messo in un box
-> stile citazione
-
-Le lettere accentate possono essere scritte anche come: 
-
-a accentata = &agrave;
-e accentata = &egrave;
-i accentata = &igrave;
-o accentata = &ograve;
-u accentata = &ugrave;
-
-```
-
-Per la stilatura di markdown, consiglio il software [Typora
-](https://typora.io) Oppure l'estesione `AllInOneMarkdown` per [Visual Studio Code](https://code.visualstudio.com/)
-
-Ma esistono comunque altri software validi.  
-
-Quanto riguarda i metodi utilizzati dal nostro team, **scriveremo il software con Visual Studio Code** e _genereremo il pdf con Typora_ per ottenere quello che secondo noi è il risultato più ottimale per leggibilità sia online che su pdf  
-
-Il tema utilizzato da noi su Typora lo trovate qui: [purple theme](https://github.com/UnicalLoveTelegram/typora-purple-theme/blob/master/purple.css)
+Grazie ancora per il tuo contributo: mantenere aggiornato questo indice aiuta l’intera community! Se hai domande o vuoi suggerire miglioramenti alle linee guida, apri pure una issue dedicata. 
 
 
 ### Indice
 
-Ricordarsi di tenere l'indice dei contenuti sempre aggiornato tramite l'estensione di visual studio code.
+L'indice viene automaticamente creato da MkDocs
+
 
 #### Alcuni consigli di buona scrittura
 

@@ -1,6 +1,6 @@
 # Indice Argomenti Orale
 
-`Ver: 1.0`
+`Ver: 2.0` &rarr; leggi [Changelog Versione 2 per sapere cosa è cambiato](CHANGELOG_VERSIONE2.md)
 
 Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram:heart:Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
 
@@ -20,21 +20,21 @@ Ricorda sempre di indicare il professore o l’esercitatore con il quale hai aff
 
 L'intera struttura è basata su più file, uno a corso di laurea:
 
--   [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Informatica_IndiceDomandeOrali.md)
--   [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
--   [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LT_Ingegneria%20Alimentare_IndiceDomandeOrali.md)
--   [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Informatica_IndiceDomandeOrali.md)
--   [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Elettronica_IndiceDomandeOrali.md)
--   [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Telecomunicazioni_IndiceDomandeOrali.md)
--   [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/LM_Ingegneria%20Automazione_IndiceDomandeOrali.md)
+- [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-informatica.md)
+- [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-elettronica.md)
+- [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-alimentare.md)
+- [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-informatica.md)
+- [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-elettronica.md)
+- [LM Ingegneria Telecomunicazioni](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-telecomunicazioni.md)
+- [LM Ingegneria Automazione](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-automazione.md)
 
 I file sono perfettamente visionabili su github stesso, ma verrà comunque generato un pdf e messo nella directory pdf del progetto per ogni modifica
 
 Ogni file poi è strutturato a livelli:
 
--   materia (Titolo H1)
-    -   professore (Titolo H2)
-        -   anno (Nessun titolo, font **bold** e <u>underlined</u>)
+- materia (Titolo H1)
+  - professore (Titolo H2)
+        - anno (Nessun titolo, font **bold** e <u>underlined</u>)
 
 Ogni file è scritto con sintassi **Markdown**
 
