@@ -2,6 +2,54 @@
 
 Grazie per il tuo interesse a contribuire! Questo repository ora pubblica un sito statico in Markdown con [MkDocs](https://www.mkdocs.org/) e viene distribuito automaticamente su GitHub Pages. Le sezioni seguenti spiegano come proporre idee, modifiche e come verificare il sito in locale.
 
+## Lanciare il progetto in locale
+
+Per visualizzare il sito MkDocs in locale e verificare le modifiche prima di aprire una pull request segui questi passaggi. Il repository include un `Makefile` che automatizza la creazione dell'ambiente virtuale e l'esecuzione dei comandi principali.
+
+### Prerequisiti
+
+- **Python 3.10 o superiore** installato e disponibile come `python3`.
+- **make** (su macOS e Linux è già presente; su Windows puoi usare WSL o `make` fornito da Git for Windows).
+- Facoltativo ma consigliato: `pip` aggiornato.
+
+### Setup e server di sviluppo
+
+1. Installa le dipendenze all'interno di una virtualenv locale (creata automaticamente in `.venv/`):
+
+   ```bash
+   make install
+   ```
+
+2. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
+
+   ```bash
+   make serve
+   ```
+
+   Premi `Ctrl+C` per interrompere il server quando hai terminato.
+
+### Verifica della build e manutenzione
+
+- Genera il sito statico completo (utile per scoprire errori di configurazione prima di una PR):
+
+  ```bash
+  make build
+  ```
+
+- Ripulisci gli artefatti generati dalla build:
+
+  ```bash
+  make clean
+  ```
+
+- Elenca tutti i target disponibili del `Makefile`:
+
+  ```bash
+  make help
+  ```
+
+Tutti i comandi creano e usano l'ambiente virtuale locale; non è necessario attivarlo manualmente. Ricorda di eseguire `make install` dopo aver aggiornato `requirements.txt` per sincronizzare le dipendenze.
+
 ## Modalità di contributo
 
 ### Aprire una issue
@@ -18,31 +66,41 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 
 1. **Fork** del repository.
 2. **Clona** il fork sul tuo computer:
+
    ```bash
    git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
    cd IndiceArgomentiOrale
    ```
+
 3. **Crea un branch** dedicato:
+
    ```bash
    git checkout -b nome-del-branch
    ```
+
 4. \[Opzionale\] **Prepara l’ambiente** e avvia l’anteprima locale:
+
    ```bash
    make install
    make serve  # il sito sarà disponibile su http://127.0.0.1:8000
    ```
+
 5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
    - `docs/laurea-triennale/` per i corsi LT
    - `docs/laurea-magistrale/` per i corsi LM
 6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
+
    ```bash
    make build
    ```
+
 7. **Commit e push** delle modifiche:
+
    ```bash
    git commit -am "Breve descrizione del contributo"
    git push origin nome-del-branch
    ```
+
 8. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
 
 ## Stile e formattazione delle testimonianze
