@@ -16,7 +16,7 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_dir: ./docs/laurea-triennale
-          output_dir: ./pdfs/laurea-triennale
+          output_dir: ./pdfs/laurea-triennale/
           build_html: false
           table_of_contents: false
 
@@ -24,7 +24,7 @@ jobs:
         uses: baileyjm02/markdown-to-pdf@v1.2.0
         with:
           input_dir: ./docs/laurea-magistrale
-          output_dir: ./pdfs/laurea-magistrale
+          output_dir: ./pdfs/laurea-magistrale/
           build_html: false
           table_of_contents: false
 
