@@ -836,6 +836,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Pcb
   - Differenza tra paginazione e paginazione con memoria virtuale
 
+**<u>2025 2026</u>**
+
+- Anonimo
+  - formula CPU burst
+  - Starvation e Aging
+  - Allocazione dei processi in Memoria Centrale (allocazione contigua, frammentazione, segmentazione, paginazione)
+
 ### Marozzo
 
 **<u>Anno non classificato</u>**
