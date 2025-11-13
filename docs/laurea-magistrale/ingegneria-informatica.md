@@ -67,6 +67,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Molinaro Cristian](#molinaro-cristian-1)
   - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
     - [Cristian Molinaro](#cristian-molinaro)
+  - [Economia Aziendale](#economia-aziendale)
+    - [Sicoli](#sicoli)
 
 
 ## Software Security
@@ -2061,3 +2063,16 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - come decifrare con 3des ( se E(k1,k2,k3,m)=E(k1,D(k2,E(k3,m))) allora D(k1,k2,k3,m)=D(k3,E(k2,D(k1,c))) )
   - attacco e complessità dell'attacco a 2des
   - dimostra che l'attacco di 2des non si può fare su 3des
+
+## Economia Aziendale
+
+### Sicoli
+
+**<u>2025 2026</u>**
+
+- Theo19
+  - domanda aperta 1: differenza tra gruppo economico e finanziario
+  - domanda aperta 2: differenza tra aziende di produzione ed erogazione
+  - domanda aperta 3: cosa si intende per concezione circolare del finalismo d'impresa
+  - domanda aperta 4: cosa si intende per produzione dal punto di vista economico
+  - domanda aperta 4: organigramma struttura a matrice e descrizione orizzontale, verticale, efficienza e efficacia (c'era anche plurifunzionale e multidivisionale analogamente)
