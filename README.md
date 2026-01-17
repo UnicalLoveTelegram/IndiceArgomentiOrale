@@ -13,14 +13,14 @@ approccio, molto apprezzato e interessante.
 >
 >  Non è una guida su come affrontare le interrogazioni né un elenco di tutte le possibili domande, è solo una raccolta delle nostre esperienze. 
 
-Se vuoi partecipare, <u>invia le domande al founder del gruppo su Telegram</u> o apri **un issue o una request** [sul nostro github](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale). 
+Se vuoi partecipare, <u>invia le domande al founder del gruppo su Telegram</u> o apri **un issue o una pull request** [sul nostro github](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale). 
 
 Ricorda che comunque ogni aiuto è gradito dalla community e da chi dopo di te studierà quegli argomenti. Ti ringraziamo per la partecipazione e speriamo di poterti aiutare! 
 Ricorda sempre di indicare il professore o l’esercitatore con il quale hai affrontato l’esame!
 
 ## Contribuire al progetto
 
-Riferirsi alle [linee guida di di contribuzione nel file CONTRIBUTING.md](./CONTRIBUTING.md)
+Riferirsi alle [linee guida di contribuzione nel file CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Partecipare o sfogliare il file
 
@@ -46,7 +46,8 @@ Ogni file è scritto con sintassi **Markdown**
 
 ## Leggere nel file
 
-Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio code + AIOM ) ad inizio del file.  
+Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio code + AIOM) ad inizio del file.  
 
 Il vostro lettore pdf comunque, dovrebbe indicizzarne i capitoli  
 Potete comunque effettuare banali ricerche con il vostro reader.
+
