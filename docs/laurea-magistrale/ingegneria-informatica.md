@@ -199,7 +199,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - ROP e mitigazioni
   - buffer overflow con diff tra x32 e x64 e possibili mitigazioni
   - challenge: file binario main, un file sorgente lib.c, hijack delle sharedlibrary consigliata da [hacktricks](https://book.hacktricks.xyz/linux-hardening/privilege-escalation/ld.so.conf-example)
-  - Kerberosting.
+  - Kerberoasting.
     - Io ho prima introdotto kerberos, e poi gli ho parlato dell’attacco AS Rep Rosting.
   - Over pass the Hash
     - Io non lo conoscevo e gli ho parlato di pass the hash.
@@ -268,7 +268,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Metasploit: come usare i servizi e gli exploit
   - nc: cosa è e come funziona
   - XXE: cosa è, scenari d'uso, esempi
-  - XXS: cosa è, quali tipi ci sono, esempi
+  - XSS: cosa è, quali tipi ci sono, esempi
   - Laboratorio di attacco
   - Sudo con opzione -l
   - Utente con Alcuni privilegi di root
@@ -373,7 +373,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - CSRF
   - Post scanning (varie domande su tcp scan, syn, ecc)
   - ASLR
-  - Mitigazione Relco e differenze tra Partial Relco e Full Relco
+  - Mitigazione Relro e differenze tra Partial Relro e Full Relro
   - Got, plt, got patching e perché ci sono due tabelle anziché una sola
   - XSS Dom-Based
   - domanda sulla libc (quanti indirizzi ti servono per derandomizzare)
@@ -483,8 +483,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Parlare di APGAS
   - Esempio di calcolo del π con UPC++ visto in aula, descriverne in linea di massima il funzionamento
   - HDFS
-  - Legge di Ahmdal cos'è (con la cosa dell'andamento sovralineare)
-  - Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (ahmdal)
+  - Legge di Amdahl cos'è (con la cosa dell'andamento sovralineare)
+  - Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (amdahl)
 
 - Anonimo
   - Upc ++
@@ -590,8 +590,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - principi dei modelli di calcolatori di oggi
   - UMA e NUMA con disegno della NUMA
   - speculazione hardware come avviene e dove avviene
-  - attacco spectr
-  - c'é speculaizone hardware nella pipeline? No, come vengono gestiti i salti?
+  - attacco spectre
+  - c'è speculazione hardware nella pipeline? No, come vengono gestiti i salti?
 - Anonimi
   - Cache
   - Politiche di sostituzione
@@ -989,10 +989,9 @@ rc(X):- u(X), not(r(X)).
     - Np complete
 
 - Anonimo 2
-  - All'altro ragazzo ha chiesto Rice,
+  - Rice,
   - Dimostrazione che automa è uguale a regex
   - Una caratteristica dei context free
-  - Un'altra domanda ma ora non ricordo
 
 - Anonimo 3
   - dimostrazione punto fisso
@@ -1859,7 +1858,7 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - matrice di permutazione
   - qual è il trucco dea formula di integrazione di cavalieri Simpson?
   - metodi di derivazione,i tipi e qual è il margine di errore, come si migliora, che grado di errore c'è
-  - clark nicolson
+  - clank nicolson
   - calcolo delle matrici LU (con studio dell'errore)
 
 ### Marat Mukhametzhanov
