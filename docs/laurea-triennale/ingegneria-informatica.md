@@ -258,7 +258,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Francesco Parisi
 
-**<u>2020/2021</u>**
+**<u>2020 2021</u>**
 
 - Oscar
   - prima chiede ad uno del team di condividere lo schermo con il progetto, poi chiede di vedere anche magari qualche tabella del database quando l'acquisto va a buon fine.
@@ -298,7 +298,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - perché nel 3o livello si puó fare invece a prescindere?
     - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
 
-**<u>2024/2025</u>**
+**<u>2024 2025</u>**
 
 - Anonimo 1
   - Esercizio ricorsivo: calcolare I percorsi di un grafo sorgente a destinazione
@@ -3200,7 +3200,7 @@ malloc(sizeof(int)*(i+1));
 
 ### Paolo Trunfio
 
-**<u>2024/2025</u>**
+**<u>2024 2025</u>**
 
 - Zio Rob
   - BSP in generale
