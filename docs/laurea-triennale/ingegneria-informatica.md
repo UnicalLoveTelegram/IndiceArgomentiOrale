@@ -2729,21 +2729,21 @@ malloc(sizeof(int)*(i+1));
 **<u>2024 2025</u>**
 
 - Anonimo
-  - 1. cos'è una formula soddisfacibile?
-  - 2. cos'è una tautologia?
-  - 3. modus ponens, tollendo tones
-  - 4. A implica B or C or D implica Z, cos'è?
-  - 5. A implica B che implica C, cos'è?
-  - 6. cos'è una formula ambigua? +esempio
-  - 7. precedenza tra connettivi logici
-  - 8. A f, B v, C f... com'è questa formula sotto l'interpretazione?
-  - 9. A and B or C, com'è questa formula?
-  - 10. cos'è una contraddizione?
-  - 11. A implica B implica Z
-  - 12. A and B or C
-  - 13. (P and not Q) and not P (applicare la distributiva)
-  - 14. cos'è una formula valida?
-  - 15. cos'è un'interpretazione in logica del primo ordine?
+  - cos'è una formula soddisfacibile?
+  - cos'è una tautologia?
+  - modus ponens, tollendo tones
+  - A implica B or C or D implica Z, cos'è?
+  - A implica B che implica C, cos'è?
+  - cos'è una formula ambigua? +esempio
+  - precedenza tra connettivi logici
+  - A f, B v, C f... com'è questa formula sotto l'interpretazione?
+  - A and B or C, com'è questa formula?
+  - cos'è una contraddizione?
+  - A implica B implica Z
+  - A and B or C
+  - (P and not Q) and not P (applicare la distributiva)
+  - cos'è una formula valida?
+  - cos'è un'interpretazione in logica del primo ordine?
 
 ### Astorino Annabella
 
