@@ -149,8 +149,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         -Bisect Kmeans
   - DbScan
   - Clustering gerarchico
-        -Clustering aagglomerativo (algoritmo e spiegazione e complessità)
-        -Clustering divisivo (Algortimo spiegazione e complessità)
+        -Clustering agglomerativo (algoritmo e spiegazione e complessità)
+        -Clustering divisivo (Algoritmo spiegazione e complessità)
   - Reti convoluzionali
   - Gini index
   - Canali nelle reti convoluzionali
@@ -172,7 +172,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Quali sono le funzioni di attivazione più usate e fare il disegno (gradino, softMax, ecc..)
   - Misure di similarità per i cluster
   - come comportarsi se un cluster diventa "vuoto"
-  - tecniche di Ensable
+  - tecniche di Ensemble
 
 ### Domenico Mandaglio
 
@@ -183,7 +183,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - funzione non rappresentabile
       - come fa a capire se appartiene ad una classe
   - Reti neurali + reti neurali multilivello
-  - Discesa del gradiante
+  - Discesa del gradiente
   - SVM + backpropagation
   - Regole associative
   - Algoritmo apriori
@@ -196,7 +196,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Bagging
   - Boosting
     - probabilità di estrazione che cresce se il modello classifica in modo errato
-  - Coefficiente siluette (formula)
+  - Coefficiente silhouette (formula)
   - Random Forest
   - Preprocessing e normalizzazione
   - Grafico overfitting su alberi
@@ -231,7 +231,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - ‌Normalizzazione Max Min
   - ‌Sequential covering
   - ‌Valutazione di un classificatore
- ‌ - F-Measurw
+ ‌ - F-Measure
   - ‌perchè introduciamo la precision e la recall
   - ‌Campionamento
   - ‌Clustering gerarchico
@@ -269,7 +269,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - operatori olap: pivot
   - slice
   - dice
-  - drill trougth
+  - drill through
   - roll up
   - drill down etc
   - di pivot può chiedere in quale database si può fare direttamente (oracle) e se non si può fare direttamente come fare a mano (in realtà era domanda per la lode credo)
@@ -311,7 +311,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>Anno non classificato</u>**
 
 - Dario
-  - A me ha chiesto il counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
+  - Counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
 
 **<u>2015 2016</u>**
 
@@ -344,7 +344,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - risoluzione di 3T(n/6)+bn
   - Kruskal
   - Prim
-  - algoritmo di Djkstra
+  - algoritmo di Dijkstra
   - correzione errori primo esercizio dello scritto
   - domanda su Floyd (pseudo algoritmo)
 - Oscar
@@ -688,7 +688,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - risoluzione di deadlock
   - stato sicuro di un sistema
   - algoritmo di Lamport
-  - Round RObin
+  - Round Robin
   - matrice di accesso
   - dischi raid
   - algoritmi di scheduling
@@ -717,7 +717,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - algoritmo del fornaio
   - esempi di scheduling con prelazione e senza
   - quale dispositivo hardware segnala che non esiste memoria ram allocata a una pagina virtual MMU
-  - tabella pagina invertite e come funziona in quel caso l'indirizzament o
+  - tabella pagina invertite e come funziona in quel caso l'indirizzamento
   - algoritmo di peterson per la sezione critica
   - dischi raid e spiegazione di tutti i livelli
   - algoritmo seconda chance
@@ -889,12 +889,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Legge di Moore
   - Barbiere addormentato
   - cosa succede quando si chiama un await
-  - csa succede quando si chiama una signal
+  - cosa succede quando si chiama una signal
   - come garantire ordine FIFO nei thread
   - spiegazione del problema dei lettori-scrittori
   - metodi synchronized teoria e produttore-consumatore
   - modifica di una lista in parallelo problemi e `ConcurrentModificationExcption`
-  - Prouttore-Consumatore usando una lista (con lock )
+  - Produttore-Consumatore usando una lista (con lock )
   - Interleaving (con esempio)
   - Cosa succede a basso livello quando si incrementa una variabile
   - diagramma di stato nei thread di java
@@ -977,11 +977,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - problema dei lettori e scrittori implementazione
   - blocchi e metodi sincronizzati differenze e cosa sono
   - race condition,interleaving , tipi atomici e sezione critica come accederci
-  - lamport , djikstra e peterson
+  - lamport , dijkstra e peterson
   - come funziona la fairness dei semafori e dei lock
   - contrario di fairness? (barging)
   - perche non basta la fairness dei lock e dobbiamo usare anche le linkedlist
-  - legge di ahmdal e considerazioni casi limite
+  - legge di Amdahl e considerazioni casi limite
   - differenza tra processo e thread
   - code associate ai monitor come funzionano? (diff hansen e hoare)
 
@@ -1030,9 +1030,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - algoritmi di ordinamento e complessità relative
   - complessità temporale
   - compilatore (Cos'è)
-  - differenze tra java e pytho n
+  - differenze tra java e python
   - definizione di O(n)
-  - RIcerca binaria
+  - Ricerca binaria
   - complessità asintotica
 
 **<u>2021 2022</u>**
@@ -1131,7 +1131,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - Filippo Furfaro
   - agglomerazione primaria
 - Viviana
-  - Scedule serializzabile
+  - Schedule serializzabile
   - schedule seriale
   - Phantom read
   - dimostrazione 2pl implica confict equivalence
@@ -1154,7 +1154,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - recuperabilità
   - definizione formale di dipendenza funzionale
   - hashing lineare dinamico
-  - serializzabilitá
+  - serializzabilità
   - Esempio di schedule view-serializable ma non conflict-serializable
   - esempio di schedule serializable ma non view-serializable
   - Quando uno schedule è serializabile
@@ -1177,7 +1177,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - schedule serializzabile
   - protocollo 2pl
   - condizione di recuperabilità
-  - strong e stongstrict 2pl
+  - strong e stong strict 2pl
   - esempio di schedule serializzabile ma non view
 
 ### Amelio Alessia
@@ -1283,7 +1283,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Cataldo :
   - definizione di coder/encoder
-  - karnaught e implicante
+  - karnaugh e implicante
   - esercizio di assembly, operazione su numeri a 64 bit usando registri per numero
 
 ## Ambienti di programmazione per il software di base
@@ -1712,7 +1712,7 @@ malloc(sizeof(int)*(i+1));
 **<u>2017 2018</u>**
 
 - Ciccio
-  - Quali sono le parti riutilizzabili del patter buuilder e vantaggi rispetto ad altri patter (vs Director )
+  - Quali sono le parti riutilizzabili del pattern builder e vantaggi rispetto ad altri pattern (vs Director )
   - Scrum con disegno
   - cos'è un attore
   - use case diagram a cosa serve rispetto a use case e cos'è un caso d'uso
@@ -2137,7 +2137,7 @@ malloc(sizeof(int)*(i+1));
 - Anonimi
   - Potenza complessa di un resistore in serie con un condensatore in funzione di C e R
 - FrangescO
-  - dimostrazione Energia immaganazzinata nel condensatore
+  - dimostrazione Energia immagazzinata nel condensatore
   - formula capacità per condensatore facce piane parallele
   - potenza reattiva
 
@@ -2149,7 +2149,7 @@ malloc(sizeof(int)*(i+1));
 
 - Anna Ricca
   - Dualità forte
-  - fualità forte nel simplesso su rete
+  - Dualità forte nel simplesso su rete
   - (per calcolare i costi ridotti senza usare tableau come fare nell algoritmo del simplesso su rete-->pag7 simplesso su rete)
   - Matrici TUM
   - Formulare problema flusso minimo
@@ -2206,7 +2206,7 @@ malloc(sizeof(int)*(i+1));
   - coppia primale/duale simmetrica, forma e proprietà
   - formulazione problema di flusso di costo minimo e il suo duale
   - se il primale è degenere il duale ammette infinite soluzioni ottime
-  - caratterizzazioni delle basi del problem di flusso di costo minimo
+  - caratterizzazioni delle basi del problema di flusso di costo minimo
   - la soluzione ottima del max flusso è di base ?
 - Angelo
   - criteri di bound per Branch&Bound
