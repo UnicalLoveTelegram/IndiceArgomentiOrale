@@ -1536,6 +1536,27 @@ malloc(sizeof(int)*(i+1));
   - Dove si trovano i sorgenti dei pacchetti
   - Cosa fanno apt-get Upgrade e apt-get Update
 
+**<u>2025 2026</u>**
+
+- X
+  - Software libero e open source
+    - Ci sono limitazioni sulla possibilità di vendere il codice modificato?
+    - Risposta: no, non è indicato nelle quattro libertà
+  - Symbolic links (hard e soft)
+    - Cos'è un inode?
+  - Parlare del buffer overflow
+  - Cos'è cron? Parlare pure delle sottocartelle
+
+### Francesco Scala
+
+**<u>2025 2026</u>**
+
+- X
+  - Domanda sul possibile uso di una callback in una parte dell'applicazione
+  - Distinzione tra JIT e AOT
+    - Risposta: è la stessa differenza che c'è tra l'esecuzione interpretata e compilata
+
+
 ## Chimica
 
 ### Bruno De Cindio
@@ -3214,26 +3235,3 @@ malloc(sizeof(int)*(i+1));
    - APGAS
   - Efficienza e Speedup
   - Efficienza Sovralineare (A volte l'efficienza può superare il 100% grazie a metodi come il caching)
-
-## Ambienti di Programmazione e Programmazione mobile
-
-### Gianluigi Folino
-
-**<u>2025 2026</u>**
-
-- X
-  - Software libero e open source
-  - Ci sono limitazioni sulla possibilità di vendere il codice modificato?
-  - Risposta: no, non è indicato nelle quattro libertà
-  - Symbolic links (hard e soft)
-  - Cos'è un inode?
-  - Parlare del buffer overflow
-
-### Francesco Scala
-
-**<u>2025 2026</u>**
-
-- X
-  - Domanda sul possibile uso di una callback in una parte dell'applicazione
-  - Distinzione tra JIT e AOT
-  - Risposta: è la stessa differenza che c'è tra l'esecuzione interpretata e compilata
