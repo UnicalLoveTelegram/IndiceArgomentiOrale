@@ -134,6 +134,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Marcello Sammarra](#marcello-sammarra-1)
   - [Modelli e tecniche per i big data](#modelli-e-tecniche-per-i-big-data)
     - [Paolo Trunfio](#paolo-trunfio-1)
+  - [Ambienti di Programmazione e Programmazione mobile](#ambienti-di-programmazione-e-programmazione-mobile)
+    - [Gianluigi Folino](#gianluigi-folino)
+    - [Francesco Scala](#francesco-scala-2)
 
 ## Data Mining
 
@@ -3211,3 +3214,26 @@ malloc(sizeof(int)*(i+1));
    - APGAS
   - Efficienza e Speedup
   - Efficienza Sovralineare (A volte l'efficienza può superare il 100% grazie a metodi come il caching)
+
+## Ambienti di Programmazione e Programmazione mobile
+
+### Gianluigi Folino
+
+**<u>2025 2026</u>**
+
+- X
+  - Software libero e open source
+  - Ci sono limitazioni sulla possibilità di vendere il codice modificato?
+  - Risposta: no, non è indicato nelle quattro libertà
+  - Symbolic links (hard e soft)
+  - Cos'è un inode?
+  - Parlare del buffer overflow
+
+### Francesco Scala
+
+**<u>2025 2026</u>**
+
+- X
+  - Domanda sul possibile uso di una callback in una parte dell'applicazione
+  - Distinzione tra JIT e AOT
+  - Risposta: è la stessa differenza che c'è tra l'esecuzione interpretata e compilata
