@@ -50,6 +50,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Folino e Ianni](#folino-e-ianni)
   - [Ambienti di programmazione e programmazione mobile](#ambienti-di-programmazione-e-programmazione-mobile)
     - [Folino Gianluigi](#folino-gianluigi-1)
+    - [Francesco Scala](#francesco-scala-1)
   - [Chimica](#chimica)
     - [Bruno De Cindio](#bruno-de-cindio)
   - [Ingegneria del software](#ingegneria-del-software)
