@@ -627,6 +627,19 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - conflitti sui dati nella macchina pipeline
   - conflitti nella pipeline: inserimento circuito di uguaglianza
 
+**<u>2025 2026</u>**
+
+- Anonimo
+  - Schema stack lru 
+  - Confronto tempi delle varie macchine
+  - Macchina superscalare con ritiro in ordine 
+  - Esempi di istruzioni su cui questa organizzazione funziona molto bene
+  - Clock fine 
+  - Dimensionamento del clock
+  - Ottimizzazione del controllo microprogrammato 
+  - Rete di bypass
+  - Organizzazioni delle cache
+
 ## Linguaggi Formali
 
 ### Domenico Saccà
