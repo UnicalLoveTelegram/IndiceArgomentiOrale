@@ -1029,6 +1029,74 @@ rc(X):- u(X), not(r(X)).
   - Classe IC
   - Problema dell' Isomorfismo tra grafi e sua classe
 
+**<u>2025 2026</u>**
+
+- Anonimo 1
+	
+	- Pumping lemma linguaggi regolari
+	- Rice
+	- Linguaggio e grammatiche ambigue
+	- Dimostrazione che NPSPACE contenuto in EXP (che equivale a dire PSPACE contenuto in EXP)
+	- NC
+	- L-uniformità
+	- Riducibilità insiemi
+	- Insieme TOT
+
+- Anonimo 2
+
+	- A quale classe è equivalente la classe IP? (Shamir, pspace)
+	- Dimostrare che i linguaggi regolari sono chiusi rispetto alla star di kleene
+	- Quali sono le caratteristiche delle grammatiche che generano linguaggi di tipo 0, 1, 2, 3
+	- Domanda a piacere: IP
+	- Dimostrare che un insieme è ricorsivo se e solo se l’insieme e il suo complementare sono ricorsivamente enumerabili
+	- Altra domanda a piacere: pumping lemma per CFL
+	- Perché c’è la ripetizione di un non terminale?
+	- Differenza tra P ed NP
+
+- Anonimo 3
+
+	- Quali sono le caratteristiche delle grammatiche che generano linguaggi di tipo 0, 1, 2, 3
+	- Con una produzione A -> epsilon come facciamo?
+	- F<p1,p2> = guarda foto (è ricorsiva parziale)
+	- Dato che è ricorsiva parziale, com’è fatto l’algoritmo?
+	- Dimostrare che i linguaggi regolari sono chiusi rispetto alla star di kleene
+	- Teorema di Karp
+	- Considerando NL, P, Sigma P2, Sigma P3, PSPACE qual è un problema completo per ognuna di queste classi?
+	- Teorema della forma normale di kleene
+	- Dimostrare che un insieme è ricorsivo se e solo se l’insieme e il suo complementare sono r.e.
+	- Cosa vuol dire per un problema di ottimizzazione di tipo massimo che un certo algoritmo che lo risolve… (1/k della soluzione ottimale)
+
+- Anonimo 4
+
+	- {x | phi_x(0) converge}
+	- Differenza tra funzione primitiva (può essere espressa attraverso composizione combinazione esponenziazione e ripetizione) e totale
+	- Dimostrazione AC^i ⊆ NC^d+1
+	- Pumping lemma LR
+	- Teorema di Savitch
+	- Mi dici una relazione propria fra due classi? P ⊊ EXP
+
+- Anonimo 5
+
+	- A quale classe appartiene sat? (Esercitatore)
+	- Dove sta unsat? (Esercitatore, coNP)
+	- P^NP e P^coNP dove sono nella gerarchia polinomiale
+	- Perché coP = P?
+	- Qual è la relazione tra NP e coNP?
+	- D^P
+	- Dato un linguaggio L delle codifiche delle macchine di Turing t.c. X è una macchina di Turing che riconosce un linguaggio infinito ma prima di accettare sposta la testina tre volte a destra (esercitatore)
+	- Se abbiamo due grammatiche libere da contesto, come facciamo a verificare che generano lo stesso linguaggio?
+	- Teorema di ricorsione
+	- Esempio di linguaggio di tipo 2 riconosciuto da automa a pila non det ma non da uno det?
+
+- Anonimo 6
+
+	- {<x,y> | per ogni z phi_x(z)=phi_y(z)}
+	- Shannon
+	- FPT
+	- Gerarchia polinomiale
+	- Dimostrare che date due grammatiche distinte queste generano lo stesso linguaggio (indecidibile)
+
+
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
