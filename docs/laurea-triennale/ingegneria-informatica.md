@@ -1557,6 +1557,13 @@ malloc(sizeof(int)*(i+1));
   - Distinzione tra JIT e AOT
     - Risposta: è la stessa differenza che c'è tra l'esecuzione interpretata e compilata
 
+- Anonimo
+  - Package freezed
+  - Come gestire un file che dobbiamo salvare in locale( tipo invece di firebase in locale)
+  - Riverpod a che serve
+  - I widget come funzionano
+  - Isolates perche lo usiamo
+  - Class extension di dart
 
 ## Chimica
 
