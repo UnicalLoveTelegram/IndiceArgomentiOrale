@@ -1507,7 +1507,7 @@ rc(X):- u(X), not(r(X)).
       - Abduzione
       - IDA*
 
-# nota: le testimonianze di rappresentazione della conoscenza che erano presenti sono state migrate su Knowledge Representation and Reasoning (6 CFU), viene comunque lasciata la denominazione del corso per far intendere che le domande appartengono a questo corso di questo anno accademico.
+### nota: le testimonianze di rappresentazione della conoscenza che erano presenti sono state migrate su Knowledge Representation and Reasoning (6 CFU), viene comunque lasciata la denominazione del corso per far intendere che le domande appartengono a questo corso di questo anno accademico.
 
 ## Knowledge Representation and Reasoning (6 CFU)
 
