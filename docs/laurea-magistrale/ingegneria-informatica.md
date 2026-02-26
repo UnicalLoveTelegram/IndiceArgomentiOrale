@@ -46,7 +46,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
     - [Palopoli Luigi](#palopoli-luigi-2)
     - [Sergio Greco](#sergio-greco-1)
-  - [Rappresentazione della Conoscenza (6 CFU)](#rappresentazione-della-conoscenza-6-cfu)
+  - [Knowledge Representation and Reasoning (6 CFU)](#knowledge-representation-and-reasoning-6-cfu)
     - [Sergio Greco](#sergio-greco-2)
   - [Sistemi Informativi](#sistemi-informativi)
     - [Cassavia](#cassavia)
@@ -1507,15 +1507,19 @@ rc(X):- u(X), not(r(X)).
       - Abduzione
       - IDA*
 
+# nota: le testimonianze di rappresentazione della conoscenza che erano presenti sono state migrate su Knowledge Representation and Reasoning (6 CFU), viene comunque lasciata la denominazione del corso per far intendere che le domande appartengono a questo corso di questo anno accademico.
+
+## Knowledge Representation and Reasoning (6 CFU)
+
 ### Sergio Greco
 
 **<u>2023 2024</u>**
 
 - Anonimi
   - come si valuta il maggiore o uguale e minore o uguale nel tableau (nota: contatela come domanda fatta, non badate a quale anonimo sia stata fatta)
-  - primo Anonimo
-  - Algoritmo punto fisso (con esempio di possibile applicazione) Quando può essere applicato questo algoritmo?
-    - In cosa consiste il problema della verifica? Cosa ha in Input? Che complessità ha?
+- primo Anonimo
+	- Algoritmo punto fisso (con esempio di possibile applicazione) Quando può essere applicato questo algoritmo?
+	- In cosa consiste il problema della verifica? Cosa ha in Input? Che complessità ha?
     - Quando un interpretazione è stabile per un programma?
     - Cosa è un interpretazione? È un sottoinsieme della base di Herbrand.
     - Qual è la dimensione dell'universo di Herbrand?
@@ -1523,11 +1527,11 @@ rc(X):- u(X), not(r(X)).
     - Semantica della possibilità/Semantica della certezza.
     - Skeptical reasoning (definizione)
     - Struttura dei modelli completi.
-  - secondo Anonimo
+- secondo Anonimo
     - Argomentazione in generale
     - I 3 problemi nell'ambito di argomentazione con le complessità
     - Spiegazione delle complessità
-  - terzo Anonimo
+- terzo Anonimo
     - Algoritmo semi-naïve in generale (cosa vogliamo ottenere) cosa abbiamo in input: una base di dati e un insieme di regole.
 Questo programma calcola il modello minimo per il programma P (insieme di regole)
     - Esempio di applicazione dell'algoritmo. Con questo esempio dire che cosa fa l'algoritmo naïve e dove interviene quello semi-naïve.
@@ -1536,12 +1540,9 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
     - Linguaggio ALC, descrizione.
     - Perchè utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatro che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic?
     - Tbox e Abox
-  - quarto Anonimo
+- quarto Anonimo
     - Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
 
-## Rappresentazione della Conoscenza (6 CFU)
-
-### Sergio Greco
 
 **<u>2024 2025</u>**
 
@@ -1550,6 +1551,35 @@ Questo programma calcola il modello minimo per il programma P (insieme di regole
   - complessità ASP
   - sistemi di argomentazione in generale
     - Linguaggio ALC
+
+**<u>2025 2026</u>**
+
+- Anonimi vari
+	- Algoritmo Naive e Semi Naive
+	- Sistemi di argomentazione
+	- Linguaggio ALC
+	- Operatore conseguenze immediate
+	- Differenza match e unificazione
+	- proprietà safety (domain ind. + genericità, (anche per calcolo relazionale) 
+	- safety anche per operatore disgiunzione
+	- variabili libere e legate 
+	- DL lite (definizione, cosa fa e differenza con altri description logics, come viene espresso il concetto e inclusione tra i ruoli) 
+	- Tableaux 
+	- Esercizio Abox + Tbox 
+	- Espressività dei modelli stabili (NP)
+	- Sistemi di argomentazione ha voluto tutto
+	- nel baf se le definizioni di COMPLETEZZA, ACCEPTED, DEFEATED ECC variano oppure no
+	- proof systems definizioni e propietà
+	- logica a tre valori e modelli stabili parziali, determinare se un modello è stabile parziale dato un programma
+	- linguaggio delle dipendenze funzionali
+	- magic set
+	- principio di sostituzione
+	- significato della conseguenza logica e della derivazione
+	- Domain Indipendence e se c’è differenza con la safety
+	- Differenza tra espressività e complessità
+	- Complessità dei modelli stabili totali 
+	- esempio di programma stratificato
+	- Nell'algoritmo tableau se incontriamo tipo >= r.A che succede?
 
 ## Sistemi Informativi
 
