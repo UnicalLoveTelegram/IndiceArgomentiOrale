@@ -116,6 +116,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Roberto Caputo](#roberto-caputo)
     - [De Santo](#de-santo)
     - [Sandro Donato](#sandro-donato)
+    - [Marco Schioppa](#marco-schioppa)
   - [Robotica](#robotica)
     - [Muraca](#muraca)
   - [Elettromagnetismo](#elettromagnetismo)
@@ -3056,6 +3057,22 @@ malloc(sizeof(int)*(i+1));
 - Anonimo
   - Ciclo di Karnoot
   - rendimento
+
+### Marco Schioppa
+
+**<u>2025/2026</u>**
+
+- nncbtv e Anonimi
+    - Discussione errori compito
+    - Spiegare cos'è il lavoro e l'energia
+    - Definizione del lavoro tramite integrale
+    - Teorema dell'energia cinetica
+    - Energia potenziale elastica
+    - Trasformazione Isoterma
+    - Trasformazione Adiabatica
+    - Corpo rigido
+    - Quando una forza si dice conservativa
+    - Legge dei gas perfetti
 
 ## Robotica
 
