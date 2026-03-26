@@ -1854,6 +1854,19 @@ malloc(sizeof(int)*(i+1));
   - criteri del whitebox
   - Pattern flyweight
 
+**<u>2025 2026</u>**
+- Anonimo
+  - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
+  - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
+  - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
+  - I Repeated Test in JUnit: cosa sono e a cosa servono.
+  - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
+  - gRPC: tipi di comunicazione:
+  	- unary
+  	- server streaming
+  	- client streaming
+  	- bidirectional streaming
+
 ## Reti di Calcolatori
 
 ### Paolo Trunfio
