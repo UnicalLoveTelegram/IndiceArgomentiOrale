@@ -2960,10 +2960,9 @@ malloc(sizeof(int)*(i+1));
     - Come si calcola il determinante con Gauss
     - Tenere conto degli scambi di righe effettuati al fine di sapere il segno del determinante
 
+### Domenico Magisano
 
 **<u>2025 2026</u>**
-
-### Domenico Magisano
 
 - Anonimo 
     - Cosa sono autovaloei e autovettori
