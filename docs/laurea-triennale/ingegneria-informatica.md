@@ -108,6 +108,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Dmitry Kvasov](#dmitry-kvasov)
         - [Yaroslav Sergeyev](#yaroslav-sergeyev)
         - [Francesco Liguori](#francesco-liguori)
+        - [Domenico Magisano](#domenico-magisano)
     - [Fisica 12CFU e 9CFU](#fisica-12cfu-e-9cfu)
         - [Crossetti Nanni](#crossetti-nanni)
         - [Mazzulla](#mazzulla)
@@ -2958,6 +2959,29 @@ malloc(sizeof(int)*(i+1));
     - Condizioni per effettuare operazioni di somma e prodotto fra matrici
     - Come si calcola il determinante con Gauss
     - Tenere conto degli scambi di righe effettuati al fine di sapere il segno del determinante
+
+
+**<u>2025 2026</u>**
+
+### Domenico Magisano
+
+- Anonimo 
+    - Cosa sono autovaloei e autovettori
+    - Matrice diagonale e diagonalizzante
+    - Dimensione base
+    - Quando facciamo C^-1 per un vettore cosa otteniamo?
+     - L'insieme delle parti
+     - Lo spazio generato da una serie di vettori
+     - Combinazioni
+     - Cos'è il nucleo
+     - Coefficiente di combinazione di un vettore in un sottospazio vettoriale
+     - Come è legato il determinante ad una matrice a scala
+     - Significato geometrico del determinante
+     - Immagine e controimmagine cos'è e come si esprime (formula)
+     - Combinazione lineare
+     - Definizione di autovalore
+     - Polinomio caratteristico 
+     - La matrice inversa
 
 ## Fisica 12CFU e 9CFU
 
