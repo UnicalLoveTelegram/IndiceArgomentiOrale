@@ -1,4 +1,4 @@
-# Indice delle domande degli esami orali: Ingegneria Elettronica LM 
+# Indice delle domande degli esami orali: Ingegneria Elettronica LM
 
 Questo file contiene le testimonianze degli esami orali di vari studenti del corso di laurea in **Ingegneria Elettronica Laurea Magistrale** all' **Unical** ( *Università della Calabria* ) e fa parte del progetto [Indice Argomenti Orali](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale) gestito dall'organizzazione **UnicalLoveTelegram**
 

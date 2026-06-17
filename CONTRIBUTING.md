@@ -20,7 +20,7 @@ Per visualizzare il sito MkDocs in locale e verificare le modifiche prima di apr
    make install
    ```
 
-2. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
+1. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
 
    ```bash
    make serve
@@ -65,52 +65,55 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 ### Inviare una pull request
 
 1. **Fork** del repository.
-2. **Clona** il fork sul tuo computer:
+
+1. **Clona** il fork sul tuo computer:
 
    ```bash
    git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
    cd IndiceArgomentiOrale
    ```
 
-3. **Crea un branch** dedicato:
+1. **Crea un branch** dedicato:
 
    ```bash
    git checkout -b nome-del-branch
    ```
 
-4. \[Opzionale\] **Prepara l’ambiente** e avvia l’anteprima locale:
+1. [Opzionale] **Prepara l’ambiente** e avvia l’anteprima locale:
 
    ```bash
    make install
    make serve  # il sito sarà disponibile su http://127.0.0.1:8000
    ```
 
-5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
+1. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
+
    - `docs/laurea-triennale/` per i corsi LT
    - `docs/laurea-magistrale/` per i corsi LM
-6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
+
+1. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
 
    ```bash
    make build
    ```
 
-7. **Commit e push** delle modifiche:
+1. **Commit e push** delle modifiche:
 
    ```bash
    git commit -am "Breve descrizione del contributo"
    git push origin nome-del-branch
    ```
 
-8. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
+1. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
 
 ## Stile e formattazione delle testimonianze
 
 - I file sono scritti in **Markdown** standard con qualche tocco HTML (ad esempio `<u>` per il testo sottolineato). Mantieni lo stesso stile esistente.
 - Ogni testimonianza segue la gerarchia:
   1. Titolo H1 per il corso
-  2. Titolo H2 per il docente
-  3. Anno in grassetto e sottolineato (`**<u>2024/2025</u>**`)
-  4. Elenco puntato con le domande
+  1. Titolo H2 per il docente
+  1. Anno in grassetto e sottolineato (`**<u>2024/2025</u>**`)
+  1. Elenco puntato con le domande
 - Mantieni l’ordine alfabetico/cronologico già presente.
 - Usa spazi anziché tab per indentare gli elenchi annidati.
 - Se aggiungi termini in inglese, non tradurre i titoli degli insegnamenti già consolidati.
@@ -129,19 +132,16 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 - Evita di inserire dati personali o sensibili nelle testimonianze.
 - Discuti nelle issue se hai dubbi sul formato o sul posizionamento dei contenuti.
 
-Grazie ancora per il tuo contributo: mantenere aggiornato questo indice aiuta l’intera community! Se hai domande o vuoi suggerire miglioramenti alle linee guida, apri pure una issue dedicata. 
-
+Grazie ancora per il tuo contributo: mantenere aggiornato questo indice aiuta l’intera community! Se hai domande o vuoi suggerire miglioramenti alle linee guida, apri pure una issue dedicata.
 
 ### Indice
 
 L'indice viene automaticamente creato da MkDocs
 
-
 #### Alcuni consigli di buona scrittura
 
--   Lasciare almeno un rigo vuoto tra un titolo e un altro
--   meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
--   meglio utilizzare codice inline o grassetto
-
+- Lasciare almeno un rigo vuoto tra un titolo e un altro
+- meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
+- meglio utilizzare codice inline o grassetto
 
 Grazie per il tuo contributo!
