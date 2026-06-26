@@ -1116,6 +1116,33 @@ rc(X):- u(X), not(r(X)).
   - Gerarchia polinomiale
   - Dimostrare che date due grammatiche distinte queste generano lo stesso linguaggio (indecidibile)
 
+- Anonimo 7
+	 differenze nelle grammatiche L0 L1 L2 L3
+	 grammatiche ambigue
+	 quando un linguaggio è intrinsecamente ambiguo?
+	 pumping lemma per il linguaggi regolari e dimostrazione
+	 K={(x,y)∣f(x)=f(y)} è ricorsivo o ricorsivamente enumerabile?
+	 Parlami della complessità di spazio
+	 fammi un esempio di problema PSPACE completo
+
+- Anonimo 8
+	 classi di complessità di circuito 
+	 cos'è una famiglia di circuiti?
+	 {1k | k é la codifica di (M,x) tale che M si ferma su input x} appartiene a PPoly?
+	 definiamo sigma P 2
+	 cos'è una macchina di Turing con oracolo?
+	 cos'è un insieme ricorsivamente enumerabile?
+
+- Anonimo 9
+	 esempio di problema in sigma p 2
+	 definizione della classe NC 
+	 teorema di savitch
+	 teorema di Mayer
+	 definizione della classe IP
+	 dimostrazione di NPSPACE contenuto in EXPTIME
+	 grammatica in forma normale di Chomsky
+
+
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
