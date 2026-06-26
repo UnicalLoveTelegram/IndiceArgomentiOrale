@@ -29,7 +29,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
   - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
     - [Fabrizio Angiulli](#fabrizio-angiulli)
   - [Linguaggi Formali](#linguaggi-formali)
-    - [Domenico Saccà](#domenico-sacc%C3%A0)
+    - [Domenico Saccà](#domenico-saccà)
     - [Rullo](#rullo)
   - [Informatica teorica](#informatica-teorica)
     - [Scarcello Francesco](#scarcello-francesco)
@@ -906,7 +906,7 @@ rc(X):- u(X), not(r(X)).
   - np completo (definizione) e vantaggi nellúso
   - Teorema di Cook
   - Definizione di problema NP-complete
-  - Domanda: `come cambia la clas shortcut multicursorsse np complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali`
+  - Domanda: come cambia la class shortcut multicursorsse np complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali
     - **Risposta**: poiché np-complete é l'intersezione di np-hard ed np, i problemi di tale classe rappresentano il sottoinsieme dei problemi più difficili tra quelli appartenenti ad np (risolvibili in p-time da una NTM). Se si cambia la definizione di hardness considerando trasformazioni esponenziali però si estende la classe a problemi exp-time, in quanto si altera il rapporto di complessità durante la riduzione che supporta la hardness: intuitivamente una trasformazione esponenziale trasferirebbe parte della complessità nella riduzione, permettendo poi di risolvere il problema risultante in tempo polinomiale, dunque tali problemi ricadrebbero in questa versione modificata di np-complete.
   - Dimostrazione di appartenenza di Hamiltonian Cycle a np-complete
   - dimostrazione di non appartenenza di Ld a RE
