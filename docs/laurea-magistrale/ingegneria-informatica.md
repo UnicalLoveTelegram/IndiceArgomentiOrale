@@ -2267,4 +2267,4 @@ rc(X):- u(X), not(r(X)).
   - domanda aperta 4: cosa si intende per produzione dal punto di vista economico
   - domanda aperta 4: organigramma struttura a matrice e descrizione orizzontale, verticale, efficienza e efficacia (c'era anche plurifunzionale e multidivisionale analogamente)
 
-test
+test 2
