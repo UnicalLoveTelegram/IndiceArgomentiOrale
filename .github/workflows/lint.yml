@@ -39,7 +39,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Markdown linting
-        run: mdformat --check docs/ README.md CONTRIBUTING.md
+        run: mdformat --extensions space_control --check docs/ README.md CONTRIBUTING.md
         
       - name: Summary on failure
         if: failure()

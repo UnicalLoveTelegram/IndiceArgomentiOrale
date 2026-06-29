@@ -16,37 +16,32 @@ Per visualizzare il sito MkDocs in locale e verificare le modifiche prima di apr
 
 1. Installa le dipendenze all'interno di una virtualenv locale (creata automaticamente in `.venv/`):
 
-   ```bash
-   make install
-   ```
+    ```bash
+    make install
+    ```
 
-1. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
+2. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
 
-   ```bash
-   make serve
-   ```
+    ```bash
+    make serve
+    ```
 
-   Premi `Ctrl+C` per interrompere il server quando hai terminato.
+    Premi `Ctrl+C` per interrompere il server quando hai terminato.
 
 ### Verifica della build e manutenzione
 
 - Genera il sito statico completo (utile per scoprire errori di configurazione prima di una PR):
-
-  ```bash
-  make build
-  ```
-
+    ```bash
+    make build
+    ```
 - Ripulisci gli artefatti generati dalla build:
-
-  ```bash
-  make clean
-  ```
-
+    ```bash
+    make clean
+    ```
 - Elenca tutti i target disponibili del `Makefile`:
-
-  ```bash
-  make help
-  ```
+    ```bash
+    make help
+    ```
 
 Tutti i comandi creano e usano l'ambiente virtuale locale; non è necessario attivarlo manualmente. Ricorda di eseguire `make install` dopo aver aggiornato `requirements.txt` per sincronizzare le dipendenze.
 
@@ -65,55 +60,42 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 ### Inviare una pull request
 
 1. **Fork** del repository.
-
-1. **Clona** il fork sul tuo computer:
-
-   ```bash
-   git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
-   cd IndiceArgomentiOrale
-   ```
-
-1. **Crea un branch** dedicato:
-
-   ```bash
-   git checkout -b nome-del-branch
-   ```
-
-1. [Opzionale] **Prepara l’ambiente** e avvia l’anteprima locale:
-
-   ```bash
-   make install
-   make serve  # il sito sarà disponibile su http://127.0.0.1:8000
-   ```
-
-1. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
-
-   - `docs/laurea-triennale/` per i corsi LT
-   - `docs/laurea-magistrale/` per i corsi LM
-
-1. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
-
-   ```bash
-   make build
-   ```
-
-1. **Commit e push** delle modifiche:
-
-   ```bash
-   git commit -am "Breve descrizione del contributo"
-   git push origin nome-del-branch
-   ```
-
-1. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
+2. **Clona** il fork sul tuo computer:
+    ```bash
+    git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
+    cd IndiceArgomentiOrale
+    ```
+3. **Crea un branch** dedicato:
+    ```bash
+    git checkout -b nome-del-branch
+    ```
+4. [Opzionale] **Prepara l’ambiente** e avvia l’anteprima locale:
+    ```bash
+    make install
+    make serve  # il sito sarà disponibile su http://127.0.0.1:8000
+    ```
+5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
+    - `docs/laurea-triennale/` per i corsi LT
+    - `docs/laurea-magistrale/` per i corsi LM
+6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
+    ```bash
+    make build
+    ```
+7. **Commit e push** delle modifiche:
+    ```bash
+    git commit -am "Breve descrizione del contributo"
+    git push origin nome-del-branch
+    ```
+8. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
 
 ## Stile e formattazione delle testimonianze
 
 - I file sono scritti in **Markdown** standard con qualche tocco HTML (ad esempio `<u>` per il testo sottolineato). Mantieni lo stesso stile esistente.
 - Ogni testimonianza segue la gerarchia:
-  1. Titolo H1 per il corso
-  1. Titolo H2 per il docente
-  1. Anno in grassetto e sottolineato (`**<u>2024/2025</u>**`)
-  1. Elenco puntato con le domande
+    1. Titolo H1 per il corso
+    2. Titolo H2 per il docente
+    3. Anno in grassetto e sottolineato (`**<u>2024/2025</u>**`)
+    4. Elenco puntato con le domande
 - Mantieni l’ordine alfabetico/cronologico già presente.
 - Usa spazi anziché tab per indentare gli elenchi annidati.
 - Se aggiungi termini in inglese, non tradurre i titoli degli insegnamenti già consolidati.

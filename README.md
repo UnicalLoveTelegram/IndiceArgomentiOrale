@@ -6,8 +6,7 @@
 
 Questo è un indice di argomenti per lo studio teorico, creato dalla community di **Telegram ❤️ Unical: Dimes**, fatto appositamente per aiutarci a vicenda, stilando una raccolta delle domande che i professori fanno agli studenti durante le interrogazioni orali.
 
-Ringrazio innanzitutto Albus per aver proposto questo tipo di
-approccio, molto apprezzato e interessante.
+Ringrazio innanzitutto Albus per aver proposto questo tipo di approccio, molto apprezzato e interessante.
 
 > <u>Nota bene</u>:
 >
@@ -15,8 +14,7 @@ approccio, molto apprezzato e interessante.
 
 Se vuoi partecipare, <u>invia le domande al founder del gruppo su Telegram</u> o apri **un issue o una pull request** [sul nostro github](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale).
 
-Ricorda che comunque ogni aiuto è gradito dalla community e da chi dopo di te studierà quegli argomenti. Ti ringraziamo per la partecipazione e speriamo di poterti aiutare!
-Ricorda sempre di indicare il professore o l’esercitatore con il quale hai affrontato l’esame!
+Ricorda che comunque ogni aiuto è gradito dalla community e da chi dopo di te studierà quegli argomenti. Ti ringraziamo per la partecipazione e speriamo di poterti aiutare! Ricorda sempre di indicare il professore o l’esercitatore con il quale hai affrontato l’esame!
 
 ## Contribuire al progetto
 
@@ -39,8 +37,8 @@ I file sono perfettamente visionabili su github stesso, ma verrà comunque gener
 Ogni file poi è strutturato a livelli:
 
 - materia (Titolo H1)
-  - professore (Titolo H2)
-    \- anno (Nessun titolo, font **bold** e <u>underlined</u>)
+    - professore (Titolo H2)
+        - anno (Nessun titolo, font **bold** e <u>underlined</u>)
 
 Ogni file è scritto con sintassi **Markdown**
 
