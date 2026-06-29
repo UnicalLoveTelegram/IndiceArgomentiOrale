@@ -13,6 +13,7 @@ VENV_PYTHON := $(VENV_BIN)/python
 PIP := $(VENV_PYTHON) -m pip
 MKDOCS := $(VENV_BIN)/mkdocs
 MDFORMAT := $(VENV_BIN)/mdformat
+MDFORMAT_EXTENSIONS := --extensions space_control
 SITE_DIR ?= site
 
 .PHONY: help venv serve build clean lint lint-fix install
@@ -47,12 +48,12 @@ build: install
 
 lint: install
 	@echo "Running Markdown linter..."
-	@$(MDFORMAT) --check docs/ README.md CONTRIBUTING.md || (echo "Linting failed! Run 'make lint-fix' to fix issues automatically." && exit 1)
+	@$(MDFORMAT) $(MDFORMAT_EXTENSIONS) --check docs/ README.md CONTRIBUTING.md || (echo "Linting failed! Run 'make lint-fix' to fix issues automatically." && exit 1)
 	@echo "✓ All files passed linting!"
 
 lint-fix: install
 	@echo "Fixing Markdown issues..."
-	@$(MDFORMAT) docs/ README.md CONTRIBUTING.md
+	@$(MDFORMAT) $(MDFORMAT_EXTENSIONS) --no-validate docs/ README.md CONTRIBUTING.md
 	@echo "✓ Markdown issues fixed!"
 
 clean:

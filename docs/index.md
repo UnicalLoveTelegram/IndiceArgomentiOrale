@@ -13,7 +13,7 @@ Benvenutə nella raccolta collaborativa delle domande affrontate durante gli esa
 Se vuoi aggiungere nuove domande o aggiornare le liste esistenti:
 
 1. Consulta la pagina [Come contribuire](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/CONTRIBUTING.md) con le linee guida dettagliate.
-1. Invia le domande direttamente al founder del gruppo Telegram oppure apri una issue/pull request sul [repository GitHub](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale).
+2. Invia le domande direttamente al founder del gruppo Telegram oppure apri una issue/pull request sul [repository GitHub](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale).
 
 Ogni contributo è prezioso: ricordati sempre di indicare il docente con cui hai sostenuto l'esame.
 
