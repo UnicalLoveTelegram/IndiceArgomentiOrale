@@ -1717,7 +1717,6 @@ malloc(sizeof(int)*(i+1));
     - Come mantiene le versioni git e quanto è lungo lo sha-1
     - Come avviene la merge in git
     - Cos'è uno sprint
-    - test
 
 **<u>2023 2024</u>**
 
