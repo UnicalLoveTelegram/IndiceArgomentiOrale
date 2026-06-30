@@ -182,6 +182,13 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Domenico Mandaglio
 
+**<u>2024 2025</u>**
+
+- Anonimo 1
+    - Tipi di Validation
+    - KNN
+    - Varianti del KNN
+
 **<u>2023 2024</u>**
 
 - Anonimi
@@ -253,16 +260,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Perche si usa
     - Criterio con il quale si campiona
 
-**<u>2024 2025</u>**
-
-- Anonimo 1
-    - Tipi di Validation
-    - KNN
-    - Varianti del KNN
-
 ## Laboratorio di Sistemi Informativi
 
 ### Francesco Parisi
+
+**<u>2024 2025</u>**
+
+- Anonimo 1
+    - Esercizio ricorsivo: calcolare I percorsi di un grafo sorgente a destinazione
+    - Trigger: trigger fatti durante le lezioni
 
 **<u>2020 2021</u>**
 
@@ -303,38 +309,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - perché nel 3o livello si puó fare invece a prescindere?
         - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
 
-**<u>2024 2025</u>**
-
-- Anonimo 1
-    - Esercizio ricorsivo: calcolare I percorsi di un grafo sorgente a destinazione
-    - Trigger: trigger fatti durante le lezioni
-
 ## Algoritmi e strutture dati
 
 ### Sergio Flesca
 
-**<u>Anno non classificato</u>**
+**<u>2022 2023</u>**
 
-- Dario
-    - Counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
-
-**<u>2015 2016</u>**
-
-- Salvatore Riga
-    - come srotolare una ricorsione
-    - teorema delle ricorrenze per il calcolo della complessita
-
-**<u>2017 2018</u>**
-
-- Giovanni
-    - grafi ( prim etc...)
-        - pseudo codici
-        - dimostrazioni
-        - edit distance
-    - metodo `boolean èDiRicerca(Albero a);`
-    - Kruskal
-    - grafo a ciclico
-    - su domande vero o falso: spiegazioni e altre domande
+- Anonimo
+    - quick sort
+    - edit distance
+    - scheduler attività
+    - aciclicità di un grafo
+    - implementate con pseudo codice o python (preferibile)
 
 **<u>2020 2021</u>**
 
@@ -357,50 +343,38 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - edit distance
         - riflessione sul poter invertire insert remove e sostituzione della edit distance
 
-**<u>2022 2023</u>**
-
-- Anonimo
-    - quick sort
-    - edit distance
-    - scheduler attività
-    - aciclicità di un grafo
-    - implementate con pseudo codice o python (preferibile)
-
-### Mandaglio
-
 **<u>2017 2018</u>**
 
 - Giovanni
-    - code di priorità
-    - heap
-    - funzionamento di prim
-    - counting sort
-    - floyd
-
-**<u>2018 2019</u>**
-
-- Arbrane97
-    - Scrivere algoritmo ricorsivo che verifica che l'albero passato sia un ABR
-    - Algoritmo di Floyd
-    - Counting sort
-- Davide
-    - esercizio di backtracking
-    - dimostrazione distanza tra stringhe
-
-**<u>2020 2021</u>**
-
-- Anonimi
+    - grafi ( prim etc...)
+        - pseudo codici
+        - dimostrazioni
+        - edit distance
+    - metodo `boolean èDiRicerca(Albero a);`
     - Kruskal
-        - complessita spiegata
-    - Struttura union find e due implementazioni
-    - Heap descrizione e inserimento nodo ed estrazione
+    - grafo a ciclico
+    - su domande vero o falso: spiegazioni e altre domande
 
-**<u>2022 2023</u>**
+**<u>2015 2016</u>**
+
+- Salvatore Riga
+    - come srotolare una ricorsione
+    - teorema delle ricorrenze per il calcolo della complessita
+
+**<u>Anno non classificato</u>**
+
+- Dario
+    - Counting sort in Java . Avevo 28 come punteggio allo scritto e per aver saputo il codice non in Java mi ha dato 19
+
+### Mandaglio
+
+**<u>2024 2025</u>**
 
 - Anonimo
-    - hashMap
-    - Kruskal
-    - metodo che dato un albero binario verifica che sia di ricerca
+    - cammino minimo
+    - cammino semplice
+    - aciclicita grafo non orientato
+    - algoritmo di floyd
 
 **<u>2023 2024</u>**
 
@@ -416,13 +390,39 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Complessità intrinseca definizione formale
     - Dijkstra
 
-**<u>2024 2025</u>**
+**<u>2022 2023</u>**
 
 - Anonimo
-    - cammino minimo
-    - cammino semplice
-    - aciclicita grafo non orientato
-    - algoritmo di floyd
+    - hashMap
+    - Kruskal
+    - metodo che dato un albero binario verifica che sia di ricerca
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - Kruskal
+        - complessita spiegata
+    - Struttura union find e due implementazioni
+    - Heap descrizione e inserimento nodo ed estrazione
+
+**<u>2018 2019</u>**
+
+- Arbrane97
+    - Scrivere algoritmo ricorsivo che verifica che l'albero passato sia un ABR
+    - Algoritmo di Floyd
+    - Counting sort
+- Davide
+    - esercizio di backtracking
+    - dimostrazione distanza tra stringhe
+
+**<u>2017 2018</u>**
+
+- Giovanni
+    - code di priorità
+    - heap
+    - funzionamento di prim
+    - counting sort
+    - floyd
 
 ### Greco
 
@@ -446,17 +446,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Sergio Flesca
 
-**<u>2018 2019</u>**
+**<u>2021 2022</u>**
 
-- Anonimi
-    - Stateful EJB
-    - web services
-    - ajax
-    - stateful session bean
-    - componenti angular
-    - lock nel progetto, come si fa? JSF o Angular
-- Giovanni Giordano
-    - componente angular cosa contiene
+- Giovanna
+    - progetto ecommerce
+    - quale problema sorgerebbe se il prezzo di un prodotto cambiasse dopo averlo messo nel carrello?
+    - come si fa (nel back-end in Spring boot) a svuotare automaticamente e dopo un certo intervallo di tempo il carrello?
+        - si fa utilizzando l'annotazione @Scheduled
+    - come è stata fatta l'autenticazione/registrazione dell'utente? (spring security)
+    - routing
 
 **<u>2020 2021</u>**
 
@@ -475,15 +473,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - version
     - codice del frontend
 
-**<u>2021 2022</u>**
+**<u>2018 2019</u>**
 
-- Giovanna
-    - progetto ecommerce
-    - quale problema sorgerebbe se il prezzo di un prodotto cambiasse dopo averlo messo nel carrello?
-    - come si fa (nel back-end in Spring boot) a svuotare automaticamente e dopo un certo intervallo di tempo il carrello?
-        - si fa utilizzando l'annotazione @Scheduled
-    - come è stata fatta l'autenticazione/registrazione dell'utente? (spring security)
-    - routing
+- Anonimi
+    - Stateful EJB
+    - web services
+    - ajax
+    - stateful session bean
+    - componenti angular
+    - lock nel progetto, come si fa? JSF o Angular
+- Giovanni Giordano
+    - componente angular cosa contiene
 
 ### Francesco Scala
 
@@ -516,80 +516,18 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Famularo Domenico
 
-**<u>Anno non classificato</u>**
+**<u>2024 2025</u>**
 
-- Anthony
-    - margine di fase
-    - margine di ampiezza
-    - filtri ( passa basso, banda, alto )
-    - grafici sui sistemi con poli e zeri dominati
-    - reti correttrici
-- Gianma
-    - Legame pulsazione di banda passante e tempo di salita
-    - scomposizione della risposta di un sistema in risposta libera e forzata
-    - precisione statica
-    - interconnessioni elementari
-    - fase
-    - ampiezza
-    - laplace
-    - teorema valore iniziale
-    - teorema valore finale
-    - teorema risposta armonica
-    - costruire t(jw) data la funzione anello
-    - banda passante (definizione)
-    - bibo stabilita
-    - stabilita interna
-- Luigi De Marco
-    - scrivere una fdt in forma di bode
-    - definizioni di filtro ( passa alto, passa alto, passa banda )
+- Anonimo
+    - (Domanda teorica) Precisione statica: asservimento di posizione
+    - (Esercizio) Risposta qualitativa al gradino di un sistema di ordine 3 con zero dominante
+    - Cosa comporta l'aggiunta di effetti integrali a un sistema?
 
-**<u>2012 2013</u>**
+**<u>2023 2024</u>**
 
-- PsykeDady
-    - Tutto su bibo stabilità da scrivere su un foglio
-    - esercizio in retroazione
-    - modifiche sul progetto assegnato:
-        - cambiare risposta al gradino con rampa
-        - come cambia gradino + amplificatore
-
-**<u>2013 2014</u>**
-
-- Ivonne:
-    - modifiche sul progetto ( matlab ) :
-        - risposta al gradino invece di rampa
-        - risposta al gradino più amplificatore
-    - esercizio su risposta al gradino
-    - teorema valore finale
-    - modi di evoluzione di un sistema
-    - criterio di bode
-    - diagramma di nyquist in generale
-    - margine di fase
-
-**<u>2015 2016</u>**
-
-- Cataldo
-    - margine di fase
-    - margine di ampiezza (nello specifico sul diagramma di Bode )
-    - Precisione statica con diagrammi
-    - Esercizi su sistemi del secondo ordine
-        - determinare funzione di trasferimento
-        - grafico del sistema (approssimativo)
-
-**<u>2016 2017</u>**
-
-- Enri
-    - Sistemi del I e del II ordine
-    - Legame tra tempo di salita e banda passante.
-    - Esercizio su carateristiche dei diagrammi di Bode
-    - disegno approsimativo di un sistema del primo ordine a fase non minima
-
-**<u>2017 2018</u>**
-
-- Simone
-    - definizione scala logaritmica
-    - definizione di decibel
-    - definizione formale di L trasformabile
-    - Esercizio regione di convergenza
+- Anonimi
+    - la definizione di banda passante
+    - il grafico qualitativo della risposta a gradino di un sistema con 3 poli e uno zero a fase non minima
 
 **<u>2018 2019</u>**
 
@@ -641,44 +579,159 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - esercizio data **una risposta in t**
         - Ascissa di convergenza
 
-**<u>2023 2024</u>**
+**<u>2017 2018</u>**
 
-- Anonimi
-    - la definizione di banda passante
-    - il grafico qualitativo della risposta a gradino di un sistema con 3 poli e uno zero a fase non minima
+- Simone
+    - definizione scala logaritmica
+    - definizione di decibel
+    - definizione formale di L trasformabile
+    - Esercizio regione di convergenza
 
-**<u>2024 2025</u>**
+**<u>2016 2017</u>**
 
-- Anonimo
-    - (Domanda teorica) Precisione statica: asservimento di posizione
-    - (Esercizio) Risposta qualitativa al gradino di un sistema di ordine 3 con zero dominante
-    - Cosa comporta l'aggiunta di effetti integrali a un sistema?
+- Enri
+    - Sistemi del I e del II ordine
+    - Legame tra tempo di salita e banda passante.
+    - Esercizio su carateristiche dei diagrammi di Bode
+    - disegno approsimativo di un sistema del primo ordine a fase non minima
+
+**<u>2015 2016</u>**
+
+- Cataldo
+    - margine di fase
+    - margine di ampiezza (nello specifico sul diagramma di Bode )
+    - Precisione statica con diagrammi
+    - Esercizi su sistemi del secondo ordine
+        - determinare funzione di trasferimento
+        - grafico del sistema (approssimativo)
+
+**<u>2013 2014</u>**
+
+- Ivonne:
+    - modifiche sul progetto ( matlab ) :
+        - risposta al gradino invece di rampa
+        - risposta al gradino più amplificatore
+    - esercizio su risposta al gradino
+    - teorema valore finale
+    - modi di evoluzione di un sistema
+    - criterio di bode
+    - diagramma di nyquist in generale
+    - margine di fase
+
+**<u>2012 2013</u>**
+
+- PsykeDady
+    - Tutto su bibo stabilità da scrivere su un foglio
+    - esercizio in retroazione
+    - modifiche sul progetto assegnato:
+        - cambiare risposta al gradino con rampa
+        - come cambia gradino + amplificatore
+
+**<u>Anno non classificato</u>**
+
+- Anthony
+    - margine di fase
+    - margine di ampiezza
+    - filtri ( passa basso, banda, alto )
+    - grafici sui sistemi con poli e zeri dominati
+    - reti correttrici
+- Gianma
+    - Legame pulsazione di banda passante e tempo di salita
+    - scomposizione della risposta di un sistema in risposta libera e forzata
+    - precisione statica
+    - interconnessioni elementari
+    - fase
+    - ampiezza
+    - laplace
+    - teorema valore iniziale
+    - teorema valore finale
+    - teorema risposta armonica
+    - costruire t(jw) data la funzione anello
+    - banda passante (definizione)
+    - bibo stabilita
+    - stabilita interna
+- Luigi De Marco
+    - scrivere una fdt in forma di bode
+    - definizioni di filtro ( passa alto, passa alto, passa banda )
 
 ## Sistemi Operativi
 
 ### Domenico Talia
 
-**<u>Anno non classificato</u>**
+**<u>2025 2026</u>**
 
-- Luigi De Marco
-    - Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD
+- Anonimo
+    - formula CPU burst
+    - Starvation e Aging
+    - Allocazione dei processi in Memoria Centrale (allocazione contigua, frammentazione, segmentazione, paginazione)
 
-**<u>2014 2015</u>**
+**<u>2024 2025</u>**
 
-- Cataldo
-    - frammentazione della memoria e metodi per evitarla
-    - kernel modulare
-    - micro kernel
-    - produttore-consumatore in java
-    - esercizi sulla precedenza dei processi con i semafori
+- Anonimo
+    - Scheduling di Windows/solaris/linux
+    - Pcb
+    - Differenza tra paginazione e paginazione con memoria virtuale
 
-**<u>2016 2017</u>**
+**<u>2023 2024</u>**
 
 - Anonimi
-    - Lettori scrittori
-    - File System: allocazione concatenata
-    - Struttura Raid e bit di parità
-    - Sistem Call
+    - dischi raid
+    - worm di morris
+    - memoria virtuale
+    - mmu
+    - dma
+    - page fault
+
+**<u>2022 2023</u>**
+
+- Anonimo 1
+    - si consiglia di consultare tale documentazione <http://www.swappa.it/wiki/Uni/SistemiOperativi#s5> ringrazio per la segnalazione
+    - System Call
+    - Differenza Starvation e Deadlock
+    - Descrizione Vari Scheduler
+    - Condizioni affinché si verifichi il Deadlock
+    - Cosa succede quando si crea un file e la si inserisce in una cartella
+- Anonimo 2
+    - Syscall solaris
+    - scheduling della cpu
+    - scheduling solaris e multics
+    - fork vs clone linux
+    - spiegazione permesso minimo
+    - sistema permessi solaris e multics
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - algoritmo banchiere
+    - System Call? che interfaccia è?
+    - memoria condivisa scambio di messaggi (comunicazione)
+    - diagramma di stato dei processi
+        - perché si passa da waiting a pronto?
+        - tempo di attesa come si calcola?
+    - paginazione gerarchica
+    - scheduling del disco
+    - mutua esclusione: gestione e soluzioni
+    - algoritmi scheduling cpu Linux
+    - algoritmi scheduling cpu
+        - come si ottimizza il tempo di attesa?
+        - come si calcola la stima?
+    - come si muovono i process isu windows?
+    - MMU
+    - sostituzione pagine LRU
+    - lettori scrittori con semafori come si muovono?
+    - round robin
+    - fat e come viene conservata
+    - starvation e sua soluzione
+    - monitor residente
+    - I/O sincrono e asincrono
+    - funzionamento dual mode
+        - come gestisce la system call?
+    - dispatcher
+    - privilegio minimo
+    - scheduler
+    - domini in multics
+    - page fault
+    - grafo di stato dei processi
 
 **<u>2017 2018</u>**
 
@@ -771,95 +824,52 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - protezione di IO
     - SystemCall e passaggio dei parametri
 
-**<u>2020 2021</u>**
+**<u>2016 2017</u>**
 
 - Anonimi
-    - algoritmo banchiere
-    - System Call? che interfaccia è?
-    - memoria condivisa scambio di messaggi (comunicazione)
-    - diagramma di stato dei processi
-        - perché si passa da waiting a pronto?
-        - tempo di attesa come si calcola?
-    - paginazione gerarchica
-    - scheduling del disco
-    - mutua esclusione: gestione e soluzioni
-    - algoritmi scheduling cpu Linux
-    - algoritmi scheduling cpu
-        - come si ottimizza il tempo di attesa?
-        - come si calcola la stima?
-    - come si muovono i process isu windows?
-    - MMU
-    - sostituzione pagine LRU
-    - lettori scrittori con semafori come si muovono?
-    - round robin
-    - fat e come viene conservata
-    - starvation e sua soluzione
-    - monitor residente
-    - I/O sincrono e asincrono
-    - funzionamento dual mode
-        - come gestisce la system call?
-    - dispatcher
-    - privilegio minimo
-    - scheduler
-    - domini in multics
-    - page fault
-    - grafo di stato dei processi
+    - Lettori scrittori
+    - File System: allocazione concatenata
+    - Struttura Raid e bit di parità
+    - Sistem Call
 
-**<u>2022 2023</u>**
+**<u>2014 2015</u>**
 
-- Anonimo 1
-    - si consiglia di consultare tale documentazione <http://www.swappa.it/wiki/Uni/SistemiOperativi#s5> ringrazio per la segnalazione
-    - System Call
-    - Differenza Starvation e Deadlock
-    - Descrizione Vari Scheduler
-    - Condizioni affinché si verifichi il Deadlock
-    - Cosa succede quando si crea un file e la si inserisce in una cartella
-- Anonimo 2
-    - Syscall solaris
-    - scheduling della cpu
-    - scheduling solaris e multics
-    - fork vs clone linux
-    - spiegazione permesso minimo
-    - sistema permessi solaris e multics
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - dischi raid
-    - worm di morris
-    - memoria virtuale
-    - mmu
-    - dma
-    - page fault
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - Scheduling di Windows/solaris/linux
-    - Pcb
-    - Differenza tra paginazione e paginazione con memoria virtuale
-
-**<u>2025 2026</u>**
-
-- Anonimo
-    - formula CPU burst
-    - Starvation e Aging
-    - Allocazione dei processi in Memoria Centrale (allocazione contigua, frammentazione, segmentazione, paginazione)
-
-### Marozzo
+- Cataldo
+    - frammentazione della memoria e metodi per evitarla
+    - kernel modulare
+    - micro kernel
+    - produttore-consumatore in java
+    - esercizi sulla precedenza dei processi con i semafori
 
 **<u>Anno non classificato</u>**
 
 - Luigi De Marco
-    - Esercizio sui semafori
+    - Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD
 
-**<u>2016 2017</u>**
+### Marozzo
 
-- Anonimi
-    - Due Thread tipo A e tipo B che stampano AB AAB AAAB AAAAB
-    - race condition
-    - problemi interleaving
-    - collezioni non sincronizzate
+**<u>2024 2025</u>**
+
+- Anonimo
+    - Standard POSIX
+    - Test&Set
+    - Legge di Amdahl
+    - Inventare grafo con deadlock che si risolve
+    - Tabella delle pagine implementata con gli hash (+ disegno dello schema)
+    - Confronto segmentazione / paginazione
+    - Schema della memoria virtuale in IA-32
+    - Algoritmo della seconda chance (versione con 2 bit)
+
+**<u>2022 2023</u>**
+
+- Giuseppe
+    - raid 10 e 01
+    - ssd
+    - disegnare le varie implementazioni della tabella delle pagine (hash, normale e invertita)
+    - esempio grafo assegnazione risorse dove c'è un ciclo ma non c'è deadlock
+    - argomento a piacere
+    - le varie generazioni dei sistemi operativi (primo ppt)
+    - anomalia di belady cos'è
 
 **<u>2017 2018</u>**
 
@@ -901,30 +911,36 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Cosa succede a basso livello quando si incrementa una variabile
     - diagramma di stato nei thread di java
 
-**<u>2022 2023</u>**
+**<u>2016 2017</u>**
 
-- Giuseppe
-    - raid 10 e 01
-    - ssd
-    - disegnare le varie implementazioni della tabella delle pagine (hash, normale e invertita)
-    - esempio grafo assegnazione risorse dove c'è un ciclo ma non c'è deadlock
-    - argomento a piacere
-    - le varie generazioni dei sistemi operativi (primo ppt)
-    - anomalia di belady cos'è
+- Anonimi
+    - Due Thread tipo A e tipo B che stampano AB AAB AAAB AAAAB
+    - race condition
+    - problemi interleaving
+    - collezioni non sincronizzate
+
+**<u>Anno non classificato</u>**
+
+- Luigi De Marco
+    - Esercizio sui semafori
+
+### Orsino
 
 **<u>2024 2025</u>**
 
 - Anonimo
-    - Standard POSIX
-    - Test&Set
-    - Legge di Amdahl
-    - Inventare grafo con deadlock che si risolve
-    - Tabella delle pagine implementata con gli hash (+ disegno dello schema)
-    - Confronto segmentazione / paginazione
-    - Schema della memoria virtuale in IA-32
-    - Algoritmo della seconda chance (versione con 2 bit)
+    - Cos’è il Compare and Swap e dove l’abbiamo visto
+    - Monitor nativi in java
+    - Esercizio lettori e scrittori con i monitor nativi e ordine di risveglio FIFO
+    - Politiche di risveglio Hansen&Hoare
 
-### Orsino
+**<u>2023 2024</u>**
+
+- Anonimi
+    - struttura logica dei semafori
+    - thread demone
+    - deadlock
+        - tra 2 semafori con pseudocodice
 
 **<u>2022 2023</u>**
 
@@ -937,22 +953,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimo 2
     - Cosa fa la signalAll e a cosa viene usata negli esercizi
     - esercizio lettori scrittori usando lock e condition
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - struttura logica dei semafori
-    - thread demone
-    - deadlock
-        - tra 2 semafori con pseudocodice
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - Cos’è il Compare and Swap e dove l’abbiamo visto
-    - Monitor nativi in java
-    - Esercizio lettori e scrittori con i monitor nativi e ordine di risveglio FIFO
-    - Politiche di risveglio Hansen&Hoare
 
 ### Cantini
 
@@ -1012,14 +1012,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Francesco Scarcello
 
-**<u>2015 2016</u>**
-
-- Giovanni :
-    - Bubble sort
-    - Ricerca Binaria
-    - esercizio compito modificato
-    - esercizio con matrici
-
 **<u>2017 2018</u>**
 
 - Davide
@@ -1036,9 +1028,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Ricerca binaria
     - complessità asintotica
 
-**<u>2021 2022</u>**
+**<u>2015 2016</u>**
+
+- Giovanni :
+    - Bubble sort
+    - Ricerca Binaria
+    - esercizio compito modificato
+    - esercizio con matrici
 
 ### Filippo Furfaro
+
+**<u>2021 2022</u>**
 
 - Agatino
     - differenza tra aliasing, shallow copy e deep copy (esempio e spiegazione)
@@ -1079,68 +1079,14 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Filippo Furfaro
 
-**<u>2013 2014</u>**
+**<u>2024 2025</u>**
 
-- PsykeDady
-    - Chiave esterna, definizione formale
-    - metodi di Hashing lineare ( indicizzazione su Disco )
-    - Hashing estendibile ( indicizzazione su Disco )
-
-**<u>2017 2018</u>**
-
-- Alberto
-    - definizione di dipendenza funzionale
-    - hashing estendibile
-    - definizione di schedule serializzabile
-    - schedule con proprietà recoverable e cascadeless
-- Simone
-    - tecnica di hashing statico e indirizzamento aperto
-    - Esempio di schedule view serializzable ma non confict serializzable
-- Francesco
-    - serializzabilita
-    - esempio schedule view serializzable ma non conflict serializzable
-    - 2PL cosa implica
-    - cascadeless con esempio
-    - hashing lineare
-    - livelli di isolamento
-- Anonime
-    - Definizione di Schedule Serializzable
-    - Esempio di schedule non vs ma serializzable
-    - dimostrazione 2PL => CS
-    - phantom read
-    - read commited
-
-**<u>2018 2019</u>**
-
-- Batman
-    - condizione per essere serializzabile
-    - schedule cascadeless e recoverable
-- Anonimi
-    - chiede due domende tra le tre essenziali :
-        - dipendenza funzionale
-        - chiave primaria
-        - chiave candidat
-    - differenza tra bree e bplus tree
-- Giovanni Giordano
-    - quando due schedule sono serializzabili
-    - quando due transizioni sono in conflitto
-- Anonimi
-    - Filippo Furfaro
-    - agglomerazione primaria
-- Viviana
-    - Schedule serializzabile
-    - schedule seriale
-    - Phantom read
-    - dimostrazione 2pl implica confict equivalence
-
-**<u>2020 2021</u>**
-
-- Anonimi
-    - Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
-    - perché non viene garantita in 2pl la cascadeless
-- Samuele
-    - Definizione di schedule serializzabile
-    - Esempio di schedule view-serializable ma non conflict-serializable
+- Anonimo
+    - schedule serializzabile
+    - protocollo 2pl
+    - condizione di recuperabilità
+    - strong e stong strict 2pl
+    - esempio di schedule serializzabile ma non view
 
 **<u>2023 2024</u>**
 
@@ -1168,33 +1114,76 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Cos'è la strong strict 2pl
     - Parlare della 2pl
 
-**<u>2024 2025</u>**
+**<u>2020 2021</u>**
 
-- Anonimo
-    - schedule serializzabile
-    - protocollo 2pl
-    - condizione di recuperabilità
-    - strong e stong strict 2pl
-    - esempio di schedule serializzabile ma non view
+- Anonimi
+    - Phantom read, quando uno schedule è serializzabile ed 2pl che proprietà garantisce e perché
+    - perché non viene garantita in 2pl la cascadeless
+- Samuele
+    - Definizione di schedule serializzabile
+    - Esempio di schedule view-serializable ma non conflict-serializable
 
-### Amelio Alessia
+**<u>2018 2019</u>**
 
-**<u>2016 2017</u>**
-
-- Carmen
-    - btree
-    - definizione chiave esterna
+- Batman
+    - condizione per essere serializzabile
+    - schedule cascadeless e recoverable
+- Anonimi
+    - chiede due domende tra le tre essenziali :
+        - dipendenza funzionale
+        - chiave primaria
+        - chiave candidat
+    - differenza tra bree e bplus tree
+- Giovanni Giordano
+    - quando due schedule sono serializzabili
+    - quando due transizioni sono in conflitto
+- Anonimi
+    - Filippo Furfaro
+    - agglomerazione primaria
+- Viviana
+    - Schedule serializzabile
+    - schedule seriale
+    - Phantom read
+    - dimostrazione 2pl implica confict equivalence
 
 **<u>2017 2018</u>**
 
-- FrancescoLux
-    - B-tree
-    - procedura inserimento
-    - come è formato un nodo all'interno del b-tree
+- Alberto
+    - definizione di dipendenza funzionale
+    - hashing estendibile
+    - definizione di schedule serializzabile
+    - schedule con proprietà recoverable e cascadeless
+- Simone
+    - tecnica di hashing statico e indirizzamento aperto
+    - Esempio di schedule view serializzable ma non confict serializzable
+- Francesco
+    - serializzabilita
+    - esempio schedule view serializzable ma non conflict serializzable
+    - 2PL cosa implica
+    - cascadeless con esempio
+    - hashing lineare
+    - livelli di isolamento
+- Anonime
+    - Definizione di Schedule Serializzable
+    - Esempio di schedule non vs ma serializzable
+    - dimostrazione 2PL => CS
+    - phantom read
+    - read commited
+
+**<u>2013 2014</u>**
+
+- PsykeDady
+    - Chiave esterna, definizione formale
+    - metodi di Hashing lineare ( indicizzazione su Disco )
+    - Hashing estendibile ( indicizzazione su Disco )
+
+### Amelio Alessia
+
+**<u>2019 2020</u>**
+
+- Viviana
     - definizione di chiave primaria
-- Anonimi:
-    - Definizione formale di dipendenza funzionale
-    - Procedura di inserimento in un B-Tree
+    - differenza tra btree e b+tree
 
 **<u>2018 2019</u>**
 
@@ -1209,34 +1198,33 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - dov'è il contenuto informativo
     - chiave esterna
 
-**<u>2019 2020</u>**
+**<u>2017 2018</u>**
 
-- Viviana
+- FrancescoLux
+    - B-tree
+    - procedura inserimento
+    - come è formato un nodo all'interno del b-tree
     - definizione di chiave primaria
-    - differenza tra btree e b+tree
+- Anonimi:
+    - Definizione formale di dipendenza funzionale
+    - Procedura di inserimento in un B-Tree
+
+**<u>2016 2017</u>**
+
+- Carmen
+    - btree
+    - definizione chiave esterna
 
 ### Giuseppe Nardiello
 
-**<u>2020 2021</u>**
+**<u>2024 2025</u>**
 
-- Anonimi
-    - una delle tre definizioni formali chiave, chiave esterna, dipendenza funzionale
-    - differenza tra hashing statico e dinamico ed in particolare hashing estendibile
-- Samuele
-    - Definizione di dipendenza funzionale
-    - B-tree e inserimento di un elemento con nodo foglia pieno
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
-    - Rimozione di una chiave in un b-tree
-    - Struttura di un nodo di un b-tree
-    - Differenza tra hashing statico e dinamico
-    - Hashing lineare
-    - differenza tra hashing statico e dinamico
+- Anonimo
+    - definizioni di chiave esterna, chiave candidata
+    - inserimento/rimozione nel btree con esempio
     - hashing virtuale
-        - definizione e rappresentazione grafica
+    - hashing estendibile
+    - differenza tra hashing e btree
 
 **<u>2023 2024</u>**
 
@@ -1252,14 +1240,26 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Differenza tra hashing e b-tree
     - Hashing dinamico lineare
 
-**<u>2024 2025</u>**
+**<u>2023 2024</u>**
 
-- Anonimo
-    - definizioni di chiave esterna, chiave candidata
-    - inserimento/rimozione nel btree con esempio
+- Anonimi
+    - Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
+    - Rimozione di una chiave in un b-tree
+    - Struttura di un nodo di un b-tree
+    - Differenza tra hashing statico e dinamico
+    - Hashing lineare
+    - differenza tra hashing statico e dinamico
     - hashing virtuale
-    - hashing estendibile
-    - differenza tra hashing e btree
+        - definizione e rappresentazione grafica
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - una delle tre definizioni formali chiave, chiave esterna, dipendenza funzionale
+    - differenza tra hashing statico e dinamico ed in particolare hashing estendibile
+- Samuele
+    - Definizione di dipendenza funzionale
+    - B-tree e inserimento di un elemento con nodo foglia pieno
 
 ## Calcolatori Elettronici
 
@@ -1287,51 +1287,59 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Folino Gianluigi
 
-**<u>2015 2016</u>**
+**<u>2024 2025</u>**
 
-- Cataldo
-    - NFS mount ed export
-    - permessi degli utenti e quote assegnate
-    - visualizzare processi e albero processi
-    - gentoo
-
-**<u>2016 2017</u>**
-
-- Marco
-    - Il meccanismo dei puntatori in C
-        - differenze con java
-        - esercizio in C
-    - system call di linux
-    - python
-        - Differenza tra dizionari e set in python
-        - esercizio
-
-**<u>2017 2018</u>**
-
-- Alberto
-    - quote e comandi correlati
-    - nfs
-
-**<u>2018 2019</u>**
-
-- Anonimi
-    - Samba
-    - Storia di linux
-    - NFS
-    - Comandi Bash
-    - Amministrazione linux
-    - mount
-- Arbrane97
-    - cosa è una sistem call
+- Anonimo
+    - apt
     - repository
-    - fstab
+    - permessi in android
+    - permessi in Linux
+    - storia di Linux
+    - gradi di libertà
+    - distribuzioni
+    - intent impliciti ed espliciti
+    - processo demone/superdemone
 
-**<u>2019 2020</u>**
+**<u>2023 2024</u>**
 
-- Viviana
-    - configurazione NFS lato server
-    - Descrizione dei puntatori dinamici in C
-    - problema del segmentation fault
+- Anonimo
+    - Cosa sono le distribuzioni.
+    - Cosa sono le repository.
+    - Parlare del file system structure di linux.
+    - A cosa servono /home e /etc
+    - Cos'è apt-get.
+    - Cosa fanno apt-get update, upgrade, install, remove.
+    - Come si cambiano le repository ad apt.
+    - Storia di linux.
+    - Parlare dei processi, stati e processi demone, zombie e orfano.
+    - Cos'è l'init system.
+
+**<u>2022 2023</u>**
+
+- Anonimo
+    - Cos'è il file in etc/apt/source
+    - Processi in C
+    - Perché bisogna evitare di creare processi orfani
+    - A cosa serve il file /etc/apt/source
+    - Processi in C
+    - Demoni
+    - pipe nel terminale
+    - permessi
+    - varie domande sullo scritto
+
+**<u>2021 2022</u>**
+
+- Alfredo
+    - Permessi degli utenti e dei gruppi cosa sono?
+    - Che differenza c'è tra un file .txt ed un file .bin
+    - Demoni
+    - Processi, cosa sono e come funzionano
+    - Come si installano i pacchetti da repository
+    - Le quote del disco cosa sono ed a cosa servono
+    - cos'è il protocollo Samba?
+- Anonimi
+    - permessi dei file
+    - file system linux
 
 **<u>2020 2021</u>**
 
@@ -1365,59 +1373,51 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - file system (cartelle, gerarchia ecc.) e cartella proc
     - nfs
 
-**<u>2021 2022</u>**
+**<u>2019 2020</u>**
 
-- Alfredo
-    - Permessi degli utenti e dei gruppi cosa sono?
-    - Che differenza c'è tra un file .txt ed un file .bin
-    - Demoni
-    - Processi, cosa sono e come funzionano
-    - Come si installano i pacchetti da repository
-    - Le quote del disco cosa sono ed a cosa servono
-    - cos'è il protocollo Samba?
+- Viviana
+    - configurazione NFS lato server
+    - Descrizione dei puntatori dinamici in C
+    - problema del segmentation fault
+
+**<u>2018 2019</u>**
+
 - Anonimi
-    - permessi dei file
-    - file system linux
-
-**<u>2022 2023</u>**
-
-- Anonimo
-    - Cos'è il file in etc/apt/source
-    - Processi in C
-    - Perché bisogna evitare di creare processi orfani
-    - A cosa serve il file /etc/apt/source
-    - Processi in C
-    - Demoni
-    - pipe nel terminale
-    - permessi
-    - varie domande sullo scritto
-
-**<u>2023 2024</u>**
-
-- Anonimo
-    - Cosa sono le distribuzioni.
-    - Cosa sono le repository.
-    - Parlare del file system structure di linux.
-    - A cosa servono /home e /etc
-    - Cos'è apt-get.
-    - Cosa fanno apt-get update, upgrade, install, remove.
-    - Come si cambiano le repository ad apt.
-    - Storia di linux.
-    - Parlare dei processi, stati e processi demone, zombie e orfano.
-    - Cos'è l'init system.
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - apt
+    - Samba
+    - Storia di linux
+    - NFS
+    - Comandi Bash
+    - Amministrazione linux
+    - mount
+- Arbrane97
+    - cosa è una sistem call
     - repository
-    - permessi in android
-    - permessi in Linux
-    - storia di Linux
-    - gradi di libertà
-    - distribuzioni
-    - intent impliciti ed espliciti
-    - processo demone/superdemone
+    - fstab
+
+**<u>2017 2018</u>**
+
+- Alberto
+    - quote e comandi correlati
+    - nfs
+
+**<u>2016 2017</u>**
+
+- Marco
+    - Il meccanismo dei puntatori in C
+        - differenze con java
+        - esercizio in C
+    - system call di linux
+    - python
+        - Differenza tra dizionari e set in python
+        - esercizio
+
+**<u>2015 2016</u>**
+
+- Cataldo
+    - NFS mount ed export
+    - permessi degli utenti e quote assegnate
+    - visualizzare processi e albero processi
+    - gentoo
 
 ### Emilio Greco
 
@@ -1436,28 +1436,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - differenza tra stack e heap
 
 ### Ianni
-
-**<u>2017 2018</u>**
-
-- Anonimo
-    - Demoni
-    - problemi in un esercizio
-    - esercizi
-
-**<u>2018 2019</u>**
-
-- Anonimi
-    - Esercizi C
-    - Esercizi bash
-    - Esercizi errati nel compito
-    - string.h
-    - spiegazione di cosa fanno vari esercizi
-    - comandi linux (reindirizzamento stdin stdout)
-- Arbrane97
-    - struct
-    - Union
-    - cron
-    - typedef
 
 **<u>2020 2021</u>**
 
@@ -1492,6 +1470,28 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - cos'è una system call
     - come funzionano i processi (gerarchia padre figlio e cose così)
 
+**<u>2018 2019</u>**
+
+- Anonimi
+    - Esercizi C
+    - Esercizi bash
+    - Esercizi errati nel compito
+    - string.h
+    - spiegazione di cosa fanno vari esercizi
+    - comandi linux (reindirizzamento stdin stdout)
+- Arbrane97
+    - struct
+    - Union
+    - cron
+    - typedef
+
+**<u>2017 2018</u>**
+
+- Anonimo
+    - Demoni
+    - problemi in un esercizio
+    - esercizi
+
 ### Folino e Ianni
 
 **<u>2017 2018</u>**
@@ -1518,6 +1518,16 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2023 2024</u>**
 
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Software libero e open source
+        - Ci sono limitazioni sulla possibilità di vendere il codice modificato?
+        - Risposta: no, non è indicato nelle quattro libertà
+    - Symbolic links (hard e soft)
+        - Cos'è un inode?
+    - Parlare del buffer overflow
+    - Cos'è cron? Parlare pure delle sottocartelle
 - Anonimo
     - Broadcast Receiver
     - Ciclo di vita dell' Activity
@@ -1528,22 +1538,11 @@ malloc(sizeof(int)*(i+1));
     - Dove si trovano i sorgenti dei pacchetti
     - Cosa fanno apt-get Upgrade e apt-get Update
 
-**<u>2025 2026</u>**
-
-- X
-    - Software libero e open source
-        - Ci sono limitazioni sulla possibilità di vendere il codice modificato?
-        - Risposta: no, non è indicato nelle quattro libertà
-    - Symbolic links (hard e soft)
-        - Cos'è un inode?
-    - Parlare del buffer overflow
-    - Cos'è cron? Parlare pure delle sottocartelle
-
 ### Francesco Scala
 
 **<u>2025 2026</u>**
 
-- X
+- Anonimo
     - Domanda sul possibile uso di una callback in una parte dell'applicazione
     - Distinzione tra JIT e AOT
         - Risposta: è la stessa differenza che c'è tra l'esecuzione interpretata e compilata
@@ -1571,22 +1570,47 @@ malloc(sizeof(int)*(i+1));
 
 ### Angelo Furfaro
 
-**<u>2015 2016</u>**
+**<u>2023 2024</u>**
 
 - Anonimi
-    - Builder pattern
-    - Agile Development
-    - Scrum
-    - Principio di sostituibilità di Liskov
-- PsykeDady
-    - Diagramma UML delle classi e degli eventi del pattern Decorator
-    - Modello di vita a spirale
-    - Pattern Observer, scopi utilizzi ed esempi in java
-- Gianpaolo Cascardo
-    - Pattern Decorator
-    - Pattern Abstract Factory
+    - nota: chi è del corso nuovo studia gRPC al posto di java RMI, per chi è del corso vecchio (non è possibile ricordare chi ha seguito il corso vecchio o il nuovo) va esplicitato all'orale e gli verrà chiesto RMI al posto di gRPC. Si confermano sempre le stesse domande fatte negli anni precedenti
+- PHEELMASTER
+    - differenza tra connettore di storia e storia profonda (con esempio pratico)
+    - regola del minimo antenato comune
+    - principio di liskov
+    - dbc inheritance, precondizioni e postcondizioni di sottoclassi
+
+**<u>2022-2023</u>**
+
+- Anonimi
+    - Abstract Factory (Class + Sequence Diagram)
+    - Builder (Class Diagram + Esempi) + Modello a spirale + Criteri di test
+        - Decorator (Class + Sequence Diagram) + Differenze tra Aggregazione e Composizione
+        - Visitor + Observer
+        - Visitor (Class Diagram) + Decorator (Class Diagram) + Implicazione Logica + Design by Contract (pre-condizioni su sottoclassi)
+        - Abstract Factory
+    - Decorator (Class + Sequence) + Criteri di testing
+    - Abstract Factory + Elementi di Class Diagram e Sequence Diagram + Design by Contract
+    - Observer + Principi Ingegneria del Software + Modularità + Criteri di testing
+    - Observer + Change Manager + Sequence Diagram con frame di interazione (su Observer)
+    - Builder (Class + Sequence Diagram) + State Diagram + Design by Contract (implicazione logica)
+    - Composite (Class Diagram)+ Scrum + Decorator (Sequence Diagram)
+    - Visitor (Class + Sequence) + Activity Diagram + Principio di Liskov
+    - Decorator (+ problema della superclasse)
+    - Builder (Class + Sequence)
+    - Bridge (Class)
+        - Strategy + Template Method
+        - Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
+
+**<u>2019 2020</u>**
+
+- Anonimi
+    - Flyweight
     - Design By Contract
-    - Proprietà di un software
+        - precondizioni
+        - post condeizioni
+        - invarianti
+        - sequence digram su vari pattern
 
 **<u>2018 2019</u>**
 
@@ -1622,49 +1646,78 @@ malloc(sizeof(int)*(i+1));
     - rmi con parte implementazione java
     - Liskov: un esempio che non rispetta il principio
 
-**<u>2019 2020</u>**
+**<u>2015 2016</u>**
 
 - Anonimi
-    - Flyweight
+    - Builder pattern
+    - Agile Development
+    - Scrum
+    - Principio di sostituibilità di Liskov
+- PsykeDady
+    - Diagramma UML delle classi e degli eventi del pattern Decorator
+    - Modello di vita a spirale
+    - Pattern Observer, scopi utilizzi ed esempi in java
+- Gianpaolo Cascardo
+    - Pattern Decorator
+    - Pattern Abstract Factory
     - Design By Contract
-        - precondizioni
-        - post condeizioni
-        - invarianti
-        - sequence digram su vari pattern
-
-**<u>2022-2023</u>**
-
-- Anonimi
-    - Abstract Factory (Class + Sequence Diagram)
-    - Builder (Class Diagram + Esempi) + Modello a spirale + Criteri di test
-        - Decorator (Class + Sequence Diagram) + Differenze tra Aggregazione e Composizione
-        - Visitor + Observer
-        - Visitor (Class Diagram) + Decorator (Class Diagram) + Implicazione Logica + Design by Contract (pre-condizioni su sottoclassi)
-        - Abstract Factory
-    - Decorator (Class + Sequence) + Criteri di testing
-    - Abstract Factory + Elementi di Class Diagram e Sequence Diagram + Design by Contract
-    - Observer + Principi Ingegneria del Software + Modularità + Criteri di testing
-    - Observer + Change Manager + Sequence Diagram con frame di interazione (su Observer)
-    - Builder (Class + Sequence Diagram) + State Diagram + Design by Contract (implicazione logica)
-    - Composite (Class Diagram)+ Scrum + Decorator (Sequence Diagram)
-    - Visitor (Class + Sequence) + Activity Diagram + Principio di Liskov
-    - Decorator (+ problema della superclasse)
-    - Builder (Class + Sequence)
-    - Bridge (Class)
-        - Strategy + Template Method
-        - Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - nota: chi è del corso nuovo studia gRPC al posto di java RMI, per chi è del corso vecchio (non è possibile ricordare chi ha seguito il corso vecchio o il nuovo) va esplicitato all'orale e gli verrà chiesto RMI al posto di gRPC. Si confermano sempre le stesse domande fatte negli anni precedenti
-- PHEELMASTER
-    - differenza tra connettore di storia e storia profonda (con esempio pratico)
-    - regola del minimo antenato comune
-    - principio di liskov
-    - dbc inheritance, precondizioni e postcondizioni di sottoclassi
+    - Proprietà di un software
 
 ### Francesco Blefari
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
+    - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
+    - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
+    - I Repeated Test in JUnit: cosa sono e a cosa servono.
+    - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
+    - gRPC: tipi di comunicazione:
+    - unary
+    - server streaming
+    - client streaming
+    - bidirectional streaming
+- NNCBTV e Anonimi
+    - Pattern Observer
+        - Diagramma UML e Sequence Diagram
+    - Pattern Builder
+        - Diagramma UML e Sequence Diagram
+    - Pattern Command
+        - Diagramma UML e Sequence Diagram
+    - Pattern Mediator
+        - Diagramma UML e Implementazione in Java
+    - Pattern Chain of Responsibility
+        - Diagramma UML e Implementazione in Java
+    - Pattern DTO
+        - Diagramma UML
+    - Pattern Strategy
+        - Diagramma UML
+    - Pattern Composite
+        - Diagramma UML
+    - Quando un criterio di testing si dice più fine di un altro matematicamente
+    - Come si esprime matematicamente un programma software e come si sviluppano dei testcase
+    - Manifesto Agile
+    - Product Backlog
+    - Product Owner
+    - Cosa sono gli entry e gli exit point
+    - A cosa serve git rebase
+    - A cosa serve Test
+    - A cosa serve ParametrizedTest
+    - A cosa serve CSVSource
+    - A cosa serve Nested
+    - GRPC come si implementa lo stub lato server
+    - Interfaccia Proto & Protobuff
+    - Processo di sviluppo a spirale
+    - Quali pattern abbiamo visto a lezione
+    - A quale pattern associ l'executor framework
+    - Tipi di comunicazione GRPC
+    - Tipi di comunicazione, asincorna e sincrona
+    - Cosa fa git rebase
+    - Come mantiene le versioni git e quanto è lungo lo sha-1
+    - Come avviene la merge in git
+    - Cos'è uno sprint
+    - test
 
 **<u>2023 2024</u>**
 
@@ -1714,73 +1767,6 @@ malloc(sizeof(int)*(i+1));
     - extreme programming e pair programming
     - design by contract ( esempi di pre e post condizioni)
         - invariante
-
-**<u>2025 2026</u>**
-
-- Anonimo
-    - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
-    - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
-    - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
-    - I Repeated Test in JUnit: cosa sono e a cosa servono.
-    - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
-    - gRPC: tipi di comunicazione:
-    - unary
-    - server streaming
-    - client streaming
-    - bidirectional streaming
-
-- Anonimo
-    - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
-    - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
-    - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
-    - I Repeated Test in JUnit: cosa sono e a cosa servono.
-    - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
-    - gRPC: tipi di comunicazione:
-    - unary
-    - server streaming
-    - client streaming
-    - bidirectional streaming
-
-- NNCBTV e Anonimi
-    - Pattern Observer
-        - Diagramma UML e Sequence Diagram
-    - Pattern Builder
-        - Diagramma UML e Sequence Diagram
-    - Pattern Command
-        - Diagramma UML e Sequence Diagram
-    - Pattern Mediator
-        - Diagramma UML e Implementazione in Java
-    - Pattern Chain of Responsibility
-        - Diagramma UML e Implementazione in Java
-    - Pattern DTO
-        - Diagramma UML
-    - Pattern Strategy
-        - Diagramma UML
-    - Pattern Composite
-        - Diagramma UML
-    - Quando un criterio di testing si dice più fine di un altro matematicamente
-    - Come si esprime matematicamente un programma software e come si sviluppano dei testcase
-    - Manifesto Agile
-    - Product Backlog
-    - Product Owner
-    - Cosa sono gli entry e gli exit point
-    - A cosa serve git rebase
-    - A cosa serve Test
-    - A cosa serve ParametrizedTest
-    - A cosa serve CSVSource
-    - A cosa serve Nested
-    - GRPC come si implementa lo stub lato server
-    - Interfaccia Proto & Protobuff
-    - Processo di sviluppo a spirale
-    - Quali pattern abbiamo visto a lezione
-    - A quale pattern associ l'executor framework
-    - Tipi di comunicazione GRPC
-    - Tipi di comunicazione, asincorna e sincrona
-    - Cosa fa git rebase
-    - Come mantiene le versioni git e quanto è lungo lo sha-1
-    - Come avviene la merge in git
-    - Cos'è uno sprint
-    - test
 
 ### Argento Luciano
 
@@ -1840,9 +1826,9 @@ malloc(sizeof(int)*(i+1));
 - Anonimi
     - differenza tra composizione
 
-**<u>2020 2021</u>**
-
 ### Angelo Furfaro
+
+**<u>2020 2021</u>**
 
 - Oscar
     - Visitor
@@ -1866,9 +1852,9 @@ malloc(sizeof(int)*(i+1));
     - composite diagram
     - Rup e modello a spirale
 
-**<u>2022 2023</u>**
-
 ### Angelo Furfaro
+
+**<u>2022 2023</u>**
 
 - Anonimo
     - Decorator
@@ -1910,42 +1896,17 @@ malloc(sizeof(int)*(i+1));
 
 ### Paolo Trunfio
 
-**<u>2015 2016</u>**
+**<u> 2022 2023 </u>**
 
-- Cataldo
-    - Bittorrent
-    - Peer to Peer
-    - firewall
-    - chiave pubblica e privata
-        - teoria
-        - esempio
-
-**<u>2017 2018</u>**
-
-- Anonimi
-    - Go back
-    - Selective repeat
-        - differenze tra i due
-        - chi utilizza i buffer in ricezione e perché
-        - cosa implementa tcp
-        - similitudini con gbn e sr
-
-**<u>2018 2019</u>**
-
-- Anonimi
-    - controllo di flusso TCP
-    - Autenticazione con chiave simmetrica
-    - perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
-    - Smurfing
-    - Multiplexing demultiplexing TCP e UDP
-    - WebServices
+- Anonimo
+    - Blockchain
+    - Calcolo dell' EstimatedRtt e perché cresce esponenzialmente
+    - Protocollo 4.0 autenticazione dei messaggi
     - Nat
-    - Chord
-    - email sicure
-- Alredo
-    - Chiave simmetrica e asimmetrica
-    - Protocollo ap4.0
-        - se il nonce rimane invariato che succede ?
+    - Port forwarding
+    - One time pad
+    - Cifratura polialfabetica
+    - Fly finger e stabilize nel chord
 
 **<u> 2021 2022 </u>**
 
@@ -2007,32 +1968,44 @@ malloc(sizeof(int)*(i+1));
     - Differenza in http tra connessioni persistenti e non persistenti
     - Definizioni di reti di calcolatori e dire una rete di computer interconessi che non sono indipendenti (spoiler: cluster)
 
-**<u> 2022 2023 </u>**
-
-- Anonimo
-    - Blockchain
-    - Calcolo dell' EstimatedRtt e perché cresce esponenzialmente
-    - Protocollo 4.0 autenticazione dei messaggi
-    - Nat
-    - Port forwarding
-    - One time pad
-    - Cifratura polialfabetica
-    - Fly finger e stabilize nel chord
-
-### Fabrizio Marozzo
-
-**<u> 2023 2024 </u>**
+**<u>2018 2019</u>**
 
 - Anonimi
-    - cosa è il blockchain
-    - come funziona il DES (n bit della chiave, iterazioni…)
-    - schema invio messaggio garantendo sicurezza, integrità e autenticazione
-    - Chord (aggiunta/caduta nodi)
-    - Differenza tra container e macchina virtuale.
-    - Blockchain: Algoritmo consenso, Struttura blocco, Proof of work.
-    - Smart contract.
-    - Processo per l'invio di mail sicure.
-    - Differenza tra Soap e Rest dei web service.
+    - controllo di flusso TCP
+    - Autenticazione con chiave simmetrica
+    - perché go back n e selective repeat sono sia a livello di trasporto che a livello di collegamento
+    - Smurfing
+    - Multiplexing demultiplexing TCP e UDP
+    - WebServices
+    - Nat
+    - Chord
+    - email sicure
+- Alredo
+    - Chiave simmetrica e asimmetrica
+    - Protocollo ap4.0
+        - se il nonce rimane invariato che succede ?
+
+**<u>2017 2018</u>**
+
+- Anonimi
+    - Go back
+    - Selective repeat
+        - differenze tra i due
+        - chi utilizza i buffer in ricezione e perché
+        - cosa implementa tcp
+        - similitudini con gbn e sr
+
+**<u>2015 2016</u>**
+
+- Cataldo
+    - Bittorrent
+    - Peer to Peer
+    - firewall
+    - chiave pubblica e privata
+        - teoria
+        - esempio
+
+### Fabrizio Marozzo
 
 **<u>2024 2025</u>**
 
@@ -2065,6 +2038,19 @@ malloc(sizeof(int)*(i+1));
     - smart contract
     - hash
         - cosa sono, esempi e applicazioni su blockchain
+
+**<u> 2023 2024 </u>**
+
+- Anonimi
+    - cosa è il blockchain
+    - come funziona il DES (n bit della chiave, iterazioni…)
+    - schema invio messaggio garantendo sicurezza, integrità e autenticazione
+    - Chord (aggiunta/caduta nodi)
+    - Differenza tra container e macchina virtuale.
+    - Blockchain: Algoritmo consenso, Struttura blocco, Proof of work.
+    - Smart contract.
+    - Processo per l'invio di mail sicure.
+    - Differenza tra Soap e Rest dei web service.
 
 ### Cristian Cosentino
 
@@ -2117,14 +2103,11 @@ malloc(sizeof(int)*(i+1));
 
 ### Pasquale Legato
 
-**<u>2015 2016</u>**
+**<u>2018 2019</u>**
 
-- Cataldo
-    - statistiche ordinamento
-    - covarianza
-    - prove di bernoulli
-    - modelli di bernoulli
-    - modello di erlang per sistemi m out of n
+- FrancescoLux
+    - Prove di bernoulli (ipotesi)
+    - Retta di regressione ( come ci si arriva)
 
 **<u>2017 2018</u>**
 
@@ -2138,11 +2121,14 @@ malloc(sizeof(int)*(i+1));
     - modello pc
     - intervallo di confidenza
 
-**<u>2018 2019</u>**
+**<u>2015 2016</u>**
 
-- FrancescoLux
-    - Prove di bernoulli (ipotesi)
-    - Retta di regressione ( come ci si arriva)
+- Cataldo
+    - statistiche ordinamento
+    - covarianza
+    - prove di bernoulli
+    - modelli di bernoulli
+    - modello di erlang per sistemi m out of n
 
 ### Rina Mary Mazza
 
@@ -2183,14 +2169,6 @@ malloc(sizeof(int)*(i+1));
 
 ### Costanzo Sandra
 
-**<u>2015 2016</u>**
-
-- Cataldo
-    - fibra ottica
-    - leggi di snell
-    - linee di trasmissione con fasori
-    - equazione telegrafisti
-
 **<u>2017 2018</u>**
 
 - FrancescoLux
@@ -2212,6 +2190,14 @@ malloc(sizeof(int)*(i+1));
     - tipi di adattamento come si collega lo stub
     - circuitazione
 
+**<u>2015 2016</u>**
+
+- Cataldo
+    - fibra ottica
+    - leggi di snell
+    - linee di trasmissione con fasori
+    - equazione telegrafisti
+
 ## Elettronica
 
 ### Felice Crupi
@@ -2228,35 +2214,6 @@ malloc(sizeof(int)*(i+1));
 ## Ricerca Operativa
 
 ### Maria Flavia Monaco
-
-**<u>2016 2017</u>**
-
-- Anna Ricca
-    - Dualità forte
-    - Dualità forte nel simplesso su rete
-    - (per calcolare i costi ridotti senza usare tableau come fare nell algoritmo del simplesso su rete–>pag7 simplesso su rete)
-    - Matrici TUM
-    - Formulare problema flusso minimo
-    - simplesso su rete
-    - sab in un problema di flusso su rete
-        - albero ricoprente
-    - trasformazioni da Base ad albero e viceversa
-    - Definizione costi ridotti
-    - Algoritmo di Ford&F. con dimostrazione
-
-**<u>2017 2018</u>**
-
-- Anonimi
-    - condizioni di arresto simplesso
-    - Calcolo costi ridotti
-    - matrici TUM
-        - importanza
-    - Problema del commesso viaggiatore
-    - Teorema fondamentale PL
-    - Perché l'insieme delle soluzioni ottime ha cardinalità 1 o inf se non vuoto
-    - `s.a.b. <=> vertice per omega(P)`
-    - dimostrazione del lemma : albero ricoprente → triangolare superiore
-    - base per flusso di rete
 
 **<u>2018 2019</u>**
 
@@ -2311,6 +2268,35 @@ malloc(sizeof(int)*(i+1));
     - dal continuo si passa a variabili {0,1} come mai ? (stessa domanda di sopra)
         - grazie alla matrice TUM
 
+**<u>2017 2018</u>**
+
+- Anonimi
+    - condizioni di arresto simplesso
+    - Calcolo costi ridotti
+    - matrici TUM
+        - importanza
+    - Problema del commesso viaggiatore
+    - Teorema fondamentale PL
+    - Perché l'insieme delle soluzioni ottime ha cardinalità 1 o inf se non vuoto
+    - `s.a.b. <=> vertice per omega(P)`
+    - dimostrazione del lemma : albero ricoprente → triangolare superiore
+    - base per flusso di rete
+
+**<u>2016 2017</u>**
+
+- Anna Ricca
+    - Dualità forte
+    - Dualità forte nel simplesso su rete
+    - (per calcolare i costi ridotti senza usare tableau come fare nell algoritmo del simplesso su rete–>pag7 simplesso su rete)
+    - Matrici TUM
+    - Formulare problema flusso minimo
+    - simplesso su rete
+    - sab in un problema di flusso su rete
+        - albero ricoprente
+    - trasformazioni da Base ad albero e viceversa
+    - Definizione costi ridotti
+    - Algoritmo di Ford&F. con dimostrazione
+
 ### Marcello Sammarra
 
 **<u>2024 2025</u>**
@@ -2323,14 +2309,27 @@ malloc(sizeof(int)*(i+1));
 
 ### Maria Flavia Monaco e Marcello Sammarra
 
-**<u>2015 2016</u>**
+**<u>2024 2025</u>**
 
-- Cataldo
-    - dualità forte
+- Anonimo
+    - Teorema di pl
+    - Prima fase del simplesso con caratteristiche del problema artificiale
+    - Problema di flusso di costo minimo formulazione e perché rango\<m-1
 
-**<u>2021 2022</u>**
+**<u>2023 2024</u>**
+
+- Anonimo
+    - Dualità: da un PL in forma standard come si arriva al problema duale
+    - Dimostrazione teorema dualità debole (passaggi inversi della domanda precedente)
+    - Corollari della dualità debole (due)
+    - Teorema dualità forte e dimostrazione
+    - Teorema fondamentale della PL (cenno collegato alla domanda di prima)
+    - Algoritmo del simplesso su rete applicato al flusso di costo minimo (secondo esercizio albero ricoprente)
+    - Teorema della caratterizzazione della basi
 
 ### Giallombardo
+
+**<u>2021 2022</u>**
 
 - Anonimo
     - Teorema fondamentale della PL
@@ -2372,23 +2371,10 @@ malloc(sizeof(int)*(i+1));
         - Teoria della dualità
         - Coeff di costo ridotto per mcfp
 
-**<u>2023 2024</u>**
+**<u>2015 2016</u>**
 
-- Anonimo
-    - Dualità: da un PL in forma standard come si arriva al problema duale
-    - Dimostrazione teorema dualità debole (passaggi inversi della domanda precedente)
-    - Corollari della dualità debole (due)
-    - Teorema dualità forte e dimostrazione
-    - Teorema fondamentale della PL (cenno collegato alla domanda di prima)
-    - Algoritmo del simplesso su rete applicato al flusso di costo minimo (secondo esercizio albero ricoprente)
-    - Teorema della caratterizzazione della basi
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - Teorema di pl
-    - Prima fase del simplesso con caratteristiche del problema artificiale
-    - Problema di flusso di costo minimo formulazione e perché rango\<m-1
+- Cataldo
+    - dualità forte
 
 ## Reti Logiche e Calcolatori
 
@@ -2548,6 +2534,22 @@ malloc(sizeof(int)*(i+1));
 
 ### Sciuzi Berardino
 
+**<u>2017 2018</u>**
+
+- FrancescoLux
+    - teorema moltiplicatori di lagrange
+    - teorema di liouville
+- Giovanni Giordano
+    - teorema moltiplicatori lagrange
+    - teorema dei residui
+- Anonime:
+    - liouville
+    - teorema residui
+    - integrali curvilinei complessi
+    - dini
+    - c1 implica differenziabilita
+    - serie di fourier
+
 **<u>2016 2017</u>**
 
 - Anonimi
@@ -2567,22 +2569,6 @@ malloc(sizeof(int)*(i+1));
     - come si ricavano le condizioni di cauchy Riemann
     - integrale di superfice
 
-**<u>2017 2018</u>**
-
-- FrancescoLux
-    - teorema moltiplicatori di lagrange
-    - teorema di liouville
-- Giovanni Giordano
-    - teorema moltiplicatori lagrange
-    - teorema dei residui
-- Anonime:
-    - liouville
-    - teorema residui
-    - integrali curvilinei complessi
-    - dini
-    - c1 implica differenziabilita
-    - serie di fourier
-
 ### Colao
 
 **<u>2017 2018</u>**
@@ -2593,15 +2579,6 @@ malloc(sizeof(int)*(i+1));
     - dimostrazione che di funzione `Analitica->olomorfa` e viceversa
 
 ### De Luca
-
-**<u>2017 2018</u>**
-
-- Anonimi
-    - calcolo del lavoro in un campo vetoriale data una curva qualsiasi e due punti
-    - irrotazionalità e campo conservativo
-    - definizione di rotore e uso
-    - data un equazione differenziale che la soluzione in un punto dato
-    - verificare data un eq differenziale che la soluzione in un punto dato è unica (verifica della lipchitzianità)
 
 **<u>2021 2022</u>**
 
@@ -2636,6 +2613,15 @@ malloc(sizeof(int)*(i+1));
     - data una superficie posta solo sul piano xy quindi con versore normale diretto lungo z e dato un campo vettoriale F=(x,y,z) trovare il flusso attraverso tale superficie (fa 0)
     - dati y1=e^3x ed y2=e^-3x verificare se fossero l.i. e trovare un'ode omogenea di cui fossero soluzione
     - esercizio preso dalle lezioni: Calcolare lo spettro delle frequenze della funzione definita da -T a T
+
+**<u>2017 2018</u>**
+
+- Anonimi
+    - calcolo del lavoro in un campo vetoriale data una curva qualsiasi e due punti
+    - irrotazionalità e campo conservativo
+    - definizione di rotore e uso
+    - data un equazione differenziale che la soluzione in un punto dato
+    - verificare data un eq differenziale che la soluzione in un punto dato è unica (verifica della lipchitzianità)
 
 ### Viviana Solferino
 
@@ -2680,34 +2666,42 @@ malloc(sizeof(int)*(i+1));
 
 ### Libero Nigro
 
-**<u>2016 2017</u>**
+**<u>2023 2024</u>**
 
-- Anonime
-    - Reverse (invertire l'ordine ) di una linked list con puntatore singolo e testa ricorsiva
-    - Equals di albero binario ricorsivo
-    - Dimostrazione merge sort
-    - svolgere esercizi del compito
-    - utilizzare backtracking
+- Anonimo
+    - ricerca binaria ricorsiva -disegnare un heap e un albero dati dei valori
+    - Generici
+    - add su albero
+    - differenza tra abr e heap
+    - iteratore dell’albero
+    - Eccezioni di un Iterator
+    - Quando non è possibile fare una remove
+    - Polimorfismo
+    - heapsort
+    - differenza tra algoritmo iterativo e ricorsivo
+    - visita inOrder da ricorsivo ad iterativo
+    - ordinare una Linkedlist con il listIterator seguendo bubblesort
+    - Ordinare 2 liste con il merge
+    - coda astratta, iteratore della coda, coda concreta
 
-**<u>2017 2018</u>**
+**<u>2022 2023</u>**
 
-- Giovanni
-    - stack
-    - stack astratto
-    - stack concatenato
-    - dimostrazione merge sort
-    - backtracking
-    - Nota molto importante: per l'orale di questo esame, rispetto ad altri esami in cui può sorgere il dubbio su cosa può essere chiesto all'orale, consiglio immensamente lo studio completo del libro perché toglie ogni tipo di dubbio su quale tematica può essere trattata. Il libro è la fonte principale per capire cosa mette all'appello scritto e orale. Non esiste altro metodo di studio migliore, in quanto il professore segue alla lettera il suo stesso libro che consiglia. Il libro è fondamentale per qualsiasi tipo di curiosità, si può dire che qualsiasi tipo di pagina può essere fonte di domanda all'orale.
-
-**<u>2019 2020</u>**
-
-- Andrea
-    - Operazioni di Visite sugli alberi
-    - Calcolo determinante utilizzando il metodo di LaPlace
-    - Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente
-    - Lettura file interi con modifica in loco
-    - Metodi add/remove su LinkedList Ricorsiva
-    - Metodi add/remove/iterator su Heap
+- Anonimo
+    - Regex
+    - albero delle espressioni
+    - ricerca binaria ricorsiva
+    - implementazione di uno stack generico con un array
+    - visita a livelli
+    - algoritmo per calcolare l'altezza di un albero ricorsiva
+    - metodi di listIterator
+    - differenza file tipati e file binari
+    - come ordinare gli elementi all'interno di un file
+    - definizione regex
+    - regex monomio
+    - visita post ordine albero
+    - complessità algoritmi bubble sort selection sort insertion sort e quale tra questi è il migliore
+    - spiegazione heap e come rimuovere il minimo
+    - spiegazione albero binario di ricerca
 
 **<u>2021 2022</u>**
 
@@ -2747,42 +2741,34 @@ malloc(sizeof(int)*(i+1));
     - peso della ricorsione
     - da ricorsivo a iterativo tramite stack della visita inOrder su abr
 
-**<u>2022 2023</u>**
+**<u>2019 2020</u>**
 
-- Anonimo
-    - Regex
-    - albero delle espressioni
-    - ricerca binaria ricorsiva
-    - implementazione di uno stack generico con un array
-    - visita a livelli
-    - algoritmo per calcolare l'altezza di un albero ricorsiva
-    - metodi di listIterator
-    - differenza file tipati e file binari
-    - come ordinare gli elementi all'interno di un file
-    - definizione regex
-    - regex monomio
-    - visita post ordine albero
-    - complessità algoritmi bubble sort selection sort insertion sort e quale tra questi è il migliore
-    - spiegazione heap e come rimuovere il minimo
-    - spiegazione albero binario di ricerca
+- Andrea
+    - Operazioni di Visite sugli alberi
+    - Calcolo determinante utilizzando il metodo di LaPlace
+    - Ricerca Binaria su array A contenente oggetti T comparabili da implementare ricorsivamente
+    - Lettura file interi con modifica in loco
+    - Metodi add/remove su LinkedList Ricorsiva
+    - Metodi add/remove/iterator su Heap
 
-**<u>2023 2024</u>**
+**<u>2017 2018</u>**
 
-- Anonimo
-    - ricerca binaria ricorsiva -disegnare un heap e un albero dati dei valori
-    - Generici
-    - add su albero
-    - differenza tra abr e heap
-    - iteratore dell’albero
-    - Eccezioni di un Iterator
-    - Quando non è possibile fare una remove
-    - Polimorfismo
-    - heapsort
-    - differenza tra algoritmo iterativo e ricorsivo
-    - visita inOrder da ricorsivo ad iterativo
-    - ordinare una Linkedlist con il listIterator seguendo bubblesort
-    - Ordinare 2 liste con il merge
-    - coda astratta, iteratore della coda, coda concreta
+- Giovanni
+    - stack
+    - stack astratto
+    - stack concatenato
+    - dimostrazione merge sort
+    - backtracking
+    - Nota molto importante: per l'orale di questo esame, rispetto ad altri esami in cui può sorgere il dubbio su cosa può essere chiesto all'orale, consiglio immensamente lo studio completo del libro perché toglie ogni tipo di dubbio su quale tematica può essere trattata. Il libro è la fonte principale per capire cosa mette all'appello scritto e orale. Non esiste altro metodo di studio migliore, in quanto il professore segue alla lettera il suo stesso libro che consiglia. Il libro è fondamentale per qualsiasi tipo di curiosità, si può dire che qualsiasi tipo di pagina può essere fonte di domanda all'orale.
+
+**<u>2016 2017</u>**
+
+- Anonime
+    - Reverse (invertire l'ordine ) di una linked list con puntatore singolo e testa ricorsiva
+    - Equals di albero binario ricorsivo
+    - Dimostrazione merge sort
+    - svolgere esercizi del compito
+    - utilizzare backtracking
 
 ### Cicirelli Franco
 
@@ -2830,14 +2816,6 @@ malloc(sizeof(int)*(i+1));
 
 ### Astorino Annabella
 
-**<u>2016 2017</u>**
-
-- Giovanni
-    - proprietà dei logaritmi
-    - ellisse
-    - dimostrazione
-    - formule chiuse e aperte
-
 **<u>2017 2018</u>**
 
 - Davide
@@ -2846,6 +2824,14 @@ malloc(sizeof(int)*(i+1));
     - proprietà trigonometriche
     - dimostrazioni trigonometriche
     - proprietà equazioni logaritmiche esponenziali
+
+**<u>2016 2017</u>**
+
+- Giovanni
+    - proprietà dei logaritmi
+    - ellisse
+    - dimostrazione
+    - formule chiuse e aperte
 
 ## Algebra lineare e matematica discreta
 
@@ -2869,14 +2855,18 @@ malloc(sizeof(int)*(i+1));
 
 ### Yaroslav Sergeyev
 
-**<u>2017 2018</u>**
+**<u>2024 2025</u>**
 
-- Davide
-    - basi, applicazioni e spazi vettoriali
-    - esercizi di calcolo combinatorio
-    - esercizi di insiemistica
-    - dimostrazioni per assurdo e/o contrapposizione
-    - dimostrazione del teorema delle dimensioni
+- Anonimo
+    - Dimostrazione di tangente
+    - principio di skolemizzazione
+    - principio di generalizzazione universale
+    - proprietà logaritmi
+    - append in prolog
+    - MCD in prolog
+    - Valore assoluto in prolog
+    - Lenght in prolog
+    - member in prolog
 
 **<u>2020 2021</u>**
 
@@ -2945,18 +2935,14 @@ malloc(sizeof(int)*(i+1));
     - iniettivitità,suriettività e bigettività
     - Rango di una matrice
 
-**<u>2024 2025</u>**
+**<u>2017 2018</u>**
 
-- Anonimo
-    - Dimostrazione di tangente
-    - principio di skolemizzazione
-    - principio di generalizzazione universale
-    - proprietà logaritmi
-    - append in prolog
-    - MCD in prolog
-    - Valore assoluto in prolog
-    - Lenght in prolog
-    - member in prolog
+- Davide
+    - basi, applicazioni e spazi vettoriali
+    - esercizi di calcolo combinatorio
+    - esercizi di insiemistica
+    - dimostrazioni per assurdo e/o contrapposizione
+    - dimostrazione del teorema delle dimensioni
 
 ### Francesco Liguori
 
@@ -3175,38 +3161,6 @@ malloc(sizeof(int)*(i+1));
 
 ### De Rango
 
-**<u>2017 2018</u>**
-
-- Anonimi
-    - fast retrasmitt e fast recovery
-    - perché nel calcolo RTT si tiene conto della deviazione media
-    - Cosa succede ad RTT in caso di reti lente rispetto a veloci
-
-**<u>2018 2019</u>**
-
-- Giovanni Giordano
-    - Slow Start
-    - Congestion Avoidance
-    - TCP
-    - congestione
-    - media
-    - varianza
-    - jacomson
-    - karn
-    - SRTT
-- Anonimi
-    - fast retrasmitt
-    - fast recovery
-
-**<u>2023 2024</u>**
-
-- Anonimo
-    - ipv4 come funziona e l'unità dati come è fatta
-    - header del protocollo TCP com'è fatto
-    - slow start, congestion avoidance
-    - dimostrazione efficienza go-back-n
-    - Jacobson come si ottiene RTO
-
 **<u>2024 2025</u>**
 
 - Anonimo
@@ -3225,6 +3179,38 @@ malloc(sizeof(int)*(i+1));
     - funzionalità ipv4 e formato del pacchetto (ihl, tos, total length,...)
     - Slow start, congestion avoidance, con le formule
         - spiegare perché nello slow start esce la formula con la serie geometrica
+
+**<u>2023 2024</u>**
+
+- Anonimo
+    - ipv4 come funziona e l'unità dati come è fatta
+    - header del protocollo TCP com'è fatto
+    - slow start, congestion avoidance
+    - dimostrazione efficienza go-back-n
+    - Jacobson come si ottiene RTO
+
+**<u>2018 2019</u>**
+
+- Giovanni Giordano
+    - Slow Start
+    - Congestion Avoidance
+    - TCP
+    - congestione
+    - media
+    - varianza
+    - jacomson
+    - karn
+    - SRTT
+- Anonimi
+    - fast retrasmitt
+    - fast recovery
+
+**<u>2017 2018</u>**
+
+- Anonimi
+    - fast retrasmitt e fast recovery
+    - perché nel calcolo RTT si tiene conto della deviazione media
+    - Cosa succede ad RTT in caso di reti lente rispetto a veloci
 
 ### Tropea, Santamaria o Raimondo
 

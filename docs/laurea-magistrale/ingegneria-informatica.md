@@ -111,6 +111,15 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Angiulli Fabrizio
 
+**<u>2023 2024</u>**
+
+- Anonimi
+    - VAE
+    - GAN
+    - agnostic PAC
+    - learnability
+    - svm
+
 **<u>2021 2022</u>**
 
 - Anonimi
@@ -126,15 +135,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Quale proprietà ha la cross entropy loss? Risposta: è una funzione convessa, si può applicare l'algoritmo di discesa del gradiente)
     - Principal Component Analysis (PCA)
     - (Di ogni argomento il professore richiede passaggi, formule matematiche ed eventuali grafici)
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - VAE
-    - GAN
-    - agnostic PAC
-    - learnability
-    - svm
 
 ## Data Mining
 
@@ -153,20 +153,40 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Francesco Lupia
 
-**<u>2020 2021</u>**
+**<u>2022 2023</u>**
 
 - Anonimi
-    - Reverse Shell e Bind Shell
-    - sql injection con script php (cosa è e cosa fa)
-    - challenge web con loose comparison
-    - differenze attacchi x32 bit e x64 bit
-        - rop chain e bruteforce sul indirizzo di ritorno
-    - Metasploit cosa è
-    - tool simili a metasploit per windows
-    - challenge web che presentava degli endpoint e bisognava loggarsi come admin
-    - challenge web con form di login e registrazione
-    - format string
-    - privilege escalation windows: cosa faresti?
+    - come si fa a creare l'ambiente isolato di docker
+    - uso di docker
+    - Pass the hash e pass the ticket
+        - come si fa la privilege escalation?
+    - Active Directory
+        - come si chiama il computer principale?
+        - come si fa la privilege escalation?
+        - cosa è?
+        - è presente su un computer?
+    - come si esce da un ambiente docker?
+    - come gestisci i servizi in linux?
+- Anonimi
+    - Kerberos
+    - attacchi kerberos.
+    - Mimikatz.
+    - SSTI
+    - Active directory
+    - Tool per rubare l'hash
+    - Utente di dominio per Active directory
+- Anonimi
+    - ssti
+    - pass the hash
+    - kerberos
+    - docker
+        - ldap con attacchi
+        - rbash
+        - pass the ticket
+        - kerberoasting
+        - aes-reproasting
+        - Xss
+        - La configurazione rete per macchine virtuali e container
 
 **<u>2021 2022</u>**
 
@@ -217,40 +237,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - come prelevare password dal file sas?
         - pass the hash
 
-**<u>2022 2023</u>**
+**<u>2020 2021</u>**
 
 - Anonimi
-    - come si fa a creare l'ambiente isolato di docker
-    - uso di docker
-    - Pass the hash e pass the ticket
-        - come si fa la privilege escalation?
-    - Active Directory
-        - come si chiama il computer principale?
-        - come si fa la privilege escalation?
-        - cosa è?
-        - è presente su un computer?
-    - come si esce da un ambiente docker?
-    - come gestisci i servizi in linux?
-- Anonimi
-    - Kerberos
-    - attacchi kerberos.
-    - Mimikatz.
-    - SSTI
-    - Active directory
-    - Tool per rubare l'hash
-    - Utente di dominio per Active directory
-- Anonimi
-    - ssti
-    - pass the hash
-    - kerberos
-    - docker
-        - ldap con attacchi
-        - rbash
-        - pass the ticket
-        - kerberoasting
-        - aes-reproasting
-        - Xss
-        - La configurazione rete per macchine virtuali e container
+    - Reverse Shell e Bind Shell
+    - sql injection con script php (cosa è e cosa fa)
+    - challenge web con loose comparison
+    - differenze attacchi x32 bit e x64 bit
+        - rop chain e bruteforce sul indirizzo di ritorno
+    - Metasploit cosa è
+    - tool simili a metasploit per windows
+    - challenge web che presentava degli endpoint e bisognava loggarsi come admin
+    - challenge web con form di login e registrazione
+    - format string
+    - privilege escalation windows: cosa faresti?
 
 ### Angelo Furfaro
 
@@ -309,6 +309,44 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Michele Ianni
 
+**<u>2022 2023</u>**
+
+- Anonimi
+    - XSS
+    - CSRF
+    - Post scanning (varie domande su tcp scan, syn, ecc)
+    - ASLR
+    - Mitigazione Relro e differenze tra Partial Relro e Full Relro
+    - Got, plt, got patching e perché ci sono due tabelle anziché una sola
+    - XSS Dom-Based
+    - domanda sulla libc (quanti indirizzi ti servono per derandomizzare)
+    - Mitigazioni di SQL injection
+    - format string exploitation
+    - arp poisoning e mitigazione
+
+**<u>2021 2022</u>**
+
+- Anonimi
+    - format string
+    - xss
+        - le differenze tra i vari tipi di xss
+    - ARP poisoning
+    - port scanning
+        - FIN SCAN
+        - XMAS SCAN
+        - SYN SCAN
+    - ret2libc
+        - perché è meno conveniente rispetto alla code reuse?
+            - Perchè ret2libc non può essere utilizzata in caso di chiamate a due o più funzioni che posseggono uno o più parametri, mentre la code reuse sì
+    - Plt e got
+    - Xss
+    - Canary
+        - perché si usa il carattere 0
+    - Ropper
+    - Blind sql injection
+    - per rompere ASLR basta solo un offset, detto in un altro modo supponiamo di avere l’indirizzo della printf questo basta per derandomizzare l’intero spazio degli indirizzi o serve altro?
+        - Per rompere ASLR basta trovare un solo indirizzo della libc in quanto poi l'offset tra le funzioni è sempre uguale
+
 **<u>2020 2021</u>**
 
 - Giovanni Giordano
@@ -337,44 +375,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - generarlo senza utilizzare le funzioni vulnerabili
     - code reuse
     - Mitigazioni SQL injection
-
-**<u>2021 2022</u>**
-
-- Anonimi
-    - format string
-    - xss
-        - le differenze tra i vari tipi di xss
-    - ARP poisoning
-    - port scanning
-        - FIN SCAN
-        - XMAS SCAN
-        - SYN SCAN
-    - ret2libc
-        - perché è meno conveniente rispetto alla code reuse?
-            - Perchè ret2libc non può essere utilizzata in caso di chiamate a due o più funzioni che posseggono uno o più parametri, mentre la code reuse sì
-    - Plt e got
-    - Xss
-    - Canary
-        - perché si usa il carattere 0
-    - Ropper
-    - Blind sql injection
-    - per rompere ASLR basta solo un offset, detto in un altro modo supponiamo di avere l’indirizzo della printf questo basta per derandomizzare l’intero spazio degli indirizzi o serve altro?
-        - Per rompere ASLR basta trovare un solo indirizzo della libc in quanto poi l'offset tra le funzioni è sempre uguale
-
-**<u>2022 2023</u>**
-
-- Anonimi
-    - XSS
-    - CSRF
-    - Post scanning (varie domande su tcp scan, syn, ecc)
-    - ASLR
-    - Mitigazione Relro e differenze tra Partial Relro e Full Relro
-    - Got, plt, got patching e perché ci sono due tabelle anziché una sola
-    - XSS Dom-Based
-    - domanda sulla libc (quanti indirizzi ti servono per derandomizzare)
-    - Mitigazioni di SQL injection
-    - format string exploitation
-    - arp poisoning e mitigazione
 
 ## Business Intelligence
 
@@ -421,6 +421,29 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Paolo Trunfio
 
+**<u>2024 2025</u>**
+
+- OliG9
+    - UPC++ cos'è e a che modello fa riferimento
+    - Parlare di APGAS
+    - Esempio di calcolo del π con UPC++ visto in aula, descriverne in linea di massima il funzionamento
+    - HDFS
+    - Legge di Amdahl cos'è (con la cosa dell'andamento sovralineare)
+    - Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (amdahl)
+- Anonimo
+    - Upc ++
+    - Montecarlo con Upc ++
+    - Apache storm
+
+**<u>2023 2024</u>**
+
+- Anonimi
+    - Modello BSP
+    - Costo di BSP
+    - Pseudocodice funzioni map e reduce
+    - Topologia Storm
+    - nota: da quest'anno il programma è cambiato, non si fa più Hama e si studiano GraphX e Apache Airflow (slide su teams)
+
 **<u>2020 2021</u>**
 
 - Anonimi
@@ -460,32 +483,107 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Superlinear speedup:
     - architettura hdfs e file di configurazione delle risorse
 
-**<u>2023 2024</u>**
-
-- Anonimi
-    - Modello BSP
-    - Costo di BSP
-    - Pseudocodice funzioni map e reduce
-    - Topologia Storm
-    - nota: da quest'anno il programma è cambiato, non si fa più Hama e si studiano GraphX e Apache Airflow (slide su teams)
-
-**<u>2024 2025</u>**
-
-- OliG9
-    - UPC++ cos'è e a che modello fa riferimento
-    - Parlare di APGAS
-    - Esempio di calcolo del π con UPC++ visto in aula, descriverne in linea di massima il funzionamento
-    - HDFS
-    - Legge di Amdahl cos'è (con la cosa dell'andamento sovralineare)
-    - Come si fa a capire se abbiamo infiniti core quale sarà la prestazione del nostro programma (amdahl)
-- Anonimo
-    - Upc ++
-    - Montecarlo con Upc ++
-    - Apache storm
-
 ## Architetture e programmazione dei sistemi di elaborazione
 
 ### Fabrizio Angiulli
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Schema stack lru
+    - Confronto tempi delle varie macchine
+    - Macchina superscalare con ritiro in ordine
+    - Esempi di istruzioni su cui questa organizzazione funziona molto bene
+    - Clock fine
+    - Dimensionamento del clock
+    - Ottimizzazione del controllo microprogrammato
+    - Rete di bypass
+    - Organizzazioni delle cache
+
+**<u>2024 2025</u>**
+
+- Anonimi
+    - Cache
+    - Politiche di sostituzione
+    - Unità di controllo monociclo
+    - Segnali beta mono e multi
+    - Ottimizzazione controllo micro programmato
+    - Disegno stack lru
+    - Ottimizzazione controllo microprogrammato
+    - conflitti sui dati nella macchina pipeline
+    - conflitti nella pipeline: inserimento circuito di uguaglianza
+
+**<u>2020 2021</u>**
+
+- Erma_TV
+    - conflitti sulla pipeline quali sono e come si risolvono
+    - CISC RISC
+    - principi dei modelli di calcolatori di oggi
+    - UMA e NUMA con disegno della NUMA
+    - speculazione hardware come avviene e dove avviene
+    - attacco spectre
+    - c'è speculazione hardware nella pipeline? No, come vengono gestiti i salti?
+- Anonimi
+    - Cache
+    - Politiche di sostituzione
+    - Unità di controllo monociclo
+    - Segnali beta mono e multi
+    - Ottimizzazione controllo micro programmato
+    - Circuito di selezione degli indirizzi
+    - Disegno stack lru
+    - E disegno circuito di selezione degli indirizzi
+    - Ottimizzazione controllo microprogrammato
+    - Macchine parallele
+    - Nanoprogrammazione
+    - circuito propagazione nella superscalare
+        - circuito di bypass
+    - NUMA e UMA
+    - conflitti sul controllo
+    - conflitti nella pipeline: inserimento circuito di uguaglianza
+    - Confronto prestazionale fra tutte le macchine viste nel corso
+    - Clock fine
+    - Speculazione hw e cosa cambia rispetto alle predizioni della pipeline
+    - Cache multilivello e come cambia il calcolo del tempo medio di accesso alla memoria
+
+**<u>2019 2020</u>**
+
+- Anonimi
+    - Legge di Moore e barriera energia
+    - Macchina multiciclo
+    - ottimizzazione unità di controllo (control store programmato )
+    - Nano programmazione
+    - dimensionamento del clock nella multi ciclo microprogrammata
+    - differenze macchine cisc e risc
+    - principi di progettazione macchina risc
+    - schema monociclo e tabella segnali alpha
+    - conflitti sui dati pipeline
+    - emissione fuori ordine
+    - Rsr
+    - completamente ofuori ordine
+    - ritiro in ordine
+    - confliti sul controllo
+    - predizione dei salti a schema - branch prediction unità
+    - statistica a due bit con automa
+    - conflitti sulle super scalari
+    - buffer di ordinamento macchina super scalare
+    - speculazione hardware (epr)
+    - completamento fuori ordine macchina super scalare
+    - Macchina di Haswell
+    - cache completamente associativa
+    - cache a k vie
+    - politiche di sostituzione nella cache disegno
+    - differenza uma e numa
+    - multithreading hw : grana fine e grana grossa
+    - vantaggi multithreading simultaneo
+    - differenza multi threading hw e sw
+    - cpu vs gpu
+    - riduzione parallela
+    - open mp
+- Giovanni giordano
+    - cache a k vie
+    - cache a mappatura diretta
+    - tipi di threading
+    - conflitti pipeline
 
 **<u>2016 2017</u>**
 
@@ -534,121 +632,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - riduzione parallela
     - rsr
 
-**<u>2019 2020</u>**
-
-- Anonimi
-    - Legge di Moore e barriera energia
-    - Macchina multiciclo
-    - ottimizzazione unità di controllo (control store programmato )
-    - Nano programmazione
-    - dimensionamento del clock nella multi ciclo microprogrammata
-    - differenze macchine cisc e risc
-    - principi di progettazione macchina risc
-    - schema monociclo e tabella segnali alpha
-    - conflitti sui dati pipeline
-    - emissione fuori ordine
-    - Rsr
-    - completamente ofuori ordine
-    - ritiro in ordine
-    - confliti sul controllo
-    - predizione dei salti a schema - branch prediction unità
-    - statistica a due bit con automa
-    - conflitti sulle super scalari
-    - buffer di ordinamento macchina super scalare
-    - speculazione hardware (epr)
-    - completamento fuori ordine macchina super scalare
-    - Macchina di Haswell
-    - cache completamente associativa
-    - cache a k vie
-    - politiche di sostituzione nella cache disegno
-    - differenza uma e numa
-    - multithreading hw : grana fine e grana grossa
-    - vantaggi multithreading simultaneo
-    - differenza multi threading hw e sw
-    - cpu vs gpu
-    - riduzione parallela
-    - open mp
-- Giovanni giordano
-    - cache a k vie
-    - cache a mappatura diretta
-    - tipi di threading
-    - conflitti pipeline
-
-**<u>2020 2021</u>**
-
-- Erma_TV
-    - conflitti sulla pipeline quali sono e come si risolvono
-    - CISC RISC
-    - principi dei modelli di calcolatori di oggi
-    - UMA e NUMA con disegno della NUMA
-    - speculazione hardware come avviene e dove avviene
-    - attacco spectre
-    - c'è speculazione hardware nella pipeline? No, come vengono gestiti i salti?
-- Anonimi
-    - Cache
-    - Politiche di sostituzione
-    - Unità di controllo monociclo
-    - Segnali beta mono e multi
-    - Ottimizzazione controllo micro programmato
-    - Circuito di selezione degli indirizzi
-    - Disegno stack lru
-    - E disegno circuito di selezione degli indirizzi
-    - Ottimizzazione controllo microprogrammato
-    - Macchine parallele
-    - Nanoprogrammazione
-    - circuito propagazione nella superscalare
-        - circuito di bypass
-    - NUMA e UMA
-    - conflitti sul controllo
-    - conflitti nella pipeline: inserimento circuito di uguaglianza
-    - Confronto prestazionale fra tutte le macchine viste nel corso
-    - Clock fine
-    - Speculazione hw e cosa cambia rispetto alle predizioni della pipeline
-    - Cache multilivello e come cambia il calcolo del tempo medio di accesso alla memoria
-
-**<u>2024 2025</u>**
-
-- Anonimi
-    - Cache
-    - Politiche di sostituzione
-    - Unità di controllo monociclo
-    - Segnali beta mono e multi
-    - Ottimizzazione controllo micro programmato
-    - Disegno stack lru
-    - Ottimizzazione controllo microprogrammato
-    - conflitti sui dati nella macchina pipeline
-    - conflitti nella pipeline: inserimento circuito di uguaglianza
-
-**<u>2025 2026</u>**
-
-- Anonimo
-    - Schema stack lru
-    - Confronto tempi delle varie macchine
-    - Macchina superscalare con ritiro in ordine
-    - Esempi di istruzioni su cui questa organizzazione funziona molto bene
-    - Clock fine
-    - Dimensionamento del clock
-    - Ottimizzazione del controllo microprogrammato
-    - Rete di bypass
-    - Organizzazioni delle cache
-
 ## Linguaggi Formali
 
 ### Domenico Saccà
 
-**<u>2016 2017</u>**
+**<u>2020 2021</u>**
 
-- PsykeDady
-    - Compilazione della tipizzazione dinamica dei linguaggi
-    - tipizzazione dinamica che tipo di linguaggio è (risp: 2)
-    - cos'è un automa a pila
-- Marco Domenicano
-    - Tautologia
-    - conraddizione
-    - memorizzazione di un json in calculista
-    - esercizio del minimo locale in calculist e prolog
 - Anonimi
-    - come vengono memorizzati i json in memoria nella calculist
+    - high order function
+    - solito esempio con u(X),p(X),r(X),rc(X)
+    - universo di Herbrand, Base di Herbrand, modelli minimali
+    - verificare che 2 liste abbiano gli stessi elementi con lo stesso numero di occorrenze
+    - espressioni regolari
+    - unificatore generale
+    - Palindroma in Calculist
 
 **<u>2019 2020</u>**
 
@@ -675,23 +672,59 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - complessità del problema di stabilire se un programma logico ammette un unico modello (sol. *PSPACE*)
     - Verificare se due Liste L1 e L2 hanno gli stessi elementi
 
-**<u>2020 2021</u>**
+**<u>2016 2017</u>**
 
+- PsykeDady
+    - Compilazione della tipizzazione dinamica dei linguaggi
+    - tipizzazione dinamica che tipo di linguaggio è (risp: 2)
+    - cos'è un automa a pila
+- Marco Domenicano
+    - Tautologia
+    - conraddizione
+    - memorizzazione di un json in calculista
+    - esercizio del minimo locale in calculist e prolog
 - Anonimi
-    - high order function
-    - solito esempio con u(X),p(X),r(X),rc(X)
-    - universo di Herbrand, Base di Herbrand, modelli minimali
-    - verificare che 2 liste abbiano gli stessi elementi con lo stesso numero di occorrenze
-    - espressioni regolari
-    - unificatore generale
-    - Palindroma in Calculist
+    - come vengono memorizzati i json in memoria nella calculist
 
 ### Rullo
 
-**<u>2016 2017</u>**
+**<u>2021 2022</u>**
 
-- Marco Domenicano
-    - scrivere un programma in prolog che riceve una lista L, T, T1 e restituisce una lista di copia in output L1 così composta: se elemento di L corrisponde a T inserisci T1 altrimenti L
+- Anonimi
+    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
+    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2
+    - stessiElem(L1,L2), which holds if L1 and L2 have same elements
+    - Define a predicate occurrences(X,L,N) which holds iff the element X occurs N times in the list L
+    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
+    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2.
+    - Define a predicate occurs(L,N,X) which holds iff X is the element occurring in position N of the list L.
+    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - riceve 2 liste: true se le due liste contengono gli stessi elementi, anche con numero di occorrenze diverso
+    - ricerca binaria in prolog
+    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi p(1,2,[1,1,2,2],[2,2,2,2])
+    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. Si supponga disponibile il predicato member p([a,r,t],[t,s,m,n,a],L3,L4) p([a,r,t],[t,s,m,n,a],[a,t] ,[r])
+    - Scrivere un programma PROLOG per la seguente relazione: d(X,Y) se e solo se Y è la lista che si ottiene dalla lista X rimuovendo gli elementi di posizione pari
+    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. add_up_list([1,2,3,4], [1,3,6,10])
+    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
+    - Definire il predicato Prolog fib(N,F) che sia vero se F rappresenta l’N-esimo numero della sequenza di fibonacci. Ricordiamo che la sequenza di Fibonacci è definita dalle seguenti: f(0) = 1, f(1) = 1 ,f(N) = f(N - 1) + f(N - 2)
+    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. r([1,2,3],[3,4,5,6,1],L3,L4)
+    - Define a predicate reverse(L,K) which holds if and only if the list K is the reverse of the list L
+    - Define a predicate occurs(L,N,X) which holds iff X is the element occurring in position N of the list L
+    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. Example: ?- add_up_list([1,2,3,4],K). K = [1,3,6,10]
+    - Define a predicateoccurs(L,N,X)which holds iffXis the element occurring in positionNof the listL
+    - palindroma
+    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
+    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. Si supponga disponibile il predicato member.
+    - Define a predicate occurrences(X,L,N) which holds iff the element X occurs N times in the list L
+    - Definire il predicato Prolog fib(N,F) che sia vero se F rappresenta l’N-esimo numero della sequenza di fibonacci. Ricordiamo che la sequenza di Fibonacci è definita dalle seguenti: f(0) = 1, f(1) = 1, f(N) = f(N - 1) + f(N - 2)
+    - Scrivere un programma PROLOG per la seguente relazione: d(X,Y) se e solo se Y è la lista che si ottiene dalla lista X rimuovendo gli elementi di posizione pari.
+    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position
+    - Define a predicate merge(L,K,M) which, given two ordered lists of integers L and K, returns an ordered list M containing all the elements of L and K
+    - dd(f/2,x)/1: lambda y: f(y)+2*x: s2(x): 2*x; ^dd(s,3)(4); funzione lambda proposta
 
 **<u>2019 2020</u>**
 
@@ -768,95 +801,35 @@ rc(X):- u(X), not(r(X)).
     - scrivere un `q(X,L,Y)` che restituisce vero se **Y** è l'elemento successivo a **X** nella **L**
     - scrivere un `q(X,L,Y)` che restituisce vero solo se **Y** è nella posizione **X** di **L**
 
-**<u>2020 2021</u>**
+**<u>2016 2017</u>**
 
-- Anonimi
-    - riceve 2 liste: true se le due liste contengono gli stessi elementi, anche con numero di occorrenze diverso
-    - ricerca binaria in prolog
-    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi p(1,2,[1,1,2,2],[2,2,2,2])
-    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. Si supponga disponibile il predicato member p([a,r,t],[t,s,m,n,a],L3,L4) p([a,r,t],[t,s,m,n,a],[a,t] ,[r])
-    - Scrivere un programma PROLOG per la seguente relazione: d(X,Y) se e solo se Y è la lista che si ottiene dalla lista X rimuovendo gli elementi di posizione pari
-    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. add_up_list([1,2,3,4], [1,3,6,10])
-    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
-    - Definire il predicato Prolog fib(N,F) che sia vero se F rappresenta l’N-esimo numero della sequenza di fibonacci. Ricordiamo che la sequenza di Fibonacci è definita dalle seguenti: f(0) = 1, f(1) = 1 ,f(N) = f(N - 1) + f(N - 2)
-    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. r([1,2,3],[3,4,5,6,1],L3,L4)
-    - Define a predicate reverse(L,K) which holds if and only if the list K is the reverse of the list L
-    - Define a predicate occurs(L,N,X) which holds iff X is the element occurring in position N of the list L
-    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position. Example: ?- add_up_list([1,2,3,4],K). K = [1,3,6,10]
-    - Define a predicateoccurs(L,N,X)which holds iffXis the element occurring in positionNof the listL
-    - palindroma
-    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
-    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2. Si supponga disponibile il predicato member.
-    - Define a predicate occurrences(X,L,N) which holds iff the element X occurs N times in the list L
-    - Definire il predicato Prolog fib(N,F) che sia vero se F rappresenta l’N-esimo numero della sequenza di fibonacci. Ricordiamo che la sequenza di Fibonacci è definita dalle seguenti: f(0) = 1, f(1) = 1, f(N) = f(N - 1) + f(N - 2)
-    - Scrivere un programma PROLOG per la seguente relazione: d(X,Y) se e solo se Y è la lista che si ottiene dalla lista X rimuovendo gli elementi di posizione pari.
-    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position
-    - Define a predicate merge(L,K,M) which, given two ordered lists of integers L and K, returns an ordered list M containing all the elements of L and K
-    - dd(f/2,x)/1: lambda y: f(y)+2*x: s2(x): 2*x; ^dd(s,3)(4); funzione lambda proposta
-
-**<u>2021 2022</u>**
-
-- Anonimi
-    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
-    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2
-    - stessiElem(L1,L2), which holds if L1 and L2 have same elements
-    - Define a predicate occurrences(X,L,N) which holds iff the element X occurs N times in the list L
-    - Scrivere un programma Prolog che, dati due termini T e T1 e una lista L, produce una lista L1 identica a L in cui sono state sostituite tutte le istanze di T con T1, ossia la relazione: subst(T,T1,L,L1), dove L1 è la lista ottenuta da L sostituendo tutte le istanze del termine T con il termine T1 e lasciando invariati gli altri elementi
-    - Si scriva un programma Prolog che, prendendo in ingresso due liste L1 e L2, restituisca in uscita due liste L3 e L4 tali che L3 contenga gli elementi di L1 che appartengono anche a L2, mentre L4 contenga gli elementi di L1 che non appartengono a L2.
-    - Define a predicate occurs(L,N,X) which holds iff X is the element occurring in position N of the list L.
-    - Define a predicate add_up_list(L,K) which, given a list of integers L, returns a list of integers in which each element is the sum of all the elements in L up to the same position
+- Marco Domenicano
+    - scrivere un programma in prolog che riceve una lista L, T, T1 e restituisce una lista di copia in output L1 così composta: se elemento di L corrisponde a T inserisci T1 altrimenti L
 
 ## Informatica teorica
 
 ### Scarcello Francesco
 
-**<u>2016 2017</u>**
+**<u>2020 2021</u>**
 
-- PsykeDady
-    - Teorema di Cook
-    - Definizione di NP complete
-- Riccardo
-    - Partendo dal fatto che un problema è np-hard se qualsiasi problema np si riduce ad esso in tempo polinomiale
-        - domanda: come cambia la classe np-complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali invece che polinomiali?
-        - risposta: Poiché np-complete è l'intersezione di np-hard ed np, i problemi di tale classe rappresentano il sottoinsieme dei problemi più difficili tra quelli appartenenti ad np (risolvibili in p-time da una NTM). Se si cambia la definizione di hardness considerando trasformazioni esponenziali però si estende la classe a problemi exp-time, in quanto si altera il rapporto di complessità durante la riduzione che supporta la hardness: intuitivamente, una trasformazione esponenziale trasferirebbe parte della complessità nella riduzione, permettendo poi di risolvere il problema risultante in tempo polinomiale, dunque tali problemi ricadrebbero in questa versione modificata di np-complete.
+- Erma_TV
+    - Dimostrazione NP incluso in PSPACE
+    - Dimostrazione che Knapsack ammette un FPTAS
+    - Che sono le classi di approssimabilitá
 - Anonimi
-    - Teorema di Cook
-    - Definizioni di problema Np, Np-hard, Np-complete
-    - Dimostrazione di appartenenza di Hamiltonian Cycle a Np-Complete
-    - Dimostrazione di non appartenenza di Ld a RE
-    - Dimostrazione di appartenenza di Lu a RE
-    - Definizione di riduzione
-    - Teorema di Rice
-
-**<u>2017 2018</u>**
-
-- Marco
-    - Linguaggio Empty
-    - dimostrazione NP complete
-    - dimostrazione indipendent Set
-
-(continuare da 2016 2017 linguaggi formali sacca psykeS)
-
-**<u>2018 2019</u>**
-
-- Matteo Grollino
-    - Teorema Rice
-    - Teorema Cook
-    - Knapsack Intero e Frazionario
-    - subset sum
-    - approssimabilità knapsack
-        - Algoritmo pseudo-polinomiale
-        - FPTAS
-    - Definizione NP
-    - Definizione NP Hard
-    - Definizione NP Complete
-    - Dimostrazioen indecidibilità Lu e non appartenenza a RE di Ld
-    - Importanza riduzione polinomiale tra problemi decisionali
-    - Perché NP è incluso in PSpace con dimostrazione
-    - complessità parametrizzata con definizione di XP e FP
-    - Algoritmo FPT del vertex Cover
-- Gianpaolo
-    - Teorema 4.14.1 : un problema NP ha come definizione NP = {L|E R polinomialmente decidibile e bilanciata che caratterizza L } con Pl1 R=L (dimostrazione )
+    - Rice con dimostrazione
+    - FPT
+    - FPT con vertex cover (con le due soluzioni)
+    - Dimostrare che Subset Sum è NP-Hard
+    - Rice con dimostrazione
+    - NL con dimostrazione che è NP-Hard
+    - vertex cover
+    - indipendet set
+    - hamiltonian cycle
+    - NTM = DTM
+    - def di NP-complete (NP-HARD, NP)
+    - L appartiene ad NP se e solo se esiste una relazione caratteristica RL di L (parte \<=) e (parte =>)
+    - Bisaccia FPTAS
 
 **<u>2019 2020</u>**
 
@@ -901,121 +874,55 @@ rc(X):- u(X), not(r(X)).
     - FPT con VC e con knapsack
     - knapsack con programmazione dinamica
 
-**<u>2020 2021</u>**
+**<u>2018 2019</u>**
 
-- Erma_TV
-    - Dimostrazione NP incluso in PSPACE
-    - Dimostrazione che Knapsack ammette un FPTAS
-    - Che sono le classi di approssimabilitá
+- Matteo Grollino
+    - Teorema Rice
+    - Teorema Cook
+    - Knapsack Intero e Frazionario
+    - subset sum
+    - approssimabilità knapsack
+        - Algoritmo pseudo-polinomiale
+        - FPTAS
+    - Definizione NP
+    - Definizione NP Hard
+    - Definizione NP Complete
+    - Dimostrazioen indecidibilità Lu e non appartenenza a RE di Ld
+    - Importanza riduzione polinomiale tra problemi decisionali
+    - Perché NP è incluso in PSpace con dimostrazione
+    - complessità parametrizzata con definizione di XP e FP
+    - Algoritmo FPT del vertex Cover
+- Gianpaolo
+    - Teorema 4.14.1 : un problema NP ha come definizione NP = {L|E R polinomialmente decidibile e bilanciata che caratterizza L } con Pl1 R=L (dimostrazione )
+
+**<u>2017 2018</u>**
+
+- Marco
+    - Linguaggio Empty
+    - dimostrazione NP complete
+    - dimostrazione indipendent Set
+
+(continuare da 2016 2017 linguaggi formali sacca psykeS)
+
+**<u>2016 2017</u>**
+
+- PsykeDady
+    - Teorema di Cook
+    - Definizione di NP complete
+- Riccardo
+    - Partendo dal fatto che un problema è np-hard se qualsiasi problema np si riduce ad esso in tempo polinomiale
+        - domanda: come cambia la classe np-complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali invece che polinomiali?
+        - risposta: Poiché np-complete è l'intersezione di np-hard ed np, i problemi di tale classe rappresentano il sottoinsieme dei problemi più difficili tra quelli appartenenti ad np (risolvibili in p-time da una NTM). Se si cambia la definizione di hardness considerando trasformazioni esponenziali però si estende la classe a problemi exp-time, in quanto si altera il rapporto di complessità durante la riduzione che supporta la hardness: intuitivamente, una trasformazione esponenziale trasferirebbe parte della complessità nella riduzione, permettendo poi di risolvere il problema risultante in tempo polinomiale, dunque tali problemi ricadrebbero in questa versione modificata di np-complete.
 - Anonimi
-    - Rice con dimostrazione
-    - FPT
-    - FPT con vertex cover (con le due soluzioni)
-    - Dimostrare che Subset Sum è NP-Hard
-    - Rice con dimostrazione
-    - NL con dimostrazione che è NP-Hard
-    - vertex cover
-    - indipendet set
-    - hamiltonian cycle
-    - NTM = DTM
-    - def di NP-complete (NP-HARD, NP)
-    - L appartiene ad NP se e solo se esiste una relazione caratteristica RL di L (parte \<=) e (parte =>)
-    - Bisaccia FPTAS
+    - Teorema di Cook
+    - Definizioni di problema Np, Np-hard, Np-complete
+    - Dimostrazione di appartenenza di Hamiltonian Cycle a Np-Complete
+    - Dimostrazione di non appartenenza di Ld a RE
+    - Dimostrazione di appartenenza di Lu a RE
+    - Definizione di riduzione
+    - Teorema di Rice
 
 ### Palopoli Luigi
-
-**<u>2022 2023</u>**
-
-- Anonimo
-    - cosa sono i linguaggi regolari?
-    - quali sono le caratteristiche dell automa di un linguaggio regolare?
-    - quanti simboli leggo per volta?
-    - c è differenza di potenza di calcolo tra dfa e nfa? no, ma c'è differenza di? (risposta: taglia, dimensione, numero di stati)
-    - teorema di rice con dimostrazione
-    - teorema di savitch con dimostrazione
-    - parliamo del concetto di approssimabilità
-    - i problemi sono tutti approssimabili?
-    - cos'è la classe p/poly
-    - classe di complessità IP
-    - legame che c'è tra complessita di circuito e di tempo nei linguaggi
-    - un insieme r.e. lo possiamo definire in più modi, come e in che modo sono equivalenti le def(dimostrazione che la seconda def è equivalente alla terza)
-    - cos è la forma normale di Greinbach
-    - classe di complessita NC
-    - confronta NCI con ACI
-    - p/poly dove sta rispetto a NCI e ACI (non è sicuro sia questo confronto però è sicuro sia con p/poly)
-    - nel linguaggio mini C non abbiamo l'if-than-else, riusciamo a realizzarlo?
-    - pumping lemma linguaggi regolari
-    - se due linguaggi sono regolari la loro unione è regolare, dimostrazione
-    - consideriamo l'insieme degli indici delle funzioni totali, è ricorsivo r.e. o non r.e.
-    - parliamo di p spazio e indichiamone un linguaggio completo
-    - data una macchina che dati n elementi in input si vuole stabilire se il numero di elementi dell array sia pari o dispari, che complessità ha nello spazio
-    - esiste una forma normale per i problemi in psapzio che è anche la codifica di un problema completo, com è fatto
-    - domande su copspazio generiche
-    - teorema di toda (ultimo fatto nel corso)
-    - dimostriamo che un automa a pila deterministico è sempre equivalente a uno a pila non deterministico, non è così in realtà, mi fai vedere un linguaggio che separa?
-    - consideriamo ww^R perché l automa a pila det non è sufficiente in questo caso, dimostrazione
-    - Abbiamo due forme di automi a pila accettanti per stato finale e per stato vuoto, dimostrazione equivalenza che i linguaggi riconosciuti da uno sono "equivalenti" a quelli dell altro
-
-**<u>2023 2024</u>**
-
-- Anonimo
-    - MaxSat e perché è DeltaP2Completo
-    - MaxCol e perché è DeltaP2CompletoLog
-    - Funzione di Ackerman
-    - Exp e Nexp
-    - Esempio di problema PSpace Completo
-    - Gerarchia Polinomiale
-    - Teorema di Post
-    - Dimostrazione di equivalenza tra le due definizioni di Ricorsivamente enumerabile
-    - Teorema di Savitch
-    - cos'è Ppoly
-    - Ppoly contiene linguaggi indecidibili?
-    - Dimostrazione che se L è unario allora è PPoly
-    - Dimostrare che NP è chiuso rispetto alla stella di kleeny
-    - Teorema di Toda
-    - Cos'è #P
-    - Cos'è IP? È equivalente a PSpace?
-    - Simulare comportamento di una TM multi nastro con una multitraccia
-    - Pumping lemma per linguaggi ctx free
-    - Principio della piccionaia
-    - Come funziona la tecnica di riduzione per problemi indecidibili
-
-**<u>2024 2025</u>**
-
-- Anonimo 1
-    - L={<M>| M accetta numero antropomorfi}
-        - antropomorfi=sono numeri tali che n e n quadro terminano con stesso numero (potrebbe non chiamarsi antropomorfo ma è importante la sua struttura appena definita, esercizio che fa parte dello scritto)
-    - Rice
-    - Definire le composizioni.
-    - Combinazioni, esponenziazioni e ripetizioni.
-    - Insieme a zero.
-    - Identità, successore e l'altro argomento correlato
-        - Definire classe IP
-        - Np complete
-- Anonimo 2
-    - Rice,
-    - Dimostrazione che automa è uguale a regex
-    - Una caratteristica dei context free
-- Anonimo 3
-    - dimostrazione punto fisso
-- Anonimo 4
-    - Quanti sono i programmi di una funzione ricorsiva parziale data
-    - Funzione successore in quanti modi si può definire
-    - Differenza tra funzioni e programmi
-    - Il mapping tra programma e funzione è di 1 (ecco quante funzioni sa calcolare un programma)
-    - Il numero di programmi che calcola una funzione sono aleph 0 (tanti quanti i numeri naturali) perché si possono aggiungere aggiungere istruzioni farlocche ma la funzione che esegue il programma non cambia.
-    - La proprietà è un predicato che individua un insieme di f ricorsive parziali.
-    - A quale classe della gerarchia polinomiale equivale IP?
-    - Dimmi un problema delta P2 completo
-- Anonimo 5
-    - Teorema di rice e dimostrazione
-    - Teorema del punto fisso
-    - Teorema della ricorsione e dimostrazione
-    - Classe delta p 2
-    - Classe epsilon p 2
-    - Classe NC
-    - Classe IC
-    - Problema dell' Isomorfismo tra grafi e sua classe
 
 **<u>2025 2026</u>**
 
@@ -1096,9 +1003,126 @@ rc(X):- u(X), not(r(X)).
     - dimostrazione di NPSPACE contenuto in EXPTIME
     - grammatica in forma normale di Chomsky
 
+**<u>2024 2025</u>**
+
+- Anonimo 1
+    - L={<M>| M accetta numero antropomorfi}
+        - antropomorfi=sono numeri tali che n e n quadro terminano con stesso numero (potrebbe non chiamarsi antropomorfo ma è importante la sua struttura appena definita, esercizio che fa parte dello scritto)
+    - Rice
+    - Definire le composizioni.
+    - Combinazioni, esponenziazioni e ripetizioni.
+    - Insieme a zero.
+    - Identità, successore e l'altro argomento correlato
+        - Definire classe IP
+        - Np complete
+- Anonimo 2
+    - Rice,
+    - Dimostrazione che automa è uguale a regex
+    - Una caratteristica dei context free
+- Anonimo 3
+    - dimostrazione punto fisso
+- Anonimo 4
+    - Quanti sono i programmi di una funzione ricorsiva parziale data
+    - Funzione successore in quanti modi si può definire
+    - Differenza tra funzioni e programmi
+    - Il mapping tra programma e funzione è di 1 (ecco quante funzioni sa calcolare un programma)
+    - Il numero di programmi che calcola una funzione sono aleph 0 (tanti quanti i numeri naturali) perché si possono aggiungere aggiungere istruzioni farlocche ma la funzione che esegue il programma non cambia.
+    - La proprietà è un predicato che individua un insieme di f ricorsive parziali.
+    - A quale classe della gerarchia polinomiale equivale IP?
+    - Dimmi un problema delta P2 completo
+- Anonimo 5
+    - Teorema di rice e dimostrazione
+    - Teorema del punto fisso
+    - Teorema della ricorsione e dimostrazione
+    - Classe delta p 2
+    - Classe epsilon p 2
+    - Classe NC
+    - Classe IC
+    - Problema dell' Isomorfismo tra grafi e sua classe
+
+**<u>2023 2024</u>**
+
+- Anonimo
+    - MaxSat e perché è DeltaP2Completo
+    - MaxCol e perché è DeltaP2CompletoLog
+    - Funzione di Ackerman
+    - Exp e Nexp
+    - Esempio di problema PSpace Completo
+    - Gerarchia Polinomiale
+    - Teorema di Post
+    - Dimostrazione di equivalenza tra le due definizioni di Ricorsivamente enumerabile
+    - Teorema di Savitch
+    - cos'è Ppoly
+    - Ppoly contiene linguaggi indecidibili?
+    - Dimostrazione che se L è unario allora è PPoly
+    - Dimostrare che NP è chiuso rispetto alla stella di kleeny
+    - Teorema di Toda
+    - Cos'è #P
+    - Cos'è IP? È equivalente a PSpace?
+    - Simulare comportamento di una TM multi nastro con una multitraccia
+    - Pumping lemma per linguaggi ctx free
+    - Principio della piccionaia
+    - Come funziona la tecnica di riduzione per problemi indecidibili
+
+**<u>2022 2023</u>**
+
+- Anonimo
+    - cosa sono i linguaggi regolari?
+    - quali sono le caratteristiche dell automa di un linguaggio regolare?
+    - quanti simboli leggo per volta?
+    - c è differenza di potenza di calcolo tra dfa e nfa? no, ma c'è differenza di? (risposta: taglia, dimensione, numero di stati)
+    - teorema di rice con dimostrazione
+    - teorema di savitch con dimostrazione
+    - parliamo del concetto di approssimabilità
+    - i problemi sono tutti approssimabili?
+    - cos'è la classe p/poly
+    - classe di complessità IP
+    - legame che c'è tra complessita di circuito e di tempo nei linguaggi
+    - un insieme r.e. lo possiamo definire in più modi, come e in che modo sono equivalenti le def(dimostrazione che la seconda def è equivalente alla terza)
+    - cos è la forma normale di Greinbach
+    - classe di complessita NC
+    - confronta NCI con ACI
+    - p/poly dove sta rispetto a NCI e ACI (non è sicuro sia questo confronto però è sicuro sia con p/poly)
+    - nel linguaggio mini C non abbiamo l'if-than-else, riusciamo a realizzarlo?
+    - pumping lemma linguaggi regolari
+    - se due linguaggi sono regolari la loro unione è regolare, dimostrazione
+    - consideriamo l'insieme degli indici delle funzioni totali, è ricorsivo r.e. o non r.e.
+    - parliamo di p spazio e indichiamone un linguaggio completo
+    - data una macchina che dati n elementi in input si vuole stabilire se il numero di elementi dell array sia pari o dispari, che complessità ha nello spazio
+    - esiste una forma normale per i problemi in psapzio che è anche la codifica di un problema completo, com è fatto
+    - domande su copspazio generiche
+    - teorema di toda (ultimo fatto nel corso)
+    - dimostriamo che un automa a pila deterministico è sempre equivalente a uno a pila non deterministico, non è così in realtà, mi fai vedere un linguaggio che separa?
+    - consideriamo ww^R perché l automa a pila det non è sufficiente in questo caso, dimostrazione
+    - Abbiamo due forme di automi a pila accettanti per stato finale e per stato vuoto, dimostrazione equivalenza che i linguaggi riconosciuti da uno sono "equivalenti" a quelli dell altro
+
 ## Ottimizzazione
 
 ### Maria Flavia Monaco
+
+**<u>2021 2022</u>**
+
+- Erma_TV
+    - effetto orizzonte
+    - nucleolo
+    - semantica operazionale per la logica di default
+    - complessità ed espressività
+    - anomalia di Sussman
+- Arbrane97
+    - Bargaining Set
+    - Iterative deepening
+    - Algoritmo di Waltz
+    - Hill Climbing
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - Set covering
+    - Formulazione valida
+    - ottima
+    - Problema di localizzazione
+    - Rilassamento lagrangiano
+    - Se x è punto estremo => x appartiene ad S
 
 **<u>2016 2017</u>**
 
@@ -1139,47 +1163,7 @@ rc(X):- u(X), not(r(X)).
     - Differenza Hamilton - eulero, con confronto tra i due
     - Teorema di minkowsky
 
-**<u>2020 2021</u>**
-
-- Anonimi
-    - Set covering
-    - Formulazione valida
-    - ottima
-    - Problema di localizzazione
-    - Rilassamento lagrangiano
-    - Se x è punto estremo => x appartiene ad S
-
-**<u>2021 2022</u>**
-
-- Erma_TV
-    - effetto orizzonte
-    - nucleolo
-    - semantica operazionale per la logica di default
-    - complessità ed espressività
-    - anomalia di Sussman
-- Arbrane97
-    - Bargaining Set
-    - Iterative deepening
-    - Algoritmo di Waltz
-    - Hill Climbing
-
 ### Giovanni Giallombardo
-
-**<u>2022 2023</u>**
-
-- Anonimi
-    - svr
-        - regressione
-    - l'algoritmo di Newton
-    - metodo del gradiente
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - Metodo di Newton
-    - Metodo Quasi Newton
-    - formulazione SVR
-    - Generalmente fa tre domande, una sicura sulla parte di Machine Learning
 
 **<u>2024 2025</u>**
 
@@ -1197,6 +1181,22 @@ rc(X):- u(X), not(r(X)).
 - Anonimo 4
     - soft margin e kkt
     - armijo con interpretazione geometrica
+
+**<u>2023 2024</u>**
+
+- Anonimi
+    - Metodo di Newton
+    - Metodo Quasi Newton
+    - formulazione SVR
+    - Generalmente fa tre domande, una sicura sulla parte di Machine Learning
+
+**<u>2022 2023</u>**
+
+- Anonimi
+    - svr
+        - regressione
+    - l'algoritmo di Newton
+    - metodo del gradiente
 
 ## Valutazione delle prestazioni
 
@@ -1246,6 +1246,43 @@ rc(X):- u(X), not(r(X)).
 ## Intelligenza Artificiale (9 CFU)
 
 ### Scarcello Francesco
+
+**<u>2024 2025</u>**
+
+- Anonimo 1
+    - Teorema di grohe
+    - Dimostrazione dell'ottimalità di A\* nella tree search
+    - Cosa rappresenta la tree width minima
+    - Contributo marginale
+    - Contributo singolo
+    - Cos è lo shapley Value
+    - Cos è il nucleolo
+    - Cos è il core
+- Anonimo 2
+    - Teorema di grohe
+    - Minmax con alpha betha pruning
+    - Cos è il nucleolo
+    - Dimosrrazione dell'ottimalitá di A\* graph search
+- Anonimo 3
+    - Algoritmo yannakaki
+    - Complessita dell'algoritmo di yannakaki
+- Anonimo 4
+    - Dimostrazione che se è ammissibile euristica allora a star è ottimale
+    - Dimostrazione che euristica consistente implica ammissibile
+    - Nucleolo
+- Anonimo 5
+    - Dimostrazioni A\* ottimo sia per tree che per graph search
+    - teorema di Grohe
+    - definizione di nucleolo
+    - algoritmo per calcolarlo
+    - il nucleolo è nel core se non è vuoto e motivazione
+- Anomimo 6
+    - Dimostrazione che euristica consistente implica ammissibile
+    - Dimostrazione che se il core non è vuoto allora il nucleolo si trova nel core
+    - Nucleolo
+- Anonimo 7
+    - Nucleolo e metodo di PL che lo fa calcolare
+    - Teorema Di Grohe
 
 **<u>2023 2024</u>**
 
@@ -1324,58 +1361,24 @@ rc(X):- u(X), not(r(X)).
     - cosa possiamo dire dell'esistenza invece nelle strategie miste?
     - Csp tree decomposition
 
-**<u>2024 2025</u>**
-
-- Anonimo 1
-    - Teorema di grohe
-    - Dimostrazione dell'ottimalità di A\* nella tree search
-    - Cosa rappresenta la tree width minima
-    - Contributo marginale
-    - Contributo singolo
-    - Cos è lo shapley Value
-    - Cos è il nucleolo
-    - Cos è il core
-- Anonimo 2
-    - Teorema di grohe
-    - Minmax con alpha betha pruning
-    - Cos è il nucleolo
-    - Dimosrrazione dell'ottimalitá di A\* graph search
-- Anonimo 3
-    - Algoritmo yannakaki
-    - Complessita dell'algoritmo di yannakaki
-- Anonimo 4
-    - Dimostrazione che se è ammissibile euristica allora a star è ottimale
-    - Dimostrazione che euristica consistente implica ammissibile
-    - Nucleolo
-- Anonimo 5
-    - Dimostrazioni A\* ottimo sia per tree che per graph search
-    - teorema di Grohe
-    - definizione di nucleolo
-    - algoritmo per calcolarlo
-    - il nucleolo è nel core se non è vuoto e motivazione
-- Anomimo 6
-    - Dimostrazione che euristica consistente implica ammissibile
-    - Dimostrazione che se il core non è vuoto allora il nucleolo si trova nel core
-    - Nucleolo
-- Anonimo 7
-    - Nucleolo e metodo di PL che lo fa calcolare
-    - Teorema Di Grohe
-
 ## Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)
 
 ### Palopoli Luigi
 
-**<u>2019 2020</u>**
+**<u>2021 2022</u>**
 
 - Anonimi
-    - Iterative Broadening (ordine di visita degli alberi )
-    - Iterative Deepening
-    - processi closed e successful
-    - shapley value
-    - wsat e gsat
-    - estensioni di reiter
-    - frame problem e perché strips non soffre del problema del frame
-    - approssimazione lower bound-upperbound con calcolo greatest lower bound
+    - primo interrogato
+        - Semantica operazionale per DL
+        - Insieme di regole d'inferenza corretto e completo
+        - Iterative deepening
+        - secondo interrogato
+            - Algoritmo di Waltz
+            - Algoritmo Bread First
+            - Shapley Value
+            - Complessità formalismi vs espressività
+            - Abduzione
+            - IDA\*
 
 **<u>2020 2021</u>**
 
@@ -1472,63 +1475,23 @@ rc(X):- u(X), not(r(X)).
     - hill climb con simulated annealing
     - modello perfetto
 
-**<u>2021 2022</u>**
+**<u>2019 2020</u>**
 
 - Anonimi
-    - primo interrogato
-        - Semantica operazionale per DL
-        - Insieme di regole d'inferenza corretto e completo
-        - Iterative deepening
-        - secondo interrogato
-            - Algoritmo di Waltz
-            - Algoritmo Bread First
-            - Shapley Value
-            - Complessità formalismi vs espressività
-            - Abduzione
-            - IDA\*
+    - Iterative Broadening (ordine di visita degli alberi )
+    - Iterative Deepening
+    - processi closed e successful
+    - shapley value
+    - wsat e gsat
+    - estensioni di reiter
+    - frame problem e perché strips non soffre del problema del frame
+    - approssimazione lower bound-upperbound con calcolo greatest lower bound
 
 ### nota: le testimonianze di rappresentazione della conoscenza che erano presenti sono state migrate su Knowledge Representation and Reasoning (6 CFU), viene comunque lasciata la denominazione del corso per far intendere che le domande appartengono a questo corso di questo anno accademico.
 
 ## Knowledge Representation and Reasoning (6 CFU)
 
 ### Sergio Greco
-
-**<u>2023 2024</u>**
-
-- Anonimi
-    - come si valuta il maggiore o uguale e minore o uguale nel tableau (nota: contatela come domanda fatta, non badate a quale anonimo sia stata fatta)
-- primo Anonimo
-    - Algoritmo punto fisso (con esempio di possibile applicazione) Quando può essere applicato questo algoritmo?
-    - In cosa consiste il problema della verifica? Cosa ha in Input? Che complessità ha?
-        - Quando un interpretazione è stabile per un programma?
-        - Cosa è un interpretazione? È un sottoinsieme della base di Herbrand.
-        - Qual è la dimensione dell'universo di Herbrand?
-        - Dimensione del ground di un programma.
-        - Semantica della possibilità/Semantica della certezza.
-        - Skeptical reasoning (definizione)
-        - Struttura dei modelli completi.
-- secondo Anonimo
-    - Argomentazione in generale
-    - I 3 problemi nell'ambito di argomentazione con le complessità
-    - Spiegazione delle complessità
-- terzo Anonimo
-    - Algoritmo semi-naïve in generale (cosa vogliamo ottenere) cosa abbiamo in input: una base di dati e un insieme di regole. Questo programma calcola il modello minimo per il programma P (insieme di regole)
-    - Esempio di applicazione dell'algoritmo. Con questo esempio dire che cosa fa l'algoritmo naïve e dove interviene quello semi-naïve.
-    - Che cosa fa eval_rule()? Dato l'esempio, generare l'espressione in algebra relazionale.
-    - Description logic in generale.
-    - Linguaggio ALC, descrizione.
-    - Perchè utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatro che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic?
-    - Tbox e Abox
-- quarto Anonimo
-    - Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - Algoritmo naive/semi-naive
-    - complessità ASP
-    - sistemi di argomentazione in generale
-        - Linguaggio ALC
 
 **<u>2025 2026</u>**
 
@@ -1559,9 +1522,59 @@ rc(X):- u(X), not(r(X)).
     - esempio di programma stratificato
     - Nell'algoritmo tableau se incontriamo tipo >= r.A che succede?
 
+**<u>2024 2025</u>**
+
+- Anonimo
+    - Algoritmo naive/semi-naive
+    - complessità ASP
+    - sistemi di argomentazione in generale
+        - Linguaggio ALC
+
+**<u>2023 2024</u>**
+
+- Anonimi
+    - come si valuta il maggiore o uguale e minore o uguale nel tableau (nota: contatela come domanda fatta, non badate a quale anonimo sia stata fatta)
+- primo Anonimo
+    - Algoritmo punto fisso (con esempio di possibile applicazione) Quando può essere applicato questo algoritmo?
+    - In cosa consiste il problema della verifica? Cosa ha in Input? Che complessità ha?
+        - Quando un interpretazione è stabile per un programma?
+        - Cosa è un interpretazione? È un sottoinsieme della base di Herbrand.
+        - Qual è la dimensione dell'universo di Herbrand?
+        - Dimensione del ground di un programma.
+        - Semantica della possibilità/Semantica della certezza.
+        - Skeptical reasoning (definizione)
+        - Struttura dei modelli completi.
+- secondo Anonimo
+    - Argomentazione in generale
+    - I 3 problemi nell'ambito di argomentazione con le complessità
+    - Spiegazione delle complessità
+- terzo Anonimo
+    - Algoritmo semi-naïve in generale (cosa vogliamo ottenere) cosa abbiamo in input: una base di dati e un insieme di regole. Questo programma calcola il modello minimo per il programma P (insieme di regole)
+    - Esempio di applicazione dell'algoritmo. Con questo esempio dire che cosa fa l'algoritmo naïve e dove interviene quello semi-naïve.
+    - Che cosa fa eval_rule()? Dato l'esempio, generare l'espressione in algebra relazionale.
+    - Description logic in generale.
+    - Linguaggio ALC, descrizione.
+    - Perchè utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatro che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic?
+    - Tbox e Abox
+- quarto Anonimo
+    - Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
+
 ## Sistemi Informativi
 
 ### Cassavia
+
+**<u>2019 2020</u>**
+
+- PsykeDady
+    - presentazione progetto
+    - eseguire su pentaho:
+        - drill up
+        - roll down
+        - selection slice
+    - fasi di progettazione Data Warehouse
+    - Schemi di fatto a stella e snowflake
+    - Proprietà sistemi nosql
+    - utilizzo di hbase
 
 **<u>2017 2018</u>**
 
@@ -1582,19 +1595,6 @@ rc(X):- u(X), not(r(X)).
         - nome delle componenti
         - modi per interfacciarlo con il client
     - teorema CAP
-
-**<u>2019 2020</u>**
-
-- PsykeDady
-    - presentazione progetto
-    - eseguire su pentaho:
-        - drill up
-        - roll down
-        - selection slice
-    - fasi di progettazione Data Warehouse
-    - Schemi di fatto a stella e snowflake
-    - Proprietà sistemi nosql
-    - utilizzo di hbase
 
 ## Sistemi Informativi Ambientali
 
@@ -1638,41 +1638,36 @@ rc(X):- u(X), not(r(X)).
 
 ### Talia Domenico
 
-**<u>2018 2019</u>**
+**<u>2024 2025</u>**
 
-- Aloeasy
-    - Java Card
-    - Replicazione
-    - NFS
-    - COnsistenza
+- Anonimo
+    - teorema di lamport
+    - algoritmi di mutua esclusione
+    - kerberos
+    - consistenza causale
 
-**<u>2019 2020</u>**
+**<u>2022 2023</u>**
 
-- Giovanni Giordano
-    - Weak Consistency
-    - release consistency
-    - differenze EC2, S3 e DNS
-- Anonimi
-    - eukaliptus
-    - Naming in generale
-    - HT Condor
-
-**<u>2020 2021</u>**
-
-- Anonimi
-    - componenti del Cloud Amazon
-    - tecniche di scalabilità dei sistemi distribuiti
-    - grid computing
-    - Consistenza debole (synchronize)
-    - Naming in generale e p2p
-    - Kerberos
+- Anonimo 1
     - grid
-    - algoritmo elezioni
-- Erma_TV
-    - HTCondor
-    - Client Side Consistency (Eventual Consistency)
-    - RPC (in prticolare RPC one-way)
-    - Eucalyptus
+    - integrazione tra condor e globus
+    - come vengono raccolti i dati in un sistema distribuito
+    - modello di autenticazione challenge-response
+    - con la scalabilità vengono introdotte soluzioni non scalabili?
+        - (Risposta: sì e avviene con la replicazione)
+- Anonimo 2
+    - Agente mobile
+    - NFS e protocolli principale
+    - NFS Delegation
+    - NFS Lock
+    - Modelli Cloud a Servizi
+- Anonimo 3
+    - distributed garbage collector
+    - grid computing
+    - Coda
+        - come gestisce le repliche
+        - mounting del file system
+    - va nello specifico davvero di ogni tipologia di argomento chiedendo dettagli molto particolari e fini
 
 **<u>2021 2022</u>**
 
@@ -1712,72 +1707,68 @@ rc(X):- u(X), not(r(X)).
             - NFS lock
             - Strong mobility
 
-**<u>2022 2023</u>**
+**<u>2020 2021</u>**
 
-- Anonimo 1
-    - grid
-    - integrazione tra condor e globus
-    - come vengono raccolti i dati in un sistema distribuito
-    - modello di autenticazione challenge-response
-    - con la scalabilità vengono introdotte soluzioni non scalabili?
-        - (Risposta: sì e avviene con la replicazione)
-- Anonimo 2
-    - Agente mobile
-    - NFS e protocolli principale
-    - NFS Delegation
-    - NFS Lock
-    - Modelli Cloud a Servizi
-- Anonimo 3
-    - distributed garbage collector
+- Anonimi
+    - componenti del Cloud Amazon
+    - tecniche di scalabilità dei sistemi distribuiti
     - grid computing
-    - Coda
-        - come gestisce le repliche
-        - mounting del file system
-    - va nello specifico davvero di ogni tipologia di argomento chiedendo dettagli molto particolari e fini
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - teorema di lamport
-    - algoritmi di mutua esclusione
-    - kerberos
-    - consistenza causale
-
-### Loris Belcastro
-
-**<u>2018 2019</u>**
-
-- Aloeasy
-    - Distribuited garbage collector
-    - Storage di Azure
-    - Fabric Controller di Azure
-    - come si passano i parametri in JAva RMI
+    - Consistenza debole (synchronize)
+    - Naming in generale e p2p
+    - Kerberos
+    - grid
+    - algoritmo elezioni
+- Erma_TV
+    - HTCondor
+    - Client Side Consistency (Eventual Consistency)
+    - RPC (in prticolare RPC one-way)
+    - Eucalyptus
 
 **<u>2019 2020</u>**
 
 - Giovanni Giordano
-    - distribuited garbage collector
-    - riferimenti Java RMI
-    - tabelle Azure
-    - Combiner
-
-**<u>2020 2021</u>**
-
+    - Weak Consistency
+    - release consistency
+    - differenze EC2, S3 e DNS
 - Anonimi
-    - equals in RMI
+    - eukaliptus
+    - Naming in generale
+    - HT Condor
+
+**<u>2018 2019</u>**
+
+- Aloeasy
+    - Java Card
+    - Replicazione
+    - NFS
+    - COnsistenza
+
+### Loris Belcastro
+
+**<u>2024 2025</u>**
+
+- Anonimo
+    - java rmi
     - distributed garbage collector
-    - tables di azure
-    - json web token
-    - Dynamic class download
-    - Oggetti attivabili
-    - Modulo combiner in map reduce
-    - combiner
-    - jwt
-    - raw key e timestamp
-- Erma_TV
-    - MapReduce
-    - Distributed Garbage Collector
-    - Tables Di Azure
+    - equals and hash code java rmi
+
+**<u>2022 2023</u>**
+
+- Anonimo
+    - docker
+    - vantaggi di docker rispetto alle macchine virtuali
+    - come creare oggetti in Java rmi
+    - come vengono passati gli oggetti in Java rmi
+    - con quali operazioni viene caricato un oggetto in un registry
+        - (risposta: bind e rebind)
+    - con quale operazione viene cercato un oggetto in un registry
+        - (risposta: lookup)
+    - la struttura delle tabelle azure
+- Anonimi
+    - meccanismi code Azure:
+        - 3 tipi di proprietà obbligatorie
+    - perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e ribind)?
+        - il meccanismo di Java obbliga a estendere la classe e questo dovrebbe farlo ogni client (soluzione scomoda)
 
 **<u>2021 2022</u>**
 
@@ -1803,34 +1794,51 @@ rc(X):- u(X), not(r(X)).
             - Table di azure
             - CND azure
 
-**<u>2022 2023</u>**
+**<u>2020 2021</u>**
 
-- Anonimo
-    - docker
-    - vantaggi di docker rispetto alle macchine virtuali
-    - come creare oggetti in Java rmi
-    - come vengono passati gli oggetti in Java rmi
-    - con quali operazioni viene caricato un oggetto in un registry
-        - (risposta: bind e rebind)
-    - con quale operazione viene cercato un oggetto in un registry
-        - (risposta: lookup)
-    - la struttura delle tabelle azure
 - Anonimi
-    - meccanismi code Azure:
-        - 3 tipi di proprietà obbligatorie
-    - perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e ribind)?
-        - il meccanismo di Java obbliga a estendere la classe e questo dovrebbe farlo ogni client (soluzione scomoda)
-
-**<u>2024 2025</u>**
-
-- Anonimo
-    - java rmi
+    - equals in RMI
     - distributed garbage collector
-    - equals and hash code java rmi
+    - tables di azure
+    - json web token
+    - Dynamic class download
+    - Oggetti attivabili
+    - Modulo combiner in map reduce
+    - combiner
+    - jwt
+    - raw key e timestamp
+- Erma_TV
+    - MapReduce
+    - Distributed Garbage Collector
+    - Tables Di Azure
+
+**<u>2019 2020</u>**
+
+- Giovanni Giordano
+    - distribuited garbage collector
+    - riferimenti Java RMI
+    - tabelle Azure
+    - Combiner
+
+**<u>2018 2019</u>**
+
+- Aloeasy
+    - Distribuited garbage collector
+    - Storage di Azure
+    - Fabric Controller di Azure
+    - come si passano i parametri in JAva RMI
 
 ## Basi di Dati evolute
 
 ### Molinaro Cristian
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - protocollo zero knowledge
+    - algoritmo fiat shamir
+    - proprietà funzioen hash firma digitale
+    - paradosso compleanno
 
 **<u>2019 2020</u>**
 
@@ -1841,29 +1849,9 @@ rc(X):- u(X), not(r(X)).
         - deadlock
             - risposta: che se due transazioni richiedono il lock in scrittura sulla stessa risorsa e ci sono dei ritardi nella rete, nessuna delle due transazioni ottiene il lock e quindi si va in deadlock
 
-**<u>2020 2021</u>**
-
-- Anonimi
-    - protocollo zero knowledge
-    - algoritmo fiat shamir
-    - proprietà funzioen hash firma digitale
-    - paradosso compleanno
-
 ## Calcolo Numerico
 
 ### Yaroslav Sergeyev
-
-**<u>2019 2020</u>**
-
-- Anonimi
-    - equazioni differenziali metodi conosciuti impliciti ed esplici
-    - esistenza polinomio di interpolazione e tecniche con vantaggi e svantaggi ( LaGrange e Newton )
-    - metodo romberg
-    - metodi Runge Kutta
-    - metodi di interpolazione conosciuti (LaGrange ecc)
-    - punto fisso condizioni convergenza
-    - grafici di convergenza
-    - metodi di derivazione numerica
 
 **<u>2020 2021</u>**
 
@@ -1944,17 +1932,19 @@ rc(X):- u(X), not(r(X)).
     - clank nicolson
     - calcolo delle matrici LU (con studio dell'errore)
 
-### Marat Mukhametzhanov
-
 **<u>2019 2020</u>**
 
-- Giovanni Giordano
-    - errore assoluto e relativo
-    - estrapolazione di Richardson
 - Anonimi
-    - fenomeno Runge
-    - cancellazione numerica
-    - decomposizione triangolare con Teoremi
+    - equazioni differenziali metodi conosciuti impliciti ed esplici
+    - esistenza polinomio di interpolazione e tecniche con vantaggi e svantaggi ( LaGrange e Newton )
+    - metodo romberg
+    - metodi Runge Kutta
+    - metodi di interpolazione conosciuti (LaGrange ecc)
+    - punto fisso condizioni convergenza
+    - grafici di convergenza
+    - metodi di derivazione numerica
+
+### Marat Mukhametzhanov
 
 **<u>2020 2021</u>**
 
@@ -1967,6 +1957,16 @@ rc(X):- u(X), not(r(X)).
     - idea di fondo degli algoritmi
         - jacobi
     - Spline lineari e quadratiche
+
+**<u>2019 2020</u>**
+
+- Giovanni Giordano
+    - errore assoluto e relativo
+    - estrapolazione di Richardson
+- Anonimi
+    - fenomeno Runge
+    - cancellazione numerica
+    - decomposizione triangolare con Teoremi
 
 ### Dmitry
 
@@ -2018,6 +2018,15 @@ rc(X):- u(X), not(r(X)).
 
 ### Molinaro Cristian
 
+**<u>2024 2025</u>**
+
+- Anonimi
+    - Sicurezza Prg (tutte e tre le definizioni)
+    - Puzzle Merkle
+    - Sicurezza puzzle merkle
+    - paradosso compleanno
+    - attacco alle funzioni hash (col paradosso del compleanno)
+
 **<u>2016 2017</u>**
 
 - Tassone
@@ -2068,54 +2077,9 @@ rc(X):- u(X), not(r(X)).
     - puzzle di merkle
     - introduzione key managment e scneari utilizzo rsa
 
-**<u>2024 2025</u>**
-
-- Anonimi
-    - Sicurezza Prg (tutte e tre le definizioni)
-    - Puzzle Merkle
-    - Sicurezza puzzle merkle
-    - paradosso compleanno
-    - attacco alle funzioni hash (col paradosso del compleanno)
-
 ## Algoritmi di Crittografia
 
 ### Cristian Molinaro
-
-**<u>2019 2020</u>**
-
-- Giovanni Giordano
-    - CBC
-    - funzioni hash
-- Anonimi
-    - merkel puzzle
-        - obiettivo
-        - problemi
-        - algoritmo
-    - One Time Pad
-        - decifatura e cifratura deterministica
-        - decifatura e cifratura randomizzata
-        - sicurezza per mandare messaggi
-        - problemi
-    - sicurezza Semantica
-    - probab adv dice 1 quando EXP1
-    - modi operativi many time Key
-    - PRG e definizioni sicurezza
-    - firma digitale e CA
-
-**<u>2020 2021</u>**
-
-- Anonimi
-    - Modi operativi many time key
-    - Sicurezza modi operativi many time key
-    - zero knowledge
-    - Algoritmo che è capace di attaccare qualsiasi funzione hash e paradosso del compleanno
-
-**<u>2022 2023</u>**
-
-- Oscar
-    - 3 des funzionamento come si cifra e come si decifra
-    - che costo ha des con ricerca esaustiva e con altri attacchi (complessità spaziale e temporale)
-    - funzioni hash e collisioni con l'attacco relativo (paradosso del compleanno)
 
 **<u>2024 2025</u>**
 
@@ -2143,6 +2107,42 @@ rc(X):- u(X), not(r(X)).
     - come decifrare con 3des ( se E(k1,k2,k3,m)=E(k1,D(k2,E(k3,m))) allora D(k1,k2,k3,m)=D(k3,E(k2,D(k1,c))) )
     - attacco e complessità dell'attacco a 2des
     - dimostra che l'attacco di 2des non si può fare su 3des
+
+**<u>2022 2023</u>**
+
+- Oscar
+    - 3 des funzionamento come si cifra e come si decifra
+    - che costo ha des con ricerca esaustiva e con altri attacchi (complessità spaziale e temporale)
+    - funzioni hash e collisioni con l'attacco relativo (paradosso del compleanno)
+
+**<u>2020 2021</u>**
+
+- Anonimi
+    - Modi operativi many time key
+    - Sicurezza modi operativi many time key
+    - zero knowledge
+    - Algoritmo che è capace di attaccare qualsiasi funzione hash e paradosso del compleanno
+
+**<u>2019 2020</u>**
+
+- Giovanni Giordano
+    - CBC
+    - funzioni hash
+- Anonimi
+    - merkel puzzle
+        - obiettivo
+        - problemi
+        - algoritmo
+    - One Time Pad
+        - decifatura e cifratura deterministica
+        - decifatura e cifratura randomizzata
+        - sicurezza per mandare messaggi
+        - problemi
+    - sicurezza Semantica
+    - probab adv dice 1 quando EXP1
+    - modi operativi many time Key
+    - PRG e definizioni sicurezza
+    - firma digitale e CA
 
 ## Economia Aziendale
 
