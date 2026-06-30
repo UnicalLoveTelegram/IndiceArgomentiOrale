@@ -1729,17 +1729,17 @@ malloc(sizeof(int)*(i+1));
     - client streaming
     - bidirectional streaming
 
-- NNCBTV & Anonimi
+- NNCBTV e Anonimi
     - Pattern Observer
-        - Diagramma UML & Sequence Diagram
+        - Diagramma UML e Sequence Diagram
     - Pattern Builder
-        - Diagramma UML & Sequence Diagram
+        - Diagramma UML e Sequence Diagram
     - Pattern Command
-        - Diagramma UML & Sequence Diagram
+        - Diagramma UML e Sequence Diagram
     - Pattern Mediator
-        - Diagramma UML & Implementazione in Java
+        - Diagramma UML e Implementazione in Java
     - Pattern Chain of Responsibility
-        - Diagramma UML & Implementazione in Java
+        - Diagramma UML e Implementazione in Java
     - Pattern DTO
         - Diagramma UML
     - Pattern Strategy
@@ -1753,10 +1753,10 @@ malloc(sizeof(int)*(i+1));
     - Product Owner
     - Cosa sono gli entry e gli exit point
     - A cosa serve git rebase
-    - A cosa serve @Test
-    - A cosa serve @ParametrizedTest
-    - A cosa serve @CSVSource
-    - A cosa serve @Nested
+    - A cosa serve Test
+    - A cosa serve ParametrizedTest
+    - A cosa serve CSVSource
+    - A cosa serve Nested
     - GRPC come si implementa lo stub lato server
     - Interfaccia Proto & Protobuff
     - Processo di sviluppo a spirale
