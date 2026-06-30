@@ -1729,6 +1729,46 @@ malloc(sizeof(int)*(i+1));
     - client streaming
     - bidirectional streaming
 
+- NNCBTV & Anonimi 
+    - Pattern Observer
+        - Diagramma UML & Sequence Diagram
+     - Pattern Builder
+        - Diagramma UML & Sequence Diagram
+     - Pattern Command
+        - Diagramma UML & Sequence Diagram
+     - Pattern Mediator
+        - Diagramma UML & Implementazione in Java
+    - Pattern Chain of Responsibility
+        - Diagramma UML & Implementazione in Java
+   - Pattern DTO
+        - Diagramma UML
+    - Pattern Strategy
+        - Diagramma UML
+     - Pattern Composite
+        - Diagramma UML
+    - Quando un criterio di testing si dice più fine di un altro matematicamente
+    - Come si esprime matematicamente un programma software e come si sviluppano dei testcase
+    - Manifesto Agile
+    - Product Backlog
+    - Product Owner
+    - Cosa sono gli entry e gli exit point
+    - A cosa serve git rebase
+    - A cosa serve @Test
+    - A cosa serve @ParametrizedTest
+    - A cosa serve @CSVSource
+    - A cosa serve @Nested
+    - GRPC come si implementa lo stub lato server
+    - Interfaccia Proto & Protobuff
+    - Processo di sviluppo a spirale
+    - Quali pattern abbiamo visto a lezione
+    - A quale pattern associ l'executor framework
+    - Tipi di comunicazione GRPC
+    - Tipi di comunicazione, asincorna e sincrona
+    - Cosa fa git rebase
+    - Come mantiene le versioni git e quanto è lungo lo sha-1
+    - Come avviene la merge in git
+    - Cos'è uno sprint
+
 ### Argento Luciano
 
 **<u>2017 2018</u>**
