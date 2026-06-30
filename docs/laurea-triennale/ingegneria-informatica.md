@@ -3304,3 +3304,5 @@ malloc(sizeof(int)*(i+1));
         - APGAS
     - Efficienza e Speedup
     - Efficienza Sovralineare (A volte l'efficienza può superare il 100% grazie a metodi come il caching)
+
+  test lint 2
