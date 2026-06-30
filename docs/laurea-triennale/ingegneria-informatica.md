@@ -1729,6 +1729,18 @@ malloc(sizeof(int)*(i+1));
     - client streaming
     - bidirectional streaming
 
+- Anonimo
+    - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
+    - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
+    - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
+    - I Repeated Test in JUnit: cosa sono e a cosa servono.
+    - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
+    - gRPC: tipi di comunicazione:
+    - unary
+    - server streaming
+    - client streaming
+    - bidirectional streaming
+
 - NNCBTV e Anonimi
     - Pattern Observer
         - Diagramma UML e Sequence Diagram
@@ -1768,6 +1780,7 @@ malloc(sizeof(int)*(i+1));
     - Come mantiene le versioni git e quanto è lungo lo sha-1
     - Come avviene la merge in git
     - Cos'è uno sprint
+    - test
 
 ### Argento Luciano
 
