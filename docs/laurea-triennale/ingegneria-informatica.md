@@ -196,7 +196,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Deep nn
     - Percettrone
     - tutte queste domande da studiare con le formule
-=======
+
 **<u>2024 2025</u>**
 
 - Anonimo 1
