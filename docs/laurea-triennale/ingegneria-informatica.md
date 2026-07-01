@@ -182,12 +182,28 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Domenico Mandaglio
 
+**<u>2025 2026</u>**
+
+- Anonimi
+    - Kmeans
+    - Kmethod
+    - Km++
+    - Range dei valori di entropia
+    - Decision tree
+    - Rnn
+    - Cnn
+    - Shallow nn
+    - Deep nn
+    - Percettrone
+    - tutte queste domande da studiare con le formule
+=======
 **<u>2024 2025</u>**
 
 - Anonimo 1
     - Tipi di Validation
     - KNN
     - Varianti del KNN
+>>>>>>> 44f4ea30eef369c68dce112efe0b08ff9f7a5f8d
 
 **<u>2023 2024</u>**
 
@@ -1767,6 +1783,61 @@ malloc(sizeof(int)*(i+1));
     - design by contract ( esempi di pre e post condizioni)
         - invariante
 
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Builder Pattern completo: abbiamo discusso tutto, inclusi diagramma delle classi e diagramma di sequenza.
+    - Differenza in UML tra aggregazione e composizione: ha disegnato lui i due casi e mi ha chiesto cosa fossero e quale fosse la differenza.
+    - Pair Programming e Extreme Programming (XP) in generale, dopo che l’ho nominato io durante il discorso.
+    - I Repeated Test in JUnit: cosa sono e a cosa servono.
+    - Git: area di staging, commit, branching, merging, il modo di utilizzarli, ecc.
+    - gRPC: tipi di comunicazione:
+    - unary
+    - server streaming
+    - client streaming
+    - bidirectional streaming
+- NNCBTV e Anonimi
+    - Pattern Observer
+        - Diagramma UML e Sequence Diagram
+    - Pattern Builder
+        - Diagramma UML e Sequence Diagram
+    - Pattern Command
+        - Diagramma UML e Sequence Diagram
+    - Pattern Mediator
+        - Diagramma UML e Implementazione in Java
+    - Pattern Chain of Responsibility
+        - Diagramma UML e Implementazione in Java
+    - Pattern DTO
+        - Diagramma UML
+    - Pattern Strategy
+        - Diagramma UML
+    - Pattern Composite
+        - Diagramma UML
+    - Quando un criterio di testing si dice più fine di un altro matematicamente
+    - Come si esprime matematicamente un programma software e come si sviluppano dei testcase
+    - Manifesto Agile
+    - Product Backlog
+    - Product Owner
+    - Cosa sono gli entry e gli exit point
+    - A cosa serve git rebase
+    - A cosa serve Test
+    - A cosa serve ParametrizedTest
+    - A cosa serve CSVSource
+    - A cosa serve Nested
+    - GRPC come si implementa lo stub lato server
+    - Interfaccia Proto & Protobuff
+    - Processo di sviluppo a spirale
+    - Quali pattern abbiamo visto a lezione
+    - A quale pattern associ l'executor framework
+    - Tipi di comunicazione GRPC
+    - Tipi di comunicazione, asincorna e sincrona
+    - Cosa fa git rebase
+    - Come mantiene le versioni git e quanto è lungo lo sha-1
+    - Come avviene la merge in git
+    - Cos'è uno sprint -. test
+
+=======
+>>>>>>> 44f4ea30eef369c68dce112efe0b08ff9f7a5f8d
 ### Argento Luciano
 
 **<u>2017 2018</u>**
