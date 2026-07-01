@@ -62,6 +62,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Yaroslav Sergeyev](#yaroslav-sergeyev)
         - [Marat Mukhametzhanov](#marat-mukhametzhanov)
         - [Dmitry](#dmitry)
+        - [Nudo Federico](#nudo-federico)
     - [Crittografia e analisi reti sociali](#crittografia-e-analisi-reti-sociali)
         - [Molinaro Cristian](#molinaro-cristian-1)
     - [Algoritmi di Crittografia](#algoritmi-di-crittografia)
@@ -2002,6 +2003,14 @@ rc(X):- u(X), not(r(X)).
         - jacobi
     - Spline lineari e quadratiche
 
+### Nudo Federico
+
+**<u>2025 2026</u>**
+
+- Anonimi
+    - interpolazione con particolare attenzione su come si costruiscono i coefficienti con Lagrange e con Newton
+    - ⁠quadratura numerica
+=======
 **<u>2019 2020</u>**
 
 - Giovanni Giordano
@@ -2013,6 +2022,16 @@ rc(X):- u(X), not(r(X)).
     - decomposizione triangolare con Teoremi
 
 ### Dmitry
+
+**<u>2025 2026</u>**
+
+- Anonimi
+    - problema di chauchy
+    - come viene rappresentato un numero su calcolatore
+    - errore assoluto e relativo
+    - errore macchina
+    - interpolazione
+    - derivazione numerica ⁠ - equazioni differenziali e problema di cauchy ⁠ - metodi di integrazione numerica ⁠ - sistemi lineari
 
 **<u>2024 2025</u>**
 
