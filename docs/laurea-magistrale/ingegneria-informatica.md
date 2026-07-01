@@ -2009,10 +2009,7 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimi
     - interpolazione con particolare attenzione su come si costruiscono i coefficienti con Lagrange e con Newton
-    - ⁠quadratura numerica
-
-**<u>2019 2020</u>**
-
+    - ⁠quadratura numerica ======= **<u>2019 2020</u>**
 - Giovanni Giordano
     - errore assoluto e relativo
     - estrapolazione di Richardson
