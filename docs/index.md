@@ -21,7 +21,7 @@ Ogni contributo è prezioso: ricordati sempre di indicare il docente con cui hai
 
 I file sono suddivisi per corso di laurea:
 
-- **Laurea Triennale**: Informatica, Elettronica, Alimentare.
+- **Laurea Triennale**: Informatica, Elettronica, Alimentare, Biomedica.
 - **Laurea Magistrale**: Informatica, Elettronica, Telecomunicazioni, Automazione.
 
 All'interno di ciascuna pagina trovi l'indice dei corsi e, per ognuno, le domande raccolte per docente e anno.
