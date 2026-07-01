@@ -1638,6 +1638,34 @@ rc(X):- u(X), not(r(X)).
 
 ### Talia Domenico
 
+**<u>2025 2026</u>**
+
+- DomHeadroom
+    - differenze tra paas e iaas
+    - gram su globus e come funziona l'allocazione di macchine remote
+    - nfs: il file locking
+    - consistenza causale
+    - hdfs e nfs differenze
+    - htcondor
+    - hdfs
+    - weak consistency
+    - algoritmi di elezione
+    - htcondor esempio classAds
+    - nfs
+    - challenge response
+    - differenza grid e cloud
+    - client centric
+    - coerenza sequenziale
+    - teorema di lamport e algoritmo di lamport
+    - iaas
+    - kerberos
+    - tempo logico e fisico
+    - primitive mpi
+    - ruolo datanode, indexing in hdfs
+    - nfs callback
+    - rpc, rpc in nfs
+    - Distributed Hash Table
+
 **<u>2024 2025</u>**
 
 - Anonimo
@@ -1744,6 +1772,22 @@ rc(X):- u(X), not(r(X)).
     - COnsistenza
 
 ### Loris Belcastro
+
+**<u>2025 2026</u>**
+
+- DomHeadroom
+    - java rmi
+    - Distributed garbage collection
+        - che vuol dire che è interface oriented
+        - lease time
+    - storage in aws
+    - docker
+    - storage docker
+    - aws
+    - storage aws
+    - table azure
+        - vari tipi di table
+    - storage differenti di aws
 
 **<u>2024 2025</u>**
 
