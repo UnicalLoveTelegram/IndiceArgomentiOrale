@@ -1248,11 +1248,10 @@ rc(X):- u(X), not(r(X)).
 
 ### Scarcello Francesco
 
-
 **<u>2025 2026</u>**
 
 - Anonimo
-    - Dimostrazione ottimalità A* su tree search e graph search
+    - Dimostrazione ottimalità A\* su tree search e graph search
     - Dimostrazione consistenza implica ammissibilità
     - Dimostrazione funzione f è non decrescente con euristica consistente
     - Shapley Value
