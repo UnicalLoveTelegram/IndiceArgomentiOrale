@@ -1248,6 +1248,19 @@ rc(X):- u(X), not(r(X)).
 
 ### Scarcello Francesco
 
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Dimostrazione ottimalità A* su tree search e graph search
+    - Dimostrazione consistenza implica ammissibilità
+    - Dimostrazione funzione f è non decrescente con euristica consistente
+    - Shapley Value
+    - Hyper Tree Decomposition
+    - Algoritmo alfa beta
+    - definizione di Nucleolo
+    - Definizione di core
+
 **<u>2024 2025</u>**
 
 - Anonimo 1
