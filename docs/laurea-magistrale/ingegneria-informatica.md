@@ -86,6 +86,27 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Andrea Tagarelli
 
+**<u>2025 2026</u>**
+
+- GZ
+    - community classification con gcn
+    - community detection avendo feature dei nodi estratte da una gcn come e cosa modifichiamo delle tecniche che conosciamo?
+    - quanti tipi di bridge ho? come li uso per la community detection?
+    - topological overlap?
+    - in un social media come prestigio uso piu katz o pagerank?
+    - facebook vuole favorire o sfavorire le eco chambers?
+    - facebook quindi usa una eco chambers o meno?
+    - louvain e leiden formule
+    - small world, quella creazione degli archi con probab p indipendente tra loro, cosa ricorda? (configuration model)
+    - louvain + complessità + formula scritta
+    - leiden differenza con louvain
+    - come affronteresti un problema di polarizzazione a due vie? Voglio che mi formalizzi la funzione obiettivo.
+    - small-word model + formule + differenza con gli altri modelli
+    - come facciamo a stabilire come approssimare l'average path length? (test di smirnovn, quella della goodness of fit.
+    - come ci mettiamo nel range di valori, tra il grafo regolare e il random graf? (intervallo 1-10%)
+    - infomap + formule (tutte) (tira fuori più community louvain o infomap?)
+    - come possiamo usare i kg per condizionare quello che è un llm?
+
 **<u>2021 2022</u>**
 
 - Anonimi
@@ -1247,18 +1268,6 @@ rc(X):- u(X), not(r(X)).
 ## Intelligenza Artificiale (9 CFU)
 
 ### Scarcello Francesco
-
-**<u>2025 2026</u>**
-
-- Anonimo
-    - Dimostrazione ottimalità A\* su tree search e graph search
-    - Dimostrazione consistenza implica ammissibilità
-    - Dimostrazione funzione f è non decrescente con euristica consistente
-    - Shapley Value
-    - Hyper Tree Decomposition
-    - Algoritmo alfa beta
-    - definizione di Nucleolo
-    - Definizione di core
 
 **<u>2024 2025</u>**
 
