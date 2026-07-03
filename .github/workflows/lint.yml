@@ -2,11 +2,6 @@ name: Lint Markdown
 
 on:
   workflow_call:
-  push:
-    branches: [main]
-    paths:
-      - 'docs/**/*.md'
-      - '*.md'
   pull_request:
     branches: [main]
     paths:

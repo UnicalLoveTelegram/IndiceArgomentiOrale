@@ -26,7 +26,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Elettrotecnica](#elettrotecnica)
         - [Ricci Marco](#ricci-marco)
 
-
 ## Campi Elettromagnetici
 
 ### Amendola Gian Domenico

@@ -29,7 +29,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Architetture e programmazione dei sistemi di elaborazione](#architetture-e-programmazione-dei-sistemi-di-elaborazione)
         - [Fabrizio Angiulli](#fabrizio-angiulli)
     - [Linguaggi Formali](#linguaggi-formali)
-        - [Domenico Saccà](#domenico-saccà)
+        - [Domenico Saccà](#domenico-sacc%C3%A0)
         - [Rullo](#rullo)
     - [Informatica teorica](#informatica-teorica)
         - [Scarcello Francesco](#scarcello-francesco)
@@ -54,7 +54,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Davide Luciano De Luca](#davide-luciano-de-luca)
     - [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
         - [Libero Nigro](#libero-nigro)
-    - [Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )](#sistemi-distribuiti-e-cloud-computing--6-cfu-e-9-cfu-)
+    - [Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )](#sistemi-distribuiti-e-cloud-computing%E2%80%936-cfu-e-9-cfu-)
         - [Talia Domenico](#talia-domenico)
         - [Loris Belcastro](#loris-belcastro)
     - [Basi di Dati evolute](#basi-di-dati-evolute)
@@ -70,7 +70,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Cristian Molinaro](#cristian-molinaro)
     - [Economia Aziendale](#economia-aziendale)
         - [Sicoli](#sicoli)
-
 
 ## Software Security
 

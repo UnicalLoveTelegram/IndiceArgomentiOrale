@@ -12,7 +12,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Biochimica](#biochimica)
         - [Cesare Indiveri e Lara Console](#cesare-indiveri-e-lara-console)
 
-
 ## Fondamenti di Informatica
 
 ### Francesco Parisi

@@ -29,7 +29,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Orsino](#orsino)
         - [Cantini](#cantini)
     - [Fondamenti di informatica](#fondamenti-di-informatica)
-        - [Simona Nisticò](#simona-nisticò)
+        - [Simona Nisticò](#simona-nistic%C3%B2)
         - [Francesco Scarcello e Francesco Lupia](#francesco-scarcello-e-francesco-lupia)
         - [Francesco Scarcello](#francesco-scarcello)
         - [Filippo Furfaro](#filippo-furfaro)
@@ -131,13 +131,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Laboratorio di automatica](#laboratorio-di-automatica)
         - [Domenico Famularo](#domenico-famularo)
         - [Tedesco Francesco](#tedesco-francesco)
-    - [Qualità del servizio](#qualità-del-servizio)
+    - [Qualità del servizio](#qualit%C3%A0-del-servizio)
         - [Amedeo](#amedeo)
     - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
         - [Marcello Sammarra](#marcello-sammarra-1)
     - [Modelli e tecniche per i big data](#modelli-e-tecniche-per-i-big-data)
         - [Paolo Trunfio](#paolo-trunfio-1)
-
 
 ## Data Mining
 
@@ -2341,7 +2340,7 @@ malloc(sizeof(int)*(i+1));
     - matrici tum
     - teorema fondamentale PL
     - ipotesi della PL
-            - [ε1,ε2] una delle due può essere finita, dal punto di vista geometrico qual'è il significato
+        - `[ε1,ε2]` una delle due può essere finita, dal punto di vista geometrico qual'è il significato
         - riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi)
     - teorema debole e forte
     - formula del duale

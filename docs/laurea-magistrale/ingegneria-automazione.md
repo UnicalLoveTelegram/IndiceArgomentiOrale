@@ -8,7 +8,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Teoria dei sistemi](#teoria-dei-sistemi)
         - [Casavola](#casavola)
 
-
 ## Teoria dei sistemi
 
 ### Casavola

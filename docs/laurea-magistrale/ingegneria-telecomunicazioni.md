@@ -12,7 +12,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Michele Ianni](#michele-ianni)
         - [Claudia Greco](#claudia-greco)
 
-
 ## Programmazione Dispositivi Mobili
 
 ### Francesco Pupo
