@@ -1,6 +1,7 @@
 name: Lint Markdown
 
 on:
+  workflow_call:
   push:
     branches: [main]
     paths:

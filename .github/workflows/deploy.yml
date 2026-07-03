@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+      - 'requirements.txt'
+      - '.github/workflows/**'
   workflow_dispatch:
 
 permissions:
@@ -16,7 +21,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  lint:
+    uses: ./.github/workflows/lint.yml
+
   build:
+    needs: lint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -27,6 +36,9 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
       - name: Install dependencies
         run: |
@@ -51,3 +63,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  build-pdfs:
+    needs: deploy
+    permissions:
+      contents: write
+    uses: ./.github/workflows/buildpdfs.yml
