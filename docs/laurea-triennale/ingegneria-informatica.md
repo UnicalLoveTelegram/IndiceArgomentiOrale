@@ -2149,6 +2149,20 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2024 2025</u>**
 
+- Anonimo
+    - Gigafactory
+    - SETI@Home
+    - Grid computing e cloud computing
+    - Raffreddamento a liquido dei datacenter
+    - Nat e violazione dell’end to end del livello trasporto
+    - Chord, operazioni stabilize e fix fingers ( per voti alti sapere anche il codice non sarebbe male )
+    - Certification authority
+    - Schema della soap request
+    - Certification authority con disegno delle slide
+    - Email sicure-PGP con schema
+
+**<u>2024 2025</u>**
+
 - consiglio: gran parte delle domande coincide con il corso di reti di calcolatori, fare riferimento a quelle del 2024/2025
 - Anonimo 1
     - KDC + disegno
