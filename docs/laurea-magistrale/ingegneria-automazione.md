@@ -4,7 +4,6 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
-
 ## Teoria dei sistemi
 
 ### Casavola
