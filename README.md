@@ -37,15 +37,15 @@ I file sono perfettamente visionabili su github stesso, ma verrà comunque gener
 Ogni file poi è strutturato a livelli:
 
 - materia (Titolo H1)
-  - professore (Titolo H2)
-    - anno (Nessun titolo, font **bold** e <u>underlined</u>)
+    - professore (Titolo H2)
+        - anno (Nessun titolo, font **bold** e <u>underlined</u>)
 
-Ogni file è scritto con sintassi **Markdown**. Per evitare warning di `markdownlint` come `MD007/ul-indent`, gli elenchi puntati annidati usano **2 spazi per livello**:
+Ogni file è scritto con sintassi **Markdown**. Per evitare differenze tra editor e CI, formatta i file con `make lint-fix` o con `mdformat --extensions space_control --no-validate`. Il repository configura `markdownlint` per accettare l'indentazione prodotta da `mdformat`:
 
 ```markdown
 - testimonianza
-  - domanda
-    - dettaglio o risposta
+    - domanda
+        - dettaglio o risposta
 ```
 
 ## Leggere nel file

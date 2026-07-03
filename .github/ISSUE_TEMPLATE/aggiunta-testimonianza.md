@@ -16,11 +16,11 @@ assignees: ''
 #### anno di riferimento ( quello di settembre ) - es: 2018/2019
 
 - NOME ESAMINANDO oppure Anonimi
-  - domanda 1
-    - domanda correlata a domanda 1
-    - risposta (se la si vuole inserire)
-  - domanda 2
-  - domanda 3
+    - domanda 1
+        - domanda correlata a domanda 1
+        - risposta (se la si vuole inserire)
+    - domanda 2
+    - domanda 3
 etc...
 
-> Nota formattazione: usa 2 spazi per ogni livello di elenco puntato annidato, così eviti warning `MD007/ul-indent`.
+> Nota formattazione: usa `make lint-fix` o `mdformat --extensions space_control --no-validate` prima di aprire una PR.

@@ -16,17 +16,17 @@ Per visualizzare il sito MkDocs in locale e verificare le modifiche prima di apr
 
 1. Installa le dipendenze all'interno di una virtualenv locale (creata automaticamente in `.venv/`):
 
-    ```bash
-    make install
-    ```
+```bash
+make install
+```
 
 2. Avvia il server di anteprima con auto-reload; la documentazione sarà disponibile su `http://127.0.0.1:8000`:
 
-    ```bash
-    make serve
-    ```
+```bash
+make serve
+```
 
-    Premi `Ctrl+C` per interrompere il server quando hai terminato.
+Premi `Ctrl+C` per interrompere il server quando hai terminato.
 
 ### Verifica della build e manutenzione
 
@@ -61,31 +61,43 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
 
 1. **Fork** del repository.
 2. **Clona** il fork sul tuo computer:
-    ```bash
-    git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
-    cd IndiceArgomentiOrale
-    ```
+
+```bash
+git clone https://github.com/tuo-username/IndiceArgomentiOrale.git
+cd IndiceArgomentiOrale
+```
+
 3. **Crea un branch** dedicato:
-    ```bash
-    git checkout -b nome-del-branch
-    ```
+
+```bash
+git checkout -b nome-del-branch
+```
+
 4. [Opzionale] **Prepara l’ambiente** e avvia l’anteprima locale:
-    ```bash
-    make install
-    make serve  # il sito sarà disponibile su http://127.0.0.1:8000
-    ```
+
+```bash
+make install
+make serve  # il sito sarà disponibile su http://127.0.0.1:8000
+```
+
 5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
-  - `docs/laurea-triennale/` per i corsi LT
-  - `docs/laurea-magistrale/` per i corsi LM
+
+- `docs/laurea-triennale/` per i corsi LT
+- `docs/laurea-magistrale/` per i corsi LM
+
 6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
-    ```bash
-    make build
-    ```
+
+```bash
+make build
+```
+
 7. **Commit e push** delle modifiche:
-    ```bash
-    git commit -am "Breve descrizione del contributo"
-    git push origin nome-del-branch
-    ```
+
+```bash
+git commit -am "Breve descrizione del contributo"
+git push origin nome-del-branch
+```
+
 8. **Apri la pull request** descrivendo chiaramente cosa hai cambiato e perché.
 
 ## Stile e formattazione delle testimonianze
