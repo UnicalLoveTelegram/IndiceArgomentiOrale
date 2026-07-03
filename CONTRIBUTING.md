@@ -75,8 +75,8 @@ Ricorda che le issue **non** modificano direttamente i file: servono come promem
     make serve  # il sito sarà disponibile su http://127.0.0.1:8000
     ```
 5. **Modifica i file Markdown**. Tutto il contenuto pubblicato vive nella cartella `docs/`:
-    - `docs/laurea-triennale/` per i corsi LT
-    - `docs/laurea-magistrale/` per i corsi LM
+  - `docs/laurea-triennale/` per i corsi LT
+  - `docs/laurea-magistrale/` per i corsi LM
 6. **Verifica il sito**. Prima di creare la PR assicurati che la build vada a buon fine:
     ```bash
     make build

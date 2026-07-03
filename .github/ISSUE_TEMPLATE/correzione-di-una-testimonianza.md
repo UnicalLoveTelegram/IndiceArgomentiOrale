@@ -11,9 +11,11 @@ assignees: ''
 
 ## materia - es: ingegneria del software
 
-### Professore con cui si è svolto l'esame - es: Furfaro Angelo 
+### Professore con cui si è svolto l'esame - es: Furfaro Angelo
 
 #### anno di riferimento ( quello di settembre ) - es: 2018/2019
 
-- NOME ESAMINANDO oppure Anonimi 
-    - domanda o domande da correggere
+- NOME ESAMINANDO oppure Anonimi
+  - domanda o domande da correggere
+
+> Nota formattazione: usa 2 spazi per ogni livello di elenco puntato annidato, così eviti warning `MD007/ul-indent`.
