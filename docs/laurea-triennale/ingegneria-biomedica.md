@@ -4,14 +4,6 @@ Questo file contiene le testimonianze degli esami orali di vari studenti del cor
 
 Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/README.md) per conoscere tutti i dettagli del progetto, sapere come partecipare e come sfogliare tutto il nostro materiale!
 
-- [Indice delle domande degli esami orali: Ingegneria Biomedica LT](#indice-delle-domande-degli-esami-orali-ingegneria-biomedica-lt)
-    - [Fondamenti di Informatica](#fondamenti-di-informatica)
-    - [Francesco Parisi](#francesco-parisi)
-    - [Sistemi Informativi Medici](#sistemi-informativi-medici)
-    - [Irina Trubitsyna](#irina-trubitsyna)
-    - [Biochimica](#biochimica)
-    - [Cesare Indiveri e Lara Console](#cesare-indiveri-e-lara-console)
-
 ## Fondamenti di Informatica
 
 ### Francesco Parisi
