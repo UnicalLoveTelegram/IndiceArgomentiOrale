@@ -54,7 +54,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Davide Luciano De Luca](#davide-luciano-de-luca)
     - [ISSTRA Ingegneria del software per sistemi real-time ed agenti](#isstra-ingegneria-del-software-per-sistemi-real-time-ed-agenti)
         - [Libero Nigro](#libero-nigro)
-    - [Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )](#sistemi-distribuiti-e-cloud-computing-6-cfu-e-9-cfu)
+    - [Sistemi Distribuiti e Cloud Computing (6 CFU e 9 CFU)](#sistemi-distribuiti-e-cloud-computing-6-cfu-e-9-cfu)
         - [Talia Domenico](#talia-domenico)
         - [Loris Belcastro](#loris-belcastro)
     - [Basi di Dati evolute](#basi-di-dati-evolute)
@@ -1669,7 +1669,7 @@ rc(X):- u(X), not(r(X)).
     - JSemaphore
     - Parametro Lambda delle simulazioni ad attori
 
-## Sistemi Distribuiti e Cloud Computing ( 6 CFU e 9 CFU )
+## Sistemi Distribuiti e Cloud Computing (6 CFU e 9 CFU)
 
 ### Talia Domenico
 
