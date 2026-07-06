@@ -201,8 +201,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - KNN
     - Varianti del KNN
 
-> > > > > > > 44f4ea30eef369c68dce112efe0b08ff9f7a5f8d
-
 **<u>2023 2024</u>**
 
 - Anonimi
@@ -1831,10 +1829,6 @@ malloc(sizeof(int)*(i+1));
     - Come mantiene le versioni git e quanto è lungo lo sha-1
     - Come avviene la merge in git
     - Cos'è uno sprint -. test
-
-\=======
-
-> > > > > > > 44f4ea30eef369c68dce112efe0b08ff9f7a5f8d
 
 ### Argento Luciano
 
