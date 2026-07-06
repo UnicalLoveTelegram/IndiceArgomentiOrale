@@ -22,9 +22,11 @@ concurrency:
 
 jobs:
   lint:
+    if: github.ref == 'refs/heads/main'
     uses: ./.github/workflows/lint.yml
 
   build:
+    if: github.ref == 'refs/heads/main'
     needs: lint
     runs-on: ubuntu-latest
     steps:
@@ -54,6 +56,7 @@ jobs:
           path: site
 
   deploy:
+    if: github.ref == 'refs/heads/main'
     needs: build
     environment:
       name: github-pages
@@ -65,6 +68,7 @@ jobs:
         uses: actions/deploy-pages@v5
 
   build-pdfs:
+    if: github.ref == 'refs/heads/main'
     needs: deploy
     permissions:
       contents: write
