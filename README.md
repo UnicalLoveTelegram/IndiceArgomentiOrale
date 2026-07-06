@@ -53,4 +53,4 @@ Ogni file è scritto con sintassi **Markdown**. Per evitare differenze tra edito
 Esiste un indice dei contenuti automaticamente aggiornato (tramite Visual studio code + AIOM) ad inizio del file.
 
 Il vostro lettore pdf comunque, dovrebbe indicizzarne i capitoli\
-Potete comunque effettuare banali ricerche con il vostro reader.
+Potete comunque effettuare banali ricerche con il vostro reader. Test.
