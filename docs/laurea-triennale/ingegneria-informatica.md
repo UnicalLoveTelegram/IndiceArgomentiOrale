@@ -89,6 +89,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Francesco Esposito](#francesco-esposito)
         - [Riey](#riey)
         - [Sciunzi Berardino](#sciunzi-berardino-1)
+        - [Ciolli Fabio](#ciolli-fabio)
     - [Analisi Matematica 2](#analisi-matematica-2)
         - [Sciuzi Berardino](#sciuzi-berardino)
         - [Colao](#colao)
@@ -2535,6 +2536,28 @@ malloc(sizeof(int)*(i+1));
     - parte di controllo cablata e micro programmata
 
 ## Analisi 1
+
+### Ciolli Fabio
+
+- Anonimo
+    - rolle
+    - weierstrass
+    - cauchy
+    - lagrange
+    - condizione necessaria di convergenza
+    - convergenza integrali assoluta
+    - confronto asintotico integrali
+    - confronto serie semplici
+    - media integrale
+    - fondamentale del calcolo integrale
+    - leibniz
+    - criterio del rapporto
+    - criterio della radice
+    - fermat
+    - bolzano weierstrass
+    - valori medi
+    - convergenza assoluta integrali impropri
+    - criterio del confronto
 
 ### Riey e Solferino
 
