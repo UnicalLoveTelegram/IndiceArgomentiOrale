@@ -176,6 +176,28 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Francesco Lupia
 
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Quali sono le vulnerabilità e i vettori di attacco legati a XML?
+    - Come funziona e come si sfrutta una Server-Side Template Injection (SSTI)?
+    - Cos'è e come si esegue un attacco Server-Side Request Forgery (SSRF)?
+    - Cos'è e come si previene il Cross-Site Request Forgery (CSRF)?
+    - Come funziona il Cross-Site Scripting (XSS) classico e quali sono le differenze tra le sue tipologie?
+    - Quali azioni e controlli sposteresti/faresti una volta ottenuta una shell all'interno di una macchina Linux?
+    - Quali sono i principali attacchi legati al protocollo Kerberos in Active Directory?
+    - Cos'è il Kerberoasting e come si differenzia dall'AS-REP Roasting?
+    - Cosa sono i target nel contesto del Kerberoasting e quali differenze strutturali comportano?
+    - Come funzionano le Group Policy Object (GPO) in Active Directory e in che modo è possibile abusarne?
+    - Quali sono le vulnerabilità legate ad Active Directory Certificate Services (ADCS) e come si passa da un'errata configurazione ESC4 a una ESC1?
+    - Cosa comporta a livello di privilegi l'abuso dei certificati ESC1 e ESC4?
+    - Come si sfruttano i privilegi specifici di un utente locale in Windows, come SeBackupPrivilege o SeImpersonatePrivilege?
+    - Come si esegue un attacco sfruttando i Delegation Privilege?
+    - Quali tecniche si utilizzano per il Lateral Movement o l'autenticazione se non è possibile usare la password in chiaro?
+    - Come funzionano e quando si applicano le tecniche di Pass-the-Hash (PtH) e Pass-the-Ticket (PtT)?
+    - Cosa succede e come si aggira uno scenario in cui una GPO vieta l'autenticazione standard?
+    - Cos'è un Golden Ticket, come si genera e in quale modo si collega alla compromissione totale di un ambiente Active Directory (anche tramite ADCS)?
+
 **<u>2022 2023</u>**
 
 - Anonimi
