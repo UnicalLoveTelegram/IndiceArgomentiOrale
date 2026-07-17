@@ -2189,6 +2189,25 @@ malloc(sizeof(int)*(i+1));
 
 ### Pasquale Legato
 
+**<u>2025 2026</u>**
+
+- Anonimo
+    - teorema di Bernoulli per la legge dei grandi numeri
+    - inversione per esponenziale (formula nota e spiegazione passaggi)
+    - simulazione montecarlo (origini del nome + tempo medio di attesa in coda + intervallo di confidenza + cos'è l' IC e per cosa nasce)
+    - funzione tempo di attesa (forma generale e non)
+    - varianza campionaria
+    - problema di sincronia (usando problema del ritardo del professore, considera ritardo del prof e degli studenti + individuare l'areache corrisponde ad evento di interesse " lo studente arriva dopo il professore" + adattando funz di densità lineare, ma compresa tra 0 e 20 per il ritardo del prof, calcolare la probabilità dell'eventodi interesse)
+    - info su lezione 22 , parte 1 e 2 (ricordarsi che la 2^ parte del corso inizia da lez 20)
+    - quesito di probabilistica fornito dal prof (approccio alternativo usando la congiunta
+    - domanda basata su slide lez 27.1 (ricordarsi metodo m - c)
+    - differenza tra equazioni equiprobabili ed equidistanti (spiegare come se fossi tu ad insegnare l'argomento alla classe, prof incluso, perché ci tiene + guardare le slide in diretta e farsi domande su ciò che è scritto, anche se ciò che è scritto non è stato spiegato dal prof, e spiegarlo)
+    - spiegare cos'è un problema di sincronia( +"capire cosa si sta spiegando" + spiegare il ritardo di sincronia)
+    - parlare di e spiegare funzioni traslate, con esempio
+    - Lez 26.1(analizzare ciò che si vede e spiegarlo, ricordando che non tutto ciò che si deve spiegare riguardo il contenuto della slide è scritto lì)
+    - coefficiente di pearson( studiarlo e spiegarlo, anche se non è stato spiegato in tempo a lezione)
+    - sistemi poco congestionati e molto congestionati
+
 **<u>2018 2019</u>**
 
 - FrancescoLux
