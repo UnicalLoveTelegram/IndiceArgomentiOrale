@@ -9,6 +9,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Francesco Parisi](#francesco-parisi)
     - [Sistemi Informativi Medici](#sistemi-informativi-medici)
         - [Irina Trubitsyna](#irina-trubitsyna)
+    - [Algebra Lineare](#algebra-lineare)
+        - [Salvatore Corrado](#salvatore-corrado)
     - [Biochimica](#biochimica)
         - [Cesare Indiveri e Lara Console](#cesare-indiveri-e-lara-console)
 
@@ -49,6 +51,20 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - firma digitale
     - XML
     - CDA
+    - HL7
+    - Dicom
+
+## Algebra Lineare
+
+### Salvatore Corrado
+
+**<u>2024 2025</u>**
+
+- DomHeadroom
+    - cos'è la base
+    - cos'è il ker
+    - può un vettore nullo far parte della base
+    - dipendenza e indipendenza lineare
 
 ## Biochimica
 
@@ -68,3 +84,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - ciclo di krebs
     - catena respiratoria
     - com'è fatto uno spettrofotometro
+    - spettrofotometria
+    - formula dell’assorbanza
+    - cromatografia
