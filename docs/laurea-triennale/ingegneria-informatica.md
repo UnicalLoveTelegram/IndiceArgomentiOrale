@@ -3406,6 +3406,8 @@ malloc(sizeof(int)*(i+1));
 
 ## Laboratorio di ricerca operativa
 
+### Marcello Sammarra
+
 **<u>2024 2025</u>**
 
 - DomHeadroom
@@ -3413,8 +3415,6 @@ malloc(sizeof(int)*(i+1));
     - validità del secondo e primo corollario del teorema della dualità nella rete di flusso
     - parlare del problema di branch and bound
     - ottimizzazioni applicate nel branch and bound (taglio di un ramo)
-
-### Marcello Sammarra
 
 **<u>2021 2022</u>**
 
