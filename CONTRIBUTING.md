@@ -135,7 +135,7 @@ L'indice viene automaticamente creato da MkDocs
 #### Alcuni consigli di buona scrittura
 
 - Lasciare almeno un rigo vuoto tra un titolo e un altro
-- meglio utilizzare gli elenchi puntati per dividere una testimonianza da un altra
+- meglio utilizzare gli elenchi puntati per dividere una testimonianza da un'altra
 - meglio utilizzare codice inline o grassetto
 
 Grazie per il tuo contributo!

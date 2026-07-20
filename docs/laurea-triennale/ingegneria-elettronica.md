@@ -34,7 +34,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
     - Incidenza normale su un buon conduttore
-    - dimostrazione angolo di totale trasmissione di un onda obliqua
+    - dimostrazione angolo di totale trasmissione di un'onda obliqua
     - potenza onda obliqua
     - densità di potenza
 
@@ -103,7 +103,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - problema del differenziale di una funzione in una variabile
     - assioma di continuità del campo r
     - differenza tra serie e integrali
-    - teorema di weiestrass
+    - teorema di Weierstrass
     - teorema fondamentale del calcolo integrale
     - teorema dell'unicità del limite
 
@@ -136,5 +136,5 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
     - condensatore e conduttori in forma fasoriale
-    - teorema norton
-    - teorema tevenin
+    - teorema di Norton
+    - teorema di Thévenin

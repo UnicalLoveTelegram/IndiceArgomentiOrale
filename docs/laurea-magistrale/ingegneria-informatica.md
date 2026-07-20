@@ -239,7 +239,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Spiegazione csrf
     - Differenze tra csrf e xss
     - Cos'è kerberos
-    - challenge SSRF presente sul sito di [burp suite](https://portswigger.net/burp) (in teoria vi registrate, andate in accademy e poi nei vulnerabilty lab e cercate ssrf)
+    - challenge SSRF presente sul sito di [burp suite](https://portswigger.net/burp) (in teoria vi registrate, andate in academy e poi nei vulnerability lab e cercate ssrf)
     - pass the hash: descrizione
     - challenge presente su natas [numero 8](https://overthewire.org/wargames/natas)
     - Hash md5: come si riconosce?
@@ -248,7 +248,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - pass the ticket
         - comandi vari del prompt o powershell
         - rogue potato (e in generale da tenere sott'occhio qualsiasi cosa che sia potato, quindi juicy potato, hot potato...)
-        - si hanno degli output di eseguibili di Windows (permessi di un eseguibile e le info di un eseguibile) e fra i permessi di questo eseguibile c'era gitconfig e si poteva cambiare la configurazione per cambiare il /bin/path con una reverse shell
+        - si hanno degli output di eseguibili di Windows (permessi di un eseguibile e le info di un eseguibile) e fra i permessi di questo eseguibile c'era git config e si poteva cambiare la configurazione per cambiare il /bin/path con una reverse shell
         - query su un registro per vedere se era attivo il permesso su un utente (alwaysinstalledprivileged) e si poteva sfruttare per installare qualsiasi eseguibile come utente privilegiato
         - pass the hash
         - bind e reverse shell
@@ -289,7 +289,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - sql injection con script php (cosa è e cosa fa)
     - challenge web con loose comparison
     - differenze attacchi x32 bit e x64 bit
-        - rop chain e bruteforce sul indirizzo di ritorno
+        - rop chain e bruteforce sull'indirizzo di ritorno
     - Metasploit cosa è
     - tool simili a metasploit per windows
     - challenge web che presentava degli endpoint e bisognava loggarsi come admin
@@ -382,7 +382,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - SYN SCAN
     - ret2libc
         - perché è meno conveniente rispetto alla code reuse?
-            - Perchè ret2libc non può essere utilizzata in caso di chiamate a due o più funzioni che posseggono uno o più parametri, mentre la code reuse sì
+            - Perché ret2libc non può essere utilizzata in caso di chiamate a due o più funzioni che posseggono uno o più parametri, mentre la code reuse sì
     - Plt e got
     - Xss
     - Canary
@@ -400,7 +400,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonimi
     - Canary
     - gdb
-    - sito che ritorna un immagine, come capisci le tabelle?
+    - sito che ritorna un'immagine, come capisci le tabelle?
     - nmap port scanning
         - fin scan
         - udp scan
@@ -432,7 +432,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - gerarchie dinamiche
     - a cosa serve attributo master nello scenario di verità storica
     - a cosa servono le chiavi surrogate
-    - perchè non si usano i btree
+    - perché non si usano i btree
     - star index
     - join index
     - quando conviene fare snow flake
@@ -460,7 +460,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - la valutazione comprende i punteggi dati al test online di fine corso (crocette) e i lavori in ppt di gruppo
     - Stakeholder amichevoli
     - Outsourcing
-    - Finalitá dell azienda
+    - Finalità dell'azienda
 
 ## Modelli e Tecniche per i Big Data
 
@@ -499,25 +499,25 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - RDD
     - hama
     - costo del calcolo bsp
-    - zookeper
+    - ZooKeeper
     - trajectory discovery
     - java stream lazy
-    - legge amdhal
+    - legge di Amdahl
     - wordcount
     - mapper e reducer
     - spark e hadoop convenienza
     - bsp in generale
-    - send receive non blocanti e bloccanti
+    - send receive non bloccanti e bloccanti
     - spark lazy execution
     - wordcount reverse (chiave lunghezza parole)
     - logica di hive
-    - legge di amdhal
+    - legge di Amdahl
     - comunicazione in MPI sincrona e asincrona e meccanismi
     - caratteristiche di un programma in parallelo
     - combiner in mapreduce
     - numero di reducer e mapper
     - watermark
-    - wordlenghtcount
+    - wordlengthcount
 - Anonimi
     - codice word count
     - che tipologia di programmi esegue storm
@@ -604,9 +604,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - conflitti sui dati pipeline
     - emissione fuori ordine
     - Rsr
-    - completamente ofuori ordine
+    - completamente fuori ordine
     - ritiro in ordine
-    - confliti sul controllo
+    - conflitti sul controllo
     - predizione dei salti a schema - branch prediction unità
     - statistica a due bit con automa
     - conflitti sulle super scalari
@@ -671,8 +671,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - disegno
     - speculazione hardware macchina super scalare
     - differenza uma e numa
-    - macchina hasswell
-    - differenze cics e risc
+    - macchina Haswell
+    - differenze CISC e RISC
     - principi di progettazione risc
     - riduzione parallela
     - rsr
@@ -725,7 +725,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - cos'è un automa a pila
 - Marco Domenicano
     - Tautologia
-    - conraddizione
+    - contraddizione
     - memorizzazione di un json in calculista
     - esercizio del minimo locale in calculist e prolog
 - Anonimi
@@ -880,10 +880,10 @@ rc(X):- u(X), not(r(X)).
 
 - Angelo
     - definizione di problema np-completo
-    - cos' é una trasformazione polinomiale?
+    - cos'è una trasformazione polinomiale?
     - dimostrazione del teorema di Rice
     - fixed parameter trattability
-    - cos' é uno schema di approssimazione polinomiale ?
+    - cos'è uno schema di approssimazione polinomiale?
     - dimostrare che nap-sack é np-hard
     - perché usiamo trasformazioni polinomiali e non esponenziali?
     - dimostrare che ld é ricorsivamente enumerabile
@@ -896,9 +896,9 @@ rc(X):- u(X), not(r(X)).
 - Anonimi
     - cook
     - NP dentro PSpace (dimostrazione)
-        - **Risposta**: Perchè la definizione di NP dice che NP appartiene a Ptime, poichè Ptime è un sottoinsieme di Pspace allora anche NP è un sottoinsieme di Pspace
+        - **Risposta**: Perché la definizione di NP dice che NP appartiene a Ptime, poiché Ptime è un sottoinsieme di Pspace allora anche NP è un sottoinsieme di Pspace
     - teorema di Rice
-    - np completo (definizione) e vantaggi nellúso
+    - np completo (definizione) e vantaggi nell'uso
     - Teorema di Cook
     - Definizione di problema NP-complete
     - Domanda: `come cambia la clas shortcut multicursorsse np complete se cambiamo la definizione di hardness considerando trasformazioni esponenziali`
@@ -911,7 +911,7 @@ rc(X):- u(X), not(r(X)).
     - mostrazione Indipendent SET
     - Knapsack intero e frazionario
     - subset sum
-    - Approssimabilità knpasack (algoritmo pseudo polinomiale e FPTAS)
+    - Approssimabilità knapsack (algoritmo pseudo polinomiale e FPTAS)
     - importanza della riduzione polinomiale tra problemi decisionali
     - complessità parametrizzata con definizione di xp e di ffpt
     - problema np ha come definizione NP = `{L| E R polinomialmente decidibile e bilanciata che caratterizza L}` con PI1 R=L (dimostrazione)
@@ -932,7 +932,7 @@ rc(X):- u(X), not(r(X)).
     - Definizione NP
     - Definizione NP Hard
     - Definizione NP Complete
-    - Dimostrazioen indecidibilità Lu e non appartenenza a RE di Ld
+    - Dimostrazione indecidibilità Lu e non appartenenza a RE di Ld
     - Importanza riduzione polinomiale tra problemi decisionali
     - Perché NP è incluso in PSpace con dimostrazione
     - complessità parametrizzata con definizione di XP e FP
@@ -1042,7 +1042,7 @@ rc(X):- u(X), not(r(X)).
 - Anonimo 9
     - esempio di problema in sigma p 2
     - definizione della classe NC
-    - teorema di savitch
+    - teorema di Savitch
     - teorema di Mayer
     - definizione della classe IP
     - dimostrazione di NPSPACE contenuto in EXPTIME
@@ -1117,15 +1117,15 @@ rc(X):- u(X), not(r(X)).
     - quanti simboli leggo per volta?
     - c è differenza di potenza di calcolo tra dfa e nfa? no, ma c'è differenza di? (risposta: taglia, dimensione, numero di stati)
     - teorema di rice con dimostrazione
-    - teorema di savitch con dimostrazione
+    - teorema di Savitch con dimostrazione
     - parliamo del concetto di approssimabilità
     - i problemi sono tutti approssimabili?
     - cos'è la classe p/poly
     - classe di complessità IP
-    - legame che c'è tra complessita di circuito e di tempo nei linguaggi
+    - legame che c'è tra complessità di circuito e di tempo nei linguaggi
     - un insieme r.e. lo possiamo definire in più modi, come e in che modo sono equivalenti le def(dimostrazione che la seconda def è equivalente alla terza)
-    - cos è la forma normale di Greinbach
-    - classe di complessita NC
+    - cos'è la forma normale di Greinbach
+    - classe di complessità NC
     - confronta NCI con ACI
     - p/poly dove sta rispetto a NCI e ACI (non è sicuro sia questo confronto però è sicuro sia con p/poly)
     - nel linguaggio mini C non abbiamo l'if-than-else, riusciamo a realizzarlo?
@@ -1134,9 +1134,9 @@ rc(X):- u(X), not(r(X)).
     - consideriamo l'insieme degli indici delle funzioni totali, è ricorsivo r.e. o non r.e.
     - parliamo di p spazio e indichiamone un linguaggio completo
     - data una macchina che dati n elementi in input si vuole stabilire se il numero di elementi dell array sia pari o dispari, che complessità ha nello spazio
-    - esiste una forma normale per i problemi in psapzio che è anche la codifica di un problema completo, com è fatto
-    - domande su copspazio generiche
-    - teorema di toda (ultimo fatto nel corso)
+    - esiste una forma normale per i problemi in PSPACE che è anche la codifica di un problema completo, com è fatto
+    - domande su coPSPACE generiche
+    - teorema di Toda (ultimo fatto nel corso)
     - dimostriamo che un automa a pila deterministico è sempre equivalente a uno a pila non deterministico, non è così in realtà, mi fai vedere un linguaggio che separa?
     - consideriamo ww^R perché l automa a pila det non è sufficiente in questo caso, dimostrazione
     - Abbiamo due forme di automi a pila accettanti per stato finale e per stato vuoto, dimostrazione equivalenza che i linguaggi riconosciuti da uno sono "equivalenti" a quelli dell altro
@@ -1278,7 +1278,7 @@ rc(X):- u(X), not(r(X)).
         - hill climbing + simulated annealing
         - pac learning
     - Anonime
-        - IDA\* perchè c'è min nella funzione
+        - IDA\* perché c'è min nella funzione
         - Frame assension
         - strips
             - risoluzioni
@@ -1322,7 +1322,7 @@ rc(X):- u(X), not(r(X)).
     - Dimosrrazione dell'ottimalitá di A\* graph search
 - Anonimo 3
     - Algoritmo yannakaki
-    - Complessita dell'algoritmo di yannakaki
+    - Complessità dell'algoritmo di yannakaki
 - Anonimo 4
     - Dimostrazione che se è ammissibile euristica allora a star è ottimale
     - Dimostrazione che euristica consistente implica ammissibile
@@ -1380,7 +1380,7 @@ rc(X):- u(X), not(r(X)).
     - problemi binari o con arità maggiore.
     - Cos'è un grafo?
     - Equilibrio di nash, cos'è e definizione formale.
-    - spiegazione di a\*, perchè è ottimale?
+    - spiegazione di a\*, perché è ottimale?
     - Cos'è l'ammissibilità?
     - Depth first search
 - Anonimo 4:
@@ -1516,14 +1516,14 @@ rc(X):- u(X), not(r(X)).
             - a cosa serve il min?
         - programma datalog stratificato
     - altri
-        - Verie testimonianze 04/02/2021
+        - Varie testimonianze 04/02/2021
         - Descrizione algoritmo Iterative deepening
         - Precisare come si può uscire dal ciclo quando non ci sono goal
             - **Risposta**: la soluzione proposta dal prof è quella di utilizzare una variabile booleana (non sappiamo nel dettaglio come), un'altra soluzione è quella di uscire quando il cutting level sia pari all'altezza dell'albero ma costa troppo in termini temporali
         - Complessità di verificare la coerenza di una teoria in logica di default (ossia se ammette un'estensione), dimostrare almeno intuitivamente perché tale problema è almeno NP-hard
             - **Risposta**: intuitivamente se la complessità dell'entailment è CONP-c in logica proposizionale, poiché la logica di default ha sia una teoria proposizionale W che un'insieme di default D è facile capire che sarà almeno difficile quanto l'entailment è quindi ha almeno una sorgente di esponenzialità
         - Strips genera stati inconsistenti?
-            - **Risposta**:un esempio è {f, not(f)} in cui abbiamo uno stato con due fluenti con valore logico opposto, ma strips NON è un linguaggio logico, f e not f potrebbero essere chiamati pluto e paperino quindi no, non genera stati inconsistenti in quanto il concetto di incosistenza è associato a linguaggi logici)
+            - **Risposta**:un esempio è {f, not(f)} in cui abbiamo uno stato con due fluenti con valore logico opposto, ma strips NON è un linguaggio logico, f e not f potrebbero essere chiamati pluto e paperino quindi no, non genera stati inconsistenti in quanto il concetto di incosistenza è associato a linguaggi logici
         - Esempio di teoria di default in cui non ci sia alcuna estensione che sia calcolabile con la semantica operazionale
             - **Risposta**: basta usare una teoria incoerente, {TRUE:A/¬A } è l'esempio tipico
 - Giovanni
@@ -1567,7 +1567,7 @@ rc(X):- u(X), not(r(X)).
     - Espressività dei modelli stabili (NP)
     - Sistemi di argomentazione ha voluto tutto
     - nel baf se le definizioni di COMPLETEZZA, ACCEPTED, DEFEATED ECC variano oppure no
-    - proof systems definizioni e propietà
+    - proof systems definizioni e proprietà
     - logica a tre valori e modelli stabili parziali, determinare se un modello è stabile parziale dato un programma
     - linguaggio delle dipendenze funzionali
     - magic set
@@ -1611,7 +1611,7 @@ rc(X):- u(X), not(r(X)).
     - Che cosa fa eval_rule()? Dato l'esempio, generare l'espressione in algebra relazionale.
     - Description logic in generale.
     - Linguaggio ALC, descrizione.
-    - Perchè utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatro che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic?
+    - Perché utilizziamo la description logic? Non potremmo usare le formule del calcolo dei predicati al suo posto? La domanda scaturisce dal fatto che qualunque formula la possiamo riscrivere con formule del calcolo dei predicati (FOL), e quindi perché utilizzare description logic?
     - Tbox e Abox
 - quarto Anonimo
     - Algoritmo naïve (la sua descrizione formale, anche ad alto livello)
@@ -1686,7 +1686,7 @@ rc(X):- u(X), not(r(X)).
     - Query In Uppaal
     - Scrivere un parcheggio in reti di petri
     - template tTransaction pTransaction delle ptpn
-    - clock di uppaall
+    - clock di UPPAAL
     - come si rappresenta uno stato nel model state graph di uppaal
     - JSemaphore
     - Parametro Lambda delle simulazioni ad attori
@@ -1868,7 +1868,7 @@ rc(X):- u(X), not(r(X)).
 - Anonimi
     - meccanismi code Azure:
         - 3 tipi di proprietà obbligatorie
-    - perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e ribind)?
+    - perché si utilizza UnicastRemoteObject.exportObject e non si usa il metodo normale (lookup e rebind)?
         - il meccanismo di Java obbliga a estendere la classe e questo dovrebbe farlo ogni client (soluzione scomoda)
 
 **<u>2021 2022</u>**
@@ -1964,7 +1964,7 @@ rc(X):- u(X), not(r(X)).
     - metodi di integrazione in più dimensione e perché non si può sempre suddividere in somma di integrali come in 1 dimensione
     - condizione convergenza metodi iterativi (sistemi)
     - ordine dell’errore (sia locale che globale) in tutti i metodi sulla risoluzione delle equazioni differenziali
-    - può succedere che Jacobi converga e Gaus-Siedel diverga o viceversa?
+    - può succedere che Jacobi converga e Gauss-Seidel diverga o viceversa?
     - FARE BENE il metodo di Cavalieri-Simpson (con enfasi sul motivo per cui si fa l’ipotesi sull’ uguaglianza tra la derivata in psi e psi con tilde
     - come scegliere i nodi per evitare fenomeno Runge
     - modo migliore per calcolare la somma di tanti numeri in virgola mobile (slide Marat)
@@ -1982,21 +1982,21 @@ rc(X):- u(X), not(r(X)).
         - (Risposta: sono più semplici ma non è detto che convergano)
     - Da cosa dipende il condizionamento di un sistema lineare?
     - Cancellazione numerica e come si può evitare
-    - Prendendo un metodo iterativo qual'è la condizione della convergenza?
+    - Prendendo un metodo iterativo qual è la condizione della convergenza?
         - (Raggio spettrale (ovvero massimo degli autovalori della matrice d'iterazione) < 1)
     - Cos'è uno spazio lineare?
-    - Data una grande sequenza di numeri positivi, qual'è il migliore modo di sommarli?
+    - Data una grande sequenza di numeri positivi, qual è il migliore modo di sommarli?
         - (Risposta: ordine crescente, minor perdita d'informazioni)
-    - Quale dei metodi (Gauss e Gauss-Jordan) è il più efficente? Risposta: Il migliore è il metodo di Gauss perché ha una complessità minore
+    - Quale dei metodi (Gauss e Gauss-Jordan) è il più efficiente? Risposta: Il migliore è il metodo di Gauss perché ha una complessità minore
     - Svantaggi della formula del polinomio interpolante di LaGrange? Risposta: la complessità e non si possono aggiungere nodi senza dover ricalcolare il polinomio da capo
     - Significato di errore assoluto e relativo nell'approssimazione di un numero floating point
-    - Formula adattiva di Cavalieri-Simpson e qual'è il presupposto fatto? Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
+    - Formula adattiva di Cavalieri-Simpson e qual è il presupposto fatto? Risposta: la derivata quarta di f(xi) è supposta uguale all'aumentare del passo
     - Quali sono i metodi per la risoluzione di equazioni differenziali ordinarie? Cosa vuol dire implicito ed esplicito?
     - Residuo dei sistemi lineare? Se il residuo è piccolo cosa possiamo dire sulla soluzione?
         - Risposta: r^(k) = b - Ax^(k)
     - Se il sistema è mal condizionato il fatto che il residuo è piccolo non ci dice nulla
     - Metodi per la risoluzione di equazioni differenziali e ordine degli errori
-    - Come funzionano i metodi di integrazione numerica in più dimensioni? Perchè non si può usare la formula che trasforma un
+    - Come funzionano i metodi di integrazione numerica in più dimensioni? Perché non si può usare la formula che trasforma un
     - integrale a più dimensioni in una successione di integrali in una dimensione?
     - Metodi per la derivazione numerica
     - Estrapolazione di Richardson
@@ -2014,7 +2014,7 @@ rc(X):- u(X), not(r(X)).
     - Vantaggi e svantaggi dei metodi diretti rispetto ai metodi iterativi per la soluzione di sistemi lineari.
     - Quando i metodi diretti non sono applicabili?
         - Risposta: Quando le matrici sono di grandi dimensioni è preferibile usare il metodo di Jacobi che è parallelizzabile
-    - Metodo dei coefficenti indeterminati?
+    - Metodo dei coefficienti indeterminati?
     - Metodo del punto fisso
     - Condizione di Lipshiz e dove si applica
     - Tipi di problemi computazionali (problema diretto, inverso e di indentificazione) ed esempi
@@ -2065,7 +2065,10 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimi
     - interpolazione con particolare attenzione su come si costruiscono i coefficienti con Lagrange e con Newton
-    - ⁠quadratura numerica ======= **<u>2019 2020</u>**
+    - quadratura numerica
+
+**<u>2019 2020</u>**
+
 - Giovanni Giordano
     - errore assoluto e relativo
     - estrapolazione di Richardson
@@ -2079,12 +2082,15 @@ rc(X):- u(X), not(r(X)).
 **<u>2025 2026</u>**
 
 - Anonimi
-    - problema di chauchy
+    - problema di Cauchy
     - come viene rappresentato un numero su calcolatore
     - errore assoluto e relativo
     - errore macchina
     - interpolazione
-    - derivazione numerica ⁠ - equazioni differenziali e problema di cauchy ⁠ - metodi di integrazione numerica ⁠ - sistemi lineari
+    - derivazione numerica
+    - equazioni differenziali e problema di Cauchy
+    - metodi di integrazione numerica
+    - sistemi lineari
 
 **<u>2024 2025</u>**
 
@@ -2126,9 +2132,9 @@ rc(X):- u(X), not(r(X)).
         - Proprietà delle norme.
         - Che cos’è la norma 1, norma infinito, norma 2, norma p?
     - Cosa sono le equazioni differenziali?
-    - Problema di cauchy
+    - Problema di Cauchy
     - Cosa succede nel metodo di integrazione di newton vuoi aumentare il grado del polinomio, devi ricalcolare tutto? (No)
-    - Perchè esiste sempre il polinomio di migliore approssimazione e quali sono le condizioni affinchè si verifichi ciò? (teorema di weirestrass e intervallo con tutti nodi diversi)
+    - Perché esiste sempre il polinomio di migliore approssimazione e quali sono le condizioni affinché si verifichi ciò? (teorema di Weierstrass e intervallo con tutti nodi diversi)
 
 ## Crittografia e analisi reti sociali
 
@@ -2158,22 +2164,22 @@ rc(X):- u(X), not(r(X)).
     - CBC+nonce
     - CTR
     - CTR+nonce
-    - MAC (funzionamento sicurezza e challange)
+    - MAC (funzionamento sicurezza e challenge)
     - NMac
     - PMAC
     - HMAC
     - ECBC MAC
     - PAYLOAD
-    - HASH (funzionamento sicurezza e challange)
-    - PAradosso compleanno + attacco hash (collissioni)
+    - HASH (funzionamento sicurezza e challenge)
+    - Paradosso compleanno + attacco hash (collisioni)
     - Merkle damgard
-    - Autenticazione cifrata (funzionamento sicurezza e challange)
+    - Autenticazione cifrata (funzionamento sicurezza e challenge)
     - tre tipologie costruzione autenticazione cifrata (e than m, e and m, m then e) più differenze e sicurezza
     - differenza chiave simmetrica e asimmetrica
     - principi chiave asimmetrica
     - RSA
-    - Complessità attacco RSA per scoprire chaive segreta
-    - complessita attacco RSA per un messaggio cifrato (differenza con sopra )
+    - Complessità attacco RSA per scoprire chiave segreta
+    - complessità attacco RSA per un messaggio cifrato (differenza con sopra )
     - Merkle puzzle
     - autorità di certificazione e firma digitale (molto in generale più schema)
 - Riccardo
@@ -2191,7 +2197,7 @@ rc(X):- u(X), not(r(X)).
         - euclide
         - vari problemi
     - puzzle di merkle
-    - introduzione key managment e scneari utilizzo rsa
+    - introduzione key management e scenari utilizzo rsa
 
 ## Algoritmi di Crittografia
 
@@ -2218,7 +2224,7 @@ rc(X):- u(X), not(r(X)).
     - cosa può fare l'attaccante attivo che scopre la chiave
     - fiat shamir
     - differenza tra attacco a forza bruta e attacco a forza bruta del paradosso del compleanno ( la risposta "dovrebbe essere" che lo spazio di ricerca è diverso )
-    - se l'avversario si aspetta un valore di e ma ne arriva un altro puo correggere il tiro? ( la risposta "dovrebbe essere" che non può perchè il calcolo ha complessita pari a radice modulare n )
+    - se l'avversario si aspetta un valore di e ma ne arriva un altro può correggere il tiro? ( la risposta "dovrebbe essere" che non può perché il calcolo ha complessità pari a radice modulare n )
     - 3des
     - come decifrare con 3des ( se E(k1,k2,k3,m)=E(k1,D(k2,E(k3,m))) allora D(k1,k2,k3,m)=D(k3,E(k2,D(k1,c))) )
     - attacco e complessità dell'attacco a 2des
@@ -2250,8 +2256,8 @@ rc(X):- u(X), not(r(X)).
         - problemi
         - algoritmo
     - One Time Pad
-        - decifatura e cifratura deterministica
-        - decifatura e cifratura randomizzata
+        - decifratura e cifratura deterministica
+        - decifratura e cifratura randomizzata
         - sicurezza per mandare messaggi
         - problemi
     - sicurezza Semantica

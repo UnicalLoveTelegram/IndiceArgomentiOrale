@@ -16,7 +16,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Francesco Pupo
 
-**<u>2020/2021</u>**
+**<u>2020 2021</u>**
 
 - Anonimi
     - Commitment
@@ -35,7 +35,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - a che livelli possiamo fare un attacco e quali sono i costi
     - quali sono gli attacchi a livello software
     - perché è meglio usare protocolli standard rispetto quelli custom
-    - parlare delle crittografia a curve ellittiche
+    - parlare della crittografia a curve ellittiche
     - differenza curve ellittiche e aes
     - algoritmo di hellman
     - block chain e iot come si possono collegare
@@ -64,7 +64,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - come riconosci un EPROM, quali sono i pin di un EPROM SPI
     - a cosa serve il marcatore sui chip integrati
     - come collegarsi agli spi, mqtt è un protocollo affidabile?
-    - cross compilation cos'è, che cos'è una sessione nel protoccolo mqtt
+    - cross compilation cos'è, che cos'è una sessione nel protocollo mqtt
     - differenza durable session e non durable session in mqtt
     - a che serve firmadyne
     - come riconosciamo una uart
