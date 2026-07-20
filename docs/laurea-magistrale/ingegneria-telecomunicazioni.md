@@ -31,7 +31,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2025 2026</u>**
 
-- Anonimo
+- DomHeadroom
     - a che livelli possiamo fare un attacco e quali sono i costi
     - quali sono gli attacchi a livello software
     - perché è meglio usare protocolli standard rispetto quelli custom
@@ -49,7 +49,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2025 2026</u>**
 
-- Anonimo
+- DomHeadroom
     - parlare di jtag come funziona quali sono i pin e a cosa serve
     - come vengono collegati i chip spi e le due configurazioni
     - come faccio a sapere quando arrivano i dati allo slave in una configurazione daisy chain
@@ -60,7 +60,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2025 2026</u>**
 
-- Anonimo
+- DomHeadroom
     - come riconosci un EPROM, quali sono i pin di un EPROM SPI
     - a cosa serve il marcatore sui chip integrati
     - come collegarsi agli spi, mqtt è un protocollo affidabile?
