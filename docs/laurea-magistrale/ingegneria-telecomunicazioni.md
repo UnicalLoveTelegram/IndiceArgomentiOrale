@@ -44,6 +44,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - che cosa ci dice che la crittografia asimmetrica è sicura
     - Diffie-Hellman e algoritmi di crittografia
     - tipi di attacchi fisici sulle board e sui chip
+    - differenza tra des, 2des, 3des
+    - differenza tra RSA e ElGamal
+    - differenza tra algoritmi simmetrici e asimmetrici per la crittografia
+    - spiega i tipi di attacco (chip level, board level, software level)
+    - Blockchain
+    - crittografia asimmetrica usata in iot
 
 ### Michele Ianni
 
@@ -55,6 +61,12 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - come faccio a sapere quando arrivano i dati allo slave in una configurazione daisy chain
     - binari linkati dinamicamente e staticamente come vengono emulati differentemente con qemu
     - quali sono le soluzioni che posso essere implementate quando vogliamo analizzare un dispositivo e ha un addon che non possiamo emulare
+    - port scanning e vari metodi di farlo e come identifichiamo i servizi
+    - come capiamo le porte aperte con UDP
+    - differenza tra binari linkati dinamicamente e staticamente, e perché ci interessano quando emuliamo
+    - quando emuliamo un firmware e ci sono vari sistemi hardware collegati, come emuliamo il firmware in full system mode?
+        - quali sono le opzioni per emulare senza avere tutto l'hardware?
+    - arp spoofing e come fai a leggere i pacchetti? (perché il tuo PC li droppa e quindi devi metterti in modalità promiscua)
 
 ### Claudia Greco
 
@@ -70,3 +82,11 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - come riconosciamo una uart
     - qemu e le sue modalità (QEMU User Mode Emulation e QEMU System Mode Emulation)
     - quale modalità di qemu usa firmadyne
+    - cos'è quemu e quali sono i suoi modi di esecuzione
+    - cos'è il protocollo mqtt e i modi in cui garantisce il messaggio
+    - Uart come identifichi i pin e perché è importante come protocollo
+    - cos'è un firmware e quali sono le sue parti
+    - se ho un firmware e ha un binario, come capisco la sua architettura?
+    - protocollo spi
+    - differenza tra spi flash ed EPROM
+    - protocollo mqtt e cos'è il retain nel protocollo
