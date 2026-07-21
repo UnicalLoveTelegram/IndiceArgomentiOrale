@@ -13,6 +13,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Salvatore Corrado](#salvatore-corrado)
     - [Biochimica](#biochimica)
         - [Cesare Indiveri e Lara Console](#cesare-indiveri-e-lara-console)
+    - [Anatomia Umana](#anatomia-umana)
+        - [Daniela Amelio](#daniela-amelio)
 
 ## Fondamenti di Informatica
 
@@ -87,3 +89,30 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - spettrofotometria
     - formula dell’assorbanza
     - cromatografia
+
+## Anatomia Umana
+
+### Daniela Amelio
+
+**<u>2025 2026</u>**
+
+- DomHeadroom
+    - apparato respiratorio
+    - apparato digerente
+    - apparato urinario
+    - differenza tra membrana sierosa e membrana mucosa
+    - circolazione sistemica
+    - articolazioni
+    - diartrosi
+    - vari tipi di legamenti
+    - tessuto muscolare
+    - miocardio endocardio ed epicardio
+    - le valvole
+    - i setti
+    - aorta ascendente
+    - arco aortico
+    - arterie coronarie
+    - pareti muscolari
+    - vene cardiache
+    - legamenti del ginocchio
+    - apparato scheletrico assile
