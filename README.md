@@ -26,6 +26,7 @@ L'intera struttura è basata su più file, uno a corso di laurea:
 
 - [LT Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-informatica.md)
 - [LT Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-elettronica.md)
+- [LT Ingegneria Biomedica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-biomedica.md)
 - [LT Ingegneria Alimentare](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-triennale/ingegneria-alimentare.md)
 - [LM Ingegneria Informatica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-informatica.md)
 - [LM Ingegneria Elettronica](https://github.com/UnicalLoveTelegram/IndiceArgomentiOrale/blob/main/docs/laurea-magistrale/ingegneria-elettronica.md)

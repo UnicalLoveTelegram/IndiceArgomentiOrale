@@ -13,7 +13,7 @@ assignees: ''
 
 ### Professore con cui si è svolto l'esame - es: Furfaro Angelo
 
-#### anno di riferimento ( quello di settembre ) - es: 2018/2019
+#### anno di riferimento ( quello di settembre ) - es: 2018 2019
 
 - NOME ESAMINANDO oppure Anonimi
     - domanda 1

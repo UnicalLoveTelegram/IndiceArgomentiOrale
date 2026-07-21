@@ -79,7 +79,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - ciclo dell'urea
     - struttura secondaria delle proteine
     - come si raggruppano gli amminoacidi
-    - fosforillazione ossidativa
+    - fosforilazione ossidativa
     - spettrofotometro
     - quanti gruppi di amminoacidi ci sono e quali sono
     - visualizzazione della catena amminoacidica

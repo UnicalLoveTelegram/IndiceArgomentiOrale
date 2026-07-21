@@ -91,7 +91,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Sciunzi Berardino](#sciunzi-berardino-1)
         - [Ciolli Fabio](#ciolli-fabio)
     - [Analisi Matematica 2](#analisi-matematica-2)
-        - [Sciuzi Berardino](#sciuzi-berardino)
+        - [Sciunzi Berardino](#sciunzi-berardino-2)
         - [Colao](#colao)
         - [De Luca](#de-luca)
         - [Viviana Solferino](#viviana-solferino)
@@ -197,7 +197,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 **<u>2024 2025</u>**
 
-- Anonimo 1
+- Anonimo
     - Tipi di Validation
     - KNN
     - Varianti del KNN
@@ -258,8 +258,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Sequential covering
     - Valutazione di un classificatore
     - F-Measure
-    - perchè introduciamo la precision e la recall
-    - Campionamento
+    - perché introduciamo la precision e la recall
     - Clustering gerarchico
     - Algoritmo di Hunt
     - Come scegliere il criterio di split sugli alberi
@@ -268,9 +267,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Come assegnare i punti al cluster più vicino
     - Come aggiornare i centroidi
     - Pseudocodice
-    - Complessita
+    - Complessità
     - Campionamento
-    - Perche si usa
+    - Perché si usa
     - Criterio con il quale si campiona
 
 ## Laboratorio di Sistemi Informativi
@@ -303,17 +302,17 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - xml-schema
     - Insomma può chiedere veramente di tutto ma è molto buono fa tante domande finché non sai qualcosa
     - l'importante è fare il sito(o altro progetto) che rispetta la parte che hai deciso di implementare
-    - ha chiesto a tutti inoltre se avevamo messo controlli sui campi di inserimento quindi controlli per vedere se un email è ben formata durante la registrazione etc
+    - ha chiesto a tutti inoltre se avevamo messo controlli sui campi di inserimento quindi controlli per vedere se un'email è ben formata durante la registrazione etc
     - l'unica cosa è vedere bene sql perché ti fa fare in diretta query ricorsive e trigger
     - Schema a stella e fiocco di neve
         - come suddividere gli attributi in quello a fiocco di neve
 - Giacomo
     - Fase di assestment
-        - cos'é il project managament (visto che quando ho risposto ho detto che ne fa parte)
+        - cos'è il project management (visto che quando ho risposto ho detto che ne fa parte)
     - Cosa é il Work breakdown structure
     - Cosa é il DFM dimensional fact model
     - Costruisci una query ricorsiva che calcoli il fattoriale
-    - Costruisci una query ricorsiva che percorre un grafo a partire dal nodo iniziale(applicato a diversi contesti, cittá, treni etc)
+    - Costruisci una query ricorsiva che percorre un grafo a partire dal nodo iniziale(applicato a diversi contesti, città, treni etc)
     - Operatori OLAP dice e slice
         - se io faccio k operazioni di slice le mie dimensioni dell'ipercubo di quanto variano?
         - La risposta é che se si effettuano k slice allora se la dimensione era n poi sará n-k
@@ -372,7 +371,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Salvatore Riga
     - come srotolare una ricorsione
-    - teorema delle ricorrenze per il calcolo della complessita
+    - teorema delle ricorrenze per il calcolo della complessità
 
 **<u>Anno non classificato</u>**
 
@@ -414,7 +413,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 - Anonimi
     - Kruskal
-        - complessita spiegata
+        - complessità spiegata
     - Struttura union find e due implementazioni
     - Heap descrizione e inserimento nodo ed estrazione
 
@@ -561,7 +560,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Teorema del valore iniziale e finale con dimostrazione
     - Modi di evoluzione libera
     - Da una fdt calcola i modi di evoluzione libera
-    - Criterio di routh
+    - Criterio di Routh
     - Bibo stabilità con dimostrazione necessaria e sufficiente
     - Teorema della risposta armonica
     - Forma di Bode
@@ -605,8 +604,8 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Enri
     - Sistemi del I e del II ordine
     - Legame tra tempo di salita e banda passante.
-    - Esercizio su carateristiche dei diagrammi di Bode
-    - disegno approsimativo di un sistema del primo ordine a fase non minima
+    - Esercizio su caratteristiche dei diagrammi di Bode
+    - disegno approssimativo di un sistema del primo ordine a fase non minima
 
 **<u>2015 2016</u>**
 
@@ -728,7 +727,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - algoritmi scheduling cpu
         - come si ottimizza il tempo di attesa?
         - come si calcola la stima?
-    - come si muovono i process isu windows?
+    - come si muovono i processi su windows?
     - MMU
     - sostituzione pagine LRU
     - lettori scrittori con semafori come si muovono?
@@ -804,7 +803,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - File System
     - Se collego una tastiera nuova ad un pc vecchio come fa a riconoscerlo (sottosistema di IO )
     - Ready queue e code multiple
-    - paginazione su richiesta come avviena
+    - paginazione su richiesta come avviene
     - sistemi real-time in generale
     - scheduling EDF dei sistemi realtime
     - Disegno dell'architettura della paginazione
@@ -857,7 +856,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>Anno non classificato</u>**
 
 - Luigi De Marco
-    - Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestita la priorita' tra processi real time e no, non ricordo dove xD
+    - Come Linux implementasse non ricordo che, forse la gestione dei processi, e sicuramente come vengono gestite le priorità tra processi real time e no, non ricordo dove xD
 
 ### Marozzo
 
@@ -909,7 +908,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - monitor di hansen e hoare
     - dati tre thread **a** **b** e **c** fermi su delle istruzioni dire comportamento secondo Hansen, Hoare e in java
     - Cosa fa la yield e perché non va usata
-    - cosa fa la set priority e perchè non va usata
+    - cosa fa la set priority e perché non va usata
     - legge di Amdhal
     - Legge di Moore
     - Barbiere addormentato
@@ -984,7 +983,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - differenza tra hashmap concorrente e sincronizzata
     - cosa vuol dire rientrante per i lucchetti
     - monitor nativi
-    - grafo allocazione delle risorse e condizioni affinche ci sia deadlock
+    - grafo allocazione delle risorse e condizioni affinché ci sia deadlock
     - implementare una sequenza simile a quelle viste a lezione (abc abbc abbbc ...)con i semafori
     - implementare una soluzione al problema dei 5 filosofi che non ammetta starvation (è ammesso im deadlock )
     - implementare una soluzione ai 5 filosofi senza deadlock
@@ -994,7 +993,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - lamport , dijkstra e peterson
     - come funziona la fairness dei semafori e dei lock
     - contrario di fairness? (barging)
-    - perche non basta la fairness dei lock e dobbiamo usare anche le linkedlist
+    - perché non basta la fairness dei lock e dobbiamo usare anche le linkedlist
     - legge di Amdahl e considerazioni casi limite
     - differenza tra processo e thread
     - code associate ai monitor come funzionano? (diff hansen e hoare)
@@ -1098,7 +1097,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - schedule serializzabile
     - protocollo 2pl
     - condizione di recuperabilità
-    - strong e stong strict 2pl
+    - strong e strong strict 2pl
     - esempio di schedule serializzabile ma non view
 
 **<u>2023 2024</u>**
@@ -1113,7 +1112,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - serializzabilità
     - Esempio di schedule view-serializable ma non conflict-serializable
     - esempio di schedule serializable ma non view-serializable
-    - Quando uno schedule è serializabile
+    - Quando uno schedule è serializzabile
     - Dimostrazione two face looking implica conflict serializable
     - Scrivere schedule non view serializable ma serializzabile
     - Scrivere schedule non conflict serializable ma view serializable
@@ -1142,10 +1141,10 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - condizione per essere serializzabile
     - schedule cascadeless e recoverable
 - Anonimi
-    - chiede due domende tra le tre essenziali :
+    - chiede due domande tra le tre essenziali :
         - dipendenza funzionale
         - chiave primaria
-        - chiave candidat
+        - chiave candidata
     - differenza tra bree e bplus tree
 - Giovanni Giordano
     - quando due schedule sono serializzabili
@@ -1157,7 +1156,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Schedule serializzabile
     - schedule seriale
     - Phantom read
-    - dimostrazione 2pl implica confict equivalence
+    - dimostrazione 2pl implica conflict equivalence
 
 **<u>2017 2018</u>**
 
@@ -1168,9 +1167,9 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - schedule con proprietà recoverable e cascadeless
 - Simone
     - tecnica di hashing statico e indirizzamento aperto
-    - Esempio di schedule view serializzable ma non confict serializzable
+    - Esempio di schedule view serializzable ma non conflict serializzable
 - Francesco
-    - serializzabilita
+    - serializzabilità
     - esempio schedule view serializzable ma non conflict serializzable
     - 2PL cosa implica
     - cascadeless con esempio
@@ -1256,7 +1255,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 **<u>2023 2024</u>**
 
 - Anonimi
-    - Una delle tre fefinizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
+    - Una delle tre definizioni formali tra chiave candidata, chiave esterna e schedule serializzabile ( Se capitate con nardiello imparare l'esatte parole del libro formali o vi boccia anche se sapete il concetto )
     - Rimozione di una chiave in un b-tree
     - Struttura di un nodo di un b-tree
     - Differenza tra hashing statico e dinamico
@@ -1403,7 +1402,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Amministrazione linux
     - mount
 - Arbrane97
-    - cosa è una sistem call
+    - cosa è una system call
     - repository
     - fstab
 
@@ -1510,7 +1509,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 - Anonime
     - Gestioni permessi
     - Software libero e licenze
-    - ouput di un prgramma C
+    - output di un programma C
     - errore in questo programma
 
 ```c
@@ -1562,7 +1561,7 @@ malloc(sizeof(int)*(i+1));
     - Come gestire un file che dobbiamo salvare in locale( tipo invece di firebase in locale)
     - Riverpod a che serve
     - I widget come funzionano
-    - Isolates perche lo usiamo
+    - Isolates perché lo usiamo
     - Class extension di dart
 
 ## Chimica
@@ -1723,7 +1722,7 @@ malloc(sizeof(int)*(i+1));
     - Quali pattern abbiamo visto a lezione
     - A quale pattern associ l'executor framework
     - Tipi di comunicazione GRPC
-    - Tipi di comunicazione, asincorna e sincrona
+    - Tipi di comunicazione, asincrona e sincrona
     - Cosa fa git rebase
     - Come mantiene le versioni git e quanto è lungo lo sha-1
     - Come avviene la merge in git
@@ -1825,7 +1824,7 @@ malloc(sizeof(int)*(i+1));
     - Quali pattern abbiamo visto a lezione
     - A quale pattern associ l'executor framework
     - Tipi di comunicazione GRPC
-    - Tipi di comunicazione, asincorna e sincrona
+    - Tipi di comunicazione, asincrona e sincrona
     - Cosa fa git rebase
     - Come mantiene le versioni git e quanto è lungo lo sha-1
     - Come avviene la merge in git
@@ -1990,7 +1989,7 @@ malloc(sizeof(int)*(i+1));
     - Spiegare la differenza tra multiplexing TCP e UDP
     - Differenza tra risoluzione iterative e ricorsiva del DNS
         - Quale delle due è la soluzione più vantaggiosa ?
-    - ICMP cos è?
+    - ICMP cos'è?
     - Traceroute funzionamento, cosa sono gli asterischi che possono uscire in un traceroute
     - A che serve una CA?
         - Cosa troviamo dentro una CA
@@ -1998,14 +1997,14 @@ malloc(sizeof(int)*(i+1));
     - Perché la ricerca è in log_2 in chord
     - Quanti sono i successori nella lista di successori in chord?
     - Cosa ci permette di fare il gateway a livello applicazione che il firewall a filtraggio di pacchetto non permette?
-    - Hot potato routing cos è, è intra-AS o inter-AS ?
-    - FIREWALL: Perchè è necessario nel filtraggio di pacchetto un ordine ragionato e non randomico ?
+    - Hot potato routing cos'è, è intra-AS o inter-AS?
+    - FIREWALL: Perché è necessario nel filtraggio di pacchetto un ordine ragionato e non randomico?
     - Quale regola inseriamo per bloccare le connessioni in ingresso TCP?
     - Perché sarebbe sbagliato bloccare i pacchetti in ingresso con solo SYN pari a 1?
     - Come funziona la sostituzione poli-alfabetica?
     - KDC come funziona ?
     - FTP
-    - Che cos è la GET condizionale?
+    - Che cos'è la GET condizionale?
     - Differenza tra stop & Wait e Pipeline
     - Differenza tra selective e go back n e vantaggi e svantaggi
     - MAC codice di autenticazione
@@ -2092,7 +2091,7 @@ malloc(sizeof(int)*(i+1));
     - schema di una rete chord con spiegazione
     - confrontare gli approcci p2p (con indice centrale, query flooding, dht)
     - p2p approcci. Esistono p2p puri?
-    - Bittorent dire cosa sono leecher e seeder e poi spiegare tutto il resto
+    - BitTorrent dire cosa sono leecher e seeder e poi spiegare tutto il resto
     - risoluzione iterativa e ricorsiva del dns
     - disegnare il grafico del provisioning delle risorse e spiegare le differenze tra underprovisioning, overprovisioning e cosa succede nel cloud computing
     - http 2.0
@@ -2118,10 +2117,9 @@ malloc(sizeof(int)*(i+1));
 ### Cristian Cosentino
 
 - Anonimi
-    - esercizio scrivere un client che riceve un orario tramite udo
+    - esercizio scrivere un client che riceve un orario tramite UDP
     - port forwarding
     - cloud computing
-    - nat
     - esercizio implementare una chat fra client e server
     - Prendere l'header da una pagina
     - Prendere il contenuto della pagina
@@ -2197,9 +2195,9 @@ malloc(sizeof(int)*(i+1));
     - simulazione montecarlo (origini del nome + tempo medio di attesa in coda + intervallo di confidenza + cos'è l' IC e per cosa nasce)
     - funzione tempo di attesa (forma generale e non)
     - varianza campionaria
-    - problema di sincronia (usando problema del ritardo del professore, considera ritardo del prof e degli studenti + individuare l'areache corrisponde ad evento di interesse " lo studente arriva dopo il professore" + adattando funz di densità lineare, ma compresa tra 0 e 20 per il ritardo del prof, calcolare la probabilità dell'eventodi interesse)
+    - problema di sincronia (usando problema del ritardo del professore, considera ritardo del prof e degli studenti + individuare l'area che corrisponde ad evento di interesse "lo studente arriva dopo il professore" + adattando funz di densità lineare, ma compresa tra 0 e 20 per il ritardo del prof, calcolare la probabilità dell'eventodi interesse)
     - info su lezione 22 , parte 1 e 2 (ricordarsi che la 2^ parte del corso inizia da lez 20)
-    - quesito di probabilistica fornito dal prof (approccio alternativo usando la congiunta
+    - quesito di probabilistica fornito dal prof (approccio alternativo usando la congiunta)
     - domanda basata su slide lez 27.1 (ricordarsi metodo m - c)
     - differenza tra equazioni equiprobabili ed equidistanti (spiegare come se fossi tu ad insegnare l'argomento alla classe, prof incluso, perché ci tiene + guardare le slide in diretta e farsi domande su ciò che è scritto, anche se ciò che è scritto non è stato spiegato dal prof, e spiegarlo)
     - spiegare cos'è un problema di sincronia( +"capire cosa si sta spiegando" + spiegare il ritardo di sincronia)
@@ -2217,7 +2215,7 @@ malloc(sizeof(int)*(i+1));
 **<u>2017 2018</u>**
 
 - Giovanni
-    - Staistica ordinamento
+    - Statistica ordinamento
     - metodo montecarlo
 - Anonimi
     - correlazione
@@ -2246,12 +2244,12 @@ malloc(sizeof(int)*(i+1));
         - probabilita
         - successo
         - guasto del 3 server con la geometrica
-        - coefficente di pearson
+        - coefficiente di Pearson
     - modello PC e considerazioni sul tempo di giacenza e tempo di soggiorno
         - perché il tempo di giacenza è più influente?
         - calcoli su excel
     - modello di erlang e considerazioni sui grafici della erlang modulata
-    - dimostrazione coefficenti della retta di regressioe
+    - dimostrazione coefficienti della retta di regressione
     - valore atteso e distribuzione esponenziale
     - diapositiva regressione
     - esercizio su erlang con bernoulli
@@ -2260,7 +2258,7 @@ malloc(sizeof(int)*(i+1));
     - statistiche di ordinamento
     - esercizio su m out of n e commutazione
     - foglio excel della correlazione produttore consumatore
-    - dimostrazione coefficenti della retta di regressione
+    - dimostrazione coefficienti della retta di regressione
     - funzioni di v.a.
     - statistiche min e Max con funzione di distribuzione
     - modello di erlang
@@ -2288,10 +2286,10 @@ malloc(sizeof(int)*(i+1));
     - leggi di snell
     - soluzioni viaggianti e soluzioni stazionarie
     - intervallo di variazione
-    - polarizzazione di un onda
+    - polarizzazione di un'onda
     - linea adattata comportamenti di tensione e corrente
     - mezzi con perdite
-    - derivata teporale della prima equazione di maxwell e dimostrazione legge di Faraday
+    - derivata temporale della prima equazione di Maxwell e dimostrazione legge di Faraday
     - tipi di adattamento come si collega lo stub
     - circuitazione
 
@@ -2338,7 +2336,7 @@ malloc(sizeof(int)*(i+1));
         - un esempio di unica soluzione ottima
         - infinite soluzioni ottime ( la soluzione sta tra due vertici, i punti son di base e ciò che sta in mezzo non di base )
         - fare di entrambi la funzione obiettivo
-    - cosa sono i coefficenti ridotti e come ricavarli
+    - cosa sono i coefficienti ridotti e come ricavarli
     - definizione di soluzione di base
     - quando è più facile risolvere il PLI rispetto a PL
     - disegnare regione ammissibile PLI
@@ -2363,7 +2361,7 @@ malloc(sizeof(int)*(i+1));
     - matrici tum
     - teorema fondamentale PL
     - ipotesi della PL
-        - `[ε1,ε2]` una delle due può essere finita, dal punto di vista geometrico qual'è il significato
+        - `[ε1,ε2]` una delle due può essere finita, dal punto di vista geometrico qual è il significato
         - riposta: una è infinita quando la regione ammissibile è illimitata ( ci son altri esempi)
     - teorema debole e forte
     - formula del duale
@@ -2487,13 +2485,13 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2015 2016</u>**
 
-- Utenti Anonimi e testimonianze
+- Anonimi
     - Demux, schema interno
     - Ram definizione e schema di una cella
     - come si usano i flag assembly
     - principio di dualità
     - definizione di implicante primo
-    - operatori funzionamente completi
+    - operatori funzionalmente completi
     - differenza tra mul e imul
     - sistema controllo cablato
     - esercizio: quadword in due registri
@@ -2512,7 +2510,7 @@ malloc(sizeof(int)*(i+1));
     - livello dei circuiti
     - mux
     - ram
-    - macchina a regisri ( registro lr a 64bit con fetch )
+    - macchina a registri ( registro lr a 64bit con fetch )
     - MBR
     - Mappa di karnaugh
     - Meccanismo interruzione
@@ -2559,10 +2557,10 @@ malloc(sizeof(int)*(i+1));
 ### Ciolli Fabio
 
 - Anonimo
-    - rolle
-    - weierstrass
-    - cauchy
-    - lagrange
+    - Rolle
+    - Weierstrass
+    - Cauchy
+    - Lagrange
     - condizione necessaria di convergenza
     - convergenza integrali assoluta
     - confronto asintotico integrali
@@ -2572,8 +2570,8 @@ malloc(sizeof(int)*(i+1));
     - leibniz
     - criterio del rapporto
     - criterio della radice
-    - fermat
-    - bolzano weierstrass
+    - Fermat
+    - Bolzano-Weierstrass
     - valori medi
     - convergenza assoluta integrali impropri
     - criterio del confronto
@@ -2652,35 +2650,35 @@ malloc(sizeof(int)*(i+1));
     - Derivata e^sin
     - Fermat
 - Anonimi
-    - Fare la derivata di un logaritmo composto con il cosenz
+    - Fare la derivata di un logaritmo composto con il coseno
     - Teorema di Lagrange con dimostrazione
-    - Teorema della sviluppabilità in serie di Taylod con dimostrazione
+    - Teorema della sviluppabilità in serie di Taylor con dimostrazione
     - Teorema della permanenza del segno con dimostrazione
 
 ## Analisi Matematica 2
 
-### Sciuzi Berardino
+### Sciunzi Berardino
 
 **<u>2017 2018</u>**
 
 - FrancescoLux
-    - teorema moltiplicatori di lagrange
-    - teorema di liouville
+    - teorema moltiplicatori di Lagrange
+    - teorema di Liouville
 - Giovanni Giordano
-    - teorema moltiplicatori lagrange
+    - teorema moltiplicatori di Lagrange
     - teorema dei residui
-- Anonime:
-    - liouville
+- Anonime
+    - Liouville
     - teorema residui
     - integrali curvilinei complessi
-    - dini
+    - Dini
     - c1 implica differenziabilita
     - serie di fourier
 
 **<u>2016 2017</u>**
 
 - Anonimi
-    - Teorema moltiplicatori di lagrange
+    - Teorema moltiplicatori di Lagrange
     - Max modulo
     - spazio in R2
     - prodotto scalare e norma
@@ -2690,11 +2688,11 @@ malloc(sizeof(int)*(i+1));
     - convergenza puntuale uniforme
     - Liuoville
     - base della serie di fourier
-    - teorema di dini
-    - teorema di cauchy
+    - teorema di Dini
+    - teorema di Cauchy
     - teorema di unicità
-    - come si ricavano le condizioni di cauchy Riemann
-    - integrale di superfice
+    - come si ricavano le condizioni di Cauchy-Riemann
+    - integrale di superficie
 
 ### Colao
 
@@ -2713,7 +2711,7 @@ malloc(sizeof(int)*(i+1));
     - perché rho tende a zero mentre theta non lo fa
     - risolvere un problema di Cauchy con lo schema di Eulero
     - come un calcolatore risolve le equazioni differenziali?
-    - Dimostrare perché una equazione differenziale lineare con coefficenti f(x) costanti ha sempre una soluzione e quindi la condizione di Lipschitzianità vale sempre
+    - Dimostrare perché una equazione differenziale lineare con coefficienti f(x) costanti ha sempre una soluzione e quindi la condizione di Lipschitzianità vale sempre
     - teorema del rotore
     - limiti in coordinate polari
     - chiede esercizi vari e soprattutto fate attenzione che può chiedere esercizi fatti agli appelli all'orale
@@ -2734,8 +2732,8 @@ malloc(sizeof(int)*(i+1));
     - controllare se date due equazioni differenziali sono linearmente indipendenti
         - in caso affermativo trovare una soluzione ode che soddisfi queste sue soluzioni
     - data una figura aperta calcolare il flusso
-    - teorema di cauchy riemann con dimostrazione
-    - dimostrare che le condizioni di cauchy riemann sono armoniche coniugate
+    - teorema di Cauchy-Riemann con dimostrazione
+    - dimostrare che le condizioni di Cauchy-Riemann sono armoniche coniugate
     - data la funzione f(x,y)=y²e^x vedere se è differenziabile ed eventuali punti di massimo, minimo o sella
     - data una superficie posta solo sul piano xy quindi con versore normale diretto lungo z e dato un campo vettoriale F=(x,y,z) trovare il flusso attraverso tale superficie (fa 0)
     - dati y1=e^3x ed y2=e^-3x verificare se fossero l.i. e trovare un'ode omogenea di cui fossero soluzione
@@ -2744,11 +2742,11 @@ malloc(sizeof(int)*(i+1));
 **<u>2017 2018</u>**
 
 - Anonimi
-    - calcolo del lavoro in un campo vetoriale data una curva qualsiasi e due punti
+    - calcolo del lavoro in un campo vettoriale data una curva qualsiasi e due punti
     - irrotazionalità e campo conservativo
     - definizione di rotore e uso
-    - data un equazione differenziale che la soluzione in un punto dato
-    - verificare data un eq differenziale che la soluzione in un punto dato è unica (verifica della lipchitzianità)
+    - data un'equazione differenziale che la soluzione in un punto dato
+    - verificare data un'eq differenziale che la soluzione in un punto dato è unica (verifica della lipschitzianità)
 
 ### Viviana Solferino
 
@@ -2927,7 +2925,7 @@ malloc(sizeof(int)*(i+1));
 - Anonimo
     - cos'è una formula soddisfacibile?
     - cos'è una tautologia?
-    - modus ponens, tollendo tones
+    - modus ponens, tollendo tollens
     - A implica B or C or D implica Z, cos'è?
     - A implica B che implica C, cos'è?
     - cos'è una formula ambigua? +esempio
@@ -3008,7 +3006,7 @@ malloc(sizeof(int)*(i+1));
     - Che cosa è il principio di induzione ?
     - Calcolo combinatorio in generale
     - Disposizioni con ripetizione
-    - Che cos' è una base di uno spazio vettoriale?
+    - Che cos'è una base di uno spazio vettoriale?
     - Come si può costruire una base per uno spazio vettoriale
     - Se abbiamo i vettori e vogliamo completare la base?
         - anche processo inverso
@@ -3017,16 +3015,16 @@ malloc(sizeof(int)*(i+1));
     - Combinazione lineare
     - Metodi di dimostrazione
     - Leggi di De Morgan
-    - Che cosa sono i diagrammi di Venezia
+    - Che cosa sono i diagrammi di Venn
     - Disegni un insieme B tale che l'intersezione non sia vuota
     - Disegni il complementare all'unione di due insiemi
     - Che cosa sono autovalori autovettori ed endomorfismo
     - Molteplicità algebriche e geometriche di un autovalore
     - Che cosa sono le combinazioni semplici ?
-    - Rocche Capelli teorema
+    - Teorema di Rouché-Capelli
     - Cosa è e come si calcola il determinante
     - Proprieta determinante
-    - Regola del prodotto o della somma del calcolo combiantorio
+    - Regola del prodotto o della somma del calcolo combinatorio
     - Spazi lineari dei polinomi
     - Differenze tra combinazioni con e senza ripetizioni
     - Che cosa e uno spazio vettoriale?
@@ -3034,7 +3032,7 @@ malloc(sizeof(int)*(i+1));
     - legame elementi di pivot e determinati
     - Base di uno spazio di polinomi
     - Una base infinita
-    - In che modo e legato il calcolo combiantorio al calcolo del determinante
+    - In che modo e legato il calcolo combinatorio al calcolo del determinante
     - Teorema degli orlati
     - Matrice quadrata invertibile e trovare la sua inversa
     - Numero di combinazioni semplici
@@ -3052,14 +3050,14 @@ malloc(sizeof(int)*(i+1));
     - Dimostrazione per contrapposizione
     - che cosa sono gli spazi euclidei
     - Che funzione deve essere definita su spazi euclidei?
-    - Come si può affermare un affermazione universale
+    - Come si può affermare un'affermazione universale
     - Applicazioni lineari
     - Differenza metodo, contrapposizione e assurdo
     - Assiomi di piano
     - perché la radice di 2 non è razionale
     - Teorema dimensioni
     - Che cosa è il ker
-    - iniettivitità,suriettività e bigettività
+    - iniettività, suriettività e biiettività
     - Rango di una matrice
 
 **<u>2017 2018</u>**
@@ -3111,7 +3109,7 @@ malloc(sizeof(int)*(i+1));
 **<u>2025 2026</u>**
 
 - Anonimo
-    - Cosa sono autovaloei e autovettori
+    - Cosa sono autovalori e autovettori
     - Matrice diagonale e diagonalizzante
     - Dimensione base
     - Quando facciamo C^-1 per un vettore cosa otteniamo?
@@ -3197,7 +3195,7 @@ malloc(sizeof(int)*(i+1));
     - Primo principio della termodinamica + Primo principio della Termodinamica associato alle trasformazioni (Penny)
     - Moto parabolico
     - Momento di inerzia per massa puntiforme e per massa estesa
-    - Condizioni affinchè un corpo sia in equilibrio
+    - Condizioni affinché un corpo sia in equilibrio
     - Calore specifico
     - Impulso
     - Oscillatore armonico
@@ -3210,7 +3208,7 @@ malloc(sizeof(int)*(i+1));
     - Accelerazione centripeta
     - Classificazione degli urti
     - Gas Perfetti
-    - Perchè si dice moto parabolico?
+    - Perché si dice moto parabolico?
     - Momento della Quantità
 
 **<u>2023 2024</u>**
@@ -3243,9 +3241,19 @@ malloc(sizeof(int)*(i+1));
 
 ### Marco Schioppa
 
-**<u>2025/2026</u>**
+**<u>2025 2026</u>**
 
-- nncbtv e Anonimi - Discussione errori compito - Spiegare cos'è il lavoro e l'energia - Definizione del lavoro tramite integrale - Teorema dell'energia cinetica - Energia potenziale elastica - Trasformazione Isoterma - Trasformazione Adiabatica - Corpo rigido - Quando una forza si dice conservativa - Legge dei gas perfetti
+- nncbtv e Anonimi
+    - Discussione errori compito
+    - Spiegare cos'è il lavoro e l'energia
+    - Definizione del lavoro tramite integrale
+    - Teorema dell'energia cinetica
+    - Energia potenziale elastica
+    - Trasformazione Isoterma
+    - Trasformazione Adiabatica
+    - Corpo rigido
+    - Quando una forza si dice conservativa
+    - Legge dei gas perfetti
 
 ## Robotica
 
@@ -3299,7 +3307,7 @@ malloc(sizeof(int)*(i+1));
     - pacchetto TCP e UDP (con differenze)
     - multiplexing e demultiplexing
     - tecniche di accesso multiplo
-    - fast recovery e retrasmit
+    - fast recovery e retransmit
 - Anonimo
     - Protocolli arq con dimostrazione di utilizzazione e efficienza
         - con e senza errori
@@ -3329,13 +3337,13 @@ malloc(sizeof(int)*(i+1));
     - karn
     - SRTT
 - Anonimi
-    - fast retrasmitt
+    - fast retransmit
     - fast recovery
 
 **<u>2017 2018</u>**
 
 - Anonimi
-    - fast retrasmitt e fast recovery
+    - fast retransmit e fast recovery
     - perché nel calcolo RTT si tiene conto della deviazione media
     - Cosa succede ad RTT in caso di reti lente rispetto a veloci
 
@@ -3355,7 +3363,7 @@ malloc(sizeof(int)*(i+1));
 - Martorello96
     - Teo di parseval
     - shannon
-    - algoritmo di gram shmit
+    - algoritmo di Gram-Schmidt
     - interferenze
     - intersimbolo con criterio di nyquist
     - criteri di decisione
@@ -3402,7 +3410,6 @@ malloc(sizeof(int)*(i+1));
     - IPSEC
     - Differenza tra IntServ e DiffServ
     - IPv4 e IPv6
-    - IPv4 e IPv
 
 ## Laboratorio di ricerca operativa
 
@@ -3432,7 +3439,7 @@ malloc(sizeof(int)*(i+1));
 - Zio Rob
     - BSP in generale
     - Esempi pratici di BSP (GraphX)
-    - cos è una EdgeTriplet
+    - cos'è una EdgeTriplet
     - UPC++ e il metodo Monte Carlo per piGreco
     - PGAS
         - APGAS
