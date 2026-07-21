@@ -17,6 +17,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Piattaforme software per applicazioni web](#piattaforme-software-per-applicazioni-web)
         - [Sergio Flesca](#sergio-flesca-1)
         - [Francesco Scala](#francesco-scala)
+        - [Claudio Savaglio](#claudio-savaglio)
     - [Elettrotecnica](#elettrotecnica)
         - [Felice Crupi](#felice-crupi)
     - [Metodi matematici per l'ingegneria dell'informazione](#metodi-matematici-per-lingegneria-dellinformazione)
@@ -456,6 +457,43 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - Dijkstra
 
 ## Piattaforme software per applicazioni web
+
+### Claudio Savaglio
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Panoramica del progetto (2-3 minuti)
+    - Principali funzionalità
+    - Quale tipo di lock utilizzereste e come
+    - Cosa bisogna rendere thread-safe
+    - Gestione delle immagini (URL esterni, ecc.)
+    - Spring Security e Keycloak
+    - Tipi di lock
+    - Cosa succede se l'utente prova ad avere più carrelli
+    - Meglio non usare AI per la relazione
+    - DTO
+    - Quali tipologie di utente ci sono (es. amministratore)
+    - Gestione dei lock: dove si possono creare race condition
+    - Perché è stato utilizzato `Propagation.MANDATORY` e cosa fa Spring se questi metodi vengono invocati fuori da una transazione
+    - Entity JPA oppure DTO
+    - Distinzione tra autenticazione e autorizzazione (una in Keycloak, l'altra no: perché?)
+    - Come è organizzato il database (schema dei dati)
+    - Lato admin del frontend
+    - Angular Signals e JWT
+    - Come viene gestito il JWT (interceptor, ecc.)
+    - Gestione verticale dei domini e motivazione
+    - Serializable: cosa implica
+    - Perché è stato fatto il costruttore del controller
+    - Gestione della concorrenza
+    - Quali sono le chiavi primarie nel database
+    - Usando Keycloak si prende un po' di più sul voto
+    - Perché sono stati usati sia lock ottimistici che pessimistici
+    - Con una chiamata REST si potrebbero aggirare le limitazioni del frontend e bisogna tenerne conto
+    - Gestione dei DTO
+    - Soft delete
+    - `@PreAuthorize` e sicurezza
+    - Come ignorare l'attesa di un file JSON
 
 ### Sergio Flesca
 
