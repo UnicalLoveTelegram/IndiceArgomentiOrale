@@ -1,6 +1,9 @@
 name: Docs to PDF
 on:
   workflow_call:
+    secrets:
+      PDF_PRIVATE_KEY:
+        required: true
 
 permissions:
   contents: write
@@ -34,6 +37,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin git@github.com:${{ github.repository }}.git
           git add pdfs/
           git diff --cached --quiet && echo 'No PDF changes to commit' && exit 0
           git commit -m 'chore: update generated PDFs [skip ci]'

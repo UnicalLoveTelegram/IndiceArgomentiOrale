@@ -68,4 +68,6 @@ jobs:
     needs: deploy
     permissions:
       contents: write
+    secrets:
+      PDF_PRIVATE_KEY: ${{ secrets.PDF_PRIVATE_KEY }}
     uses: ./.github/workflows/buildpdfs.yml
