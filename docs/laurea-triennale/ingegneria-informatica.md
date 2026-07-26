@@ -1618,6 +1618,15 @@ malloc(sizeof(int)*(i+1));
 
 ### Angelo Furfaro
 
+**<u>2025 2026</u>**
+
+- Anonimi
+    - Disegno del Class Diagram e Sequence diagram pattern Visitior
+    - Partecipanti del Sequence Diagram
+    - Definizione formale scritta di Criteri di Testing Consistenti e Completi
+    - Git: descrizione, branching e merging, comandi
+    - nota: Mai imparare le cose a memoria, a lui interessa se avete capito veramente quello che state dicendo.
+
 **<u>2023 2024</u>**
 
 - Anonimi
