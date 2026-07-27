@@ -1697,6 +1697,12 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2025 2026</u>**
 
+- Anonimo
+    - htcondor
+    - classads con esempio scritto
+    - DHT e finger table
+    - naming
+    - algoritmi di elezione
 - DomHeadroom
     - differenze tra paas e iaas
     - gram su globus e come funziona l'allocazione di macchine remote
@@ -1832,6 +1838,14 @@ rc(X):- u(X), not(r(X)).
 
 **<u>2025 2026</u>**
 
+- Anonimo
+    - aws lambda
+    - distribuite garbage collector
+    - callback
+    - paas
+    - azure
+    - storege azure
+    - azure table con key
 - DomHeadroom
     - java rmi
     - Distributed garbage collection
