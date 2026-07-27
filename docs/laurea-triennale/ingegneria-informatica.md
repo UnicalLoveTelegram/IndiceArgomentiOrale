@@ -1620,12 +1620,17 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2025 2026</u>**
 
-- Anonimi
+- Anonimi 1
     - Disegno del Class Diagram e Sequence diagram pattern Visitior
     - Partecipanti del Sequence Diagram
     - Definizione formale scritta di Criteri di Testing Consistenti e Completi
     - Git: descrizione, branching e merging, comandi
     - nota: Mai imparare le cose a memoria, a lui interessa se avete capito veramente quello che state dicendo.
+- Anonimi 2
+    - pattern mediator, disegno, come cambiano le dipendenze se aggiungiamo una classe astratta per i componenti, vantaggi e svantaggi, dove lo troviamo nel concreto
+    - activity diagram con tutti i simboli ed esempio
+    - Junits cos'è, a cosa serve, come si compone (quelle robe jupiter vintage platform), tutte le notazioni per i test, esempio di classe di test, lifecycle methods se quando li usiamo va comunque scritto @test
+    - Executor framework con tutti i tipi di threadpool
 
 **<u>2023 2024</u>**
 
