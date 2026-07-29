@@ -1839,7 +1839,7 @@ rc(X):- u(X), not(r(X)).
 
 - Anonimo
     - aws lambda
-    - distribuite garbage collector
+    - distributed garbage collector
     - callback
     - paas
     - azure
