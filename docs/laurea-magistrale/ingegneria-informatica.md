@@ -45,7 +45,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Scarcello Francesco](#scarcello-francesco-1)
     - [Intelligenza Artificiale e rappresentazione della conoscenza (12 CFU)](#intelligenza-artificiale-e-rappresentazione-della-conoscenza-12-cfu)
         - [Palopoli Luigi](#palopoli-luigi-2)
-        - [nota: le testimonianze di rappresentazione della conoscenza che erano presenti sono state migrate su Knowledge Representation and Reasoning (6 CFU), viene comunque lasciata la denominazione del corso per far intendere che le domande appartengono a questo corso di questo anno accademico.](#nota-le-testimonianze-di-rappresentazione-della-conoscenza-che-erano-presenti-sono-state-migrate-su-knowledge-representation-and-reasoning-6-cfu-viene-comunque-lasciata-la-denominazione-del-corso-per-far-intendere-che-le-domande-appartengono-a-questo-corso-di-questo-anno-accademico)
     - [Knowledge Representation and Reasoning (6 CFU)](#knowledge-representation-and-reasoning-6-cfu)
         - [Sergio Greco](#sergio-greco-1)
     - [Sistemi Informativi](#sistemi-informativi)
