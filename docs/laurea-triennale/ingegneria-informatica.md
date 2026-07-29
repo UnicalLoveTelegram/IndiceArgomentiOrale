@@ -60,8 +60,6 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Argento Luciano](#argento-luciano)
         - [Angelo Furfaro e Argento Luciano](#angelo-furfaro-e-argento-luciano)
         - [Sacco Ludovica](#sacco-ludovica)
-        - [Angelo Furfaro](#angelo-furfaro-1)
-        - [Angelo Furfaro](#angelo-furfaro-2)
         - [Matteo](#matteo)
     - [Reti di Calcolatori](#reti-di-calcolatori)
         - [Paolo Trunfio](#paolo-trunfio)
@@ -137,6 +135,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Amedeo](#amedeo)
     - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
         - [Marcello Sammarra](#marcello-sammarra-1)
+        - [Giovanna Miglionico](#giovanna-miglionico)
     - [Modelli e tecniche per i big data](#modelli-e-tecniche-per-i-big-data)
         - [Paolo Trunfio](#paolo-trunfio-1)
 
@@ -1626,6 +1625,11 @@ malloc(sizeof(int)*(i+1));
     - Definizione formale scritta di Criteri di Testing Consistenti e Completi
     - Git: descrizione, branching e merging, comandi
     - nota: Mai imparare le cose a memoria, a lui interessa se avete capito veramente quello che state dicendo.
+- Anonimi 2
+    - pattern mediator, disegno, come cambiano le dipendenze se aggiungiamo una classe astratta per i componenti, vantaggi e svantaggi, dove lo troviamo nel concreto
+    - activity diagram con tutti i simboli ed esempio
+    - Junits cos'è, a cosa serve, come si compone (quelle robe jupiter vintage platform), tutte le notazioni per i test, esempio di classe di test, lifecycle methods se quando li usiamo va comunque scritto @test
+    - Executor framework con tutti i tipi di threadpool
 
 **<u>2023 2024</u>**
 
@@ -1658,6 +1662,46 @@ malloc(sizeof(int)*(i+1));
     - Bridge (Class)
         - Strategy + Template Method
         - Bridge (Class Diagram) + Builder (Class + Sequence Diagram) + Criteri di testing
+- Anonimo
+    - Decorator
+        - Class Diagram
+        - Sequence DIagram
+        - Problema della super classe
+        - Vantaggi rispetto ereditarietà
+    - Proxy
+        - Class Diagram
+        - Remoto, Virtuale, Smart Pointer, Protezione
+        - Esempi di utilizzi di proxy
+        - Vantaggi proxy
+    - Scrum
+        - Scrum Backlog
+    - Progetto
+        - Design pattern utilizzati
+        - Spiegazione delle scelte progettuali intraprese
+
+**<u>2020 2021</u>**
+
+- Oscar
+    - Visitor
+    - design by contract
+        - cosa sono in funzione pre e post condizione (ad esempio post condizione in funzione del valore di ritorno dei valori in ingresso e dello stato iniziale e finale dell'oggetto)
+        - ereditarietà
+    - aggregazione e composizione differenze
+    - cosa significa rafforzare una condizione dal punto di vista logico e dal punto di vista insiemistico.
+- Anonimi
+    - Abstract factory
+    - builder
+    - decorator
+    - mediator
+    - frame di interazione
+    - sequence diagram
+    - cos'è un criterio e cos'è un test
+    - classe associativa
+    - use case diagram e le varie relazioni che possiamo avere (inclusione, estensione e generalizzazione)
+    - decorator
+    - abstract factory
+    - composite diagram
+    - Rup e modello a spirale
 
 **<u>2019 2020</u>**
 
@@ -1934,53 +1978,6 @@ malloc(sizeof(int)*(i+1));
 
 - Anonimi
     - differenza tra composizione
-
-### Angelo Furfaro
-
-**<u>2020 2021</u>**
-
-- Oscar
-    - Visitor
-    - design by contract
-        - cosa sono in funzione pre e post condizione (ad esempio post condizione in funzione del valore di ritorno dei valori in ingresso e dello stato iniziale e finale dell'oggetto)
-        - ereditarietà
-    - aggregazione e composizione differenze
-    - cosa significa rafforzare una condizione dal punto di vista logico e dal punto di vista insiemistico.
-- Anonimi
-    - Abstract factory
-    - builder
-    - decorator
-    - mediator
-    - frame di interazione
-    - sequence diagram
-    - cos'è un criterio e cos'è un test
-    - classe associativa
-    - use case diagram e le varie relazioni che possiamo avere (inclusione, estensione e generalizzazione)
-    - decorator
-    - abstract factory
-    - composite diagram
-    - Rup e modello a spirale
-
-### Angelo Furfaro
-
-**<u>2022 2023</u>**
-
-- Anonimo
-    - Decorator
-        - Class Diagram
-        - Sequence DIagram
-        - Problema della super classe
-        - Vantaggi rispetto ereditarietà
-    - Proxy
-        - Class Diagram
-        - Remoto, Virtuale, Smart Pointer, Protezione
-        - Esempi di utilizzi di proxy
-        - Vantaggi proxy
-    - Scrum
-        - Scrum Backlog
-    - Progetto
-        - Design pattern utilizzati
-        - Spiegazione delle scelte progettuali intraprese
 
 ### Matteo
 
@@ -3459,6 +3456,20 @@ malloc(sizeof(int)*(i+1));
     - IPv4 e IPv6
 
 ## Laboratorio di ricerca operativa
+
+### Giovanna Miglionico
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Funzione duale, come si costruisce
+    - Teoria della dualità, debole con dimostrazione ed enunciato della forte
+    - Definizione di funzione ottima (cosa vuol dire cercare l'ottimo di una funzione)
+    - disegnare geometricamente un'area ammissibile a caso (il poliedro)
+    - Quante soluzioni ottime possiamo trovare, mi ha fatto vedere lei graficamente perchè (1 o infinite)
+    - Branch and Bound, funzionamento visto che nella prova scritta non avevo svolto tutto l'esercizio per tempo
+    - Ford e Fulkerson
+    - Equazione di continuità di un nodo
 
 ### Marcello Sammarra
 
