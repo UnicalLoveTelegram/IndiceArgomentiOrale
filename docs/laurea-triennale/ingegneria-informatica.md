@@ -137,6 +137,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Amedeo](#amedeo)
     - [Laboratorio di ricerca operativa](#laboratorio-di-ricerca-operativa)
         - [Marcello Sammarra](#marcello-sammarra-1)
+        - [Giovanna Miglionico](#giovanna-miglionico)
     - [Modelli e tecniche per i big data](#modelli-e-tecniche-per-i-big-data)
         - [Paolo Trunfio](#paolo-trunfio-1)
 
@@ -1620,17 +1621,12 @@ malloc(sizeof(int)*(i+1));
 
 **<u>2025 2026</u>**
 
-- Anonimi 1
+- Anonimi
     - Disegno del Class Diagram e Sequence diagram pattern Visitior
     - Partecipanti del Sequence Diagram
     - Definizione formale scritta di Criteri di Testing Consistenti e Completi
     - Git: descrizione, branching e merging, comandi
     - nota: Mai imparare le cose a memoria, a lui interessa se avete capito veramente quello che state dicendo.
-- Anonimi 2
-    - pattern mediator, disegno, come cambiano le dipendenze se aggiungiamo una classe astratta per i componenti, vantaggi e svantaggi, dove lo troviamo nel concreto
-    - activity diagram con tutti i simboli ed esempio
-    - Junits cos'è, a cosa serve, come si compone (quelle robe jupiter vintage platform), tutte le notazioni per i test, esempio di classe di test, lifecycle methods se quando li usiamo va comunque scritto @test
-    - Executor framework con tutti i tipi di threadpool
 
 **<u>2023 2024</u>**
 
@@ -3464,6 +3460,20 @@ malloc(sizeof(int)*(i+1));
     - IPv4 e IPv6
 
 ## Laboratorio di ricerca operativa
+
+### Giovanna Miglionico
+
+**<u>2025 2026</u>**
+
+- Anonimo
+    - Funzione duale, come si costruisce
+    - Teoria della dualità, debole con dimostrazione ed enunciato della forte
+    - Definizione di funzione ottima (cosa vuol dire cercare l'ottimo di una funzione)
+    - disegnare geometricamente un'area ammissibile a caso (il poliedro)
+    - Quante soluzioni ottime possiamo trovare, mi ha fatto vedere lei graficamente perchè (1 o infinite)
+    - Branch and Bound, funzionamento visto che nella prova scritta non avevo svolto tutto l'esercizio per tempo
+    - Ford e Fulkerson
+    - Equazione di continuità di un nodo
 
 ### Marcello Sammarra
 
