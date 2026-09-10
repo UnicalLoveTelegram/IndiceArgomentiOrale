@@ -14,6 +14,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Sergio Flesca](#sergio-flesca)
         - [Mandaglio](#mandaglio)
         - [Greco](#greco)
+        - [Gianvincenzo Alfano](#gianvincenzo-alfano)
     - [Piattaforme software per applicazioni web](#piattaforme-software-per-applicazioni-web)
         - [Sergio Flesca](#sergio-flesca-1)
         - [Francesco Scala](#francesco-scala)
@@ -101,7 +102,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - [Libero Nigro](#libero-nigro)
         - [Cicirelli Franco](#cicirelli-franco)
     - [Matematica Computazionale](#matematica-computazionale)
-        - [Gianvincenzo Alfano](#gianvincenzo-alfano)
+        - [Gianvincenzo Alfano](#gianvincenzo-alfano-1)
         - [Astorino Annabella](#astorino-annabella)
     - [Algebra lineare e matematica discreta](#algebra-lineare-e-matematica-discreta)
         - [Corrado Salvatore](#corrado-salvatore)
@@ -322,6 +323,29 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
 
 ## Algoritmi e strutture dati
+
+### Gianvincenzo Alfano
+
+**<u>2025 2026</u>**
+
+- NNCBTV e Anonimi, appello di a Settembre
+    - Algoritmo di Kruskal
+        - Spiegazione Teorica
+        - Implementazione in codice o pseudocodice
+    - Implementazione in codice/pseudocodice di un grafo con matrice/lista, scrivere da zero tutte le primitive
+    - Colorazione di un grafo: Teoria, pseudocodice/codice
+    - Algoritmo di programmazione dinamica a piacere
+    - Knapsack Frazionario
+        - Spiegazione Teorica
+        - Implementazione in codice o pseudocodice
+    - Esercizio sugli alberi
+        - Scrivere un codice/pseudocodice che controlli che i valori nei nodi foglia contengano un numero pari
+        - Spiegazione a voce della complessità, caso migliore e caso peggiore
+    - Notazione BIG-O
+    - Algoritmo per verificare se un grafo contiene cicli, codice/pseudocodice
+    - Cos'è un minimo albero ricoprente di un grafo, teoricamente
+    - Cammino hamiltoniano
+    - Complessità dei codici scritti man mano
 
 ### Sergio Flesca
 
@@ -1630,6 +1654,14 @@ malloc(sizeof(int)*(i+1));
     - activity diagram con tutti i simboli ed esempio
     - Junits cos'è, a cosa serve, come si compone (quelle robe jupiter vintage platform), tutte le notazioni per i test, esempio di classe di test, lifecycle methods se quando li usiamo va comunque scritto @test
     - Executor framework con tutti i tipi di threadpool
+- Anonimi 3
+    - Tabella verità implicazione collegata a asserzione più forte e più debole
+    - Criteri, definizione, criterio più fine di un altro
+    - Proprietà di consistenza e completezza di un criterio
+    - Grpc esempio semplice di una chiamata unaria
+    - Factory method design pattern
+    - Git, come inizializzare un repository, stati staged, committed modified
+    - Use case diagram e relazioni di dipendenza
 
 **<u>2023 2024</u>**
 
