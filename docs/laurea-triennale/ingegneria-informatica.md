@@ -1630,6 +1630,14 @@ malloc(sizeof(int)*(i+1));
     - activity diagram con tutti i simboli ed esempio
     - Junits cos'è, a cosa serve, come si compone (quelle robe jupiter vintage platform), tutte le notazioni per i test, esempio di classe di test, lifecycle methods se quando li usiamo va comunque scritto @test
     - Executor framework con tutti i tipi di threadpool
+- Anonimi 3
+    - Tabella verità implicazione collegata a asserzione più forte e più debole
+    - Criteri, definizione, criterio più fine di un altro
+    - Proprietà di consistenza e completezza di un criterio
+    - Grpc esempio semplice di una chiamata unaria
+    - Factory method design pattern
+    - Git, come inizializzare un repository, stati staged, committed modified
+    - Use case diagram e relazioni di dipendenza
 
 **<u>2023 2024</u>**
 
