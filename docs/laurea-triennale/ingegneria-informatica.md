@@ -13,7 +13,7 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
     - [Algoritmi e strutture dati](#algoritmi-e-strutture-dati)
         - [Sergio Flesca](#sergio-flesca)
         - [Mandaglio](#mandaglio)
-        - [Greco](#greco)
+        - [Greco](#greco) ........-. [Gianvincenzo Albano](#gianvincenzo-alfano)
     - [Piattaforme software per applicazioni web](#piattaforme-software-per-applicazioni-web)
         - [Sergio Flesca](#sergio-flesca-1)
         - [Francesco Scala](#francesco-scala)
@@ -322,6 +322,29 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
         - La risposta é che nel 2o livello vi é bisogno di operatori di reverse mapping rispetto a quelli ETL mentre nel 3o livello sono presenti i dati riconciliati e quindi non vi é bisogno di effettuare nessuna operazione per tornare ai dati operazionali.
 
 ## Algoritmi e strutture dati
+
+### Gianvincenzo Alfano
+
+**<u>2025 2026</u>**
+
+- NNCBTV e Anonimi, appello di a Settembre
+    - Algoritmo di Kruskal
+        - Spiegazione Teorica
+        - Implementazione in codice o pseudocodice
+    - Implementazione in codice/pseudocodice di un grafo con matrice/lista, scrivere da zero tutte le primitive
+    - Colorazione di un grafo: Teoria, pseudocodice/codice
+    - Algoritmo di programmazione dinamica a piacere
+    - Knapsack Frazionario
+        - Spiegazione Teorica
+        - Implementazione in codice o pseudocodice
+    - Esercizio sugli alberi
+        - Scrivere un codice/pseudocodice che controlli che i valori nei nodi foglia contengano un numero pari
+        - Spiegazione a voce della complessità, caso migliore e caso peggiore
+    - Notazione BIG-O
+    - Algoritmo per verificare se un grafo contiene cicli, codice/pseudocodice
+    - Cos'è un minimo albero ricoprente di un grafo, teoricamente
+    - Cammino hamiltoniano
+    - Complessità dei codici scritti man mano
 
 ### Sergio Flesca
 
