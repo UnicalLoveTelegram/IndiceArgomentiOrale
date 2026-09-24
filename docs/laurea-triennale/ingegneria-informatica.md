@@ -2508,6 +2508,33 @@ malloc(sizeof(int)*(i+1));
 
 ### Giallombardo
 
+**<u>2025 2026</u>**
+
+- Anonimo 1
+    - II\* fase simplesso: soluzioni di base, definizione e dimostrazione
+    - spiegazione ottimo
+    - dimostrazione condizione sufficiente di ottimalità
+    - minimo flusso
+- Anonimo 2
+    - teorema fondamentale pl
+    - ipotesi e dimensioni di ogni elemento del problema di pl in forma standard
+    - perché è importante questo teorema (restringe il campo delle soluzioni da infinite a finite ecc…)
+    - continuo dimostrazione enunciati
+    - proprietà di interezza, perché è importante
+    - dove abbiamo trovato la matrice di TUM? (matrice incidenza grafi orientati)
+    - cosa si intende per rilassamento
+- Anonimo 3
+    - teoremi dualità e condizione necessaria/ sufficiente di ottimalità
+    - teorema dualità debole +corollari
+    - teorema dualità forte
+    - simplesso su rete: come lo applichiamo per problemi di flusso
+- Anonimo 4
+    - teorema degli scarti complementari
+        - spiegare come si collega al teorema dualità forte e primo corollario del teorema di dualità debole
+    - problema di massimo flusso:
+    - in generale come si scrive
+    - perché possiamo dire che non è illimitato?
+
 **<u>2021 2022</u>**
 
 - Anonimo
