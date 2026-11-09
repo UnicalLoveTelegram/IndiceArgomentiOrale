@@ -1662,6 +1662,15 @@ malloc(sizeof(int)*(i+1));
     - Factory method design pattern
     - Git, come inizializzare un repository, stati staged, committed modified
     - Use case diagram e relazioni di dipendenza
+- Anonimo 4
+    - Classi associatitve del class diagram: PRIncipio di liskov oltre che nella poo parlare del Dbc
+    - Strategy che libreria implementa? (comparator)
+    - Factory method con gerarchia di classi parallele
+    - Criteri di testing e formulazione matematica concreta fatta letteralmente a memoria
+    - State diagram e differenza fra statechart e fsm
+    - extends e include negli use case diagram
+    - nel design by contract la tabella dove c'è p1 che implica p2
+    - la tabella con true e false( not p1 or p2)
 
 **<u>2023 2024</u>**
 
