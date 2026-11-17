@@ -921,6 +921,23 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Marozzo
 
+**<u>2025 2026</u>**
+
+- NNCBTV
+    - Cos'è un CPU Burst
+    - Cos'è un I/O Burst
+    - Scheduling della CPU a code multiple (Con disegno schema)
+    - Algoritmo di Dijkstra (1 e 2 con pseudocodice)
+    - Algoritmo della Panetteria (Bakery) di Lamport (Con pseudocodice)
+    - Tipi di allocazione del File System
+- Anonimi
+    - Grafo di allocazione delle risorse con ciclo
+        - Perché si verifica il deadlock?
+        - Come si può risolvere
+    - Allocazione con paginazione della memoria centrale (Con schemi)
+    - Cos'è il Trashing
+    - Algoritmo della seconda chance
+
 **<u>2024 2025</u>**
 
 - Anonimo
