@@ -921,6 +921,23 @@ Leggi il nostro [README](https://github.com/UnicalLoveTelegram/IndiceArgomentiOr
 
 ### Marozzo
 
+**<u>2025 2026</u>**
+
+- NNCBTV
+    - Cos'è un CPU Burst
+    - Cos'è un I/O Burst
+    - Scheduling della CPU a code multiple (Con disegno schema)
+    - Algoritmo di Dijkstra (1 e 2 con pseudocodice)
+    - Algoritmo della Panetteria (Bakery) di Lamport (Con pseudocodice)
+    - Tipi di allocazione del File System
+- Anonimi
+    - Grafo di allocazione delle risorse con ciclo
+        - Perché si verifica il deadlock?
+        - Come si può risolvere
+    - Allocazione con paginazione della memoria centrale (Con schemi)
+    - Cos'è il Trashing
+    - Algoritmo della seconda chance
+
 **<u>2024 2025</u>**
 
 - Anonimo
@@ -1662,6 +1679,15 @@ malloc(sizeof(int)*(i+1));
     - Factory method design pattern
     - Git, come inizializzare un repository, stati staged, committed modified
     - Use case diagram e relazioni di dipendenza
+- Anonimo 4
+    - Classi associatitve del class diagram: PRIncipio di liskov oltre che nella poo parlare del Dbc
+    - Strategy che libreria implementa? (comparator)
+    - Factory method con gerarchia di classi parallele
+    - Criteri di testing e formulazione matematica concreta fatta letteralmente a memoria
+    - State diagram e differenza fra statechart e fsm
+    - extends e include negli use case diagram
+    - nel design by contract la tabella dove c'è p1 che implica p2
+    - la tabella con true e false( not p1 or p2)
 
 **<u>2023 2024</u>**
 
